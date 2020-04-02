@@ -5,7 +5,7 @@
   "main": "functions/server.js",
   "scripts": {
     "buildold": "node ./scripts/build.js",
-    "build": "",
+    "build": "netlify-lambda build express",
     "start": "node ./server-local.js"
   },
   "repository": {
