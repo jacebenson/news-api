@@ -4,7 +4,8 @@
   "description": "Aggregator of news for ServicNow",
   "main": "functions/server.js",
   "scripts": {
-    "build": "node ./scripts/build.js",
+    "buildold": "node ./scripts/build.js",
+    "build": "",
     "start": "node ./server-local.js"
   },
   "repository": {
