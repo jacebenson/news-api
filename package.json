@@ -1,0 +1,33 @@
+{
+  "name": "news-api",
+  "version": "0.0.1",
+  "description": "Aggregator of news for ServicNow",
+  "main": "functions/server.js",
+  "scripts": {
+    "build": "node ./scripts/build.js",
+    "start": "node ./server-local.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacebenson/news-api.git"
+  },
+  "keywords": [
+    "netlify",
+    "express.js"
+  ],
+  "author": "jacebenson",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/jacebenson/news-api/issues"
+  },
+  "homepage": "https://github.com/jacebenson/news-api#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "netlify-lambda": "^0.4.0",
+    "serverless-http": "^1.6.0",
+    "rss-parser": "^3.7.6",
+    "yargs": "^13.3.0"
+  }
+}
