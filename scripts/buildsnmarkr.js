@@ -1,4 +1,6 @@
-var http = require("https");
+module.exports = {
+    build: function(callback){
+        var http = require("https");
 var fs = require("fs");
 var outputArr = [];
 
@@ -74,3 +76,5 @@ var getNowBlogs = function(start, callback){
     req.end(); 
 }
 getNowBlogs(null,null);
+    }
+}
