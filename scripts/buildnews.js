@@ -3,7 +3,7 @@ module.exports = {
         let Parser = require('rss-parser');
         let parser = new Parser();
         const fs = require('fs');
-        let feedPath = "./rawfeeds.json"
+        let feedPath = "./feeds.json"
 
         let feeds = [
             { "title": "An Errant Programmer", "type": "Blog", "url": "http://anerrantprogrammer.com/?feed=rss2" },

@@ -3,7 +3,7 @@ module.exports = {
         var http = require("https");
         var fs = require("fs");
         var outputArr = [];
-        let feedPath = "./rawfeeds.json"
+        let feedPath = "./feeds.json"
         
         // get count to start...
         var getNowBlogs = function (start, callback) {
