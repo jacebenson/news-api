@@ -84,9 +84,16 @@ router.get('/', (req, res) => {
         return bdate - adate;
       })
     var obj = {
-        query: req.query,
+        queryGiven: req.query,
+        queryUsed: {
+            start: start.toISOString().split('T')[0],
+            end: end.toISOString().split('T')[0],
+        },
         //feeds: feeds,
         filteredFeeds: filteredFeeds
+    }
+    if(req.query.text){
+        queryUsed.tex = req.query.text.toLowerCase();
     }
     res.write(JSON.stringify(obj));
     res.end();
