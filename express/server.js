@@ -4,7 +4,7 @@ const serverless = require('serverless-http');
 const app = express();
 const bodyParser = require('body-parser');
 const feeds = require('../feeds.json');
-
+var query = [];
 const router = express.Router();
 router.get('/test', (req, res)=>{
     console.log('feeds.length', feeds.length);
@@ -28,9 +28,6 @@ router.get('/', (req, res) => {
         console.log('end defined');
         endDate = new Date(req.query.end);
     }
-
-    //feeds.length=10;
-
     console.log('startDate', startDate);
     console.log('endDate', endDate)
     var filteredFeeds = feeds.filter(function (feed) {
@@ -44,13 +41,50 @@ router.get('/', (req, res) => {
             return false;
         }
     });
+    console.log('req.query.site', req.query.site)
+    if(req.query.site){
+        var site = req.query.site || '';
+        site = site.toLowerCase();
+        filteredFeeds = filteredFeeds.filter(function(feed){
+            if(feed.site.toLowerCase() == site){
+                console.log('returning true');
+                return true;
+            } else {
+                return false;
+            }
+        });
+        console.log('filteredFeeds.length', filteredFeeds.length);
+    }
+    if(req.query.author){
+        var author = req.query.author || '';
+        filteredFeeds = filteredFeeds.filter(function(feed){
+            if(feed.author.toLowerCase() == author.toLowerCase()){
+                return true;
+            } else {
+                return false;
+            }
+        });
+    }
+    if(req.query.text){
+        var text = req.query.text.toLowerCase() || '';
+        filteredFeeds = filteredFeeds.filter(function(feed){
+            if(feed.site.toLowerCase().indexOf(text) >-1 ||
+               feed.category.toLowerCase().indexOf(text) >-1 ||
+               feed.title.toLowerCase().indexOf(text) >-1 ||
+               feed.author.toLowerCase().indexOf(text) >-1){
+                return true;
+            } else {
+                return false;
+            }
+        });
+    }
     filteredFeeds.sort(function(a,b){
         var adate = new Date(a.date);
         var bdate = new Date(b.date);
         return bdate - adate;
       })
     var obj = {
-        test: "val",
+        query: req.query,
         //feeds: feeds,
         filteredFeeds: filteredFeeds
     }
