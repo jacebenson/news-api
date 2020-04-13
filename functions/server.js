@@ -8025,19 +8025,22 @@ router.get('/', (req, res) => {
         var bdate = new Date(b.date);
         return bdate - adate;
     });
+
     var obj = {
         queryGiven: req.query,
         queryUsed: {
-            start: start.toISOString().split('T')[0],
-            end: end.toISOString().split('T')[0]
+            start: startDate.toISOString().split('T')[0],
+            end: endDate.toISOString().split('T')[0],
+            url: "/.netlify/functions/server?start=" + startDate.toISOString().split('T')[0] + "&end=" + endDate.toISOString().split('T')[0]
         },
         //feeds: feeds,
         filteredFeeds: filteredFeeds
     };
     if (req.query.text) {
-        queryUsed.tex = req.query.text.toLowerCase();
+        obj.queryUsed.text = req.query.text.toLowerCase();
+        obj.queryUsed.url += "&text=" + req.query.text.toLowerCase();
     }
-    res.write(JSON.stringify(obj));
+    obj.queryUsed.url += res.write(JSON.stringify(obj));
     res.end();
 });
 router.post('/', (req, res) => res.json({ postBody: req.body }));
