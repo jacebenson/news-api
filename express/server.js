@@ -7,29 +7,29 @@ const feeds = require('../feeds.json');
 var query = [];
 const router = express.Router();
 router.get('/test', (req, res)=>{
-    console.log('feeds.length', feeds.length);
+    //console.log('feeds.length', feeds.length);
     res.json({ now: new Date() })
 });
 router.get('/', (req, res) => {
 
     res.header('Access-Control-Allow-Origin', '*');
     res.writeHead(200, { 'Content-Type': 'application/json; charset=utf-8' });
-    console.log(req.path);
-    console.log(JSON.stringify(req.query));
+    //console.log(req.path);
+    //console.log(JSON.stringify(req.query));
     var startDate = new Date();
     startDate.setDate(startDate.getDate()-30);
     if(req.query.start){
-        console.log('start defined');
+        //console.log('start defined');
         startDate = new Date(req.query.start);
     }
     var endDate = new Date(startDate.toISOString());
     endDate.setDate(startDate.getDate()+30);
     if(req.query.end){
-        console.log('end defined');
+        //console.log('end defined');
         endDate = new Date(req.query.end);
     }
-    console.log('startDate', startDate);
-    console.log('endDate', endDate)
+    //console.log('startDate', startDate);
+    //console.log('endDate', endDate)
     var filteredFeeds = feeds.filter(function (feed) {
         var feedDate = new Date(feed.date);
         var feedDateBeforeEnd = feedDate<=endDate;
@@ -41,19 +41,18 @@ router.get('/', (req, res) => {
             return false;
         }
     });
-    console.log('req.query.site', req.query.site)
     if(req.query.site){
         var site = req.query.site || '';
         site = site.toLowerCase();
         filteredFeeds = filteredFeeds.filter(function(feed){
             if(feed.site.toLowerCase() == site){
-                console.log('returning true');
+                //console.log('returning true');
                 return true;
             } else {
                 return false;
             }
         });
-        console.log('filteredFeeds.length', filteredFeeds.length);
+        //console.log('filteredFeeds.length', filteredFeeds.length);
     }
     if(req.query.author){
         var author = req.query.author || '';
@@ -98,7 +97,7 @@ router.get('/', (req, res) => {
         obj.queryUsed.text = req.query.text.toLowerCase();
         obj.queryUsed.url += "&text=" +req.query.text.toLowerCase();
     }
-    obj.queryUsed.url += 
+    console.log(obj.queryUsed.url, '=>', filteredFeeds.length);
     res.write(JSON.stringify(obj));
     res.end();
 });

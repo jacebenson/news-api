@@ -16,619 +16,83 @@
   "author": ""
  },
  {
-  "date": "2020-04-11T02:17:34.000Z",
+  "date": "2020-04-02T11:00:00.000Z",
   "site": "Andrew Albury-Dor",
-  "category": "YouTube",
-  "title": "Let's Talk - Now Experience with Jace Benson",
-  "link": "https://www.youtube.com/watch?v=txqwGMQh8bs",
+  "category": "Blog",
+  "title": "Now Experience Addendum 1: Maintaining Your Environment",
+  "link": "https://andrew.alburydor.com/posts/2020-03-29-nowui-a1-maintaining-environment/",
   "author": ""
  },
  {
-  "date": "2020-01-30T12:00:09.000Z",
+  "date": "2020-03-26T12:00:00.000Z",
   "site": "Andrew Albury-Dor",
-  "category": "YouTube",
-  "title": "SN Developer Quick Tips Episode 3 - Quick Dev Navigation",
-  "link": "https://www.youtube.com/watch?v=YgwfyiwbL0Y",
+  "category": "Blog",
+  "title": "Now Experience Part 2: Let's Build a Thing",
+  "link": "https://andrew.alburydor.com/posts/2020-03-26-nowui-part2/",
   "author": ""
  },
  {
-  "date": "2020-01-29T12:00:08.000Z",
+  "date": "2020-03-24T11:00:00.000Z",
   "site": "Andrew Albury-Dor",
-  "category": "YouTube",
-  "title": "SN Developer Quick Tips Episode 2 - Code Formatting!",
-  "link": "https://www.youtube.com/watch?v=hc2e3RL3a3g",
+  "category": "Blog",
+  "title": "Now Experience Part 1.5: Managing and Sharing Your Code",
+  "link": "https://andrew.alburydor.com/posts/2020-03-24-nowui-part1point5/",
   "author": ""
  },
  {
-  "date": "2020-01-28T11:27:21.000Z",
+  "date": "2020-03-20T00:00:00.000Z",
   "site": "Andrew Albury-Dor",
-  "category": "YouTube",
-  "title": "SN Developer Quick Tips Episode 1 - Syntax Macros!",
-  "link": "https://www.youtube.com/watch?v=Blmq0iOJe80",
+  "category": "Blog",
+  "title": "Now Experience Part 1: Setting up your Workspace",
+  "link": "https://andrew.alburydor.com/posts/2020-03-20-nowui-part1/",
   "author": ""
  },
  {
-  "date": "2020-01-28T11:17:12.000Z",
+  "date": "2020-03-17T00:00:00.000Z",
   "site": "Andrew Albury-Dor",
-  "category": "YouTube",
-  "title": "HI! It's my Channel Intro",
-  "link": "https://www.youtube.com/watch?v=TZZ30i-dWN4",
+  "category": "Blog",
+  "title": "Another New Website",
+  "link": "https://andrew.alburydor.com/posts/2020-03-17-websitev4/",
   "author": ""
  },
  {
-  "date": "2020-01-26T12:28:33.000Z",
+  "date": "2020-01-24T00:00:00.000Z",
   "site": "Andrew Albury-Dor",
-  "category": "YouTube",
-  "title": "ServiceNow Live Coding - 26th Jan 2020",
-  "link": "https://www.youtube.com/watch?v=a9Dn_o5R_ck",
+  "category": "Blog",
+  "title": "ServiceNow Developer MVP 2020",
+  "link": "https://andrew.alburydor.com/posts/2020-01-24-developer-mvp/",
   "author": ""
  },
  {
-  "date": "2019-12-28T02:51:11.000Z",
+  "date": "2020-01-11T00:00:00.000Z",
   "site": "Andrew Albury-Dor",
-  "category": "YouTube",
-  "title": "Custom App - System Status Page v2",
-  "link": "https://www.youtube.com/watch?v=r94pQEleE2g",
+  "category": "Blog",
+  "title": "Live Coding Happy Hour 10/11th Jan '20",
+  "link": "https://andrew.alburydor.com/posts/2020-01-12-lchh/",
   "author": ""
  },
  {
-  "date": "2019-07-15T06:35:39.000Z",
+  "date": "2020-01-06T00:00:00.000Z",
   "site": "Andrew Albury-Dor",
-  "category": "YouTube",
-  "title": "System Status v2 - ServiceNow",
-  "link": "https://www.youtube.com/watch?v=f-o6S-14aJs",
-  "author": ""
- },
- {
-  "date": "2020-03-31T22:22:25.000Z",
-  "site": "Code Creative",
-  "category": "YouTube",
-  "title": "Nat 20 for Know20: D&D on ServiceNow Part 1",
-  "link": "https://www.youtube.com/watch?v=Zk76jTFz2ho",
-  "author": ""
- },
- {
-  "date": "2020-03-04T00:53:52.000Z",
-  "site": "Code Creative",
-  "category": "YouTube",
-  "title": "Skeleton Loading in Service Portal: Part 6 (Live)",
-  "link": "https://www.youtube.com/watch?v=w0IE9hGw7LU",
-  "author": ""
- },
- {
-  "date": "2020-03-03T00:00:38.000Z",
-  "site": "Code Creative",
-  "category": "YouTube",
-  "title": "Skeleton Loading in Service Portal: Part 5 (Live)",
-  "link": "https://www.youtube.com/watch?v=XfUI8Qlt-qg",
-  "author": ""
- },
- {
-  "date": "2020-02-29T00:32:43.000Z",
-  "site": "Code Creative",
-  "category": "YouTube",
-  "title": "Skeleton Loading in Service Portal: Part 4 (Live)",
-  "link": "https://www.youtube.com/watch?v=SCd0eDalbXI",
-  "author": ""
- },
- {
-  "date": "2020-02-27T00:13:22.000Z",
-  "site": "Code Creative",
-  "category": "YouTube",
-  "title": "Skeleton Loading in Service Portal: Part 3 (Live)",
-  "link": "https://www.youtube.com/watch?v=vzxaxW8cEag",
-  "author": ""
- },
- {
-  "date": "2020-02-25T00:03:57.000Z",
-  "site": "Code Creative",
-  "category": "YouTube",
-  "title": "Skeleton Loading in Service Portal: Part 2 (Live)",
-  "link": "https://www.youtube.com/watch?v=H17-7Onij_g",
-  "author": ""
- },
- {
-  "date": "2020-02-20T23:49:59.000Z",
-  "site": "Code Creative",
-  "category": "YouTube",
-  "title": "Skeleton Loading in Service Portal: Part 1 (Live)",
-  "link": "https://www.youtube.com/watch?v=Ll0tokkeH34",
-  "author": ""
- },
- {
-  "date": "2020-02-01T18:09:28.000Z",
-  "site": "Code Creative",
-  "category": "YouTube",
-  "title": "The Future of ServiceNow UI: Seismic and the Now Design System",
-  "link": "https://www.youtube.com/watch?v=EJcGhTMQShk",
-  "author": ""
- },
- {
-  "date": "2017-02-07T23:12:56.000Z",
-  "site": "Code Creative",
-  "category": "YouTube",
-  "title": "Flexbox Layouts in Service Portal",
-  "link": "https://www.youtube.com/watch?v=P_6Ywdx5RvM",
-  "author": ""
- },
- {
-  "date": "2016-05-03T15:50:52.000Z",
-  "site": "Code Creative",
-  "category": "YouTube",
-  "title": "Iframe Resize Script",
-  "link": "https://www.youtube.com/watch?v=LIamM4gjsmY",
-  "author": ""
- },
- {
-  "date": "2017-05-03T14:42:10.000Z",
-  "site": "Ben Hollifield",
-  "category": "YouTube",
-  "title": "Yansa Labs",
-  "link": "https://www.youtube.com/watch?v=ca583fWYPfI",
-  "author": ""
- },
- {
-  "date": "2016-03-23T20:48:06.000Z",
-  "site": "Ben Hollifield",
-  "category": "YouTube",
-  "title": "PA Dashboard Factory",
-  "link": "https://www.youtube.com/watch?v=VAZnKsSH1B4",
-  "author": ""
- },
- {
-  "date": "2016-03-23T20:46:51.000Z",
-  "site": "Ben Hollifield",
-  "category": "YouTube",
-  "title": "Stagehand",
-  "link": "https://www.youtube.com/watch?v=MtPWraTV_7g",
-  "author": ""
- },
- {
-  "date": "2016-03-04T19:47:07.000Z",
-  "site": "Ben Hollifield",
-  "category": "YouTube",
-  "title": "Objectify",
-  "link": "https://www.youtube.com/watch?v=F58iBABHQgk",
-  "author": ""
- },
- {
-  "date": "2015-11-01T18:19:21.000Z",
-  "site": "Ben Hollifield",
-  "category": "YouTube",
-  "title": "MADMAN",
-  "link": "https://www.youtube.com/watch?v=UuDdwgEnuHA",
-  "author": ""
- },
- {
-  "date": "2015-09-09T14:01:52.000Z",
-  "site": "Ben Hollifield",
-  "category": "YouTube",
-  "title": "Table Saw Update",
-  "link": "https://www.youtube.com/watch?v=DPiXV6MVFfU",
-  "author": ""
- },
- {
-  "date": "2015-08-28T16:58:21.000Z",
-  "site": "Ben Hollifield",
-  "category": "YouTube",
-  "title": "Table Saw",
-  "link": "https://www.youtube.com/watch?v=JToPNpyhS0s",
-  "author": ""
- },
- {
-  "date": "2015-03-12T00:43:59.000Z",
-  "site": "Ben Hollifield",
-  "category": "YouTube",
-  "title": "TrendSeeker",
-  "link": "https://www.youtube.com/watch?v=J9-4t-Uuin8",
-  "author": ""
- },
- {
-  "date": "2015-02-12T23:52:45.000Z",
-  "site": "Ben Hollifield",
-  "category": "YouTube",
-  "title": "The News",
-  "link": "https://www.youtube.com/watch?v=tbdrSQAEwD0",
-  "author": ""
- },
- {
-  "date": "2015-01-21T02:00:51.000Z",
-  "site": "Ben Hollifield",
-  "category": "YouTube",
-  "title": "Idea Box",
-  "link": "https://www.youtube.com/watch?v=sHONfaevBjw",
-  "author": ""
- },
- {
-  "date": "2014-11-25T15:56:50.000Z",
-  "site": "Ben Hollifield",
-  "category": "YouTube",
-  "title": "Barcode Generator",
-  "link": "https://www.youtube.com/watch?v=0EROtyzsl44",
-  "author": ""
- },
- {
-  "date": "2014-11-06T17:31:46.000Z",
-  "site": "Ben Hollifield",
-  "category": "YouTube",
-  "title": "Flexible Mapper",
-  "link": "https://www.youtube.com/watch?v=uuehqtUf6zY",
-  "author": ""
- },
- {
-  "date": "2014-10-16T15:03:25.000Z",
-  "site": "Ben Hollifield",
-  "category": "YouTube",
-  "title": "Trend Detector",
-  "link": "https://www.youtube.com/watch?v=mseSlwLKId0",
-  "author": ""
- },
- {
-  "date": "2014-10-16T15:02:05.000Z",
-  "site": "Ben Hollifield",
-  "category": "YouTube",
-  "title": "Reservation Booking System",
-  "link": "https://www.youtube.com/watch?v=IieBSKlOsfo",
-  "author": ""
- },
- {
-  "date": "2014-08-05T18:28:11.000Z",
-  "site": "Ben Hollifield",
-  "category": "YouTube",
-  "title": "Dynamic Knowledge Search v2",
-  "link": "https://www.youtube.com/watch?v=rPHvNjMgaXU",
-  "author": ""
- },
- {
-  "date": "2020-01-25T04:25:00.000Z",
-  "site": "CJ & The Duke",
-  "category": "Podcast",
-  "title": "Ep004 - Adventures at ServiceNow Sales Kickoff",
-  "link": "https://share.transistor.fm/s/d8ae56fb",
-  "author": ""
- },
- {
-  "date": "2020-01-12T00:30:00.000Z",
-  "site": "CJ & The Duke",
-  "category": "Podcast",
-  "title": "Ep003 - Learning ServiceNow the Hard Way",
-  "link": "https://share.transistor.fm/s/70cc4478",
-  "author": ""
- },
- {
-  "date": "2019-12-30T18:00:00.000Z",
-  "site": "CJ & The Duke",
-  "category": "Podcast",
-  "title": "Ep002 - Origins",
-  "link": "https://share.transistor.fm/s/5105900d",
-  "author": ""
- },
- {
-  "date": "2019-12-12T04:00:00.000Z",
-  "site": "CJ & The Duke",
-  "category": "Podcast",
-  "title": "Ep001 - What is a ServiceNow Architect?",
-  "link": "https://share.transistor.fm/s/3c3c9140",
-  "author": ""
- },
- {
-  "date": "2020-03-31T13:44:00.000Z",
-  "site": "CloudMinus89",
   "category": "Blog",
-  "title": "Service Portal Widgets: Clear html fields in portal widget in client script",
-  "link": "http://www.cloudminus89.com/2020/03/service-portal-widgets-clear-html.html",
+  "title": "Orlando Release - Best New Features",
+  "link": "https://andrew.alburydor.com/posts/2020-01-06-orlandofeatures/",
   "author": ""
  },
  {
-  "date": "2020-03-31T13:44:00.000Z",
-  "site": "CloudMinus89",
+  "date": "2019-12-31T00:00:00.000Z",
+  "site": "Andrew Albury-Dor",
   "category": "Blog",
-  "title": "Navigate to history entry from ui action",
-  "link": "http://www.cloudminus89.com/2020/03/navigate-to-history-entry-from-ui-action.html",
+  "title": "Happy (Educational) Holidays!",
+  "link": "https://andrew.alburydor.com/posts/2019-12-30-nowlearning/",
   "author": ""
  },
  {
-  "date": "2020-03-31T13:43:00.000Z",
-  "site": "CloudMinus89",
+  "date": "2019-12-10T00:00:00.000Z",
+  "site": "Andrew Albury-Dor",
   "category": "Blog",
-  "title": "Reset group approval UI ACTION",
-  "link": "http://www.cloudminus89.com/2020/03/reset-group-approval-ui-action.html",
-  "author": ""
- },
- {
-  "date": "2020-03-31T13:42:00.000Z",
-  "site": "CloudMinus89",
-  "category": "Blog",
-  "title": "Write data to CSV",
-  "link": "http://www.cloudminus89.com/2020/03/write-data-to-csv.html",
-  "author": ""
- },
- {
-  "date": "2020-03-31T13:24:00.000Z",
-  "site": "CloudMinus89",
-  "category": "Blog",
-  "title": "Broadcast an event to workflow",
-  "link": "http://www.cloudminus89.com/2020/03/broadcast-event-to-workflow.html",
-  "author": ""
- },
- {
-  "date": "2020-03-31T13:23:00.000Z",
-  "site": "CloudMinus89",
-  "category": "Blog",
-  "title": "Working with Linux MID Servers",
-  "link": "http://www.cloudminus89.com/2020/03/working-with-linux-mid-servers.html",
-  "author": ""
- },
- {
-  "date": "2020-03-31T12:55:00.000Z",
-  "site": "CloudMinus89",
-  "category": "Blog",
-  "title": "Blank Strings Regex Check",
-  "link": "http://www.cloudminus89.com/2020/03/blank-strings-regex-check.html",
-  "author": ""
- },
- {
-  "date": "2020-03-03T16:54:00.000Z",
-  "site": "CloudMinus89",
-  "category": "Blog",
-  "title": "Building up a scripted REST api list of catalog tasks plus their variables",
-  "link": "http://www.cloudminus89.com/2020/03/building-up-scripted-rest-api-list-of.html",
-  "author": ""
- },
- {
-  "date": "2019-05-17T16:25:00.000Z",
-  "site": "CloudMinus89",
-  "category": "Blog",
-  "title": "UI Action Trigger New Approval",
-  "link": "http://www.cloudminus89.com/2019/05/ui-action-trigger-new-approval.html",
-  "author": ""
- },
- {
-  "date": "2019-05-17T16:25:00.000Z",
-  "site": "CloudMinus89",
-  "category": "Blog",
-  "title": "UI Action Test Load 2 records",
-  "link": "http://www.cloudminus89.com/2019/05/ui-action-test-load-2-records.html",
-  "author": ""
- },
- {
-  "date": "2019-05-17T16:23:00.000Z",
-  "site": "CloudMinus89",
-  "category": "Blog",
-  "title": "Locate trigger action from workflow",
-  "link": "http://www.cloudminus89.com/2019/05/locate-trigger-action-from-workflow.html",
-  "author": ""
- },
- {
-  "date": "2019-05-17T16:22:00.000Z",
-  "site": "CloudMinus89",
-  "category": "Blog",
-  "title": "kill old workflows",
-  "link": "http://www.cloudminus89.com/2019/05/kill-old-workflows.html",
-  "author": ""
- },
- {
-  "date": "2019-05-17T16:21:00.000Z",
-  "site": "CloudMinus89",
-  "category": "Blog",
-  "title": "Attach a file to email for users with no roles",
-  "link": "http://www.cloudminus89.com/2019/05/attach-file-to-email-for-users-with-no.html",
-  "author": ""
- },
- {
-  "date": "2019-05-08T23:20:00.000Z",
-  "site": "CloudMinus89",
-  "category": "Blog",
-  "title": "Get bits from the URL",
-  "link": "http://www.cloudminus89.com/2019/05/get-bits-from-url.html",
-  "author": ""
- },
- {
-  "date": "2019-05-08T23:20:00.000Z",
-  "site": "CloudMinus89",
-  "category": "Blog",
-  "title": "variable advanced reference qualifier example",
-  "link": "http://www.cloudminus89.com/2019/05/variable-advanced-reference-qualifier.html",
-  "author": ""
- },
- {
-  "date": "2019-05-08T23:19:00.000Z",
-  "site": "CloudMinus89",
-  "category": "Blog",
-  "title": "XML Parse example (on ecc queue table)",
-  "link": "http://www.cloudminus89.com/2019/05/xml-parse-example.html",
-  "author": ""
- },
- {
-  "date": "2019-05-08T23:18:00.000Z",
-  "site": "CloudMinus89",
-  "category": "Blog",
-  "title": "URL link in addInfoMessage",
-  "link": "http://www.cloudminus89.com/2019/05/url-link-in-addinfomessage.html",
-  "author": ""
- },
- {
-  "date": "2019-05-08T23:17:00.000Z",
-  "site": "CloudMinus89",
-  "category": "Blog",
-  "title": "UI Macro: attachment file for record producer",
-  "link": "http://www.cloudminus89.com/2019/05/ui-macro-attachment-file-for-record.html",
-  "author": ""
- },
- {
-  "date": "2019-05-08T23:16:00.000Z",
-  "site": "CloudMinus89",
-  "category": "Blog",
-  "title": "UI Macro: link to CIs assigned to user",
-  "link": "http://www.cloudminus89.com/2019/05/ui-macro-link-to-cis-assigned-to-user.html",
-  "author": ""
- },
- {
-  "date": "2019-05-08T23:15:00.000Z",
-  "site": "CloudMinus89",
-  "category": "Blog",
-  "title": "transform script: get import set row sysid (oncomplete script) in transform map",
-  "link": "http://www.cloudminus89.com/2019/05/transform-script-get-import-set-row.html",
-  "author": ""
- },
- {
-  "date": "2019-05-08T23:14:00.000Z",
-  "site": "CloudMinus89",
-  "category": "Blog",
-  "title": "deal with leading / trailing spaces",
-  "link": "http://www.cloudminus89.com/2019/05/deal-with-leading-trailing-spaces.html",
-  "author": ""
- },
- {
-  "date": "2019-05-08T23:13:00.000Z",
-  "site": "CloudMinus89",
-  "category": "Blog",
-  "title": "check if time out of hours",
-  "link": "http://www.cloudminus89.com/2019/05/check-if-time-out-of-hours.html",
-  "author": ""
- },
- {
-  "date": "2019-05-08T23:13:00.000Z",
-  "site": "CloudMinus89",
-  "category": "Blog",
-  "title": "Skip workflows, business rules and last updated value",
-  "link": "http://www.cloudminus89.com/2019/05/skip-workflows-business-rules-and-last.html",
-  "author": ""
- },
- {
-  "date": "2019-05-08T23:12:00.000Z",
-  "site": "CloudMinus89",
-  "category": "Blog",
-  "title": "set variables read only in a client script",
-  "link": "http://www.cloudminus89.com/2019/05/set-variables-read-only-in-client-script.html",
-  "author": ""
- },
- {
-  "date": "2019-05-08T23:09:00.000Z",
-  "site": "CloudMinus89",
-  "category": "Blog",
-  "title": "search for a ticket based on variable value",
-  "link": "http://www.cloudminus89.com/2019/05/search-for-ticket-based-on-variable.html",
-  "author": ""
- },
- {
-  "date": "2020-02-15T20:50:41.000Z",
-  "site": "Goran Lundqvist",
-  "category": "YouTube",
-  "title": "How to create multiple records in with one record producer in ServiceNow",
-  "link": "https://www.youtube.com/watch?v=Aeq70eHMUR4",
-  "author": ""
- },
- {
-  "date": "2020-02-10T15:05:35.000Z",
-  "site": "Goran Lundqvist",
-  "category": "YouTube",
-  "title": "Episode 28 - Robust Transform Engine & Extract Transform Load in ServiceNow",
-  "link": "https://www.youtube.com/watch?v=_i4KREDLeyE",
-  "author": ""
- },
- {
-  "date": "2020-02-02T22:19:58.000Z",
-  "site": "Goran Lundqvist",
-  "category": "YouTube",
-  "title": "Episode 27 - New Flow functionalities in ServiceNow Orlando release",
-  "link": "https://www.youtube.com/watch?v=CKznJyAOJF0",
-  "author": ""
- },
- {
-  "date": "2020-01-27T16:19:37.000Z",
-  "site": "Goran Lundqvist",
-  "category": "YouTube",
-  "title": "Showing off some nice functionalities with MRVS within ServiceNow",
-  "link": "https://www.youtube.com/watch?v=Cq8EzurtQMI",
-  "author": ""
- },
- {
-  "date": "2020-01-22T21:00:24.000Z",
-  "site": "Goran Lundqvist",
-  "category": "YouTube",
-  "title": "Episode 26 - Filtering queries from Service Portal in ServiceNow",
-  "link": "https://www.youtube.com/watch?v=Fy_ZMoLgbTk",
-  "author": ""
- },
- {
-  "date": "2019-11-11T10:15:15.000Z",
-  "site": "Goran Lundqvist",
-  "category": "YouTube",
-  "title": "Episode 25 - Complex Objects in ServiceNow Flow Designer",
-  "link": "https://www.youtube.com/watch?v=Hta-b1bMO7Q",
-  "author": ""
- },
- {
-  "date": "2019-10-21T11:07:31.000Z",
-  "site": "Goran Lundqvist",
-  "category": "YouTube",
-  "title": "Episode 24 - XML Parser in ServiceNow",
-  "link": "https://www.youtube.com/watch?v=18DnY4FfMqI",
-  "author": ""
- },
- {
-  "date": "2019-09-01T19:46:42.000Z",
-  "site": "Goran Lundqvist",
-  "category": "YouTube",
-  "title": "New features (MRVS, Impersonate & Interceptor) in ServiceNow New York Release.",
-  "link": "https://www.youtube.com/watch?v=nhMrtZitiGM",
-  "author": ""
- },
- {
-  "date": "2019-08-27T12:31:37.000Z",
-  "site": "Goran Lundqvist",
-  "category": "YouTube",
-  "title": "Episode 23 - Import CSV file in ServiceNow (New York release)",
-  "link": "https://www.youtube.com/watch?v=dkgE48EuYZY",
-  "author": ""
- },
- {
-  "date": "2019-07-14T16:43:41.000Z",
-  "site": "Goran Lundqvist",
-  "category": "YouTube",
-  "title": "Episode 22 - Contextual search in ServiceNow (Madrid release)",
-  "link": "https://www.youtube.com/watch?v=vdPWQgMv4gQ",
-  "author": ""
- },
- {
-  "date": "2019-06-16T16:08:23.000Z",
-  "site": "Goran Lundqvist",
-  "category": "YouTube",
-  "title": "Episode 21 - Update set administration in ServiceNow",
-  "link": "https://www.youtube.com/watch?v=eqaIJV4e9WI",
-  "author": ""
- },
- {
-  "date": "2019-05-14T12:43:20.000Z",
-  "site": "Goran Lundqvist",
-  "category": "YouTube",
-  "title": "Backup on your Personal ServiceNow Developer Instance is here",
-  "link": "https://www.youtube.com/watch?v=4FFAOCU_62E",
-  "author": ""
- },
- {
-  "date": "2019-05-08T20:53:10.000Z",
-  "site": "Goran Lundqvist",
-  "category": "YouTube",
-  "title": "Episode 20 - Create branch & join in a flow in ServiceNow",
-  "link": "https://www.youtube.com/watch?v=xOc342NUzI8",
-  "author": ""
- },
- {
-  "date": "2019-05-08T12:45:41.000Z",
-  "site": "Goran Lundqvist",
-  "category": "YouTube",
-  "title": "Edit and create a dynamic custom footer for ServiceNow Service Portal",
-  "link": "https://www.youtube.com/watch?v=umrU0gBGRMA",
-  "author": ""
- },
- {
-  "date": "2019-04-06T19:18:20.000Z",
-  "site": "Goran Lundqvist",
-  "category": "YouTube",
-  "title": "Episode 19 - ServiceNow Reports, datasets, drilldowns and relates lists conditions",
-  "link": "https://www.youtube.com/watch?v=SQACTGJJoTE",
+  "title": "Hello World",
+  "link": "https://andrew.alburydor.com/posts/2019-12-10-helloworld/",
   "author": ""
  },
  {
@@ -1240,35 +704,499 @@
   "author": ""
  },
  {
-  "date": "2020-03-15T02:43:39.000Z",
-  "site": "Mav",
-  "category": "Blog",
-  "title": "Dependent variables in the Service Portal",
-  "link": "https://mavembry.info/post/dependent-variable-sp/",
+  "date": "2017-05-03T14:42:10.000Z",
+  "site": "Ben Hollifield",
+  "category": "YouTube",
+  "title": "Yansa Labs",
+  "link": "https://www.youtube.com/watch?v=ca583fWYPfI",
   "author": ""
  },
  {
-  "date": "2020-01-08T23:54:00.000Z",
-  "site": "Mav",
-  "category": "Blog",
-  "title": "NYT Search",
-  "link": "https://mavembry.info/project/nyt-search/",
+  "date": "2016-03-23T20:48:06.000Z",
+  "site": "Ben Hollifield",
+  "category": "YouTube",
+  "title": "PA Dashboard Factory",
+  "link": "https://www.youtube.com/watch?v=VAZnKsSH1B4",
   "author": ""
  },
  {
-  "date": "2020-01-08T23:40:47.000Z",
-  "site": "Mav",
-  "category": "Blog",
-  "title": "Train Manager",
-  "link": "https://mavembry.info/project/train-manager/",
+  "date": "2016-03-23T20:46:51.000Z",
+  "site": "Ben Hollifield",
+  "category": "YouTube",
+  "title": "Stagehand",
+  "link": "https://www.youtube.com/watch?v=MtPWraTV_7g",
   "author": ""
  },
  {
-  "date": "2020-01-08T19:51:26.000Z",
-  "site": "Mav",
+  "date": "2016-03-04T19:47:07.000Z",
+  "site": "Ben Hollifield",
+  "category": "YouTube",
+  "title": "Objectify",
+  "link": "https://www.youtube.com/watch?v=F58iBABHQgk",
+  "author": ""
+ },
+ {
+  "date": "2015-11-01T18:19:21.000Z",
+  "site": "Ben Hollifield",
+  "category": "YouTube",
+  "title": "MADMAN",
+  "link": "https://www.youtube.com/watch?v=UuDdwgEnuHA",
+  "author": ""
+ },
+ {
+  "date": "2015-09-09T14:01:52.000Z",
+  "site": "Ben Hollifield",
+  "category": "YouTube",
+  "title": "Table Saw Update",
+  "link": "https://www.youtube.com/watch?v=DPiXV6MVFfU",
+  "author": ""
+ },
+ {
+  "date": "2015-08-28T16:58:21.000Z",
+  "site": "Ben Hollifield",
+  "category": "YouTube",
+  "title": "Table Saw",
+  "link": "https://www.youtube.com/watch?v=JToPNpyhS0s",
+  "author": ""
+ },
+ {
+  "date": "2015-03-12T00:43:59.000Z",
+  "site": "Ben Hollifield",
+  "category": "YouTube",
+  "title": "TrendSeeker",
+  "link": "https://www.youtube.com/watch?v=J9-4t-Uuin8",
+  "author": ""
+ },
+ {
+  "date": "2015-02-12T23:52:45.000Z",
+  "site": "Ben Hollifield",
+  "category": "YouTube",
+  "title": "The News",
+  "link": "https://www.youtube.com/watch?v=tbdrSQAEwD0",
+  "author": ""
+ },
+ {
+  "date": "2015-01-21T02:00:51.000Z",
+  "site": "Ben Hollifield",
+  "category": "YouTube",
+  "title": "Idea Box",
+  "link": "https://www.youtube.com/watch?v=sHONfaevBjw",
+  "author": ""
+ },
+ {
+  "date": "2014-11-25T15:56:50.000Z",
+  "site": "Ben Hollifield",
+  "category": "YouTube",
+  "title": "Barcode Generator",
+  "link": "https://www.youtube.com/watch?v=0EROtyzsl44",
+  "author": ""
+ },
+ {
+  "date": "2014-11-06T17:31:46.000Z",
+  "site": "Ben Hollifield",
+  "category": "YouTube",
+  "title": "Flexible Mapper",
+  "link": "https://www.youtube.com/watch?v=uuehqtUf6zY",
+  "author": ""
+ },
+ {
+  "date": "2014-10-16T15:03:25.000Z",
+  "site": "Ben Hollifield",
+  "category": "YouTube",
+  "title": "Trend Detector",
+  "link": "https://www.youtube.com/watch?v=mseSlwLKId0",
+  "author": ""
+ },
+ {
+  "date": "2014-10-16T15:02:05.000Z",
+  "site": "Ben Hollifield",
+  "category": "YouTube",
+  "title": "Reservation Booking System",
+  "link": "https://www.youtube.com/watch?v=IieBSKlOsfo",
+  "author": ""
+ },
+ {
+  "date": "2014-08-05T18:28:11.000Z",
+  "site": "Ben Hollifield",
+  "category": "YouTube",
+  "title": "Dynamic Knowledge Search v2",
+  "link": "https://www.youtube.com/watch?v=rPHvNjMgaXU",
+  "author": ""
+ },
+ {
+  "date": "2020-03-31T22:22:25.000Z",
+  "site": "Code Creative",
+  "category": "YouTube",
+  "title": "Nat 20 for Know20: D&D on ServiceNow Part 1",
+  "link": "https://www.youtube.com/watch?v=Zk76jTFz2ho",
+  "author": ""
+ },
+ {
+  "date": "2020-03-04T00:53:52.000Z",
+  "site": "Code Creative",
+  "category": "YouTube",
+  "title": "Skeleton Loading in Service Portal: Part 6 (Live)",
+  "link": "https://www.youtube.com/watch?v=w0IE9hGw7LU",
+  "author": ""
+ },
+ {
+  "date": "2020-03-03T00:00:38.000Z",
+  "site": "Code Creative",
+  "category": "YouTube",
+  "title": "Skeleton Loading in Service Portal: Part 5 (Live)",
+  "link": "https://www.youtube.com/watch?v=XfUI8Qlt-qg",
+  "author": ""
+ },
+ {
+  "date": "2020-02-29T00:32:43.000Z",
+  "site": "Code Creative",
+  "category": "YouTube",
+  "title": "Skeleton Loading in Service Portal: Part 4 (Live)",
+  "link": "https://www.youtube.com/watch?v=SCd0eDalbXI",
+  "author": ""
+ },
+ {
+  "date": "2020-02-27T00:13:22.000Z",
+  "site": "Code Creative",
+  "category": "YouTube",
+  "title": "Skeleton Loading in Service Portal: Part 3 (Live)",
+  "link": "https://www.youtube.com/watch?v=vzxaxW8cEag",
+  "author": ""
+ },
+ {
+  "date": "2020-02-25T00:03:57.000Z",
+  "site": "Code Creative",
+  "category": "YouTube",
+  "title": "Skeleton Loading in Service Portal: Part 2 (Live)",
+  "link": "https://www.youtube.com/watch?v=H17-7Onij_g",
+  "author": ""
+ },
+ {
+  "date": "2020-02-20T23:49:59.000Z",
+  "site": "Code Creative",
+  "category": "YouTube",
+  "title": "Skeleton Loading in Service Portal: Part 1 (Live)",
+  "link": "https://www.youtube.com/watch?v=Ll0tokkeH34",
+  "author": ""
+ },
+ {
+  "date": "2020-02-01T18:09:28.000Z",
+  "site": "Code Creative",
+  "category": "YouTube",
+  "title": "The Future of ServiceNow UI: Seismic and the Now Design System",
+  "link": "https://www.youtube.com/watch?v=EJcGhTMQShk",
+  "author": ""
+ },
+ {
+  "date": "2017-02-07T23:12:56.000Z",
+  "site": "Code Creative",
+  "category": "YouTube",
+  "title": "Flexbox Layouts in Service Portal",
+  "link": "https://www.youtube.com/watch?v=P_6Ywdx5RvM",
+  "author": ""
+ },
+ {
+  "date": "2016-05-03T15:50:52.000Z",
+  "site": "Code Creative",
+  "category": "YouTube",
+  "title": "Iframe Resize Script",
+  "link": "https://www.youtube.com/watch?v=LIamM4gjsmY",
+  "author": ""
+ },
+ {
+  "date": "2020-01-25T04:25:00.000Z",
+  "site": "CJ & The Duke",
+  "category": "Podcast",
+  "title": "Ep004 - Adventures at ServiceNow Sales Kickoff",
+  "link": "https://share.transistor.fm/s/d8ae56fb",
+  "author": ""
+ },
+ {
+  "date": "2020-01-12T00:30:00.000Z",
+  "site": "CJ & The Duke",
+  "category": "Podcast",
+  "title": "Ep003 - Learning ServiceNow the Hard Way",
+  "link": "https://share.transistor.fm/s/70cc4478",
+  "author": ""
+ },
+ {
+  "date": "2019-12-30T18:00:00.000Z",
+  "site": "CJ & The Duke",
+  "category": "Podcast",
+  "title": "Ep002 - Origins",
+  "link": "https://share.transistor.fm/s/5105900d",
+  "author": ""
+ },
+ {
+  "date": "2019-12-12T04:00:00.000Z",
+  "site": "CJ & The Duke",
+  "category": "Podcast",
+  "title": "Ep001 - What is a ServiceNow Architect?",
+  "link": "https://share.transistor.fm/s/3c3c9140",
+  "author": ""
+ },
+ {
+  "date": "2020-04-11T02:17:34.000Z",
+  "site": "Andrew Albury-Dor",
+  "category": "YouTube",
+  "title": "Let's Talk - Now Experience with Jace Benson",
+  "link": "https://www.youtube.com/watch?v=txqwGMQh8bs",
+  "author": ""
+ },
+ {
+  "date": "2020-01-30T12:00:09.000Z",
+  "site": "Andrew Albury-Dor",
+  "category": "YouTube",
+  "title": "SN Developer Quick Tips Episode 3 - Quick Dev Navigation",
+  "link": "https://www.youtube.com/watch?v=YgwfyiwbL0Y",
+  "author": ""
+ },
+ {
+  "date": "2020-01-29T12:00:08.000Z",
+  "site": "Andrew Albury-Dor",
+  "category": "YouTube",
+  "title": "SN Developer Quick Tips Episode 2 - Code Formatting!",
+  "link": "https://www.youtube.com/watch?v=hc2e3RL3a3g",
+  "author": ""
+ },
+ {
+  "date": "2020-01-28T11:27:21.000Z",
+  "site": "Andrew Albury-Dor",
+  "category": "YouTube",
+  "title": "SN Developer Quick Tips Episode 1 - Syntax Macros!",
+  "link": "https://www.youtube.com/watch?v=Blmq0iOJe80",
+  "author": ""
+ },
+ {
+  "date": "2020-01-28T11:17:12.000Z",
+  "site": "Andrew Albury-Dor",
+  "category": "YouTube",
+  "title": "HI! It's my Channel Intro",
+  "link": "https://www.youtube.com/watch?v=TZZ30i-dWN4",
+  "author": ""
+ },
+ {
+  "date": "2020-01-26T12:28:33.000Z",
+  "site": "Andrew Albury-Dor",
+  "category": "YouTube",
+  "title": "ServiceNow Live Coding - 26th Jan 2020",
+  "link": "https://www.youtube.com/watch?v=a9Dn_o5R_ck",
+  "author": ""
+ },
+ {
+  "date": "2019-12-28T02:51:11.000Z",
+  "site": "Andrew Albury-Dor",
+  "category": "YouTube",
+  "title": "Custom App - System Status Page v2",
+  "link": "https://www.youtube.com/watch?v=r94pQEleE2g",
+  "author": ""
+ },
+ {
+  "date": "2019-07-15T06:35:39.000Z",
+  "site": "Andrew Albury-Dor",
+  "category": "YouTube",
+  "title": "System Status v2 - ServiceNow",
+  "link": "https://www.youtube.com/watch?v=f-o6S-14aJs",
+  "author": ""
+ },
+ {
+  "date": "2020-03-31T13:44:00.000Z",
+  "site": "CloudMinus89",
   "category": "Blog",
-  "title": "Difference between GlideRecord() and GlideAggregate()",
-  "link": "https://mavembry.info/post/gr-and-ga/",
+  "title": "Service Portal Widgets: Clear html fields in portal widget in client script",
+  "link": "http://www.cloudminus89.com/2020/03/service-portal-widgets-clear-html.html",
+  "author": ""
+ },
+ {
+  "date": "2020-03-31T13:44:00.000Z",
+  "site": "CloudMinus89",
+  "category": "Blog",
+  "title": "Navigate to history entry from ui action",
+  "link": "http://www.cloudminus89.com/2020/03/navigate-to-history-entry-from-ui-action.html",
+  "author": ""
+ },
+ {
+  "date": "2020-03-31T13:43:00.000Z",
+  "site": "CloudMinus89",
+  "category": "Blog",
+  "title": "Reset group approval UI ACTION",
+  "link": "http://www.cloudminus89.com/2020/03/reset-group-approval-ui-action.html",
+  "author": ""
+ },
+ {
+  "date": "2020-03-31T13:42:00.000Z",
+  "site": "CloudMinus89",
+  "category": "Blog",
+  "title": "Write data to CSV",
+  "link": "http://www.cloudminus89.com/2020/03/write-data-to-csv.html",
+  "author": ""
+ },
+ {
+  "date": "2020-03-31T13:24:00.000Z",
+  "site": "CloudMinus89",
+  "category": "Blog",
+  "title": "Broadcast an event to workflow",
+  "link": "http://www.cloudminus89.com/2020/03/broadcast-event-to-workflow.html",
+  "author": ""
+ },
+ {
+  "date": "2020-03-31T13:23:00.000Z",
+  "site": "CloudMinus89",
+  "category": "Blog",
+  "title": "Working with Linux MID Servers",
+  "link": "http://www.cloudminus89.com/2020/03/working-with-linux-mid-servers.html",
+  "author": ""
+ },
+ {
+  "date": "2020-03-31T12:55:00.000Z",
+  "site": "CloudMinus89",
+  "category": "Blog",
+  "title": "Blank Strings Regex Check",
+  "link": "http://www.cloudminus89.com/2020/03/blank-strings-regex-check.html",
+  "author": ""
+ },
+ {
+  "date": "2020-03-03T16:54:00.000Z",
+  "site": "CloudMinus89",
+  "category": "Blog",
+  "title": "Building up a scripted REST api list of catalog tasks plus their variables",
+  "link": "http://www.cloudminus89.com/2020/03/building-up-scripted-rest-api-list-of.html",
+  "author": ""
+ },
+ {
+  "date": "2019-05-17T16:25:00.000Z",
+  "site": "CloudMinus89",
+  "category": "Blog",
+  "title": "UI Action Trigger New Approval",
+  "link": "http://www.cloudminus89.com/2019/05/ui-action-trigger-new-approval.html",
+  "author": ""
+ },
+ {
+  "date": "2019-05-17T16:25:00.000Z",
+  "site": "CloudMinus89",
+  "category": "Blog",
+  "title": "UI Action Test Load 2 records",
+  "link": "http://www.cloudminus89.com/2019/05/ui-action-test-load-2-records.html",
+  "author": ""
+ },
+ {
+  "date": "2019-05-17T16:23:00.000Z",
+  "site": "CloudMinus89",
+  "category": "Blog",
+  "title": "Locate trigger action from workflow",
+  "link": "http://www.cloudminus89.com/2019/05/locate-trigger-action-from-workflow.html",
+  "author": ""
+ },
+ {
+  "date": "2019-05-17T16:22:00.000Z",
+  "site": "CloudMinus89",
+  "category": "Blog",
+  "title": "kill old workflows",
+  "link": "http://www.cloudminus89.com/2019/05/kill-old-workflows.html",
+  "author": ""
+ },
+ {
+  "date": "2019-05-17T16:21:00.000Z",
+  "site": "CloudMinus89",
+  "category": "Blog",
+  "title": "Attach a file to email for users with no roles",
+  "link": "http://www.cloudminus89.com/2019/05/attach-file-to-email-for-users-with-no.html",
+  "author": ""
+ },
+ {
+  "date": "2019-05-08T23:20:00.000Z",
+  "site": "CloudMinus89",
+  "category": "Blog",
+  "title": "Get bits from the URL",
+  "link": "http://www.cloudminus89.com/2019/05/get-bits-from-url.html",
+  "author": ""
+ },
+ {
+  "date": "2019-05-08T23:20:00.000Z",
+  "site": "CloudMinus89",
+  "category": "Blog",
+  "title": "variable advanced reference qualifier example",
+  "link": "http://www.cloudminus89.com/2019/05/variable-advanced-reference-qualifier.html",
+  "author": ""
+ },
+ {
+  "date": "2019-05-08T23:19:00.000Z",
+  "site": "CloudMinus89",
+  "category": "Blog",
+  "title": "XML Parse example (on ecc queue table)",
+  "link": "http://www.cloudminus89.com/2019/05/xml-parse-example.html",
+  "author": ""
+ },
+ {
+  "date": "2019-05-08T23:18:00.000Z",
+  "site": "CloudMinus89",
+  "category": "Blog",
+  "title": "URL link in addInfoMessage",
+  "link": "http://www.cloudminus89.com/2019/05/url-link-in-addinfomessage.html",
+  "author": ""
+ },
+ {
+  "date": "2019-05-08T23:17:00.000Z",
+  "site": "CloudMinus89",
+  "category": "Blog",
+  "title": "UI Macro: attachment file for record producer",
+  "link": "http://www.cloudminus89.com/2019/05/ui-macro-attachment-file-for-record.html",
+  "author": ""
+ },
+ {
+  "date": "2019-05-08T23:16:00.000Z",
+  "site": "CloudMinus89",
+  "category": "Blog",
+  "title": "UI Macro: link to CIs assigned to user",
+  "link": "http://www.cloudminus89.com/2019/05/ui-macro-link-to-cis-assigned-to-user.html",
+  "author": ""
+ },
+ {
+  "date": "2019-05-08T23:15:00.000Z",
+  "site": "CloudMinus89",
+  "category": "Blog",
+  "title": "transform script: get import set row sysid (oncomplete script) in transform map",
+  "link": "http://www.cloudminus89.com/2019/05/transform-script-get-import-set-row.html",
+  "author": ""
+ },
+ {
+  "date": "2019-05-08T23:14:00.000Z",
+  "site": "CloudMinus89",
+  "category": "Blog",
+  "title": "deal with leading / trailing spaces",
+  "link": "http://www.cloudminus89.com/2019/05/deal-with-leading-trailing-spaces.html",
+  "author": ""
+ },
+ {
+  "date": "2019-05-08T23:13:00.000Z",
+  "site": "CloudMinus89",
+  "category": "Blog",
+  "title": "check if time out of hours",
+  "link": "http://www.cloudminus89.com/2019/05/check-if-time-out-of-hours.html",
+  "author": ""
+ },
+ {
+  "date": "2019-05-08T23:13:00.000Z",
+  "site": "CloudMinus89",
+  "category": "Blog",
+  "title": "Skip workflows, business rules and last updated value",
+  "link": "http://www.cloudminus89.com/2019/05/skip-workflows-business-rules-and-last.html",
+  "author": ""
+ },
+ {
+  "date": "2019-05-08T23:12:00.000Z",
+  "site": "CloudMinus89",
+  "category": "Blog",
+  "title": "set variables read only in a client script",
+  "link": "http://www.cloudminus89.com/2019/05/set-variables-read-only-in-client-script.html",
+  "author": ""
+ },
+ {
+  "date": "2019-05-08T23:09:00.000Z",
+  "site": "CloudMinus89",
+  "category": "Blog",
+  "title": "search for a ticket based on variable value",
+  "link": "http://www.cloudminus89.com/2019/05/search-for-ticket-based-on-variable.html",
   "author": ""
  },
  {
@@ -1325,6 +1253,27 @@
   "category": "YouTube",
   "title": "Making the Most of the MID Server - Redux",
   "link": "https://www.youtube.com/watch?v=VQvzYNKcOk0",
+  "author": ""
+ },
+ {
+  "date": "2019-10-15T13:00:00.000Z",
+  "site": "Acorio - Candid Podcast",
+  "category": "Podcast",
+  "title": "The Journey to Becoming Acorio's CEO ft. Ellen Daley",
+  "author": ""
+ },
+ {
+  "date": "2019-08-20T10:00:00.000Z",
+  "site": "Acorio - Candid Podcast",
+  "category": "Podcast",
+  "title": "Finding Your Passion in ServiceNow ft. Ryan Gillespie",
+  "author": ""
+ },
+ {
+  "date": "2019-07-19T16:00:00.000Z",
+  "site": "Acorio - Candid Podcast",
+  "category": "Podcast",
+  "title": "Driving Client Success with ServiceNow ft. Grant Pulver",
   "author": ""
  },
  {
@@ -1448,144 +1397,123 @@
   "author": ""
  },
  {
-  "date": "2019-10-15T13:00:00.000Z",
-  "site": "Acorio - Candid Podcast",
-  "category": "Podcast",
-  "title": "The Journey to Becoming Acorio's CEO ft. Ellen Daley",
-  "author": ""
- },
- {
-  "date": "2019-08-20T10:00:00.000Z",
-  "site": "Acorio - Candid Podcast",
-  "category": "Podcast",
-  "title": "Finding Your Passion in ServiceNow ft. Ryan Gillespie",
-  "author": ""
- },
- {
-  "date": "2019-07-19T16:00:00.000Z",
-  "site": "Acorio - Candid Podcast",
-  "category": "Podcast",
-  "title": "Driving Client Success with ServiceNow ft. Grant Pulver",
-  "author": ""
- },
- {
-  "date": "2020-04-10T20:59:00.000Z",
-  "site": "ServiceNow Support",
+  "date": "2020-02-15T20:50:41.000Z",
+  "site": "Goran Lundqvist",
   "category": "YouTube",
-  "title": "How to Configure a Campaign",
-  "link": "https://www.youtube.com/watch?v=d_N45k9xxw8",
+  "title": "How to create multiple records in with one record producer in ServiceNow",
+  "link": "https://www.youtube.com/watch?v=Aeq70eHMUR4",
   "author": ""
  },
  {
-  "date": "2020-04-03T18:20:31.000Z",
-  "site": "ServiceNow Support",
+  "date": "2020-02-10T15:05:35.000Z",
+  "site": "Goran Lundqvist",
   "category": "YouTube",
-  "title": "Using Upgrade Assist on Now Support (HI)",
-  "link": "https://www.youtube.com/watch?v=w0PEG2YEXqw",
+  "title": "Episode 28 - Robust Transform Engine & Extract Transform Load in ServiceNow",
+  "link": "https://www.youtube.com/watch?v=_i4KREDLeyE",
   "author": ""
  },
  {
-  "date": "2020-03-27T15:53:01.000Z",
-  "site": "ServiceNow Support",
+  "date": "2020-02-02T22:19:58.000Z",
+  "site": "Goran Lundqvist",
   "category": "YouTube",
-  "title": "Policy Acknowledgement, Attestation Consolidation, and Virtual Agent Chatbot",
-  "link": "https://www.youtube.com/watch?v=CV4gj09vOe0",
+  "title": "Episode 27 - New Flow functionalities in ServiceNow Orlando release",
+  "link": "https://www.youtube.com/watch?v=CKznJyAOJF0",
   "author": ""
  },
  {
-  "date": "2020-03-27T15:53:01.000Z",
-  "site": "ServiceNow Support",
+  "date": "2020-01-27T16:19:37.000Z",
+  "site": "Goran Lundqvist",
   "category": "YouTube",
-  "title": "GRC Part 4 | Risk Management - Defining Risk Indicators",
-  "link": "https://www.youtube.com/watch?v=unHNYyI6lSg",
+  "title": "Showing off some nice functionalities with MRVS within ServiceNow",
+  "link": "https://www.youtube.com/watch?v=Cq8EzurtQMI",
   "author": ""
  },
  {
-  "date": "2020-03-27T15:53:01.000Z",
-  "site": "ServiceNow Support",
+  "date": "2020-01-22T21:00:24.000Z",
+  "site": "Goran Lundqvist",
   "category": "YouTube",
-  "title": "GRC Part 1 | Policy and Compliance - Governance Framework",
-  "link": "https://www.youtube.com/watch?v=6AKfLw3M1Rs",
+  "title": "Episode 26 - Filtering queries from Service Portal in ServiceNow",
+  "link": "https://www.youtube.com/watch?v=Fy_ZMoLgbTk",
   "author": ""
  },
  {
-  "date": "2020-03-27T15:53:01.000Z",
-  "site": "ServiceNow Support",
+  "date": "2019-11-11T10:15:15.000Z",
+  "site": "Goran Lundqvist",
   "category": "YouTube",
-  "title": "GRC Part 5 | Audit - Manage Internal Audit",
-  "link": "https://www.youtube.com/watch?v=9TUDW3gnqGA",
+  "title": "Episode 25 - Complex Objects in ServiceNow Flow Designer",
+  "link": "https://www.youtube.com/watch?v=Hta-b1bMO7Q",
   "author": ""
  },
  {
-  "date": "2020-03-17T16:44:58.000Z",
-  "site": "ServiceNow Support",
+  "date": "2019-10-21T11:07:31.000Z",
+  "site": "Goran Lundqvist",
   "category": "YouTube",
-  "title": "Emergency Response Management",
-  "link": "https://www.youtube.com/watch?v=aE1s83tJxh8",
+  "title": "Episode 24 - XML Parser in ServiceNow",
+  "link": "https://www.youtube.com/watch?v=18DnY4FfMqI",
   "author": ""
  },
  {
-  "date": "2020-03-13T21:14:34.000Z",
-  "site": "ServiceNow Support",
+  "date": "2019-09-01T19:46:42.000Z",
+  "site": "Goran Lundqvist",
   "category": "YouTube",
-  "title": "Orlando Integration Enhancements for HR | Adobe Sign, Okta and CIC Plus",
-  "link": "https://www.youtube.com/watch?v=2YExS6KHAOg",
+  "title": "New features (MRVS, Impersonate & Interceptor) in ServiceNow New York Release.",
+  "link": "https://www.youtube.com/watch?v=nhMrtZitiGM",
   "author": ""
  },
  {
-  "date": "2020-03-13T15:23:12.000Z",
-  "site": "ServiceNow Support",
+  "date": "2019-08-27T12:31:37.000Z",
+  "site": "Goran Lundqvist",
   "category": "YouTube",
-  "title": "Orlando Campaign Enhancements",
-  "link": "https://www.youtube.com/watch?v=BgK3K_S9rtc",
+  "title": "Episode 23 - Import CSV file in ServiceNow (New York release)",
+  "link": "https://www.youtube.com/watch?v=dkgE48EuYZY",
   "author": ""
  },
  {
-  "date": "2020-03-13T15:23:12.000Z",
-  "site": "ServiceNow Support",
+  "date": "2019-07-14T16:43:41.000Z",
+  "site": "Goran Lundqvist",
   "category": "YouTube",
-  "title": "HR Case Classification",
-  "link": "https://www.youtube.com/watch?v=NCgBgEz5F_I",
+  "title": "Episode 22 - Contextual search in ServiceNow (Madrid release)",
+  "link": "https://www.youtube.com/watch?v=vdPWQgMv4gQ",
   "author": ""
  },
  {
-  "date": "2020-03-11T15:24:34.000Z",
-  "site": "ServiceNow Support",
+  "date": "2019-06-16T16:08:23.000Z",
+  "site": "Goran Lundqvist",
   "category": "YouTube",
-  "title": "Mobile Branding | Overview",
-  "link": "https://www.youtube.com/watch?v=bFJeJkBFpts",
+  "title": "Episode 21 - Update set administration in ServiceNow",
+  "link": "https://www.youtube.com/watch?v=eqaIJV4e9WI",
   "author": ""
  },
  {
-  "date": "2020-03-10T20:54:59.000Z",
-  "site": "ServiceNow Support",
+  "date": "2019-05-14T12:43:20.000Z",
+  "site": "Goran Lundqvist",
   "category": "YouTube",
-  "title": "Enterprise Onboarding and Transitions | Orlando Enhancements",
-  "link": "https://www.youtube.com/watch?v=rEzSpwnvJgA",
+  "title": "Backup on your Personal ServiceNow Developer Instance is here",
+  "link": "https://www.youtube.com/watch?v=4FFAOCU_62E",
   "author": ""
  },
  {
-  "date": "2020-02-24T19:22:07.000Z",
-  "site": "ServiceNow Support",
+  "date": "2019-05-08T20:53:10.000Z",
+  "site": "Goran Lundqvist",
   "category": "YouTube",
-  "title": "Track the portfolio",
-  "link": "https://www.youtube.com/watch?v=t7A61MtVFws",
+  "title": "Episode 20 - Create branch & join in a flow in ServiceNow",
+  "link": "https://www.youtube.com/watch?v=xOc342NUzI8",
   "author": ""
  },
  {
-  "date": "2020-02-12T23:11:46.000Z",
-  "site": "ServiceNow Support",
+  "date": "2019-05-08T12:45:41.000Z",
+  "site": "Goran Lundqvist",
   "category": "YouTube",
-  "title": "Getting started with the Change Management mobile experience",
-  "link": "https://www.youtube.com/watch?v=cTNzm87AdmA",
+  "title": "Edit and create a dynamic custom footer for ServiceNow Service Portal",
+  "link": "https://www.youtube.com/watch?v=umrU0gBGRMA",
   "author": ""
  },
  {
-  "date": "2020-02-10T22:28:58.000Z",
-  "site": "ServiceNow Support",
+  "date": "2019-04-06T19:18:20.000Z",
+  "site": "Goran Lundqvist",
   "category": "YouTube",
-  "title": "Software Asset Management | Overview",
-  "link": "https://www.youtube.com/watch?v=Ec5A8k1h1-0",
+  "title": "Episode 19 - ServiceNow Reports, datasets, drilldowns and relates lists conditions",
+  "link": "https://www.youtube.com/watch?v=SQACTGJJoTE",
   "author": ""
  },
  {
@@ -1749,83 +1677,275 @@
   "author": ""
  },
  {
-  "date": "2020-04-13T12:16:05.000Z",
-  "site": "Covestic",
-  "category": "Blog",
-  "title": "Top 5 Customer Service Management “Attractions” in the Orlando Release",
-  "link": "https://www.covestic.com/top-5-customer-service-management-attractions-in-the-orlando-release/",
+  "date": "2020-04-10T20:59:00.000Z",
+  "site": "ServiceNow Support",
+  "category": "YouTube",
+  "title": "How to Configure a Campaign",
+  "link": "https://www.youtube.com/watch?v=d_N45k9xxw8",
   "author": ""
  },
  {
-  "date": "2020-03-30T15:53:43.000Z",
-  "site": "Covestic",
-  "category": "Blog",
-  "title": "5 ServiceNow Tricks and Hidden Features for System Administrators and Advanced Users (Part 1)",
-  "link": "https://www.covestic.com/5-servicenow-tricks-and-hidden-features-for-system-administrators-and-advanced-users-part-1/",
+  "date": "2020-04-03T18:20:31.000Z",
+  "site": "ServiceNow Support",
+  "category": "YouTube",
+  "title": "Using Upgrade Assist on Now Support (HI)",
+  "link": "https://www.youtube.com/watch?v=w0PEG2YEXqw",
   "author": ""
  },
  {
-  "date": "2020-02-28T15:32:53.000Z",
-  "site": "Covestic",
-  "category": "Blog",
-  "title": "Service Level Agreements Decoded: A Closer Look at Three Common Ones",
-  "link": "https://www.covestic.com/service-level-agreements-decoded-a-closer-look-at-three-common-ones/",
+  "date": "2020-03-27T15:53:01.000Z",
+  "site": "ServiceNow Support",
+  "category": "YouTube",
+  "title": "Policy Acknowledgement, Attestation Consolidation, and Virtual Agent Chatbot",
+  "link": "https://www.youtube.com/watch?v=CV4gj09vOe0",
   "author": ""
  },
  {
-  "date": "2020-01-07T16:18:54.000Z",
-  "site": "Covestic",
-  "category": "Blog",
-  "title": "2019 Resource Round-up: A look at Covestic clients’ favorite eBooks, webinars and blogs",
-  "link": "https://www.covestic.com/2019-resource-round-up-a-look-at-covestic-clients-favorite-ebooks-webinars-and-blogs/",
+  "date": "2020-03-27T15:53:01.000Z",
+  "site": "ServiceNow Support",
+  "category": "YouTube",
+  "title": "GRC Part 4 | Risk Management - Defining Risk Indicators",
+  "link": "https://www.youtube.com/watch?v=unHNYyI6lSg",
   "author": ""
  },
  {
-  "date": "2019-12-18T14:30:05.000Z",
-  "site": "Covestic",
-  "category": "Blog",
-  "title": "California Consumer Privacy Act (CCPA): How to Leverage Your Investment in ServiceNow to Comply with the CCPA",
-  "link": "https://www.covestic.com/california-consumer-privacy-act-ccpa-how-to-leverage-your-investment-in-servicenow-to-comply-with-the-ccpa/",
+  "date": "2020-03-27T15:53:01.000Z",
+  "site": "ServiceNow Support",
+  "category": "YouTube",
+  "title": "GRC Part 1 | Policy and Compliance - Governance Framework",
+  "link": "https://www.youtube.com/watch?v=6AKfLw3M1Rs",
   "author": ""
  },
  {
-  "date": "2019-12-05T14:13:58.000Z",
-  "site": "Covestic",
-  "category": "Blog",
-  "title": "Leverage Native Tools in ServiceNow for a Healthy Configuration Management Database",
-  "link": "https://www.covestic.com/leverage-native-tools-in-servicenow-for-a-healthy-configuration-management-database/",
+  "date": "2020-03-27T15:53:01.000Z",
+  "site": "ServiceNow Support",
+  "category": "YouTube",
+  "title": "GRC Part 5 | Audit - Manage Internal Audit",
+  "link": "https://www.youtube.com/watch?v=9TUDW3gnqGA",
   "author": ""
  },
  {
-  "date": "2019-12-02T13:29:24.000Z",
-  "site": "Covestic",
-  "category": "Blog",
-  "title": "Time for a Checkup: Partner with Covestic for a Configuration Management Database Health Check",
-  "link": "https://www.covestic.com/time-for-a-checkup-partner-with-covestic-for-a-configuration-management-database-health-check/",
+  "date": "2020-03-17T16:44:58.000Z",
+  "site": "ServiceNow Support",
+  "category": "YouTube",
+  "title": "Emergency Response Management",
+  "link": "https://www.youtube.com/watch?v=aE1s83tJxh8",
   "author": ""
  },
  {
-  "date": "2019-11-18T14:26:46.000Z",
-  "site": "Covestic",
-  "category": "Blog",
-  "title": "California Consumer Privacy Act (CCPA): What’s Required and How to Comply",
-  "link": "https://www.covestic.com/california-consumer-privacy-act-ccpa-whats-required-and-how-to-comply/",
+  "date": "2020-03-13T21:14:34.000Z",
+  "site": "ServiceNow Support",
+  "category": "YouTube",
+  "title": "Orlando Integration Enhancements for HR | Adobe Sign, Okta and CIC Plus",
+  "link": "https://www.youtube.com/watch?v=2YExS6KHAOg",
   "author": ""
  },
  {
-  "date": "2019-11-14T01:36:11.000Z",
-  "site": "Covestic",
-  "category": "Blog",
-  "title": "New ServiceNow Research Study: Costs and Consequences of Gaps in Vulnerability Response",
-  "link": "https://www.covestic.com/new-servicenow-research-study-costs-and-consequences-of-gaps-in-vulnerability-response/",
+  "date": "2020-03-13T15:23:12.000Z",
+  "site": "ServiceNow Support",
+  "category": "YouTube",
+  "title": "Orlando Campaign Enhancements",
+  "link": "https://www.youtube.com/watch?v=BgK3K_S9rtc",
   "author": ""
  },
  {
-  "date": "2019-10-14T01:38:38.000Z",
-  "site": "Covestic",
+  "date": "2020-03-13T15:23:12.000Z",
+  "site": "ServiceNow Support",
+  "category": "YouTube",
+  "title": "HR Case Classification",
+  "link": "https://www.youtube.com/watch?v=NCgBgEz5F_I",
+  "author": ""
+ },
+ {
+  "date": "2020-03-11T15:24:34.000Z",
+  "site": "ServiceNow Support",
+  "category": "YouTube",
+  "title": "Mobile Branding | Overview",
+  "link": "https://www.youtube.com/watch?v=bFJeJkBFpts",
+  "author": ""
+ },
+ {
+  "date": "2020-03-10T20:54:59.000Z",
+  "site": "ServiceNow Support",
+  "category": "YouTube",
+  "title": "Enterprise Onboarding and Transitions | Orlando Enhancements",
+  "link": "https://www.youtube.com/watch?v=rEzSpwnvJgA",
+  "author": ""
+ },
+ {
+  "date": "2020-02-24T19:22:07.000Z",
+  "site": "ServiceNow Support",
+  "category": "YouTube",
+  "title": "Track the portfolio",
+  "link": "https://www.youtube.com/watch?v=t7A61MtVFws",
+  "author": ""
+ },
+ {
+  "date": "2020-02-12T23:11:46.000Z",
+  "site": "ServiceNow Support",
+  "category": "YouTube",
+  "title": "Getting started with the Change Management mobile experience",
+  "link": "https://www.youtube.com/watch?v=cTNzm87AdmA",
+  "author": ""
+ },
+ {
+  "date": "2020-02-10T22:28:58.000Z",
+  "site": "ServiceNow Support",
+  "category": "YouTube",
+  "title": "Software Asset Management | Overview",
+  "link": "https://www.youtube.com/watch?v=Ec5A8k1h1-0",
+  "author": ""
+ },
+ {
+  "date": "2020-04-09T18:07:24.000Z",
+  "site": "ServiceNow Community",
+  "category": "YouTube",
+  "title": "4/9 Ask the Expert with Steven Bell: Scripting Resources Revisited",
+  "link": "https://www.youtube.com/watch?v=deJznaqA3ms",
+  "author": ""
+ },
+ {
+  "date": "2020-04-08T23:00:09.000Z",
+  "site": "ServiceNow Community",
+  "category": "YouTube",
+  "title": "Performance Analytics Office Hours 2020 04 08 Diagnostics and Logging",
+  "link": "https://www.youtube.com/watch?v=xhH937SmrTI",
+  "author": ""
+ },
+ {
+  "date": "2020-04-08T21:51:35.000Z",
+  "site": "ServiceNow Community",
+  "category": "YouTube",
+  "title": "Virtual Agent Academy 2020 04 07 Using AI & analytics to identify topic candidates",
+  "link": "https://www.youtube.com/watch?v=RLwreguZhl8",
+  "author": ""
+ },
+ {
+  "date": "2020-04-06T16:30:20.000Z",
+  "site": "ServiceNow Community",
+  "category": "YouTube",
+  "title": "Mobile App Academy 2020 03 31   Mobile Application Management",
+  "link": "https://www.youtube.com/watch?v=kQgrpMKncJw",
+  "author": ""
+ },
+ {
+  "date": "2020-04-01T18:08:08.000Z",
+  "site": "ServiceNow Community",
+  "category": "YouTube",
+  "title": "TechNow Ep 75 | Extending the Emergency Response Management Apps",
+  "link": "https://www.youtube.com/watch?v=HgKeTbnvzhY",
+  "author": ""
+ },
+ {
+  "date": "2020-04-01T00:31:24.000Z",
+  "site": "ServiceNow Community",
+  "category": "YouTube",
+  "title": "Tenable integration and configuration: how to get them right first time.",
+  "link": "https://www.youtube.com/watch?v=BVrx8oKcpk8",
+  "author": ""
+ },
+ {
+  "date": "2020-03-31T18:34:26.000Z",
+  "site": "ServiceNow Community",
+  "category": "YouTube",
+  "title": "3/31 Ask the Expert: low Designer Intermediate",
+  "link": "https://www.youtube.com/watch?v=LPOcT8rLI6k",
+  "author": ""
+ },
+ {
+  "date": "2020-03-27T17:09:53.000Z",
+  "site": "ServiceNow Community",
+  "category": "YouTube",
+  "title": "3/27 Ask the Expert: How Should an Organization’s Compliance Department Respond to a Pandemic?",
+  "link": "https://www.youtube.com/watch?v=hvuXgo8bHGg",
+  "author": ""
+ },
+ {
+  "date": "2020-03-26T17:08:00.000Z",
+  "site": "ServiceNow Community",
+  "category": "YouTube",
+  "title": "3/26 Last Thursdays: What’s New in ITBM in the ServiceNow Orlando Release?",
+  "link": "https://www.youtube.com/watch?v=XQ33RCWOKKc",
+  "author": ""
+ },
+ {
+  "date": "2020-03-26T15:29:06.000Z",
+  "site": "ServiceNow Community",
+  "category": "YouTube",
+  "title": "NOWCommunity Live Stream - 2020-03-26",
+  "link": "https://www.youtube.com/watch?v=O1FB3E20FOw",
+  "author": ""
+ },
+ {
+  "date": "2020-03-25T21:48:54.000Z",
+  "site": "ServiceNow Community",
+  "category": "YouTube",
+  "title": "Virtual Agent Academy 2020 03 24   NLU Model Tuning",
+  "link": "https://www.youtube.com/watch?v=7uqE_zUAPlA",
+  "author": ""
+ },
+ {
+  "date": "2020-03-25T21:40:56.000Z",
+  "site": "ServiceNow Community",
+  "category": "YouTube",
+  "title": "Performance Analytics Office Hours 2020 03 25   Personalized Widgets",
+  "link": "https://www.youtube.com/watch?v=fxmEjX2bur4",
+  "author": ""
+ },
+ {
+  "date": "2020-03-25T18:04:57.000Z",
+  "site": "ServiceNow Community",
+  "category": "YouTube",
+  "title": "3/25 Recurring March Webinar Project to Product: How to evolve to an Agile Delivery Model",
+  "link": "https://www.youtube.com/watch?v=s9LMfeH_Qq4",
+  "author": ""
+ },
+ {
+  "date": "2020-03-23T15:36:58.000Z",
+  "site": "ServiceNow Community",
+  "category": "YouTube",
+  "title": "NOWCommunity Live Stream - 2020-03-23",
+  "link": "https://www.youtube.com/watch?v=AV8DF0iZV6o",
+  "author": ""
+ },
+ {
+  "date": "2020-03-20T22:24:37.000Z",
+  "site": "ServiceNow Community",
+  "category": "YouTube",
+  "title": "Mobile App Academy 2020 03 17   Mobile Hierarchy",
+  "link": "https://www.youtube.com/watch?v=0L2Fdd_EHE0",
+  "author": ""
+ },
+ {
+  "date": "2020-03-15T02:43:39.000Z",
+  "site": "Mav",
   "category": "Blog",
-  "title": "Why a Configuration Management Database Matters More than you Realize",
-  "link": "https://www.covestic.com/why-a-configuration-management-database-matters-more-than-you-realize/",
+  "title": "Dependent variables in the Service Portal",
+  "link": "https://mavembry.info/post/dependent-variable-sp/",
+  "author": ""
+ },
+ {
+  "date": "2020-01-08T23:54:00.000Z",
+  "site": "Mav",
+  "category": "Blog",
+  "title": "NYT Search",
+  "link": "https://mavembry.info/project/nyt-search/",
+  "author": ""
+ },
+ {
+  "date": "2020-01-08T23:40:47.000Z",
+  "site": "Mav",
+  "category": "Blog",
+  "title": "Train Manager",
+  "link": "https://mavembry.info/project/train-manager/",
+  "author": ""
+ },
+ {
+  "date": "2020-01-08T19:51:26.000Z",
+  "site": "Mav",
+  "category": "Blog",
+  "title": "Difference between GlideRecord() and GlideAggregate()",
+  "link": "https://mavembry.info/post/gr-and-ga/",
   "author": ""
  },
  {
@@ -2029,406 +2149,6 @@
   "author": ""
  },
  {
-  "date": "2020-04-10T12:00:27.000Z",
-  "site": "GlideFast",
-  "category": "YouTube",
-  "title": "Mobile Applications - ServiceNow Orlando Feature | Overview",
-  "link": "https://www.youtube.com/watch?v=rxaYNCk94Ao",
-  "author": ""
- },
- {
-  "date": "2020-04-03T12:00:14.000Z",
-  "site": "GlideFast",
-  "category": "YouTube",
-  "title": "AI Operations in ServiceNow | Overview",
-  "link": "https://www.youtube.com/watch?v=d1Rcl0x8zTU",
-  "author": ""
- },
- {
-  "date": "2020-03-30T18:54:29.000Z",
-  "site": "GlideFast",
-  "category": "YouTube",
-  "title": "Emergency Exposure Management Application | Overview",
-  "link": "https://www.youtube.com/watch?v=AuZghO6ohwQ",
-  "author": ""
- },
- {
-  "date": "2020-03-27T13:00:15.000Z",
-  "site": "GlideFast",
-  "category": "YouTube",
-  "title": "ServiceNow - Tips & Tricks 5 - Variable Attributes",
-  "link": "https://www.youtube.com/watch?v=P_7mrdWPX6c",
-  "author": ""
- },
- {
-  "date": "2020-03-23T21:05:17.000Z",
-  "site": "GlideFast",
-  "category": "YouTube",
-  "title": "Emergency Response Operations Application | Overview",
-  "link": "https://www.youtube.com/watch?v=_wMEBPaKYb8",
-  "author": ""
- },
- {
-  "date": "2020-03-20T12:00:31.000Z",
-  "site": "GlideFast",
-  "category": "YouTube",
-  "title": "Security Operations in ServiceNow | Overview",
-  "link": "https://www.youtube.com/watch?v=dqQrDPywlKI",
-  "author": ""
- },
- {
-  "date": "2020-03-19T14:36:58.000Z",
-  "site": "GlideFast",
-  "category": "YouTube",
-  "title": "Emergency Self Report Application | Overview",
-  "link": "https://www.youtube.com/watch?v=XUGXaCqsDDw",
-  "author": ""
- },
- {
-  "date": "2020-03-17T20:40:23.000Z",
-  "site": "GlideFast",
-  "category": "YouTube",
-  "title": "Emergency Outreach Application | Overview",
-  "link": "https://www.youtube.com/watch?v=nNqu1-vuCcg",
-  "author": ""
- },
- {
-  "date": "2020-03-12T13:30:03.000Z",
-  "site": "GlideFast",
-  "category": "YouTube",
-  "title": "Program Status Report - ServiceNow Orlando Feature | Overview",
-  "link": "https://www.youtube.com/watch?v=rtsvaDFVnH8",
-  "author": ""
- },
- {
-  "date": "2020-03-05T14:00:04.000Z",
-  "site": "GlideFast",
-  "category": "YouTube",
-  "title": "ServiceNow - Tips & Tricks 4",
-  "link": "https://www.youtube.com/watch?v=GLOuWE6hrdM",
-  "author": ""
- },
- {
-  "date": "2020-03-03T16:09:16.000Z",
-  "site": "GlideFast",
-  "category": "YouTube",
-  "title": "Discovery in ServiceNow | Overview",
-  "link": "https://www.youtube.com/watch?v=TPtTVTsJBSg",
-  "author": ""
- },
- {
-  "date": "2020-02-20T17:00:05.000Z",
-  "site": "GlideFast",
-  "category": "YouTube",
-  "title": "ServiceNow Higher Education SIG at Boston University | Recap",
-  "link": "https://www.youtube.com/watch?v=IRaQrfNox6E",
-  "author": ""
- },
- {
-  "date": "2020-02-14T15:38:48.000Z",
-  "site": "GlideFast",
-  "category": "YouTube",
-  "title": "What is ITSM?",
-  "link": "https://www.youtube.com/watch?v=RLimA5eqvoA",
-  "author": ""
- },
- {
-  "date": "2020-02-05T18:47:31.000Z",
-  "site": "GlideFast",
-  "category": "YouTube",
-  "title": "Performance Analytics in ServiceNow",
-  "link": "https://www.youtube.com/watch?v=VsLe8vHgGF4",
-  "author": ""
- },
- {
-  "date": "2020-01-23T13:00:02.000Z",
-  "site": "GlideFast",
-  "category": "YouTube",
-  "title": "VPNs- Virtual Private Networks | Overview",
-  "link": "https://www.youtube.com/watch?v=A6E94scvjHM",
-  "author": ""
- },
- {
-  "date": "2020-04-02T11:00:00.000Z",
-  "site": "Andrew Albury-Dor",
-  "category": "Blog",
-  "title": "Now Experience Addendum 1: Maintaining Your Environment",
-  "link": "https://andrew.alburydor.com/posts/2020-03-29-nowui-a1-maintaining-environment/",
-  "author": ""
- },
- {
-  "date": "2020-03-26T12:00:00.000Z",
-  "site": "Andrew Albury-Dor",
-  "category": "Blog",
-  "title": "Now Experience Part 2: Let's Build a Thing",
-  "link": "https://andrew.alburydor.com/posts/2020-03-26-nowui-part2/",
-  "author": ""
- },
- {
-  "date": "2020-03-24T11:00:00.000Z",
-  "site": "Andrew Albury-Dor",
-  "category": "Blog",
-  "title": "Now Experience Part 1.5: Managing and Sharing Your Code",
-  "link": "https://andrew.alburydor.com/posts/2020-03-24-nowui-part1point5/",
-  "author": ""
- },
- {
-  "date": "2020-03-20T00:00:00.000Z",
-  "site": "Andrew Albury-Dor",
-  "category": "Blog",
-  "title": "Now Experience Part 1: Setting up your Workspace",
-  "link": "https://andrew.alburydor.com/posts/2020-03-20-nowui-part1/",
-  "author": ""
- },
- {
-  "date": "2020-03-17T00:00:00.000Z",
-  "site": "Andrew Albury-Dor",
-  "category": "Blog",
-  "title": "Another New Website",
-  "link": "https://andrew.alburydor.com/posts/2020-03-17-websitev4/",
-  "author": ""
- },
- {
-  "date": "2020-01-24T00:00:00.000Z",
-  "site": "Andrew Albury-Dor",
-  "category": "Blog",
-  "title": "ServiceNow Developer MVP 2020",
-  "link": "https://andrew.alburydor.com/posts/2020-01-24-developer-mvp/",
-  "author": ""
- },
- {
-  "date": "2020-01-11T00:00:00.000Z",
-  "site": "Andrew Albury-Dor",
-  "category": "Blog",
-  "title": "Live Coding Happy Hour 10/11th Jan '20",
-  "link": "https://andrew.alburydor.com/posts/2020-01-12-lchh/",
-  "author": ""
- },
- {
-  "date": "2020-01-06T00:00:00.000Z",
-  "site": "Andrew Albury-Dor",
-  "category": "Blog",
-  "title": "Orlando Release - Best New Features",
-  "link": "https://andrew.alburydor.com/posts/2020-01-06-orlandofeatures/",
-  "author": ""
- },
- {
-  "date": "2019-12-31T00:00:00.000Z",
-  "site": "Andrew Albury-Dor",
-  "category": "Blog",
-  "title": "Happy (Educational) Holidays!",
-  "link": "https://andrew.alburydor.com/posts/2019-12-30-nowlearning/",
-  "author": ""
- },
- {
-  "date": "2019-12-10T00:00:00.000Z",
-  "site": "Andrew Albury-Dor",
-  "category": "Blog",
-  "title": "Hello World",
-  "link": "https://andrew.alburydor.com/posts/2019-12-10-helloworld/",
-  "author": ""
- },
- {
-  "date": "2020-04-09T18:07:24.000Z",
-  "site": "ServiceNow Community",
-  "category": "YouTube",
-  "title": "4/9 Ask the Expert with Steven Bell: Scripting Resources Revisited",
-  "link": "https://www.youtube.com/watch?v=deJznaqA3ms",
-  "author": ""
- },
- {
-  "date": "2020-04-08T23:00:09.000Z",
-  "site": "ServiceNow Community",
-  "category": "YouTube",
-  "title": "Performance Analytics Office Hours 2020 04 08 Diagnostics and Logging",
-  "link": "https://www.youtube.com/watch?v=xhH937SmrTI",
-  "author": ""
- },
- {
-  "date": "2020-04-08T21:51:35.000Z",
-  "site": "ServiceNow Community",
-  "category": "YouTube",
-  "title": "Virtual Agent Academy 2020 04 07 Using AI & analytics to identify topic candidates",
-  "link": "https://www.youtube.com/watch?v=RLwreguZhl8",
-  "author": ""
- },
- {
-  "date": "2020-04-06T16:30:20.000Z",
-  "site": "ServiceNow Community",
-  "category": "YouTube",
-  "title": "Mobile App Academy 2020 03 31   Mobile Application Management",
-  "link": "https://www.youtube.com/watch?v=kQgrpMKncJw",
-  "author": ""
- },
- {
-  "date": "2020-04-01T18:08:08.000Z",
-  "site": "ServiceNow Community",
-  "category": "YouTube",
-  "title": "TechNow Ep 75 | Extending the Emergency Response Management Apps",
-  "link": "https://www.youtube.com/watch?v=HgKeTbnvzhY",
-  "author": ""
- },
- {
-  "date": "2020-04-01T00:31:24.000Z",
-  "site": "ServiceNow Community",
-  "category": "YouTube",
-  "title": "Tenable integration and configuration: how to get them right first time.",
-  "link": "https://www.youtube.com/watch?v=BVrx8oKcpk8",
-  "author": ""
- },
- {
-  "date": "2020-03-31T18:34:26.000Z",
-  "site": "ServiceNow Community",
-  "category": "YouTube",
-  "title": "3/31 Ask the Expert: low Designer Intermediate",
-  "link": "https://www.youtube.com/watch?v=LPOcT8rLI6k",
-  "author": ""
- },
- {
-  "date": "2020-03-27T17:09:53.000Z",
-  "site": "ServiceNow Community",
-  "category": "YouTube",
-  "title": "3/27 Ask the Expert: How Should an Organization’s Compliance Department Respond to a Pandemic?",
-  "link": "https://www.youtube.com/watch?v=hvuXgo8bHGg",
-  "author": ""
- },
- {
-  "date": "2020-03-26T17:08:00.000Z",
-  "site": "ServiceNow Community",
-  "category": "YouTube",
-  "title": "3/26 Last Thursdays: What’s New in ITBM in the ServiceNow Orlando Release?",
-  "link": "https://www.youtube.com/watch?v=XQ33RCWOKKc",
-  "author": ""
- },
- {
-  "date": "2020-03-26T15:29:06.000Z",
-  "site": "ServiceNow Community",
-  "category": "YouTube",
-  "title": "NOWCommunity Live Stream - 2020-03-26",
-  "link": "https://www.youtube.com/watch?v=O1FB3E20FOw",
-  "author": ""
- },
- {
-  "date": "2020-03-25T21:48:54.000Z",
-  "site": "ServiceNow Community",
-  "category": "YouTube",
-  "title": "Virtual Agent Academy 2020 03 24   NLU Model Tuning",
-  "link": "https://www.youtube.com/watch?v=7uqE_zUAPlA",
-  "author": ""
- },
- {
-  "date": "2020-03-25T21:40:56.000Z",
-  "site": "ServiceNow Community",
-  "category": "YouTube",
-  "title": "Performance Analytics Office Hours 2020 03 25   Personalized Widgets",
-  "link": "https://www.youtube.com/watch?v=fxmEjX2bur4",
-  "author": ""
- },
- {
-  "date": "2020-03-25T18:04:57.000Z",
-  "site": "ServiceNow Community",
-  "category": "YouTube",
-  "title": "3/25 Recurring March Webinar Project to Product: How to evolve to an Agile Delivery Model",
-  "link": "https://www.youtube.com/watch?v=s9LMfeH_Qq4",
-  "author": ""
- },
- {
-  "date": "2020-03-23T15:36:58.000Z",
-  "site": "ServiceNow Community",
-  "category": "YouTube",
-  "title": "NOWCommunity Live Stream - 2020-03-23",
-  "link": "https://www.youtube.com/watch?v=AV8DF0iZV6o",
-  "author": ""
- },
- {
-  "date": "2020-03-20T22:24:37.000Z",
-  "site": "ServiceNow Community",
-  "category": "YouTube",
-  "title": "Mobile App Academy 2020 03 17   Mobile Hierarchy",
-  "link": "https://www.youtube.com/watch?v=0L2Fdd_EHE0",
-  "author": ""
- },
- {
-  "date": "2020-03-05T17:41:53.000Z",
-  "site": "An Errant Programmer",
-  "category": "Blog",
-  "title": "Slack Privacy Mode",
-  "link": "http://anerrantprogrammer.com/?p=214",
-  "author": ""
- },
- {
-  "date": "2019-07-30T01:17:39.000Z",
-  "site": "An Errant Programmer",
-  "category": "Blog",
-  "title": "Real Fake Startup Launched",
-  "link": "http://anerrantprogrammer.com/?p=211",
-  "author": ""
- },
- {
-  "date": "2018-12-12T03:30:42.000Z",
-  "site": "An Errant Programmer",
-  "category": "Blog",
-  "title": "The journey stalled",
-  "link": "http://anerrantprogrammer.com/?p=202",
-  "author": ""
- },
- {
-  "date": "2017-12-13T14:42:07.000Z",
-  "site": "An Errant Programmer",
-  "category": "Blog",
-  "title": "New YouTube Channel",
-  "link": "http://anerrantprogrammer.com/?p=198",
-  "author": ""
- },
- {
-  "date": "2017-11-02T02:48:16.000Z",
-  "site": "An Errant Programmer",
-  "category": "Blog",
-  "title": "Automating Flippy Knife for Android",
-  "link": "http://anerrantprogrammer.com/?p=192",
-  "author": ""
- },
- {
-  "date": "2017-10-21T22:56:50.000Z",
-  "site": "An Errant Programmer",
-  "category": "Blog",
-  "title": "Recovering Redacted Text From a Document",
-  "link": "http://anerrantprogrammer.com/?p=188",
-  "author": ""
- },
- {
-  "date": "2017-10-21T03:07:57.000Z",
-  "site": "An Errant Programmer",
-  "category": "Blog",
-  "title": "Site Rebranding",
-  "link": "http://anerrantprogrammer.com/?p=181",
-  "author": ""
- },
- {
-  "date": "2016-08-24T05:07:48.000Z",
-  "site": "An Errant Programmer",
-  "category": "Blog",
-  "title": "Debugging ServiceNow Performance Issues",
-  "link": "http://anerrantprogrammer.com/?p=167",
-  "author": ""
- },
- {
-  "date": "2016-04-28T15:00:53.000Z",
-  "site": "An Errant Programmer",
-  "category": "Blog",
-  "title": "Getting the Current URL",
-  "link": "http://anerrantprogrammer.com/?p=132",
-  "author": ""
- },
- {
-  "date": "2016-04-22T20:55:52.000Z",
-  "site": "An Errant Programmer",
-  "category": "Blog",
-  "title": "ServiceNow Sync Plugin for Sublime Text 3",
-  "link": "http://anerrantprogrammer.com/?p=127",
-  "author": ""
- },
- {
   "date": "2020-04-06T17:57:57.000Z",
   "site": "ServiceStart Podcast",
   "category": "Podcast",
@@ -2581,6 +2301,14 @@
   "author": ""
  },
  {
+  "date": "2020-04-13T19:53:13.000Z",
+  "site": "Workflow",
+  "category": "Newsletter",
+  "title": "The innovation paradox",
+  "link": "https://workflow.servicenow.com/quarterly/issue/5/cios-pressured-to-innovate",
+  "author": ""
+ },
+ {
   "date": "2020-04-06T20:41:13.000Z",
   "site": "Workflow",
   "category": "Newsletter",
@@ -2669,11 +2397,523 @@
   "author": ""
  },
  {
-  "date": "2020-02-24T17:11:26.000Z",
-  "site": "Workflow",
-  "category": "Newsletter",
-  "title": "Best examples of human-machine teaming",
-  "link": "https://workflow.servicenow.com/customer-experience/roundtable-human-machine-teaming/",
+  "date": "2020-04-10T14:00:00.000Z",
+  "site": "ServiceNow Developer Blog",
+  "category": "Blog",
+  "title": "Virtual Meetups",
+  "link": "https://developer.servicenow.com/blog.do?p=/post/virtual-meetups/",
+  "author": ""
+ },
+ {
+  "date": "2020-04-08T14:00:00.000Z",
+  "site": "ServiceNow Developer Blog",
+  "category": "Blog",
+  "title": "Orlando Components LCHH Recap",
+  "link": "https://developer.servicenow.com/blog.do?p=/post/orlando-components-lchh-recap/",
+  "author": ""
+ },
+ {
+  "date": "2020-04-03T14:00:00.000Z",
+  "site": "ServiceNow Developer Blog",
+  "category": "Blog",
+  "title": "Creatorcon Hackathon 2020",
+  "link": "https://developer.servicenow.com/blog.do?p=/post/creatorcon-hackathon-2020/",
+  "author": ""
+ },
+ {
+  "date": "2020-04-01T14:00:00.000Z",
+  "site": "ServiceNow Developer Blog",
+  "category": "Blog",
+  "title": "How to have fun with your fellow developers",
+  "link": "https://developer.servicenow.com/blog.do?p=/post/trolling-your-friends/",
+  "author": ""
+ },
+ {
+  "date": "2020-03-31T14:00:00.000Z",
+  "site": "ServiceNow Developer Blog",
+  "category": "Blog",
+  "title": "A Developers Look at ServiceNows Emergency Response Management Apps",
+  "link": "https://developer.servicenow.com/blog.do?p=/post/emergency-response-apps/",
+  "author": ""
+ },
+ {
+  "date": "2020-03-18T13:00:00.000Z",
+  "site": "ServiceNow Developer Blog",
+  "category": "Blog",
+  "title": "Working Remotely Tips",
+  "link": "https://developer.servicenow.com/blog.do?p=/post/wfh-tips/",
+  "author": ""
+ },
+ {
+  "date": "2020-03-14T00:00:00.000Z",
+  "site": "ServiceNow Developer Blog",
+  "category": "Blog",
+  "title": "Personal Developer Instances and Components",
+  "link": "https://developer.servicenow.com/blog.do?p=/post/pdis-and-components/",
+  "author": ""
+ },
+ {
+  "date": "2020-03-12T14:00:00.000Z",
+  "site": "ServiceNow Developer Blog",
+  "category": "Blog",
+  "title": "Now Experience",
+  "link": "https://developer.servicenow.com/blog.do?p=/post/now-experience/",
+  "author": ""
+ },
+ {
+  "date": "2020-03-12T12:00:00.000Z",
+  "site": "ServiceNow Developer Blog",
+  "category": "Blog",
+  "title": "Developer Site Reimagined",
+  "link": "https://developer.servicenow.com/blog.do?p=/post/dev-site-launch/",
+  "author": ""
+ },
+ {
+  "date": "2020-03-09T15:00:00.000Z",
+  "site": "ServiceNow Developer Blog",
+  "category": "Blog",
+  "title": "Orlando: IntegrationHub",
+  "link": "https://developer.servicenow.com/blog.do?p=/post/orlando-integrationhub/",
+  "author": ""
+ },
+ {
+  "date": "2020-03-04T14:00:00.000Z",
+  "site": "ServiceNow Developer Blog",
+  "category": "Blog",
+  "title": "Welcome Brad Tilton",
+  "link": "https://developer.servicenow.com/blog.do?p=/post/brad-intro/",
+  "author": ""
+ },
+ {
+  "date": "2020-02-25T14:00:00.000Z",
+  "site": "ServiceNow Developer Blog",
+  "category": "Blog",
+  "title": "Developer Site Changes",
+  "link": "https://developer.servicenow.com/blog.do?p=/post/dev-site-relaunch/",
+  "author": ""
+ },
+ {
+  "date": "2020-02-24T14:00:00.000Z",
+  "site": "ServiceNow Developer Blog",
+  "category": "Blog",
+  "title": "Orlando: Studio Features",
+  "link": "https://developer.servicenow.com/blog.do?p=/post/o-studio-features/",
+  "author": ""
+ },
+ {
+  "date": "2020-02-13T20:00:00.000Z",
+  "site": "ServiceNow Developer Blog",
+  "category": "Blog",
+  "title": "Orlando Admin Features",
+  "link": "https://developer.servicenow.com/blog.do?p=/post/o-admin-features/",
+  "author": ""
+ },
+ {
+  "date": "2020-02-11T15:00:00.000Z",
+  "site": "ServiceNow Developer Blog",
+  "category": "Blog",
+  "title": "Orlando: Flow Designer",
+  "link": "https://developer.servicenow.com/blog.do?p=/post/orlando-flow-designer/",
+  "author": ""
+ },
+ {
+  "date": "2020-01-29T15:00:00.000Z",
+  "site": "ServiceNow Developer Blog",
+  "category": "Blog",
+  "title": "Orlando: Automated Test Framework Changes",
+  "link": "https://developer.servicenow.com/blog.do?p=/post/o-atf/",
+  "author": ""
+ },
+ {
+  "date": "2020-01-23T17:00:00.000Z",
+  "site": "ServiceNow Developer Blog",
+  "category": "Blog",
+  "title": "Orlando Now Available for Personal Developer Instances",
+  "link": "https://developer.servicenow.com/blog.do?p=/post/orlando-pdi/",
+  "author": ""
+ },
+ {
+  "date": "2020-01-16T22:10:00.000Z",
+  "site": "ServiceNow Developer Blog",
+  "category": "Blog",
+  "title": "2020 ServiceNow Developer MVPs",
+  "link": "https://developer.servicenow.com/blog.do?p=/post/all-stars/",
+  "author": ""
+ },
+ {
+  "date": "2020-01-15T15:00:00.000Z",
+  "site": "ServiceNow Developer Blog",
+  "category": "Blog",
+  "title": "Debugging and you",
+  "link": "https://developer.servicenow.com/blog.do?p=/post/debugging/",
+  "author": ""
+ },
+ {
+  "date": "2019-12-04T16:00:00.000Z",
+  "site": "ServiceNow Developer Blog",
+  "category": "Blog",
+  "title": "Adding ATF to Existing Projects",
+  "link": "https://developer.servicenow.com/blog.do?p=/post/atf_existing_project/",
+  "author": ""
+ },
+ {
+  "date": "2020-03-18T16:50:27.000Z",
+  "site": "Shiva Thomas",
+  "category": "Blog",
+  "title": "Testing 3 methods to get an invitation for Knowledge 2020",
+  "link": "https://servicenow.implementation.blog/testing-3-methods-to-get-an-invitation-for-knowledge-2020/",
+  "author": ""
+ },
+ {
+  "date": "2020-02-05T18:31:56.000Z",
+  "site": "Shiva Thomas",
+  "category": "Blog",
+  "title": "Exam Review: Certified Master Architect – Capstone Board Review",
+  "link": "https://servicenow.implementation.blog/exam-review-certified-master-architect/",
+  "author": ""
+ },
+ {
+  "date": "2019-11-20T15:49:21.000Z",
+  "site": "Shiva Thomas",
+  "category": "Blog",
+  "title": "Participating in the ServiceNow Certified Master Architect program",
+  "link": "https://servicenow.implementation.blog/certified-master-architect-cma-program/",
+  "author": ""
+ },
+ {
+  "date": "2018-02-18T23:00:31.000Z",
+  "site": "Shiva Thomas",
+  "category": "Blog",
+  "title": "Coaching Loops",
+  "link": "https://servicenow.implementation.blog/coaching-loops/",
+  "author": ""
+ },
+ {
+  "date": "2018-01-07T20:01:39.000Z",
+  "site": "Shiva Thomas",
+  "category": "Blog",
+  "title": "ServiceNow Online Training Alternatives on Udemy",
+  "link": "https://servicenow.implementation.blog/servicenow-online-training-alternatives-on-udemy/",
+  "author": ""
+ },
+ {
+  "date": "2017-12-16T10:56:50.000Z",
+  "site": "Shiva Thomas",
+  "category": "Blog",
+  "title": "Exam Review: Certified Implementation Specialist – ITSM",
+  "link": "https://servicenow.implementation.blog/servicenow-exam-review-certified-implementation-specialist-itsm/",
+  "author": ""
+ },
+ {
+  "date": "2017-08-20T20:54:07.000Z",
+  "site": "Shiva Thomas",
+  "category": "Blog",
+  "title": "JavaScript learning path: From Zero to Hero",
+  "link": "https://servicenow.implementation.blog/javascript-learning-path-from-zero-to-hero/",
+  "author": ""
+ },
+ {
+  "date": "2017-07-14T19:05:47.000Z",
+  "site": "Shiva Thomas",
+  "category": "Blog",
+  "title": "Great UX Trick: Field decorations with 295 hidden icons",
+  "link": "https://servicenow.implementation.blog/great-ux-trick-field-decorations-and-there-295-hidden-icons/",
+  "author": ""
+ },
+ {
+  "date": "2017-06-30T15:19:59.000Z",
+  "site": "Shiva Thomas",
+  "category": "Blog",
+  "title": "Great UX Trick: 250 hidden icons to use with bookmarks",
+  "link": "https://servicenow.implementation.blog/great-ux-trick-250-hidden-icons-to-use-with-bookmarks/",
+  "author": ""
+ },
+ {
+  "date": "2017-06-15T06:58:48.000Z",
+  "site": "Shiva Thomas",
+  "category": "Blog",
+  "title": "Great UX Trick: HTML Placeholders",
+  "link": "https://servicenow.implementation.blog/great-ui-trick-html-placeholders/",
+  "author": ""
+ },
+ {
+  "date": "2020-04-13T20:36:35.000Z",
+  "site": "GlideFast",
+  "category": "YouTube",
+  "title": "What is ServiceNow? | Overview",
+  "link": "https://www.youtube.com/watch?v=MeFb6J_Xnp0",
+  "author": ""
+ },
+ {
+  "date": "2020-04-10T12:00:27.000Z",
+  "site": "GlideFast",
+  "category": "YouTube",
+  "title": "Mobile Applications - ServiceNow Orlando Feature | Overview",
+  "link": "https://www.youtube.com/watch?v=rxaYNCk94Ao",
+  "author": ""
+ },
+ {
+  "date": "2020-04-03T12:00:14.000Z",
+  "site": "GlideFast",
+  "category": "YouTube",
+  "title": "AI Operations in ServiceNow | Overview",
+  "link": "https://www.youtube.com/watch?v=d1Rcl0x8zTU",
+  "author": ""
+ },
+ {
+  "date": "2020-03-30T18:54:29.000Z",
+  "site": "GlideFast",
+  "category": "YouTube",
+  "title": "Emergency Exposure Management Application | Overview",
+  "link": "https://www.youtube.com/watch?v=AuZghO6ohwQ",
+  "author": ""
+ },
+ {
+  "date": "2020-03-27T13:00:15.000Z",
+  "site": "GlideFast",
+  "category": "YouTube",
+  "title": "ServiceNow - Tips & Tricks 5 - Variable Attributes",
+  "link": "https://www.youtube.com/watch?v=P_7mrdWPX6c",
+  "author": ""
+ },
+ {
+  "date": "2020-03-23T21:05:17.000Z",
+  "site": "GlideFast",
+  "category": "YouTube",
+  "title": "Emergency Response Operations Application | Overview",
+  "link": "https://www.youtube.com/watch?v=_wMEBPaKYb8",
+  "author": ""
+ },
+ {
+  "date": "2020-03-20T12:00:31.000Z",
+  "site": "GlideFast",
+  "category": "YouTube",
+  "title": "Security Operations in ServiceNow | Overview",
+  "link": "https://www.youtube.com/watch?v=dqQrDPywlKI",
+  "author": ""
+ },
+ {
+  "date": "2020-03-19T14:36:58.000Z",
+  "site": "GlideFast",
+  "category": "YouTube",
+  "title": "Emergency Self Report Application | Overview",
+  "link": "https://www.youtube.com/watch?v=XUGXaCqsDDw",
+  "author": ""
+ },
+ {
+  "date": "2020-03-17T20:40:23.000Z",
+  "site": "GlideFast",
+  "category": "YouTube",
+  "title": "Emergency Outreach Application | Overview",
+  "link": "https://www.youtube.com/watch?v=nNqu1-vuCcg",
+  "author": ""
+ },
+ {
+  "date": "2020-03-12T13:30:03.000Z",
+  "site": "GlideFast",
+  "category": "YouTube",
+  "title": "Program Status Report - ServiceNow Orlando Feature | Overview",
+  "link": "https://www.youtube.com/watch?v=rtsvaDFVnH8",
+  "author": ""
+ },
+ {
+  "date": "2020-03-05T14:00:04.000Z",
+  "site": "GlideFast",
+  "category": "YouTube",
+  "title": "ServiceNow - Tips & Tricks 4",
+  "link": "https://www.youtube.com/watch?v=GLOuWE6hrdM",
+  "author": ""
+ },
+ {
+  "date": "2020-03-03T16:09:16.000Z",
+  "site": "GlideFast",
+  "category": "YouTube",
+  "title": "Discovery in ServiceNow | Overview",
+  "link": "https://www.youtube.com/watch?v=TPtTVTsJBSg",
+  "author": ""
+ },
+ {
+  "date": "2020-02-20T17:00:05.000Z",
+  "site": "GlideFast",
+  "category": "YouTube",
+  "title": "ServiceNow Higher Education SIG at Boston University | Recap",
+  "link": "https://www.youtube.com/watch?v=IRaQrfNox6E",
+  "author": ""
+ },
+ {
+  "date": "2020-02-14T15:38:48.000Z",
+  "site": "GlideFast",
+  "category": "YouTube",
+  "title": "What is ITSM?",
+  "link": "https://www.youtube.com/watch?v=RLimA5eqvoA",
+  "author": ""
+ },
+ {
+  "date": "2020-02-05T18:47:31.000Z",
+  "site": "GlideFast",
+  "category": "YouTube",
+  "title": "Performance Analytics in ServiceNow",
+  "link": "https://www.youtube.com/watch?v=VsLe8vHgGF4",
+  "author": ""
+ },
+ {
+  "date": "2020-04-13T12:16:05.000Z",
+  "site": "Covestic",
+  "category": "Blog",
+  "title": "Top 5 Customer Service Management “Attractions” in the Orlando Release",
+  "link": "https://www.covestic.com/top-5-customer-service-management-attractions-in-the-orlando-release/",
+  "author": ""
+ },
+ {
+  "date": "2020-03-30T15:53:43.000Z",
+  "site": "Covestic",
+  "category": "Blog",
+  "title": "5 ServiceNow Tricks and Hidden Features for System Administrators and Advanced Users (Part 1)",
+  "link": "https://www.covestic.com/5-servicenow-tricks-and-hidden-features-for-system-administrators-and-advanced-users-part-1/",
+  "author": ""
+ },
+ {
+  "date": "2020-02-28T15:32:53.000Z",
+  "site": "Covestic",
+  "category": "Blog",
+  "title": "Service Level Agreements Decoded: A Closer Look at Three Common Ones",
+  "link": "https://www.covestic.com/service-level-agreements-decoded-a-closer-look-at-three-common-ones/",
+  "author": ""
+ },
+ {
+  "date": "2020-01-07T16:18:54.000Z",
+  "site": "Covestic",
+  "category": "Blog",
+  "title": "2019 Resource Round-up: A look at Covestic clients’ favorite eBooks, webinars and blogs",
+  "link": "https://www.covestic.com/2019-resource-round-up-a-look-at-covestic-clients-favorite-ebooks-webinars-and-blogs/",
+  "author": ""
+ },
+ {
+  "date": "2019-12-18T14:30:05.000Z",
+  "site": "Covestic",
+  "category": "Blog",
+  "title": "California Consumer Privacy Act (CCPA): How to Leverage Your Investment in ServiceNow to Comply with the CCPA",
+  "link": "https://www.covestic.com/california-consumer-privacy-act-ccpa-how-to-leverage-your-investment-in-servicenow-to-comply-with-the-ccpa/",
+  "author": ""
+ },
+ {
+  "date": "2019-12-05T14:13:58.000Z",
+  "site": "Covestic",
+  "category": "Blog",
+  "title": "Leverage Native Tools in ServiceNow for a Healthy Configuration Management Database",
+  "link": "https://www.covestic.com/leverage-native-tools-in-servicenow-for-a-healthy-configuration-management-database/",
+  "author": ""
+ },
+ {
+  "date": "2019-12-02T13:29:24.000Z",
+  "site": "Covestic",
+  "category": "Blog",
+  "title": "Time for a Checkup: Partner with Covestic for a Configuration Management Database Health Check",
+  "link": "https://www.covestic.com/time-for-a-checkup-partner-with-covestic-for-a-configuration-management-database-health-check/",
+  "author": ""
+ },
+ {
+  "date": "2019-11-18T14:26:46.000Z",
+  "site": "Covestic",
+  "category": "Blog",
+  "title": "California Consumer Privacy Act (CCPA): What’s Required and How to Comply",
+  "link": "https://www.covestic.com/california-consumer-privacy-act-ccpa-whats-required-and-how-to-comply/",
+  "author": ""
+ },
+ {
+  "date": "2019-11-14T01:36:11.000Z",
+  "site": "Covestic",
+  "category": "Blog",
+  "title": "New ServiceNow Research Study: Costs and Consequences of Gaps in Vulnerability Response",
+  "link": "https://www.covestic.com/new-servicenow-research-study-costs-and-consequences-of-gaps-in-vulnerability-response/",
+  "author": ""
+ },
+ {
+  "date": "2019-10-14T01:38:38.000Z",
+  "site": "Covestic",
+  "category": "Blog",
+  "title": "Why a Configuration Management Database Matters More than you Realize",
+  "link": "https://www.covestic.com/why-a-configuration-management-database-matters-more-than-you-realize/",
+  "author": ""
+ },
+ {
+  "date": "2020-04-13T15:41:45.000Z",
+  "site": "ServiceNow Think",
+  "category": "Blog",
+  "title": "How to send binary data with multipart from ServiceNow to Third Party applications for free",
+  "link": "https://servicenowthink.wordpress.com/2020/04/13/how-to-send-binary-data-with-multipart-from-servicenow-to-third-party-applications-for-free/",
+  "author": ""
+ },
+ {
+  "date": "2020-03-05T23:58:17.000Z",
+  "site": "ServiceNow Think",
+  "category": "Blog",
+  "title": "How to test Encryption Context with ServiceNow Automated Test Framework",
+  "link": "https://servicenowthink.wordpress.com/2020/03/05/how-to-test-encryption-context-with-servicenow-automated-test-framework/",
+  "author": ""
+ },
+ {
+  "date": "2020-02-11T00:49:40.000Z",
+  "site": "ServiceNow Think",
+  "category": "Blog",
+  "title": "How to increase performance of your Transform Maps – ServiceNow",
+  "link": "https://servicenowthink.wordpress.com/2020/02/11/how-to-increase-performance-of-your-transform-maps-servicenow/",
+  "author": ""
+ },
+ {
+  "date": "2020-01-07T18:25:50.000Z",
+  "site": "ServiceNow Think",
+  "category": "Blog",
+  "title": "Enable users to modify their requests in Service Portal – ServiceNow",
+  "link": "https://servicenowthink.wordpress.com/2020/01/07/enable-users-to-modify-their-requests-in-service-portal-servicenow/",
+  "author": ""
+ },
+ {
+  "date": "2019-12-07T00:17:27.000Z",
+  "site": "ServiceNow Think",
+  "category": "Blog",
+  "title": "How to download and use all node logs to improve instance health (system logs are not enough)",
+  "link": "https://servicenowthink.wordpress.com/2019/12/07/how-to-download-servicenow-node-logs-when-you-cannot-switch-nodes/",
+  "author": ""
+ },
+ {
+  "date": "2019-11-04T23:38:19.000Z",
+  "site": "ServiceNow Think",
+  "category": "Blog",
+  "title": "Grant non admin developers limited application and update set access",
+  "link": "https://servicenowthink.wordpress.com/2019/11/04/grant-non-admin-developers-limited-application-and-update-set-access/",
+  "author": ""
+ },
+ {
+  "date": "2019-10-15T22:14:48.000Z",
+  "site": "ServiceNow Think",
+  "category": "Blog",
+  "title": "Call UI actions with REST using ServiceNow OOTB way – UPDATED",
+  "link": "https://servicenowthink.wordpress.com/2019/10/15/call-any-ui-action-with-rest-api-or-ajax-ootb-updated/",
+  "author": ""
+ },
+ {
+  "date": "2019-09-10T03:13:29.000Z",
+  "site": "ServiceNow Think",
+  "category": "Blog",
+  "title": "How ServiceNow is updating it’s Tech Stack and is using GraphQL",
+  "link": "https://servicenowthink.wordpress.com/2019/09/10/how-servicenow-is-updating-its-tech-stack-and-using-graphql/",
+  "author": ""
+ },
+ {
+  "date": "2019-08-16T02:40:08.000Z",
+  "site": "ServiceNow Think",
+  "category": "Blog",
+  "title": "How to cancel script, update or plugin rollback when it’s stuck and is breaking ServiceNow",
+  "link": "https://servicenowthink.wordpress.com/2019/08/16/how-to-cancel-script-update-or-plugin-rollback-when-its-stuck-and-is-breaking-servicenow/",
+  "author": ""
+ },
+ {
+  "date": "2019-05-26T11:21:28.000Z",
+  "site": "ServiceNow Think",
+  "category": "Blog",
+  "title": "How to use ServiceNow platform system diagnostics debugger in Service Portal",
+  "link": "https://servicenowthink.wordpress.com/2019/05/26/how-to-use-servicenow-platform-system-diagnostics-debugger-in-service-portal/",
   "author": ""
  },
  {
@@ -2757,6 +2997,86 @@
   "author": ""
  },
  {
+  "date": "2020-03-05T17:41:53.000Z",
+  "site": "An Errant Programmer",
+  "category": "Blog",
+  "title": "Slack Privacy Mode",
+  "link": "http://anerrantprogrammer.com/?p=214",
+  "author": ""
+ },
+ {
+  "date": "2019-07-30T01:17:39.000Z",
+  "site": "An Errant Programmer",
+  "category": "Blog",
+  "title": "Real Fake Startup Launched",
+  "link": "http://anerrantprogrammer.com/?p=211",
+  "author": ""
+ },
+ {
+  "date": "2018-12-12T03:30:42.000Z",
+  "site": "An Errant Programmer",
+  "category": "Blog",
+  "title": "The journey stalled",
+  "link": "http://anerrantprogrammer.com/?p=202",
+  "author": ""
+ },
+ {
+  "date": "2017-12-13T14:42:07.000Z",
+  "site": "An Errant Programmer",
+  "category": "Blog",
+  "title": "New YouTube Channel",
+  "link": "http://anerrantprogrammer.com/?p=198",
+  "author": ""
+ },
+ {
+  "date": "2017-11-02T02:48:16.000Z",
+  "site": "An Errant Programmer",
+  "category": "Blog",
+  "title": "Automating Flippy Knife for Android",
+  "link": "http://anerrantprogrammer.com/?p=192",
+  "author": ""
+ },
+ {
+  "date": "2017-10-21T22:56:50.000Z",
+  "site": "An Errant Programmer",
+  "category": "Blog",
+  "title": "Recovering Redacted Text From a Document",
+  "link": "http://anerrantprogrammer.com/?p=188",
+  "author": ""
+ },
+ {
+  "date": "2017-10-21T03:07:57.000Z",
+  "site": "An Errant Programmer",
+  "category": "Blog",
+  "title": "Site Rebranding",
+  "link": "http://anerrantprogrammer.com/?p=181",
+  "author": ""
+ },
+ {
+  "date": "2016-08-24T05:07:48.000Z",
+  "site": "An Errant Programmer",
+  "category": "Blog",
+  "title": "Debugging ServiceNow Performance Issues",
+  "link": "http://anerrantprogrammer.com/?p=167",
+  "author": ""
+ },
+ {
+  "date": "2016-04-28T15:00:53.000Z",
+  "site": "An Errant Programmer",
+  "category": "Blog",
+  "title": "Getting the Current URL",
+  "link": "http://anerrantprogrammer.com/?p=132",
+  "author": ""
+ },
+ {
+  "date": "2016-04-22T20:55:52.000Z",
+  "site": "An Errant Programmer",
+  "category": "Blog",
+  "title": "ServiceNow Sync Plugin for Sublime Text 3",
+  "link": "http://anerrantprogrammer.com/?p=127",
+  "author": ""
+ },
+ {
   "date": "2020-04-07T19:25:34.000Z",
   "site": "Ahead LLC",
   "category": "Blog",
@@ -2837,43 +3157,67 @@
   "author": ""
  },
  {
-  "date": "2020-04-08T01:35:21.000Z",
-  "site": "PhilGoesDeep",
+  "date": "2020-03-17T18:56:34.000Z",
+  "site": "ServiceNow Geek",
   "category": "YouTube",
-  "title": "ServiceNow Community Service 20200407",
-  "link": "https://www.youtube.com/watch?v=C7eVoQWRta4",
+  "title": "Emergency Response App Install (Customer and Non-Customer)",
+  "link": "https://www.youtube.com/watch?v=DBmQumv_u0o",
   "author": ""
  },
  {
-  "date": "2020-03-29T21:50:07.000Z",
-  "site": "PhilGoesDeep",
+  "date": "2020-03-17T13:38:46.000Z",
+  "site": "ServiceNow Geek",
   "category": "YouTube",
-  "title": "ServiceNow Community 20200329 GRC",
-  "link": "https://www.youtube.com/watch?v=lytfWUuhVXY",
+  "title": "ServiceNow Emergency Response Apps Install (Current Customers)",
+  "link": "https://www.youtube.com/watch?v=be7w_iMOBA8",
   "author": ""
  },
  {
-  "date": "2020-03-28T02:11:46.000Z",
-  "site": "PhilGoesDeep",
+  "date": "2019-10-24T22:39:20.000Z",
+  "site": "ServiceNow Geek",
   "category": "YouTube",
-  "title": "ServiceNow Community 20200327 Covid-19",
-  "link": "https://www.youtube.com/watch?v=hnFTA5O1SqU",
+  "title": "List Filter Quick Tip",
+  "link": "https://www.youtube.com/watch?v=Wj2cEbexPuk",
   "author": ""
  },
  {
-  "date": "2020-03-21T23:37:58.000Z",
-  "site": "PhilGoesDeep",
+  "date": "2019-10-15T03:12:38.000Z",
+  "site": "ServiceNow Geek",
   "category": "YouTube",
-  "title": "ServiceNow Community 20200321 Covid-19",
-  "link": "https://www.youtube.com/watch?v=LIvevYDKAgo",
+  "title": "Scheduling - On-Call Rotation",
+  "link": "https://www.youtube.com/watch?v=suUvOt2lAIo",
   "author": ""
  },
  {
-  "date": "2020-03-21T02:53:03.000Z",
-  "site": "PhilGoesDeep",
+  "date": "2019-09-11T18:07:10.000Z",
+  "site": "ServiceNow Geek",
   "category": "YouTube",
-  "title": "ServiceNow Community 20200320 Covid-19",
-  "link": "https://www.youtube.com/watch?v=JDq0sr2mmJ8",
+  "title": "Now Mobile - App Creation - Part 2",
+  "link": "https://www.youtube.com/watch?v=EILWLwIYlsg",
+  "author": ""
+ },
+ {
+  "date": "2019-09-04T16:07:46.000Z",
+  "site": "ServiceNow Geek",
+  "category": "YouTube",
+  "title": "NOW Mobile - App Creation - Part 1",
+  "link": "https://www.youtube.com/watch?v=_-fnmy7xbsw",
+  "author": ""
+ },
+ {
+  "date": "2019-09-03T18:41:37.000Z",
+  "site": "ServiceNow Geek",
+  "category": "YouTube",
+  "title": "ServiceNow Mobile - Download and Connect",
+  "link": "https://www.youtube.com/watch?v=3f_GDmN5WRU",
+  "author": ""
+ },
+ {
+  "date": "2019-09-03T18:16:58.000Z",
+  "site": "ServiceNow Geek",
+  "category": "YouTube",
+  "title": "ServiceNow Channel Intro",
+  "link": "https://www.youtube.com/watch?v=55k-ueha9FI",
   "author": ""
  },
  {
@@ -2965,147 +3309,43 @@
   "author": ""
  },
  {
-  "date": "2020-03-17T18:56:34.000Z",
-  "site": "ServiceNow Geek",
+  "date": "2020-04-08T01:35:21.000Z",
+  "site": "PhilGoesDeep",
   "category": "YouTube",
-  "title": "Emergency Response App Install (Customer and Non-Customer)",
-  "link": "https://www.youtube.com/watch?v=DBmQumv_u0o",
+  "title": "ServiceNow Community Service 20200407",
+  "link": "https://www.youtube.com/watch?v=C7eVoQWRta4",
   "author": ""
  },
  {
-  "date": "2020-03-17T13:38:46.000Z",
-  "site": "ServiceNow Geek",
+  "date": "2020-03-29T21:50:07.000Z",
+  "site": "PhilGoesDeep",
   "category": "YouTube",
-  "title": "ServiceNow Emergency Response Apps Install (Current Customers)",
-  "link": "https://www.youtube.com/watch?v=be7w_iMOBA8",
+  "title": "ServiceNow Community 20200329 GRC",
+  "link": "https://www.youtube.com/watch?v=lytfWUuhVXY",
   "author": ""
  },
  {
-  "date": "2019-10-24T22:39:20.000Z",
-  "site": "ServiceNow Geek",
+  "date": "2020-03-28T02:11:46.000Z",
+  "site": "PhilGoesDeep",
   "category": "YouTube",
-  "title": "List Filter Quick Tip",
-  "link": "https://www.youtube.com/watch?v=Wj2cEbexPuk",
+  "title": "ServiceNow Community 20200327 Covid-19",
+  "link": "https://www.youtube.com/watch?v=hnFTA5O1SqU",
   "author": ""
  },
  {
-  "date": "2019-10-15T03:12:38.000Z",
-  "site": "ServiceNow Geek",
+  "date": "2020-03-21T23:37:58.000Z",
+  "site": "PhilGoesDeep",
   "category": "YouTube",
-  "title": "Scheduling - On-Call Rotation",
-  "link": "https://www.youtube.com/watch?v=suUvOt2lAIo",
+  "title": "ServiceNow Community 20200321 Covid-19",
+  "link": "https://www.youtube.com/watch?v=LIvevYDKAgo",
   "author": ""
  },
  {
-  "date": "2019-09-11T18:07:10.000Z",
-  "site": "ServiceNow Geek",
+  "date": "2020-03-21T02:53:03.000Z",
+  "site": "PhilGoesDeep",
   "category": "YouTube",
-  "title": "Now Mobile - App Creation - Part 2",
-  "link": "https://www.youtube.com/watch?v=EILWLwIYlsg",
-  "author": ""
- },
- {
-  "date": "2019-09-04T16:07:46.000Z",
-  "site": "ServiceNow Geek",
-  "category": "YouTube",
-  "title": "NOW Mobile - App Creation - Part 1",
-  "link": "https://www.youtube.com/watch?v=_-fnmy7xbsw",
-  "author": ""
- },
- {
-  "date": "2019-09-03T18:41:37.000Z",
-  "site": "ServiceNow Geek",
-  "category": "YouTube",
-  "title": "ServiceNow Mobile - Download and Connect",
-  "link": "https://www.youtube.com/watch?v=3f_GDmN5WRU",
-  "author": ""
- },
- {
-  "date": "2019-09-03T18:16:58.000Z",
-  "site": "ServiceNow Geek",
-  "category": "YouTube",
-  "title": "ServiceNow Channel Intro",
-  "link": "https://www.youtube.com/watch?v=55k-ueha9FI",
-  "author": ""
- },
- {
-  "date": "2020-04-13T15:41:45.000Z",
-  "site": "ServiceNow Think",
-  "category": "Blog",
-  "title": "How to send binary data with multipart from ServiceNow to Third Party applications for free",
-  "link": "https://servicenowthink.wordpress.com/2020/04/13/how-to-send-binary-data-with-multipart-from-servicenow-to-third-party-applications-for-free/",
-  "author": ""
- },
- {
-  "date": "2020-03-05T23:58:17.000Z",
-  "site": "ServiceNow Think",
-  "category": "Blog",
-  "title": "How to test Encryption Context with ServiceNow Automated Test Framework",
-  "link": "https://servicenowthink.wordpress.com/2020/03/05/how-to-test-encryption-context-with-servicenow-automated-test-framework/",
-  "author": ""
- },
- {
-  "date": "2020-02-11T00:49:40.000Z",
-  "site": "ServiceNow Think",
-  "category": "Blog",
-  "title": "How to increase performance of your Transform Maps – ServiceNow",
-  "link": "https://servicenowthink.wordpress.com/2020/02/11/how-to-increase-performance-of-your-transform-maps-servicenow/",
-  "author": ""
- },
- {
-  "date": "2020-01-07T18:25:50.000Z",
-  "site": "ServiceNow Think",
-  "category": "Blog",
-  "title": "Enable users to modify their requests in Service Portal – ServiceNow",
-  "link": "https://servicenowthink.wordpress.com/2020/01/07/enable-users-to-modify-their-requests-in-service-portal-servicenow/",
-  "author": ""
- },
- {
-  "date": "2019-12-07T00:17:27.000Z",
-  "site": "ServiceNow Think",
-  "category": "Blog",
-  "title": "How to download and use all node logs to improve instance health (system logs are not enough)",
-  "link": "https://servicenowthink.wordpress.com/2019/12/07/how-to-download-servicenow-node-logs-when-you-cannot-switch-nodes/",
-  "author": ""
- },
- {
-  "date": "2019-11-04T23:38:19.000Z",
-  "site": "ServiceNow Think",
-  "category": "Blog",
-  "title": "Grant non admin developers limited application and update set access",
-  "link": "https://servicenowthink.wordpress.com/2019/11/04/grant-non-admin-developers-limited-application-and-update-set-access/",
-  "author": ""
- },
- {
-  "date": "2019-10-15T22:14:48.000Z",
-  "site": "ServiceNow Think",
-  "category": "Blog",
-  "title": "Call UI actions with REST using ServiceNow OOTB way – UPDATED",
-  "link": "https://servicenowthink.wordpress.com/2019/10/15/call-any-ui-action-with-rest-api-or-ajax-ootb-updated/",
-  "author": ""
- },
- {
-  "date": "2019-09-10T03:13:29.000Z",
-  "site": "ServiceNow Think",
-  "category": "Blog",
-  "title": "How ServiceNow is updating it’s Tech Stack and is using GraphQL",
-  "link": "https://servicenowthink.wordpress.com/2019/09/10/how-servicenow-is-updating-its-tech-stack-and-using-graphql/",
-  "author": ""
- },
- {
-  "date": "2019-08-16T02:40:08.000Z",
-  "site": "ServiceNow Think",
-  "category": "Blog",
-  "title": "How to cancel script, update or plugin rollback when it’s stuck and is breaking ServiceNow",
-  "link": "https://servicenowthink.wordpress.com/2019/08/16/how-to-cancel-script-update-or-plugin-rollback-when-its-stuck-and-is-breaking-servicenow/",
-  "author": ""
- },
- {
-  "date": "2019-05-26T11:21:28.000Z",
-  "site": "ServiceNow Think",
-  "category": "Blog",
-  "title": "How to use ServiceNow platform system diagnostics debugger in Service Portal",
-  "link": "https://servicenowthink.wordpress.com/2019/05/26/how-to-use-servicenow-platform-system-diagnostics-debugger-in-service-portal/",
+  "title": "ServiceNow Community 20200320 Covid-19",
+  "link": "https://www.youtube.com/watch?v=JDq0sr2mmJ8",
   "author": ""
  },
  {
@@ -3130,902 +3370,6 @@
   "category": "Blog",
   "title": "Calculating Field Usage",
   "link": "https://servicenowgems.com/2018/05/08/calculating-field-usage/",
-  "author": ""
- },
- {
-  "date": "2020-02-21T14:52:00.000Z",
-  "site": "ServiceNow Community Podcasts",
-  "category": "Podcast",
-  "title": "EMEA Episode 12 - Digital Literacy with Faez Ahmed",
-  "link": "https://omny.fm/shows/servicenow-cloudcast/episode-12-digital-literacy-with-faez-ahmed",
-  "author": ""
- },
- {
-  "date": "2020-02-11T13:46:00.000Z",
-  "site": "ServiceNow Community Podcasts",
-  "category": "Podcast",
-  "title": "EMEA Episode 11 - Digital Transformation with Capita",
-  "link": "https://omny.fm/shows/servicenow-cloudcast/episode-11-digital-transformation-with-capita",
-  "author": ""
- },
- {
-  "date": "2020-02-05T19:05:46.000Z",
-  "site": "ServiceNow Community Podcasts",
-  "category": "Podcast",
-  "title": "The Road To Knowledge: The value of Knowledge",
-  "link": "https://omny.fm/shows/servicenow-cloudcast/the-road-to-knowledge-the-value-of-knowledge",
-  "author": ""
- },
- {
-  "date": "2020-01-28T01:14:05.000Z",
-  "site": "ServiceNow Community Podcasts",
-  "category": "Podcast",
-  "title": "DevOps Episode 6: Predict 2020 Project MP3",
-  "link": "https://omny.fm/shows/servicenow-cloudcast/devops-episode-6-predict-2020-project-mp3",
-  "author": ""
- },
- {
-  "date": "2020-01-15T21:12:00.000Z",
-  "site": "ServiceNow Community Podcasts",
-  "category": "Podcast",
-  "title": "DevOps: Episode 5 – Mike Wolf Agile transformations",
-  "link": "https://omny.fm/shows/servicenow-cloudcast/devops-episode-5-mike-wolf-agile-transformations",
-  "author": ""
- },
- {
-  "date": "2020-01-09T17:18:00.000Z",
-  "site": "ServiceNow Community Podcasts",
-  "category": "Podcast",
-  "title": "EMEA Episode 10 - Developer Resources 101 Part 2",
-  "link": "https://omny.fm/shows/servicenow-cloudcast/episode-10-developer-resources-101-part-2",
-  "author": ""
- },
- {
-  "date": "2020-01-09T00:00:00.000Z",
-  "site": "ServiceNow Community Podcasts",
-  "category": "Podcast",
-  "title": "EMEA Episode 9 - Developer Resources 101 Part 1",
-  "link": "https://omny.fm/shows/servicenow-cloudcast/episode-9-developer-resources-101-part-1",
-  "author": ""
- },
- {
-  "date": "2020-01-07T17:13:00.000Z",
-  "site": "ServiceNow Community Podcasts",
-  "category": "Podcast",
-  "title": "DevOps Podcast - Episode 4: Tameem Hourani @ RapDev.io",
-  "link": "https://omny.fm/shows/servicenow-cloudcast/devops-podcast-episode-4-tameem-hourani-rapdev-io",
-  "author": ""
- },
- {
-  "date": "2020-01-07T16:37:00.000Z",
-  "site": "ServiceNow Community Podcasts",
-  "category": "Podcast",
-  "title": "EMEA Episode 8 - The Future of Customer Experience",
-  "link": "https://omny.fm/shows/servicenow-cloudcast/episode-8-the-future-of-customer-experience",
-  "author": ""
- },
- {
-  "date": "2019-12-11T20:34:23.000Z",
-  "site": "ServiceNow Community Podcasts",
-  "category": "Podcast",
-  "title": "The Road to Knowledge: 2020 is here!",
-  "link": "https://omny.fm/shows/servicenow-cloudcast/the-road-to-knowledge-2020-is-here",
-  "author": ""
- },
- {
-  "date": "2019-11-19T16:16:00.000Z",
-  "site": "ServiceNow Community Podcasts",
-  "category": "Podcast",
-  "title": "EMEA Episode 7 - Transforming BP's IT- Adopting Digital Ways Of Working with Roddy Barnes",
-  "link": "https://omny.fm/shows/servicenow-cloudcast/episode-7-transforming-bps-it",
-  "author": ""
- },
- {
-  "date": "2019-11-13T10:24:00.000Z",
-  "site": "ServiceNow Community Podcasts",
-  "category": "Podcast",
-  "title": "EMEA Episode 6 - The Innovation Experience with Chris Pope",
-  "link": "https://omny.fm/shows/servicenow-cloudcast/episode-6-the-innovation-experience",
-  "author": ""
- },
- {
-  "date": "2019-11-06T09:28:00.000Z",
-  "site": "ServiceNow Community Podcasts",
-  "category": "Podcast",
-  "title": "EMEA Episode 5 - How To Meet Employee Expectations (Research Report) with Synco Jonkeren",
-  "link": "https://omny.fm/shows/servicenow-cloudcast/episode-5-how-to-meet-employee-expectations",
-  "author": ""
- },
- {
-  "date": "2019-10-29T16:21:00.000Z",
-  "site": "ServiceNow Community Podcasts",
-  "category": "Podcast",
-  "title": "EMEA Episode 4 - How Thames Water Embarked On Their Digital Transformation Journey with Phil Taphouse",
-  "link": "https://omny.fm/shows/servicenow-cloudcast/episode-4-how-thames-water-embarked-on-their-digit",
-  "author": ""
- },
- {
-  "date": "2019-10-23T17:52:39.000Z",
-  "site": "ServiceNow Community Podcasts",
-  "category": "Podcast",
-  "title": "DevOps: Episode 3 – Jessica Constantinidis – DOES 2019 London",
-  "link": "https://omny.fm/shows/servicenow-cloudcast/devops-episode-3-jessica-constantinidis-does-2019",
-  "author": ""
- },
- {
-  "date": "2019-10-22T15:07:56.000Z",
-  "site": "ServiceNow Community Podcasts",
-  "category": "Podcast",
-  "title": "EMEA Episode 3 - Innovation and Digital Disruption with Karel van der Poel",
-  "link": "https://omny.fm/shows/servicenow-podcasts/episode-3-innovation-and-digital-disruption-with-k",
-  "author": ""
- },
- {
-  "date": "2019-10-15T10:52:43.000Z",
-  "site": "ServiceNow Community Podcasts",
-  "category": "Podcast",
-  "title": "EMEA Episode 2 - New York Release Highlights with Chris Pope",
-  "link": "https://omny.fm/shows/servicenow-podcasts/episode-2-new-york-release-highlights-with-chris-p",
-  "author": ""
- },
- {
-  "date": "2019-10-08T19:36:27.000Z",
-  "site": "ServiceNow Community Podcasts",
-  "category": "Podcast",
-  "title": "Around The World With Now At Work: London",
-  "link": "https://omny.fm/shows/servicenow-cloudcast/around-the-world-with-now-at-work-london",
-  "author": ""
- },
- {
-  "date": "2019-10-08T15:10:14.000Z",
-  "site": "ServiceNow Community Podcasts",
-  "category": "Podcast",
-  "title": "EMEA Episode 1: Value of the ServiceNow Alliance and Channel Ecosystem",
-  "link": "https://omny.fm/shows/servicenow-podcasts/alliance-channel-ecosystem-seb-fitzjohn",
-  "author": ""
- },
- {
-  "date": "2019-09-30T20:47:37.000Z",
-  "site": "ServiceNow Community Podcasts",
-  "category": "Podcast",
-  "title": "State & Local Perspectives: Discussion with Tom Yeatts Former CTO Howard County - pt 2",
-  "link": "https://omny.fm/shows/servicenow-cloudcast/state-local-perspectives-discussion-with-tom-yeatt",
-  "author": ""
- },
- {
-  "date": "2019-09-30T20:33:55.000Z",
-  "site": "ServiceNow Community Podcasts",
-  "category": "Podcast",
-  "title": "State & Local Perspectives: Discussion with Tom Yeatts Former CTO Howard County - pt 1",
-  "link": "https://omny.fm/shows/servicenow-cloudcast/discussion-with-tom-yeatts-former-cto-howard-count",
-  "author": ""
- },
- {
-  "date": "2019-09-19T11:00:16.000Z",
-  "site": "ServiceNow Community Podcasts",
-  "category": "Podcast",
-  "title": "Around The World With Now At Work: Now On Now",
-  "link": "https://omny.fm/shows/servicenow-cloudcast/around-the-world-with-now-at-work-now-on-now",
-  "author": ""
- },
- {
-  "date": "2019-09-12T11:46:31.000Z",
-  "site": "ServiceNow Community Podcasts",
-  "category": "Podcast",
-  "title": "Around The World With Now At Work: CreatorCon",
-  "link": "https://omny.fm/shows/servicenow-cloudcast/around-the-world-with-now-at-work-creatorcon",
-  "author": ""
- },
- {
-  "date": "2019-09-10T17:07:17.000Z",
-  "site": "ServiceNow Community Podcasts",
-  "category": "Podcast",
-  "title": "ServiceNow DevOps Podcast Series: Episode 2 – Chris Pope – DOES 2019 London",
-  "link": "https://omny.fm/shows/servicenow-cloudcast/servicenow-devops-podcast-series-episode-2-chris-p",
-  "author": ""
- },
- {
-  "date": "2019-09-05T21:54:19.000Z",
-  "site": "ServiceNow Community Podcasts",
-  "category": "Podcast",
-  "title": "Around The World With Now At Work: The Now Expo",
-  "link": "https://omny.fm/shows/servicenow-cloudcast/around-the-world-with-now-at-work-the-now-expo",
-  "author": ""
- },
- {
-  "date": "2019-08-28T22:38:20.000Z",
-  "site": "ServiceNow Community Podcasts",
-  "category": "Podcast",
-  "title": "Around the World with Now at Work: A chat with the Content team",
-  "link": "https://omny.fm/shows/servicenow-cloudcast/around-the-world-with-now-at-work-a-chat-with-the",
-  "author": ""
- },
- {
-  "date": "2019-08-14T18:37:56.000Z",
-  "site": "ServiceNow Community Podcasts",
-  "category": "Podcast",
-  "title": "DevOps Podcast - Episode1 - Richard Hawes and Eric Ledyard DevOps Overview",
-  "link": "https://omny.fm/shows/servicenow-cloudcast/servicenow-devops-podcast-episode1-richard-hawes-a",
-  "author": ""
- },
- {
-  "date": "2019-08-14T17:12:25.000Z",
-  "site": "ServiceNow Community Podcasts",
-  "category": "Podcast",
-  "title": "Around the World with Now at Work: Digital Transformation Journey",
-  "link": "https://omny.fm/shows/servicenow-cloudcast/around-the-world-with-now-at-work-digital-transfor",
-  "author": ""
- },
- {
-  "date": "2019-08-08T01:19:14.000Z",
-  "site": "ServiceNow Community Podcasts",
-  "category": "Podcast",
-  "title": "Around the World with Now at Work: What is Now at Work?",
-  "link": "https://omny.fm/shows/servicenow-cloudcast/around-the-world-with-now-at-work-what-is-now-at-w",
-  "author": ""
- },
- {
-  "date": "2019-06-21T21:35:30.000Z",
-  "site": "ServiceNow Community Podcasts",
-  "category": "Podcast",
-  "title": "Workflow Quarterly: The Leadership Issue",
-  "link": "https://omny.fm/shows/servicenow-cloudcast/workflow-quarterly-the-leadership-issue",
-  "author": ""
- },
- {
-  "date": "2019-06-14T15:14:50.000Z",
-  "site": "ServiceNow Community Podcasts",
-  "category": "Podcast",
-  "title": "ServiceNow Podcast EMEA  - K19 Highlights (Chris Pope & Rhiannon Prothero)",
-  "link": "https://omny.fm/shows/servicenow-cloudcast/servicenow-podcast-emea-ep1-k19-highlights",
-  "author": ""
- },
- {
-  "date": "2019-05-16T04:08:46.000Z",
-  "site": "ServiceNow Community Podcasts",
-  "category": "Podcast",
-  "title": "Live from Knowledge!",
-  "link": "https://omny.fm/shows/servicenow-cloudcast/live-from-knowledge",
-  "author": ""
- },
- {
-  "date": "2019-04-25T03:17:27.000Z",
-  "site": "ServiceNow Community Podcasts",
-  "category": "Podcast",
-  "title": "The Road to Knowledge: Mobile App",
-  "link": "https://omny.fm/shows/servicenow-cloudcast/the-road-to-knowledge-mobile-app",
-  "author": ""
- },
- {
-  "date": "2019-04-25T03:13:58.000Z",
-  "site": "ServiceNow Community Podcasts",
-  "category": "Podcast",
-  "title": "The Road to Knowledge: KBYG",
-  "link": "https://omny.fm/shows/servicenow-cloudcast/the-road-to-knowledge-kbyg",
-  "author": ""
- },
- {
-  "date": "2019-04-18T02:37:15.000Z",
-  "site": "ServiceNow Community Podcasts",
-  "category": "Podcast",
-  "title": "The Road to Knowledge: Now on Now",
-  "link": "https://omny.fm/shows/servicenow-cloudcast/the-road-to-knowledge-now-on-now",
-  "author": ""
- },
- {
-  "date": "2019-04-10T22:47:19.000Z",
-  "site": "ServiceNow Community Podcasts",
-  "category": "Podcast",
-  "title": "The Road to Knowledge: Pre-conference Training and Education",
-  "link": "https://omny.fm/shows/servicenow-cloudcast/the-road-to-knowledge-pre-conference-training-and",
-  "author": ""
- },
- {
-  "date": "2019-04-04T21:04:24.000Z",
-  "site": "ServiceNow Community Podcasts",
-  "category": "Podcast",
-  "title": "The Road to Knowledge: *Bonus* The Content Scheduler",
-  "link": "https://omny.fm/shows/servicenow-cloudcast/the-road-to-knowledge-bonus-the-content-scheduler",
-  "author": ""
- },
- {
-  "date": "2019-04-04T21:02:02.000Z",
-  "site": "ServiceNow Community Podcasts",
-  "category": "Podcast",
-  "title": "The Road to Knowledge: Customer Success at Knowledge",
-  "link": "https://omny.fm/shows/servicenow-cloudcast/the-road-to-knowledge-customer-success-at-knowledg",
-  "author": ""
- },
- {
-  "date": "2019-03-26T02:26:59.000Z",
-  "site": "ServiceNow Community Podcasts",
-  "category": "Podcast",
-  "title": "The Road to Knowledge: The ServiceNow Brand",
-  "link": "https://omny.fm/shows/servicenow-cloudcast/the-road-to-knowledge-the-servicenow-brand",
-  "author": ""
- },
- {
-  "date": "2019-03-20T00:49:53.000Z",
-  "site": "ServiceNow Community Podcasts",
-  "category": "Podcast",
-  "title": "The Road to Knowledge: CreatorCon",
-  "link": "https://omny.fm/shows/servicenow-cloudcast/the-road-to-knowledge-creatorcon",
-  "author": ""
- },
- {
-  "date": "2019-03-14T01:46:06.000Z",
-  "site": "ServiceNow Community Podcasts",
-  "category": "Podcast",
-  "title": "The Road to Knowledge: Customer & Employee Workflows and the Now Platform, Part 2",
-  "link": "https://omny.fm/shows/servicenow-cloudcast/the-road-to-knowledge-customer-employee-workflows",
-  "author": ""
- },
- {
-  "date": "2019-03-07T23:30:05.000Z",
-  "site": "ServiceNow Community Podcasts",
-  "category": "Podcast",
-  "title": "The Road to Knowledge: Six Conversations - IT Workflows, Part 1",
-  "link": "https://omny.fm/shows/servicenow-cloudcast/the-road-to-knowledge-six-conversations-it-workflo",
-  "author": ""
- },
- {
-  "date": "2019-02-21T21:04:41.000Z",
-  "site": "ServiceNow Community Podcasts",
-  "category": "Podcast",
-  "title": "What is Knowledge? A chat with Scott Schenker",
-  "link": "https://omny.fm/shows/servicenow-cloudcast/what-is-knowledge-a-chat-with-scott-schenker",
-  "author": ""
- },
- {
-  "date": "2018-07-31T22:30:36.000Z",
-  "site": "ServiceNow Community Podcasts",
-  "category": "Podcast",
-  "title": "PartnerNow Podcast: How to Build your Brand on the ServiceNow Community",
-  "link": "https://omny.fm/shows/servicenow-cloudcast/partnernow-podcast-how-to-build-your-brand-on-the",
-  "author": ""
- },
- {
-  "date": "2020-03-18T16:50:27.000Z",
-  "site": "Shiva Thomas",
-  "category": "Blog",
-  "title": "Testing 3 methods to get an invitation for Knowledge 2020",
-  "link": "https://servicenow.implementation.blog/testing-3-methods-to-get-an-invitation-for-knowledge-2020/",
-  "author": ""
- },
- {
-  "date": "2020-02-05T18:31:56.000Z",
-  "site": "Shiva Thomas",
-  "category": "Blog",
-  "title": "Exam Review: Certified Master Architect – Capstone Board Review",
-  "link": "https://servicenow.implementation.blog/exam-review-certified-master-architect/",
-  "author": ""
- },
- {
-  "date": "2019-11-20T15:49:21.000Z",
-  "site": "Shiva Thomas",
-  "category": "Blog",
-  "title": "Participating in the ServiceNow Certified Master Architect program",
-  "link": "https://servicenow.implementation.blog/certified-master-architect-cma-program/",
-  "author": ""
- },
- {
-  "date": "2018-02-18T23:00:31.000Z",
-  "site": "Shiva Thomas",
-  "category": "Blog",
-  "title": "Coaching Loops",
-  "link": "https://servicenow.implementation.blog/coaching-loops/",
-  "author": ""
- },
- {
-  "date": "2018-01-07T20:01:39.000Z",
-  "site": "Shiva Thomas",
-  "category": "Blog",
-  "title": "ServiceNow Online Training Alternatives on Udemy",
-  "link": "https://servicenow.implementation.blog/servicenow-online-training-alternatives-on-udemy/",
-  "author": ""
- },
- {
-  "date": "2017-12-16T10:56:50.000Z",
-  "site": "Shiva Thomas",
-  "category": "Blog",
-  "title": "Exam Review: Certified Implementation Specialist – ITSM",
-  "link": "https://servicenow.implementation.blog/servicenow-exam-review-certified-implementation-specialist-itsm/",
-  "author": ""
- },
- {
-  "date": "2017-08-20T20:54:07.000Z",
-  "site": "Shiva Thomas",
-  "category": "Blog",
-  "title": "JavaScript learning path: From Zero to Hero",
-  "link": "https://servicenow.implementation.blog/javascript-learning-path-from-zero-to-hero/",
-  "author": ""
- },
- {
-  "date": "2017-07-14T19:05:47.000Z",
-  "site": "Shiva Thomas",
-  "category": "Blog",
-  "title": "Great UX Trick: Field decorations with 295 hidden icons",
-  "link": "https://servicenow.implementation.blog/great-ux-trick-field-decorations-and-there-295-hidden-icons/",
-  "author": ""
- },
- {
-  "date": "2017-06-30T15:19:59.000Z",
-  "site": "Shiva Thomas",
-  "category": "Blog",
-  "title": "Great UX Trick: 250 hidden icons to use with bookmarks",
-  "link": "https://servicenow.implementation.blog/great-ux-trick-250-hidden-icons-to-use-with-bookmarks/",
-  "author": ""
- },
- {
-  "date": "2017-06-15T06:58:48.000Z",
-  "site": "Shiva Thomas",
-  "category": "Blog",
-  "title": "Great UX Trick: HTML Placeholders",
-  "link": "https://servicenow.implementation.blog/great-ui-trick-html-placeholders/",
-  "author": ""
- },
- {
-  "date": "2020-01-07T20:52:00.000Z",
-  "site": "ServiceNow TechBytes Podcast",
-  "category": "Podcast",
-  "title": "Episode 57: Optimizing concurrent licenses using SAM",
-  "link": "https://omny.fm/shows/servicenow-techbytes/episode-57-optimizing-software-licenses",
-  "author": ""
- },
- {
-  "date": "2019-10-18T15:15:49.000Z",
-  "site": "ServiceNow TechBytes Podcast",
-  "category": "Podcast",
-  "title": "Episode 56: Now Community Idea Portal",
-  "link": "https://omny.fm/shows/servicenow-techbytes/episode-56-now-community-idea-portal",
-  "author": ""
- },
- {
-  "date": "2019-09-30T20:34:00.000Z",
-  "site": "ServiceNow TechBytes Podcast",
-  "category": "Podcast",
-  "title": "Episode 55: Vendor Manager Workspace",
-  "link": "https://omny.fm/shows/servicenow-techbytes/episode-55-vendor-manager-workspace",
-  "author": ""
- },
- {
-  "date": "2019-09-13T18:34:38.000Z",
-  "site": "ServiceNow TechBytes Podcast",
-  "category": "Podcast",
-  "title": "Episode 54: Service Owner Workspace",
-  "link": "https://omny.fm/shows/servicenow-techbytes/episode-54-service-owner-workspace",
-  "author": ""
- },
- {
-  "date": "2019-08-19T17:00:33.000Z",
-  "site": "ServiceNow TechBytes Podcast",
-  "category": "Podcast",
-  "title": "Episode 53: Skills Management",
-  "link": "https://omny.fm/shows/servicenow-techbytes/episode-53-skills-management",
-  "author": ""
- },
- {
-  "date": "2019-08-02T19:38:11.000Z",
-  "site": "ServiceNow TechBytes Podcast",
-  "category": "Podcast",
-  "title": "Episode 52: Virtual Agent and NLU",
-  "link": "https://omny.fm/shows/servicenow-techbytes/episode-52-virtual-agent-and-nlu",
-  "author": ""
- },
- {
-  "date": "2019-04-29T20:42:04.000Z",
-  "site": "ServiceNow TechBytes Podcast",
-  "category": "Podcast",
-  "title": "Episode 51: Change Management",
-  "link": "https://omny.fm/shows/servicenow-techbytes/episode-51-change-management",
-  "author": ""
- },
- {
-  "date": "2019-04-08T21:18:46.000Z",
-  "site": "ServiceNow TechBytes Podcast",
-  "category": "Podcast",
-  "title": "Episode 50: Walk-Up in Madrid",
-  "link": "https://omny.fm/shows/servicenow-techbytes/episode-50-walk-up-in-madrid",
-  "author": ""
- },
- {
-  "date": "2019-03-26T21:41:35.000Z",
-  "site": "ServiceNow TechBytes Podcast",
-  "category": "Podcast",
-  "title": "Episode 49: Coaching application",
-  "link": "https://omny.fm/shows/servicenow-techbytes/episode-49-coaching-application",
-  "author": ""
- },
- {
-  "date": "2019-03-15T15:48:21.000Z",
-  "site": "ServiceNow TechBytes Podcast",
-  "category": "Podcast",
-  "title": "Episode 48: Mobile Platform and Mobile Studio",
-  "link": "https://omny.fm/shows/servicenow-techbytes/episode-48-mobile-platform-and-mobile-studio",
-  "author": ""
- },
- {
-  "date": "2019-03-07T19:06:41.000Z",
-  "site": "ServiceNow TechBytes Podcast",
-  "category": "Podcast",
-  "title": "Episode 47: Flow Designer",
-  "link": "https://omny.fm/shows/servicenow-techbytes/episode-47-flow-designer",
-  "author": ""
- },
- {
-  "date": "2018-12-17T22:15:08.000Z",
-  "site": "ServiceNow TechBytes Podcast",
-  "category": "Podcast",
-  "title": "Episode 46: IBM Watson on the Now Platform",
-  "link": "https://omny.fm/shows/servicenow-techbytes/episode-46-ibm-watson-on-the-now-platform",
-  "author": ""
- },
- {
-  "date": "2018-09-28T17:47:49.000Z",
-  "site": "ServiceNow TechBytes Podcast",
-  "category": "Podcast",
-  "title": "Episode 45: The Walk-Up experience",
-  "link": "https://omny.fm/shows/servicenow-techbytes/episode-45-the-walk-up-experience",
-  "author": ""
- },
- {
-  "date": "2018-09-11T16:16:55.000Z",
-  "site": "ServiceNow TechBytes Podcast",
-  "category": "Podcast",
-  "title": "Episode 44: New content for Discovery",
-  "link": "https://omny.fm/shows/servicenow-techbytes/episode-44-new-content-for-discovery",
-  "author": ""
- },
- {
-  "date": "2018-08-28T19:26:30.000Z",
-  "site": "ServiceNow TechBytes Podcast",
-  "category": "Podcast",
-  "title": "Episode 43: ITSM Virtual Agent",
-  "link": "https://omny.fm/shows/servicenow-techbytes/episode-43-virtual-agent",
-  "author": ""
- },
- {
-  "date": "2018-08-13T17:48:35.000Z",
-  "site": "ServiceNow TechBytes Podcast",
-  "category": "Podcast",
-  "title": "Episode 42: Continual Improvement Management",
-  "link": "https://omny.fm/shows/servicenow-techbytes/episode-42-continual-improvement-management",
-  "author": ""
- },
- {
-  "date": "2018-06-25T21:42:14.000Z",
-  "site": "ServiceNow TechBytes Podcast",
-  "category": "Podcast",
-  "title": "Episode 41: Embedded Help and Guided Tours",
-  "link": "https://omny.fm/shows/servicenow-techbytes/episode-41-embedded-help-and-guided-tours",
-  "author": ""
- },
- {
-  "date": "2018-03-16T17:32:53.000Z",
-  "site": "ServiceNow TechBytes Podcast",
-  "category": "Podcast",
-  "title": "Episode 40: Upgrades",
-  "link": "https://omny.fm/shows/servicenow-techbytes/episode-40-upgrades",
-  "author": ""
- },
- {
-  "date": "2018-01-16T18:37:05.000Z",
-  "site": "ServiceNow TechBytes Podcast",
-  "category": "Podcast",
-  "title": "Episode 39: Activating Plugins",
-  "link": "https://omny.fm/shows/servicenow-techbytes/episode-39-activating-plugins",
-  "author": ""
- },
- {
-  "date": "2017-12-18T20:01:21.000Z",
-  "site": "ServiceNow TechBytes Podcast",
-  "category": "Podcast",
-  "title": "ITSM Cast: Service Catalog on the Kingston Service Portal",
-  "link": "https://omny.fm/shows/servicenow-techbytes/itsm-cast-service-catalog-on-the-kingston-service",
-  "author": ""
- },
- {
-  "date": "2017-12-06T21:54:59.000Z",
-  "site": "ServiceNow TechBytes Podcast",
-  "category": "Podcast",
-  "title": "Episode 38: ServiceNow's New Information Experience",
-  "link": "https://omny.fm/shows/servicenow-techbytes/episode-38-servicenows-new-information-experience",
-  "author": ""
- },
- {
-  "date": "2017-09-26T20:53:23.000Z",
-  "site": "ServiceNow TechBytes Podcast",
-  "category": "Podcast",
-  "title": "Episode 37: Benchmarks in Jakarta",
-  "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-37-benchmarks-in-jakarta",
-  "author": ""
- },
- {
-  "date": "2017-08-16T16:07:21.000Z",
-  "site": "ServiceNow TechBytes Podcast",
-  "category": "Podcast",
-  "title": "Episode 36: Developing Apps in ServiceNow",
-  "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-36-developing-apps-in-servicenow",
-  "author": ""
- },
- {
-  "date": "2017-07-18T17:41:51.000Z",
-  "site": "ServiceNow TechBytes Podcast",
-  "category": "Podcast",
-  "title": "Episode 35: Reporting Tips and Tricks",
-  "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-35-reporting-tips-and-tricks",
-  "author": ""
- },
- {
-  "date": "2017-07-05T19:41:35.000Z",
-  "site": "ServiceNow TechBytes Podcast",
-  "category": "Podcast",
-  "title": "Episode 34: Web Services",
-  "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-34-web-services",
-  "author": ""
- },
- {
-  "date": "2017-03-21T16:07:28.000Z",
-  "site": "ServiceNow TechBytes Podcast",
-  "category": "Podcast",
-  "title": "Episode 33: Service Portal in Istanbul",
-  "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-33-service-portal-in-istanbul",
-  "author": ""
- },
- {
-  "date": "2017-01-31T16:53:52.000Z",
-  "site": "ServiceNow TechBytes Podcast",
-  "category": "Podcast",
-  "title": "Episode 32: Improving Performance",
-  "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-32-improving-performance",
-  "author": ""
- },
- {
-  "date": "2017-01-16T20:58:18.000Z",
-  "site": "ServiceNow TechBytes Podcast",
-  "category": "Podcast",
-  "title": "Episode 31: Getting up to speed with Start Here content in Express",
-  "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-31-getting-up-to-speed-with-start-here-con",
-  "author": ""
- },
- {
-  "date": "2016-11-07T18:39:18.000Z",
-  "site": "ServiceNow TechBytes Podcast",
-  "category": "Podcast",
-  "title": "Episode 30: Quarterly Patching Program",
-  "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-30-quarterly-patching-program",
-  "author": ""
- },
- {
-  "date": "2016-10-24T19:05:05.000Z",
-  "site": "ServiceNow TechBytes Podcast",
-  "category": "Podcast",
-  "title": "Episode 29: Integrations",
-  "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-29-integrations",
-  "author": ""
- },
- {
-  "date": "2016-10-03T19:06:23.000Z",
-  "site": "ServiceNow TechBytes Podcast",
-  "category": "Podcast",
-  "title": "Episode 28: Edge Encryption",
-  "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-28-edge-encryption",
-  "author": ""
- },
- {
-  "date": "2016-08-30T22:39:22.000Z",
-  "site": "ServiceNow TechBytes Podcast",
-  "category": "Podcast",
-  "title": "Episode 27: Service Portal",
-  "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-27-service-portal",
-  "author": ""
- },
- {
-  "date": "2016-08-15T17:14:39.000Z",
-  "site": "ServiceNow TechBytes Podcast",
-  "category": "Podcast",
-  "title": "Episode 26: Knowledge Management Version 3",
-  "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-26-knowledge-management-version-3",
-  "author": ""
- },
- {
-  "date": "2016-08-01T22:14:19.000Z",
-  "site": "ServiceNow TechBytes Podcast",
-  "category": "Podcast",
-  "title": "Episode 25: Hibernation of Personal Developer Instances",
-  "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-25-hibernation-of-personal-developer-insta",
-  "author": ""
- },
- {
-  "date": "2016-06-30T22:25:39.000Z",
-  "site": "ServiceNow TechBytes Podcast",
-  "category": "Podcast",
-  "title": "Episode 24: ServiceNow Store partner Workato – The Cure For Your App Integration Blues",
-  "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-24-servicenow-store-partner-workato-the-cu",
-  "author": ""
- },
- {
-  "date": "2016-06-27T19:00:13.000Z",
-  "site": "ServiceNow TechBytes Podcast",
-  "category": "Podcast",
-  "title": "Episode 23: Reporting in Helsinki",
-  "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-23-reporting-in-helsinki",
-  "author": ""
- },
- {
-  "date": "2016-06-13T21:07:24.000Z",
-  "site": "ServiceNow TechBytes Podcast",
-  "category": "Podcast",
-  "title": "Episode 22: Security Operations",
-  "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-22-security-operations",
-  "author": ""
- },
- {
-  "date": "2016-05-27T23:04:45.000Z",
-  "site": "ServiceNow TechBytes Podcast",
-  "category": "Podcast",
-  "title": "Episode 21: What's New in Express—Helsinki Release",
-  "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-21-whats-new-in-express-helsinki-release",
-  "author": ""
- },
- {
-  "date": "2016-05-09T16:45:41.000Z",
-  "site": "ServiceNow TechBytes Podcast",
-  "category": "Podcast",
-  "title": "Episode 20: HI Service Portal",
-  "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-20-hi-service-portal",
-  "author": ""
- },
- {
-  "date": "2016-04-26T20:55:28.000Z",
-  "site": "ServiceNow TechBytes Podcast",
-  "category": "Podcast",
-  "title": "Episode 19: Automated Testing: Q&A with Roger Enriquez, Cerna Solutions",
-  "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-19-automated-testing-q-a-with-roger-enriqu",
-  "author": ""
- },
- {
-  "date": "2016-04-06T22:52:23.000Z",
-  "site": "ServiceNow TechBytes Podcast",
-  "category": "Podcast",
-  "title": "Episode 18: SDLC in the Project Portfolio Suite",
-  "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-18-sdlc-in-the-project-portfolio-suite",
-  "author": ""
- },
- {
-  "date": "2016-03-21T18:06:17.000Z",
-  "site": "ServiceNow TechBytes Podcast",
-  "category": "Podcast",
-  "title": "Episode 17: Getting Started with the ServiceNow Documentation Site",
-  "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-17-getting-started-with-the-servicenow-doc",
-  "author": ""
- },
- {
-  "date": "2016-03-08T17:01:32.000Z",
-  "site": "ServiceNow TechBytes Podcast",
-  "category": "Podcast",
-  "title": "Episode 16: ServiceNow Performance Analytics",
-  "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-16-servicenow-performance-analytics",
-  "author": ""
- },
- {
-  "date": "2016-02-23T00:07:31.000Z",
-  "site": "ServiceNow TechBytes Podcast",
-  "category": "Podcast",
-  "title": "Episode 15: Reporting in ServiceNow",
-  "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-15-reporting-in-servicenow",
-  "author": ""
- },
- {
-  "date": "2016-02-09T23:42:08.000Z",
-  "site": "ServiceNow TechBytes Podcast",
-  "category": "Podcast",
-  "title": "Episode 14: ServiceNow Store Update and Interview with MobiChord Co-Founder & CEO",
-  "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-14-servicenow-store-update-and-interview-w",
-  "author": ""
- },
- {
-  "date": "2016-02-08T23:49:38.000Z",
-  "site": "ServiceNow TechBytes Podcast",
-  "category": "Podcast",
-  "title": "Episode 13: Participating in the ServiceNow Online Community",
-  "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-13-participating-in-the-servicenow-online",
-  "author": ""
- },
- {
-  "date": "2016-01-25T23:09:06.000Z",
-  "site": "ServiceNow TechBytes Podcast",
-  "category": "Podcast",
-  "title": "Episode 12: Using the ServiceNow Knowledge Base Application",
-  "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-12-using-the-servicenow-knowledge-base-app",
-  "author": ""
- },
- {
-  "date": "2016-01-11T20:23:46.000Z",
-  "site": "ServiceNow TechBytes Podcast",
-  "category": "Podcast",
-  "title": "Episode 11: New in the Geneva Release - Scripted REST APIs",
-  "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-11-new-in-the-geneva-release-scripted-rest",
-  "author": ""
- },
- {
-  "date": "2015-12-17T01:07:44.000Z",
-  "site": "ServiceNow TechBytes Podcast",
-  "category": "Podcast",
-  "title": "Episode 10: ServiceNow Store Updates and Evergreen CEO",
-  "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-10-servicenow-store-updates-and-evergreen",
-  "author": ""
- },
- {
-  "date": "2015-12-07T23:22:10.000Z",
-  "site": "ServiceNow TechBytes Podcast",
-  "category": "Podcast",
-  "title": "Episode 9: ServiceNow Developers Site",
-  "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-9-servicenow-developers-site",
-  "author": ""
- },
- {
-  "date": "2015-11-10T16:39:09.000Z",
-  "site": "ServiceNow TechBytes Podcast",
-  "category": "Podcast",
-  "title": "Episode 8: ServiceNow Security Incident Response",
-  "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-8-servicenow-security-incident-response",
-  "author": ""
- },
- {
-  "date": "2015-10-22T23:45:46.000Z",
-  "site": "ServiceNow TechBytes Podcast",
-  "category": "Podcast",
-  "title": "Episode 7: ServiceNow Knowledge Management",
-  "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-7-servicenow-knowledge-management",
-  "author": ""
- },
- {
-  "date": "2015-10-12T18:17:46.000Z",
-  "site": "ServiceNow TechBytes Podcast",
-  "category": "Podcast",
-  "title": "Episode 6: ServiceNow Field Service Management and Geolocation",
-  "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-6-servicenow-field-service-management-and",
-  "author": ""
- },
- {
-  "date": "2015-09-29T16:52:54.000Z",
-  "site": "ServiceNow TechBytes Podcast",
-  "category": "Podcast",
-  "title": "Episode 5: Discovery - Tips, Tricks, and Best Practices",
-  "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-5-discovery-tips-tricks-and-best-practices",
-  "author": ""
- },
- {
-  "date": "2015-09-10T20:35:54.000Z",
-  "site": "ServiceNow TechBytes Podcast",
-  "category": "Podcast",
-  "title": "Episode 4: ServiceNow Visual Task Boards",
-  "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-4-servicenow-visual-task-boards",
-  "author": ""
- },
- {
-  "date": "2015-09-04T21:33:57.000Z",
-  "site": "ServiceNow TechBytes Podcast",
-  "category": "Podcast",
-  "title": "Episode 3: Developing Apps For The ServiceNow Store",
-  "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-3-developing-apps-for-the-servicenow-store",
-  "author": ""
- },
- {
-  "date": "2015-09-04T21:29:29.000Z",
-  "site": "ServiceNow TechBytes Podcast",
-  "category": "Podcast",
-  "title": "Episode 2: ServiceNow Express Implementation Tips To Automate Business Processes",
-  "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-2-servicenow-express-implementation-tips-t",
-  "author": ""
- },
- {
-  "date": "2015-09-04T19:50:27.000Z",
-  "site": "ServiceNow TechBytes Podcast",
-  "category": "Podcast",
-  "title": "Episode 1: ServiceNow Store Updates & Event Management Integrations App By Evanios",
-  "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-1-servicenow-store-updates-event-managemen",
   "author": ""
  },
  {
@@ -5461,403 +4805,819 @@
   "author": ""
  },
  {
-  "date": "2020-04-10T14:00:00.000Z",
-  "site": "ServiceNow Developer Blog",
-  "category": "Blog",
-  "title": "Virtual Meetups",
-  "link": "https://developer.servicenow.com/blog.do?p=/post/virtual-meetups/",
+  "date": "2020-02-21T14:52:00.000Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "EMEA Episode 12 - Digital Literacy with Faez Ahmed",
+  "link": "https://omny.fm/shows/servicenow-cloudcast/episode-12-digital-literacy-with-faez-ahmed",
   "author": ""
  },
  {
-  "date": "2020-04-08T14:00:00.000Z",
-  "site": "ServiceNow Developer Blog",
-  "category": "Blog",
-  "title": "Orlando Components LCHH Recap",
-  "link": "https://developer.servicenow.com/blog.do?p=/post/orlando-components-lchh-recap/",
+  "date": "2020-02-11T13:46:00.000Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "EMEA Episode 11 - Digital Transformation with Capita",
+  "link": "https://omny.fm/shows/servicenow-cloudcast/episode-11-digital-transformation-with-capita",
   "author": ""
  },
  {
-  "date": "2020-04-03T14:00:00.000Z",
-  "site": "ServiceNow Developer Blog",
-  "category": "Blog",
-  "title": "Creatorcon Hackathon 2020",
-  "link": "https://developer.servicenow.com/blog.do?p=/post/creatorcon-hackathon-2020/",
+  "date": "2020-02-05T19:05:46.000Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "The Road To Knowledge: The value of Knowledge",
+  "link": "https://omny.fm/shows/servicenow-cloudcast/the-road-to-knowledge-the-value-of-knowledge",
   "author": ""
  },
  {
-  "date": "2020-04-01T14:00:00.000Z",
-  "site": "ServiceNow Developer Blog",
-  "category": "Blog",
-  "title": "How to have fun with your fellow developers",
-  "link": "https://developer.servicenow.com/blog.do?p=/post/trolling-your-friends/",
+  "date": "2020-01-28T01:14:05.000Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "DevOps Episode 6: Predict 2020 Project MP3",
+  "link": "https://omny.fm/shows/servicenow-cloudcast/devops-episode-6-predict-2020-project-mp3",
   "author": ""
  },
  {
-  "date": "2020-03-31T14:00:00.000Z",
-  "site": "ServiceNow Developer Blog",
-  "category": "Blog",
-  "title": "A Developers Look at ServiceNows Emergency Response Management Apps",
-  "link": "https://developer.servicenow.com/blog.do?p=/post/emergency-response-apps/",
+  "date": "2020-01-15T21:12:00.000Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "DevOps: Episode 5 – Mike Wolf Agile transformations",
+  "link": "https://omny.fm/shows/servicenow-cloudcast/devops-episode-5-mike-wolf-agile-transformations",
   "author": ""
  },
  {
-  "date": "2020-03-18T13:00:00.000Z",
-  "site": "ServiceNow Developer Blog",
-  "category": "Blog",
-  "title": "Working Remotely Tips",
-  "link": "https://developer.servicenow.com/blog.do?p=/post/wfh-tips/",
+  "date": "2020-01-09T17:18:00.000Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "EMEA Episode 10 - Developer Resources 101 Part 2",
+  "link": "https://omny.fm/shows/servicenow-cloudcast/episode-10-developer-resources-101-part-2",
   "author": ""
  },
  {
-  "date": "2020-03-14T00:00:00.000Z",
-  "site": "ServiceNow Developer Blog",
-  "category": "Blog",
-  "title": "Personal Developer Instances and Components",
-  "link": "https://developer.servicenow.com/blog.do?p=/post/pdis-and-components/",
+  "date": "2020-01-09T00:00:00.000Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "EMEA Episode 9 - Developer Resources 101 Part 1",
+  "link": "https://omny.fm/shows/servicenow-cloudcast/episode-9-developer-resources-101-part-1",
   "author": ""
  },
  {
-  "date": "2020-03-12T14:00:00.000Z",
-  "site": "ServiceNow Developer Blog",
-  "category": "Blog",
-  "title": "Now Experience",
-  "link": "https://developer.servicenow.com/blog.do?p=/post/now-experience/",
+  "date": "2020-01-07T17:13:00.000Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "DevOps Podcast - Episode 4: Tameem Hourani @ RapDev.io",
+  "link": "https://omny.fm/shows/servicenow-cloudcast/devops-podcast-episode-4-tameem-hourani-rapdev-io",
   "author": ""
  },
  {
-  "date": "2020-03-12T12:00:00.000Z",
-  "site": "ServiceNow Developer Blog",
-  "category": "Blog",
-  "title": "Developer Site Reimagined",
-  "link": "https://developer.servicenow.com/blog.do?p=/post/dev-site-launch/",
+  "date": "2020-01-07T16:37:00.000Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "EMEA Episode 8 - The Future of Customer Experience",
+  "link": "https://omny.fm/shows/servicenow-cloudcast/episode-8-the-future-of-customer-experience",
   "author": ""
  },
  {
-  "date": "2020-03-09T15:00:00.000Z",
-  "site": "ServiceNow Developer Blog",
-  "category": "Blog",
-  "title": "Orlando: IntegrationHub",
-  "link": "https://developer.servicenow.com/blog.do?p=/post/orlando-integrationhub/",
+  "date": "2019-12-11T20:34:23.000Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "The Road to Knowledge: 2020 is here!",
+  "link": "https://omny.fm/shows/servicenow-cloudcast/the-road-to-knowledge-2020-is-here",
   "author": ""
  },
  {
-  "date": "2020-03-04T14:00:00.000Z",
-  "site": "ServiceNow Developer Blog",
-  "category": "Blog",
-  "title": "Welcome Brad Tilton",
-  "link": "https://developer.servicenow.com/blog.do?p=/post/brad-intro/",
+  "date": "2019-11-19T16:16:00.000Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "EMEA Episode 7 - Transforming BP's IT- Adopting Digital Ways Of Working with Roddy Barnes",
+  "link": "https://omny.fm/shows/servicenow-cloudcast/episode-7-transforming-bps-it",
   "author": ""
  },
  {
-  "date": "2020-02-25T14:00:00.000Z",
-  "site": "ServiceNow Developer Blog",
-  "category": "Blog",
-  "title": "Developer Site Changes",
-  "link": "https://developer.servicenow.com/blog.do?p=/post/dev-site-relaunch/",
+  "date": "2019-11-13T10:24:00.000Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "EMEA Episode 6 - The Innovation Experience with Chris Pope",
+  "link": "https://omny.fm/shows/servicenow-cloudcast/episode-6-the-innovation-experience",
   "author": ""
  },
  {
-  "date": "2020-02-24T14:00:00.000Z",
-  "site": "ServiceNow Developer Blog",
-  "category": "Blog",
-  "title": "Orlando: Studio Features",
-  "link": "https://developer.servicenow.com/blog.do?p=/post/o-studio-features/",
+  "date": "2019-11-06T09:28:00.000Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "EMEA Episode 5 - How To Meet Employee Expectations (Research Report) with Synco Jonkeren",
+  "link": "https://omny.fm/shows/servicenow-cloudcast/episode-5-how-to-meet-employee-expectations",
   "author": ""
  },
  {
-  "date": "2020-02-13T20:00:00.000Z",
-  "site": "ServiceNow Developer Blog",
-  "category": "Blog",
-  "title": "Orlando Admin Features",
-  "link": "https://developer.servicenow.com/blog.do?p=/post/o-admin-features/",
+  "date": "2019-10-29T16:21:00.000Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "EMEA Episode 4 - How Thames Water Embarked On Their Digital Transformation Journey with Phil Taphouse",
+  "link": "https://omny.fm/shows/servicenow-cloudcast/episode-4-how-thames-water-embarked-on-their-digit",
   "author": ""
  },
  {
-  "date": "2020-02-11T15:00:00.000Z",
-  "site": "ServiceNow Developer Blog",
-  "category": "Blog",
-  "title": "Orlando: Flow Designer",
-  "link": "https://developer.servicenow.com/blog.do?p=/post/orlando-flow-designer/",
+  "date": "2019-10-23T17:52:39.000Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "DevOps: Episode 3 – Jessica Constantinidis – DOES 2019 London",
+  "link": "https://omny.fm/shows/servicenow-cloudcast/devops-episode-3-jessica-constantinidis-does-2019",
   "author": ""
  },
  {
-  "date": "2020-01-29T15:00:00.000Z",
-  "site": "ServiceNow Developer Blog",
-  "category": "Blog",
-  "title": "Orlando: Automated Test Framework Changes",
-  "link": "https://developer.servicenow.com/blog.do?p=/post/o-atf/",
+  "date": "2019-10-22T15:07:56.000Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "EMEA Episode 3 - Innovation and Digital Disruption with Karel van der Poel",
+  "link": "https://omny.fm/shows/servicenow-podcasts/episode-3-innovation-and-digital-disruption-with-k",
   "author": ""
  },
  {
-  "date": "2020-01-23T17:00:00.000Z",
-  "site": "ServiceNow Developer Blog",
-  "category": "Blog",
-  "title": "Orlando Now Available for Personal Developer Instances",
-  "link": "https://developer.servicenow.com/blog.do?p=/post/orlando-pdi/",
+  "date": "2019-10-15T10:52:43.000Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "EMEA Episode 2 - New York Release Highlights with Chris Pope",
+  "link": "https://omny.fm/shows/servicenow-podcasts/episode-2-new-york-release-highlights-with-chris-p",
   "author": ""
  },
  {
-  "date": "2020-01-16T22:10:00.000Z",
-  "site": "ServiceNow Developer Blog",
-  "category": "Blog",
-  "title": "2020 ServiceNow Developer MVPs",
-  "link": "https://developer.servicenow.com/blog.do?p=/post/all-stars/",
+  "date": "2019-10-08T19:36:27.000Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "Around The World With Now At Work: London",
+  "link": "https://omny.fm/shows/servicenow-cloudcast/around-the-world-with-now-at-work-london",
   "author": ""
  },
  {
-  "date": "2020-01-15T15:00:00.000Z",
-  "site": "ServiceNow Developer Blog",
-  "category": "Blog",
-  "title": "Debugging and you",
-  "link": "https://developer.servicenow.com/blog.do?p=/post/debugging/",
+  "date": "2019-10-08T15:10:14.000Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "EMEA Episode 1: Value of the ServiceNow Alliance and Channel Ecosystem",
+  "link": "https://omny.fm/shows/servicenow-podcasts/alliance-channel-ecosystem-seb-fitzjohn",
   "author": ""
  },
  {
-  "date": "2019-12-04T16:00:00.000Z",
-  "site": "ServiceNow Developer Blog",
-  "category": "Blog",
-  "title": "Adding ATF to Existing Projects",
-  "link": "https://developer.servicenow.com/blog.do?p=/post/atf_existing_project/",
+  "date": "2019-09-30T20:47:37.000Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "State & Local Perspectives: Discussion with Tom Yeatts Former CTO Howard County - pt 2",
+  "link": "https://omny.fm/shows/servicenow-cloudcast/state-local-perspectives-discussion-with-tom-yeatt",
   "author": ""
  },
  {
-  "date": "2020-04-01T12:02:40.000Z",
-  "site": "Dylan Lindgren",
-  "category": "Blog",
-  "title": "Building Custom Workspace Components in Orlando: Now CLI",
-  "link": "https://www.dylanlindgren.com/2020/04/01/building-custom-workspace-components-in-orlando-now-cli/",
+  "date": "2019-09-30T20:33:55.000Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "State & Local Perspectives: Discussion with Tom Yeatts Former CTO Howard County - pt 1",
+  "link": "https://omny.fm/shows/servicenow-cloudcast/discussion-with-tom-yeatts-former-cto-howard-count",
   "author": ""
  },
  {
-  "date": "2019-11-07T23:00:10.000Z",
-  "site": "Dylan Lindgren",
-  "category": "Blog",
-  "title": "The ULTIMATE Service Portal CSS Guide",
-  "link": "https://www.dylanlindgren.com/2019/11/08/ultimate-service-portal-css-guide/",
+  "date": "2019-09-19T11:00:16.000Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "Around The World With Now At Work: Now On Now",
+  "link": "https://omny.fm/shows/servicenow-cloudcast/around-the-world-with-now-at-work-now-on-now",
   "author": ""
  },
  {
-  "date": "2018-11-07T01:13:40.000Z",
-  "site": "Dylan Lindgren",
-  "category": "Blog",
-  "title": "Building Multilingual Service Portals",
-  "link": "https://www.dylanlindgren.com/2018/11/07/building-multilingual-service-portals/",
+  "date": "2019-09-12T11:46:31.000Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "Around The World With Now At Work: CreatorCon",
+  "link": "https://omny.fm/shows/servicenow-cloudcast/around-the-world-with-now-at-work-creatorcon",
   "author": ""
  },
  {
-  "date": "2018-08-09T06:23:45.000Z",
-  "site": "Dylan Lindgren",
-  "category": "Blog",
-  "title": "Deploy Service Portal as a Mobile app",
-  "link": "https://www.dylanlindgren.com/2018/08/09/deploy-service-portal-as-a-mobile-app/",
+  "date": "2019-09-10T17:07:17.000Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "ServiceNow DevOps Podcast Series: Episode 2 – Chris Pope – DOES 2019 London",
+  "link": "https://omny.fm/shows/servicenow-cloudcast/servicenow-devops-podcast-series-episode-2-chris-p",
   "author": ""
  },
  {
-  "date": "2018-06-06T12:57:20.000Z",
-  "site": "Dylan Lindgren",
-  "category": "Blog",
-  "title": "Displaying Service Portal Widgets Outside ServiceNow",
-  "link": "https://www.dylanlindgren.com/2018/06/06/service-portal-widgets-outside-sn/",
+  "date": "2019-09-05T21:54:19.000Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "Around The World With Now At Work: The Now Expo",
+  "link": "https://omny.fm/shows/servicenow-cloudcast/around-the-world-with-now-at-work-the-now-expo",
   "author": ""
  },
  {
-  "date": "2018-05-02T12:23:19.000Z",
-  "site": "Dylan Lindgren",
-  "category": "Blog",
-  "title": "A Spectators Guide: 2018 Chinese Grand Prix",
-  "link": "https://www.dylanlindgren.com/2018/05/02/a-spectators-guide-2018-chinese-grand-prix/",
+  "date": "2019-08-28T22:38:20.000Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "Around the World with Now at Work: A chat with the Content team",
+  "link": "https://omny.fm/shows/servicenow-cloudcast/around-the-world-with-now-at-work-a-chat-with-the",
   "author": ""
  },
  {
-  "date": "2018-02-15T05:29:02.000Z",
-  "site": "Dylan Lindgren",
-  "category": "Blog",
-  "title": "One Quick Tip for Single Page Apps in Service Portal",
-  "link": "https://www.dylanlindgren.com/2018/02/15/one-quick-tip-for-single-page-apps-in-service-portal/",
+  "date": "2019-08-14T18:37:56.000Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "DevOps Podcast - Episode1 - Richard Hawes and Eric Ledyard DevOps Overview",
+  "link": "https://omny.fm/shows/servicenow-cloudcast/servicenow-devops-podcast-episode1-richard-hawes-a",
   "author": ""
  },
  {
-  "date": "2018-01-09T09:38:11.000Z",
-  "site": "Dylan Lindgren",
-  "category": "Blog",
-  "title": "Making Great Service Portal Apps: Use Script Includes",
-  "link": "https://www.dylanlindgren.com/2018/01/09/making-great-service-portal-apps-use-script-includes/",
+  "date": "2019-08-14T17:12:25.000Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "Around the World with Now at Work: Digital Transformation Journey",
+  "link": "https://omny.fm/shows/servicenow-cloudcast/around-the-world-with-now-at-work-digital-transfor",
   "author": ""
  },
  {
-  "date": "2017-10-28T11:14:08.000Z",
-  "site": "Dylan Lindgren",
-  "category": "Blog",
-  "title": "Service Portal fundamentals: AngularJS scopes",
-  "link": "https://www.dylanlindgren.com/2017/10/28/service-portal-fundamentals-angularjs-scopes/",
+  "date": "2019-08-08T01:19:14.000Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "Around the World with Now at Work: What is Now at Work?",
+  "link": "https://omny.fm/shows/servicenow-cloudcast/around-the-world-with-now-at-work-what-is-now-at-w",
   "author": ""
  },
  {
-  "date": "2017-09-30T11:53:05.000Z",
-  "site": "Dylan Lindgren",
-  "category": "Blog",
-  "title": "Filling PDF forms in ServiceNow",
-  "link": "https://www.dylanlindgren.com/2017/09/30/filling-pdf-forms-in-servicenow/",
+  "date": "2019-06-21T21:35:30.000Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "Workflow Quarterly: The Leadership Issue",
+  "link": "https://omny.fm/shows/servicenow-cloudcast/workflow-quarterly-the-leadership-issue",
   "author": ""
  },
  {
-  "date": "2020-04-09T15:16:39.000Z",
-  "site": "Pathway",
-  "category": "Blog",
-  "title": "ServiceNow application spotlight: Virtual Agent",
-  "link": "https://pathwayscg.com/servicenow-application-spotlight-virtual-agent/",
+  "date": "2019-06-14T15:14:50.000Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "ServiceNow Podcast EMEA  - K19 Highlights (Chris Pope & Rhiannon Prothero)",
+  "link": "https://omny.fm/shows/servicenow-cloudcast/servicenow-podcast-emea-ep1-k19-highlights",
   "author": ""
  },
  {
-  "date": "2020-04-08T17:49:52.000Z",
-  "site": "Pathway",
-  "category": "Blog",
-  "title": "COVID-19 and business: How Pathways can help ease the transition to remote work",
-  "link": "https://pathwayscg.com/covid-19-and-business-how-pathways-can-help-ease-the-transition-to-remote-work/",
+  "date": "2019-05-16T04:08:46.000Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "Live from Knowledge!",
+  "link": "https://omny.fm/shows/servicenow-cloudcast/live-from-knowledge",
   "author": ""
  },
  {
-  "date": "2020-04-06T19:14:44.000Z",
-  "site": "Pathway",
-  "category": "Blog",
-  "title": "Helping our clients work from home — Women to Watch: Tech Watch",
-  "link": "https://pathwayscg.com/helping-our-clients-work-from-home-women-to-watch-tech-watch/",
+  "date": "2019-04-25T03:17:27.000Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "The Road to Knowledge: Mobile App",
+  "link": "https://omny.fm/shows/servicenow-cloudcast/the-road-to-knowledge-mobile-app",
   "author": ""
  },
  {
-  "date": "2020-04-03T20:48:46.000Z",
-  "site": "Pathway",
-  "category": "Blog",
-  "title": "Properly configuring a three-tier dependency",
-  "link": "https://pathwayscg.com/properly-configuring-a-three-tier-dependency/",
+  "date": "2019-04-25T03:13:58.000Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "The Road to Knowledge: KBYG",
+  "link": "https://omny.fm/shows/servicenow-cloudcast/the-road-to-knowledge-kbyg",
   "author": ""
  },
  {
-  "date": "2020-03-30T17:04:15.000Z",
-  "site": "Pathway",
-  "category": "Blog",
-  "title": "Home activities for STEM learning — Women to Watch: Tech Watch",
-  "link": "https://pathwayscg.com/home-activities-for-stem-learning-women-to-watch-tech-watch/",
+  "date": "2019-04-18T02:37:15.000Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "The Road to Knowledge: Now on Now",
+  "link": "https://omny.fm/shows/servicenow-cloudcast/the-road-to-knowledge-now-on-now",
   "author": ""
  },
  {
-  "date": "2020-03-24T19:18:10.000Z",
-  "site": "Pathway",
-  "category": "Blog",
-  "title": "Working from home? Here’s how to make it work",
-  "link": "https://pathwayscg.com/working-from-home-heres-how-to-make-it-work/",
+  "date": "2019-04-10T22:47:19.000Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "The Road to Knowledge: Pre-conference Training and Education",
+  "link": "https://omny.fm/shows/servicenow-cloudcast/the-road-to-knowledge-pre-conference-training-and",
   "author": ""
  },
  {
-  "date": "2020-03-23T16:50:41.000Z",
-  "site": "Pathway",
-  "category": "Blog",
-  "title": "Working from home — Women to Watch: Tech Watch",
-  "link": "https://pathwayscg.com/working-from-home-women-to-watch-tech-watch/",
+  "date": "2019-04-04T21:04:24.000Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "The Road to Knowledge: *Bonus* The Content Scheduler",
+  "link": "https://omny.fm/shows/servicenow-cloudcast/the-road-to-knowledge-bonus-the-content-scheduler",
   "author": ""
  },
  {
-  "date": "2020-03-20T19:37:33.000Z",
-  "site": "Pathway",
-  "category": "Blog",
-  "title": "Modifying a workflow scratchpad outside of a workflow",
-  "link": "https://pathwayscg.com/modifying-a-workflow-scratchpad-outside-of-a-workflow/",
+  "date": "2019-04-04T21:02:02.000Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "The Road to Knowledge: Customer Success at Knowledge",
+  "link": "https://omny.fm/shows/servicenow-cloudcast/the-road-to-knowledge-customer-success-at-knowledg",
   "author": ""
  },
  {
-  "date": "2020-03-17T18:33:15.000Z",
-  "site": "Pathway",
-  "category": "Blog",
-  "title": "Under pressure? Pathways can help support your day-to-day",
-  "link": "https://pathwayscg.com/under-pressure-pathways-can-help-support-your-day-to-day/",
+  "date": "2019-03-26T02:26:59.000Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "The Road to Knowledge: The ServiceNow Brand",
+  "link": "https://omny.fm/shows/servicenow-cloudcast/the-road-to-knowledge-the-servicenow-brand",
   "author": ""
  },
  {
-  "date": "2020-03-16T17:33:54.000Z",
-  "site": "Pathway",
-  "category": "Blog",
-  "title": "Women’s History Month part three — Women to Watch: Tech Watch",
-  "link": "https://pathwayscg.com/womens-history-month-part-three-women-to-watch-tech-watch/",
+  "date": "2019-03-20T00:49:53.000Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "The Road to Knowledge: CreatorCon",
+  "link": "https://omny.fm/shows/servicenow-cloudcast/the-road-to-knowledge-creatorcon",
   "author": ""
  },
  {
-  "date": "2020-03-18T21:03:21.000Z",
-  "site": "John James Andersen",
-  "category": "Blog",
-  "title": "Creating list-based UI Actions without selecting a record",
-  "link": "http://www.john-james-andersen.com/blog/creating-list-based-ui-actions-without-selecting-a-record.html",
+  "date": "2019-03-14T01:46:06.000Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "The Road to Knowledge: Customer & Employee Workflows and the Now Platform, Part 2",
+  "link": "https://omny.fm/shows/servicenow-cloudcast/the-road-to-knowledge-customer-employee-workflows",
   "author": ""
  },
  {
-  "date": "2018-05-02T15:58:58.000Z",
-  "site": "John James Andersen",
-  "category": "Blog",
-  "title": "Knowledge 18 – Let’s Talk!",
-  "link": "http://www.john-james-andersen.com/tools/servicenow/knowledge-18-lets-talk.html",
+  "date": "2019-03-07T23:30:05.000Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "The Road to Knowledge: Six Conversations - IT Workflows, Part 1",
+  "link": "https://omny.fm/shows/servicenow-cloudcast/the-road-to-knowledge-six-conversations-it-workflo",
   "author": ""
  },
  {
-  "date": "2017-07-21T15:00:46.000Z",
-  "site": "John James Andersen",
-  "category": "Blog",
-  "title": "Endpoints in Integrations – Use Case",
-  "link": "http://www.john-james-andersen.com/blog/endpoints-in-integrations-use-case.html",
+  "date": "2019-02-21T21:04:41.000Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "What is Knowledge? A chat with Scott Schenker",
+  "link": "https://omny.fm/shows/servicenow-cloudcast/what-is-knowledge-a-chat-with-scott-schenker",
   "author": ""
  },
  {
-  "date": "2017-07-18T20:29:09.000Z",
-  "site": "John James Andersen",
-  "category": "Blog",
-  "title": "Adding an Attachment Icon for Lists of Records – Method 2",
-  "link": "http://www.john-james-andersen.com/blog/adding-an-attachment-icon-for-lists-of-records-method-2.html",
+  "date": "2018-07-31T22:30:36.000Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "PartnerNow Podcast: How to Build your Brand on the ServiceNow Community",
+  "link": "https://omny.fm/shows/servicenow-cloudcast/partnernow-podcast-how-to-build-your-brand-on-the",
   "author": ""
  },
  {
-  "date": "2017-07-17T16:00:10.000Z",
-  "site": "John James Andersen",
-  "category": "Blog",
-  "title": "Adding an Attachment Icon for Lists of Records – Method 1",
-  "link": "http://www.john-james-andersen.com/blog/adding-an-attachment-icon-for-lists-of-records.html",
+  "date": "2020-01-07T20:52:00.000Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 57: Optimizing concurrent licenses using SAM",
+  "link": "https://omny.fm/shows/servicenow-techbytes/episode-57-optimizing-software-licenses",
   "author": ""
  },
  {
-  "date": "2017-06-20T23:34:46.000Z",
-  "site": "John James Andersen",
-  "category": "Blog",
-  "title": "Navigating Transform Scripts in ServiceNow",
-  "link": "http://www.john-james-andersen.com/blog/navigating-transform-scripts-in-servicenow.html",
+  "date": "2019-10-18T15:15:49.000Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 56: Now Community Idea Portal",
+  "link": "https://omny.fm/shows/servicenow-techbytes/episode-56-now-community-idea-portal",
   "author": ""
  },
  {
-  "date": "2017-06-12T14:00:01.000Z",
-  "site": "John James Andersen",
-  "category": "Blog",
-  "title": "Cascade Deleting Records",
-  "link": "http://www.john-james-andersen.com/blog/cascade-deleting-records.html",
+  "date": "2019-09-30T20:34:00.000Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 55: Vendor Manager Workspace",
+  "link": "https://omny.fm/shows/servicenow-techbytes/episode-55-vendor-manager-workspace",
   "author": ""
  },
  {
-  "date": "2017-06-09T14:00:51.000Z",
-  "site": "John James Andersen",
-  "category": "Blog",
-  "title": "Slack Integration to ServiceNow – Use Case",
-  "link": "http://www.john-james-andersen.com/blog/slack-integration.html",
+  "date": "2019-09-13T18:34:38.000Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 54: Service Owner Workspace",
+  "link": "https://omny.fm/shows/servicenow-techbytes/episode-54-service-owner-workspace",
   "author": ""
  },
  {
-  "date": "2017-06-07T16:00:09.000Z",
-  "site": "John James Andersen",
-  "category": "Blog",
-  "title": "Using URLs to set Default Values in a Record Producer",
-  "link": "http://www.john-james-andersen.com/blog/using-urls-to-set-default-values-in-a-record-producer.html",
+  "date": "2019-08-19T17:00:33.000Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 53: Skills Management",
+  "link": "https://omny.fm/shows/servicenow-techbytes/episode-53-skills-management",
   "author": ""
  },
  {
-  "date": "2017-06-05T15:18:55.000Z",
-  "site": "John James Andersen",
-  "category": "Blog",
-  "title": "Using Record Producers to Create Multiple Records",
-  "link": "http://www.john-james-andersen.com/blog/using-record-producers-to-add-multiple-records-to-a-table.html",
+  "date": "2019-08-02T19:38:11.000Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 52: Virtual Agent and NLU",
+  "link": "https://omny.fm/shows/servicenow-techbytes/episode-52-virtual-agent-and-nlu",
+  "author": ""
+ },
+ {
+  "date": "2019-04-29T20:42:04.000Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 51: Change Management",
+  "link": "https://omny.fm/shows/servicenow-techbytes/episode-51-change-management",
+  "author": ""
+ },
+ {
+  "date": "2019-04-08T21:18:46.000Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 50: Walk-Up in Madrid",
+  "link": "https://omny.fm/shows/servicenow-techbytes/episode-50-walk-up-in-madrid",
+  "author": ""
+ },
+ {
+  "date": "2019-03-26T21:41:35.000Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 49: Coaching application",
+  "link": "https://omny.fm/shows/servicenow-techbytes/episode-49-coaching-application",
+  "author": ""
+ },
+ {
+  "date": "2019-03-15T15:48:21.000Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 48: Mobile Platform and Mobile Studio",
+  "link": "https://omny.fm/shows/servicenow-techbytes/episode-48-mobile-platform-and-mobile-studio",
+  "author": ""
+ },
+ {
+  "date": "2019-03-07T19:06:41.000Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 47: Flow Designer",
+  "link": "https://omny.fm/shows/servicenow-techbytes/episode-47-flow-designer",
+  "author": ""
+ },
+ {
+  "date": "2018-12-17T22:15:08.000Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 46: IBM Watson on the Now Platform",
+  "link": "https://omny.fm/shows/servicenow-techbytes/episode-46-ibm-watson-on-the-now-platform",
+  "author": ""
+ },
+ {
+  "date": "2018-09-28T17:47:49.000Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 45: The Walk-Up experience",
+  "link": "https://omny.fm/shows/servicenow-techbytes/episode-45-the-walk-up-experience",
+  "author": ""
+ },
+ {
+  "date": "2018-09-11T16:16:55.000Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 44: New content for Discovery",
+  "link": "https://omny.fm/shows/servicenow-techbytes/episode-44-new-content-for-discovery",
+  "author": ""
+ },
+ {
+  "date": "2018-08-28T19:26:30.000Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 43: ITSM Virtual Agent",
+  "link": "https://omny.fm/shows/servicenow-techbytes/episode-43-virtual-agent",
+  "author": ""
+ },
+ {
+  "date": "2018-08-13T17:48:35.000Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 42: Continual Improvement Management",
+  "link": "https://omny.fm/shows/servicenow-techbytes/episode-42-continual-improvement-management",
+  "author": ""
+ },
+ {
+  "date": "2018-06-25T21:42:14.000Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 41: Embedded Help and Guided Tours",
+  "link": "https://omny.fm/shows/servicenow-techbytes/episode-41-embedded-help-and-guided-tours",
+  "author": ""
+ },
+ {
+  "date": "2018-03-16T17:32:53.000Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 40: Upgrades",
+  "link": "https://omny.fm/shows/servicenow-techbytes/episode-40-upgrades",
+  "author": ""
+ },
+ {
+  "date": "2018-01-16T18:37:05.000Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 39: Activating Plugins",
+  "link": "https://omny.fm/shows/servicenow-techbytes/episode-39-activating-plugins",
+  "author": ""
+ },
+ {
+  "date": "2017-12-18T20:01:21.000Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "ITSM Cast: Service Catalog on the Kingston Service Portal",
+  "link": "https://omny.fm/shows/servicenow-techbytes/itsm-cast-service-catalog-on-the-kingston-service",
+  "author": ""
+ },
+ {
+  "date": "2017-12-06T21:54:59.000Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 38: ServiceNow's New Information Experience",
+  "link": "https://omny.fm/shows/servicenow-techbytes/episode-38-servicenows-new-information-experience",
+  "author": ""
+ },
+ {
+  "date": "2017-09-26T20:53:23.000Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 37: Benchmarks in Jakarta",
+  "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-37-benchmarks-in-jakarta",
+  "author": ""
+ },
+ {
+  "date": "2017-08-16T16:07:21.000Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 36: Developing Apps in ServiceNow",
+  "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-36-developing-apps-in-servicenow",
+  "author": ""
+ },
+ {
+  "date": "2017-07-18T17:41:51.000Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 35: Reporting Tips and Tricks",
+  "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-35-reporting-tips-and-tricks",
+  "author": ""
+ },
+ {
+  "date": "2017-07-05T19:41:35.000Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 34: Web Services",
+  "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-34-web-services",
+  "author": ""
+ },
+ {
+  "date": "2017-03-21T16:07:28.000Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 33: Service Portal in Istanbul",
+  "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-33-service-portal-in-istanbul",
+  "author": ""
+ },
+ {
+  "date": "2017-01-31T16:53:52.000Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 32: Improving Performance",
+  "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-32-improving-performance",
+  "author": ""
+ },
+ {
+  "date": "2017-01-16T20:58:18.000Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 31: Getting up to speed with Start Here content in Express",
+  "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-31-getting-up-to-speed-with-start-here-con",
+  "author": ""
+ },
+ {
+  "date": "2016-11-07T18:39:18.000Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 30: Quarterly Patching Program",
+  "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-30-quarterly-patching-program",
+  "author": ""
+ },
+ {
+  "date": "2016-10-24T19:05:05.000Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 29: Integrations",
+  "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-29-integrations",
+  "author": ""
+ },
+ {
+  "date": "2016-10-03T19:06:23.000Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 28: Edge Encryption",
+  "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-28-edge-encryption",
+  "author": ""
+ },
+ {
+  "date": "2016-08-30T22:39:22.000Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 27: Service Portal",
+  "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-27-service-portal",
+  "author": ""
+ },
+ {
+  "date": "2016-08-15T17:14:39.000Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 26: Knowledge Management Version 3",
+  "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-26-knowledge-management-version-3",
+  "author": ""
+ },
+ {
+  "date": "2016-08-01T22:14:19.000Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 25: Hibernation of Personal Developer Instances",
+  "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-25-hibernation-of-personal-developer-insta",
+  "author": ""
+ },
+ {
+  "date": "2016-06-30T22:25:39.000Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 24: ServiceNow Store partner Workato – The Cure For Your App Integration Blues",
+  "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-24-servicenow-store-partner-workato-the-cu",
+  "author": ""
+ },
+ {
+  "date": "2016-06-27T19:00:13.000Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 23: Reporting in Helsinki",
+  "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-23-reporting-in-helsinki",
+  "author": ""
+ },
+ {
+  "date": "2016-06-13T21:07:24.000Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 22: Security Operations",
+  "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-22-security-operations",
+  "author": ""
+ },
+ {
+  "date": "2016-05-27T23:04:45.000Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 21: What's New in Express—Helsinki Release",
+  "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-21-whats-new-in-express-helsinki-release",
+  "author": ""
+ },
+ {
+  "date": "2016-05-09T16:45:41.000Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 20: HI Service Portal",
+  "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-20-hi-service-portal",
+  "author": ""
+ },
+ {
+  "date": "2016-04-26T20:55:28.000Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 19: Automated Testing: Q&A with Roger Enriquez, Cerna Solutions",
+  "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-19-automated-testing-q-a-with-roger-enriqu",
+  "author": ""
+ },
+ {
+  "date": "2016-04-06T22:52:23.000Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 18: SDLC in the Project Portfolio Suite",
+  "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-18-sdlc-in-the-project-portfolio-suite",
+  "author": ""
+ },
+ {
+  "date": "2016-03-21T18:06:17.000Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 17: Getting Started with the ServiceNow Documentation Site",
+  "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-17-getting-started-with-the-servicenow-doc",
+  "author": ""
+ },
+ {
+  "date": "2016-03-08T17:01:32.000Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 16: ServiceNow Performance Analytics",
+  "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-16-servicenow-performance-analytics",
+  "author": ""
+ },
+ {
+  "date": "2016-02-23T00:07:31.000Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 15: Reporting in ServiceNow",
+  "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-15-reporting-in-servicenow",
+  "author": ""
+ },
+ {
+  "date": "2016-02-09T23:42:08.000Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 14: ServiceNow Store Update and Interview with MobiChord Co-Founder & CEO",
+  "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-14-servicenow-store-update-and-interview-w",
+  "author": ""
+ },
+ {
+  "date": "2016-02-08T23:49:38.000Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 13: Participating in the ServiceNow Online Community",
+  "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-13-participating-in-the-servicenow-online",
+  "author": ""
+ },
+ {
+  "date": "2016-01-25T23:09:06.000Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 12: Using the ServiceNow Knowledge Base Application",
+  "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-12-using-the-servicenow-knowledge-base-app",
+  "author": ""
+ },
+ {
+  "date": "2016-01-11T20:23:46.000Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 11: New in the Geneva Release - Scripted REST APIs",
+  "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-11-new-in-the-geneva-release-scripted-rest",
+  "author": ""
+ },
+ {
+  "date": "2015-12-17T01:07:44.000Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 10: ServiceNow Store Updates and Evergreen CEO",
+  "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-10-servicenow-store-updates-and-evergreen",
+  "author": ""
+ },
+ {
+  "date": "2015-12-07T23:22:10.000Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 9: ServiceNow Developers Site",
+  "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-9-servicenow-developers-site",
+  "author": ""
+ },
+ {
+  "date": "2015-11-10T16:39:09.000Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 8: ServiceNow Security Incident Response",
+  "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-8-servicenow-security-incident-response",
+  "author": ""
+ },
+ {
+  "date": "2015-10-22T23:45:46.000Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 7: ServiceNow Knowledge Management",
+  "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-7-servicenow-knowledge-management",
+  "author": ""
+ },
+ {
+  "date": "2015-10-12T18:17:46.000Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 6: ServiceNow Field Service Management and Geolocation",
+  "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-6-servicenow-field-service-management-and",
+  "author": ""
+ },
+ {
+  "date": "2015-09-29T16:52:54.000Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 5: Discovery - Tips, Tricks, and Best Practices",
+  "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-5-discovery-tips-tricks-and-best-practices",
+  "author": ""
+ },
+ {
+  "date": "2015-09-10T20:35:54.000Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 4: ServiceNow Visual Task Boards",
+  "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-4-servicenow-visual-task-boards",
+  "author": ""
+ },
+ {
+  "date": "2015-09-04T21:33:57.000Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 3: Developing Apps For The ServiceNow Store",
+  "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-3-developing-apps-for-the-servicenow-store",
+  "author": ""
+ },
+ {
+  "date": "2015-09-04T21:29:29.000Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 2: ServiceNow Express Implementation Tips To Automate Business Processes",
+  "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-2-servicenow-express-implementation-tips-t",
+  "author": ""
+ },
+ {
+  "date": "2015-09-04T19:50:27.000Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 1: ServiceNow Store Updates & Event Management Integrations App By Evanios",
+  "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-1-servicenow-store-updates-event-managemen",
   "author": ""
  },
  {
@@ -6018,6 +5778,246 @@
   "category": "Blog",
   "title": "Parameters for Catalog Items",
   "link": "https://www.servicenowelite.com/blog/2019/7/31/parameters-with-catalog-items",
+  "author": ""
+ },
+ {
+  "date": "2020-03-18T21:03:21.000Z",
+  "site": "John James Andersen",
+  "category": "Blog",
+  "title": "Creating list-based UI Actions without selecting a record",
+  "link": "http://www.john-james-andersen.com/blog/creating-list-based-ui-actions-without-selecting-a-record.html",
+  "author": ""
+ },
+ {
+  "date": "2018-05-02T15:58:58.000Z",
+  "site": "John James Andersen",
+  "category": "Blog",
+  "title": "Knowledge 18 – Let’s Talk!",
+  "link": "http://www.john-james-andersen.com/tools/servicenow/knowledge-18-lets-talk.html",
+  "author": ""
+ },
+ {
+  "date": "2017-07-21T15:00:46.000Z",
+  "site": "John James Andersen",
+  "category": "Blog",
+  "title": "Endpoints in Integrations – Use Case",
+  "link": "http://www.john-james-andersen.com/blog/endpoints-in-integrations-use-case.html",
+  "author": ""
+ },
+ {
+  "date": "2017-07-18T20:29:09.000Z",
+  "site": "John James Andersen",
+  "category": "Blog",
+  "title": "Adding an Attachment Icon for Lists of Records – Method 2",
+  "link": "http://www.john-james-andersen.com/blog/adding-an-attachment-icon-for-lists-of-records-method-2.html",
+  "author": ""
+ },
+ {
+  "date": "2017-07-17T16:00:10.000Z",
+  "site": "John James Andersen",
+  "category": "Blog",
+  "title": "Adding an Attachment Icon for Lists of Records – Method 1",
+  "link": "http://www.john-james-andersen.com/blog/adding-an-attachment-icon-for-lists-of-records.html",
+  "author": ""
+ },
+ {
+  "date": "2017-06-20T23:34:46.000Z",
+  "site": "John James Andersen",
+  "category": "Blog",
+  "title": "Navigating Transform Scripts in ServiceNow",
+  "link": "http://www.john-james-andersen.com/blog/navigating-transform-scripts-in-servicenow.html",
+  "author": ""
+ },
+ {
+  "date": "2017-06-12T14:00:01.000Z",
+  "site": "John James Andersen",
+  "category": "Blog",
+  "title": "Cascade Deleting Records",
+  "link": "http://www.john-james-andersen.com/blog/cascade-deleting-records.html",
+  "author": ""
+ },
+ {
+  "date": "2017-06-09T14:00:51.000Z",
+  "site": "John James Andersen",
+  "category": "Blog",
+  "title": "Slack Integration to ServiceNow – Use Case",
+  "link": "http://www.john-james-andersen.com/blog/slack-integration.html",
+  "author": ""
+ },
+ {
+  "date": "2017-06-07T16:00:09.000Z",
+  "site": "John James Andersen",
+  "category": "Blog",
+  "title": "Using URLs to set Default Values in a Record Producer",
+  "link": "http://www.john-james-andersen.com/blog/using-urls-to-set-default-values-in-a-record-producer.html",
+  "author": ""
+ },
+ {
+  "date": "2017-06-05T15:18:55.000Z",
+  "site": "John James Andersen",
+  "category": "Blog",
+  "title": "Using Record Producers to Create Multiple Records",
+  "link": "http://www.john-james-andersen.com/blog/using-record-producers-to-add-multiple-records-to-a-table.html",
+  "author": ""
+ },
+ {
+  "date": "2020-04-09T15:16:39.000Z",
+  "site": "Pathway",
+  "category": "Blog",
+  "title": "ServiceNow application spotlight: Virtual Agent",
+  "link": "https://pathwayscg.com/servicenow-application-spotlight-virtual-agent/",
+  "author": ""
+ },
+ {
+  "date": "2020-04-08T17:49:52.000Z",
+  "site": "Pathway",
+  "category": "Blog",
+  "title": "COVID-19 and business: How Pathways can help ease the transition to remote work",
+  "link": "https://pathwayscg.com/covid-19-and-business-how-pathways-can-help-ease-the-transition-to-remote-work/",
+  "author": ""
+ },
+ {
+  "date": "2020-04-06T19:14:44.000Z",
+  "site": "Pathway",
+  "category": "Blog",
+  "title": "Helping our clients work from home — Women to Watch: Tech Watch",
+  "link": "https://pathwayscg.com/helping-our-clients-work-from-home-women-to-watch-tech-watch/",
+  "author": ""
+ },
+ {
+  "date": "2020-04-03T20:48:46.000Z",
+  "site": "Pathway",
+  "category": "Blog",
+  "title": "Properly configuring a three-tier dependency",
+  "link": "https://pathwayscg.com/properly-configuring-a-three-tier-dependency/",
+  "author": ""
+ },
+ {
+  "date": "2020-03-30T17:04:15.000Z",
+  "site": "Pathway",
+  "category": "Blog",
+  "title": "Home activities for STEM learning — Women to Watch: Tech Watch",
+  "link": "https://pathwayscg.com/home-activities-for-stem-learning-women-to-watch-tech-watch/",
+  "author": ""
+ },
+ {
+  "date": "2020-03-24T19:18:10.000Z",
+  "site": "Pathway",
+  "category": "Blog",
+  "title": "Working from home? Here’s how to make it work",
+  "link": "https://pathwayscg.com/working-from-home-heres-how-to-make-it-work/",
+  "author": ""
+ },
+ {
+  "date": "2020-03-23T16:50:41.000Z",
+  "site": "Pathway",
+  "category": "Blog",
+  "title": "Working from home — Women to Watch: Tech Watch",
+  "link": "https://pathwayscg.com/working-from-home-women-to-watch-tech-watch/",
+  "author": ""
+ },
+ {
+  "date": "2020-03-20T19:37:33.000Z",
+  "site": "Pathway",
+  "category": "Blog",
+  "title": "Modifying a workflow scratchpad outside of a workflow",
+  "link": "https://pathwayscg.com/modifying-a-workflow-scratchpad-outside-of-a-workflow/",
+  "author": ""
+ },
+ {
+  "date": "2020-03-17T18:33:15.000Z",
+  "site": "Pathway",
+  "category": "Blog",
+  "title": "Under pressure? Pathways can help support your day-to-day",
+  "link": "https://pathwayscg.com/under-pressure-pathways-can-help-support-your-day-to-day/",
+  "author": ""
+ },
+ {
+  "date": "2020-03-16T17:33:54.000Z",
+  "site": "Pathway",
+  "category": "Blog",
+  "title": "Women’s History Month part three — Women to Watch: Tech Watch",
+  "link": "https://pathwayscg.com/womens-history-month-part-three-women-to-watch-tech-watch/",
+  "author": ""
+ },
+ {
+  "date": "2020-04-01T12:02:40.000Z",
+  "site": "Dylan Lindgren",
+  "category": "Blog",
+  "title": "Building Custom Workspace Components in Orlando: Now CLI",
+  "link": "https://www.dylanlindgren.com/2020/04/01/building-custom-workspace-components-in-orlando-now-cli/",
+  "author": ""
+ },
+ {
+  "date": "2019-11-07T23:00:10.000Z",
+  "site": "Dylan Lindgren",
+  "category": "Blog",
+  "title": "The ULTIMATE Service Portal CSS Guide",
+  "link": "https://www.dylanlindgren.com/2019/11/08/ultimate-service-portal-css-guide/",
+  "author": ""
+ },
+ {
+  "date": "2018-11-07T01:13:40.000Z",
+  "site": "Dylan Lindgren",
+  "category": "Blog",
+  "title": "Building Multilingual Service Portals",
+  "link": "https://www.dylanlindgren.com/2018/11/07/building-multilingual-service-portals/",
+  "author": ""
+ },
+ {
+  "date": "2018-08-09T06:23:45.000Z",
+  "site": "Dylan Lindgren",
+  "category": "Blog",
+  "title": "Deploy Service Portal as a Mobile app",
+  "link": "https://www.dylanlindgren.com/2018/08/09/deploy-service-portal-as-a-mobile-app/",
+  "author": ""
+ },
+ {
+  "date": "2018-06-06T12:57:20.000Z",
+  "site": "Dylan Lindgren",
+  "category": "Blog",
+  "title": "Displaying Service Portal Widgets Outside ServiceNow",
+  "link": "https://www.dylanlindgren.com/2018/06/06/service-portal-widgets-outside-sn/",
+  "author": ""
+ },
+ {
+  "date": "2018-05-02T12:23:19.000Z",
+  "site": "Dylan Lindgren",
+  "category": "Blog",
+  "title": "A Spectators Guide: 2018 Chinese Grand Prix",
+  "link": "https://www.dylanlindgren.com/2018/05/02/a-spectators-guide-2018-chinese-grand-prix/",
+  "author": ""
+ },
+ {
+  "date": "2018-02-15T05:29:02.000Z",
+  "site": "Dylan Lindgren",
+  "category": "Blog",
+  "title": "One Quick Tip for Single Page Apps in Service Portal",
+  "link": "https://www.dylanlindgren.com/2018/02/15/one-quick-tip-for-single-page-apps-in-service-portal/",
+  "author": ""
+ },
+ {
+  "date": "2018-01-09T09:38:11.000Z",
+  "site": "Dylan Lindgren",
+  "category": "Blog",
+  "title": "Making Great Service Portal Apps: Use Script Includes",
+  "link": "https://www.dylanlindgren.com/2018/01/09/making-great-service-portal-apps-use-script-includes/",
+  "author": ""
+ },
+ {
+  "date": "2017-10-28T11:14:08.000Z",
+  "site": "Dylan Lindgren",
+  "category": "Blog",
+  "title": "Service Portal fundamentals: AngularJS scopes",
+  "link": "https://www.dylanlindgren.com/2017/10/28/service-portal-fundamentals-angularjs-scopes/",
+  "author": ""
+ },
+ {
+  "date": "2017-09-30T11:53:05.000Z",
+  "site": "Dylan Lindgren",
+  "category": "Blog",
+  "title": "Filling PDF forms in ServiceNow",
+  "link": "https://www.dylanlindgren.com/2017/09/30/filling-pdf-forms-in-servicenow/",
   "author": ""
  },
  {
@@ -6389,6 +6389,70 @@
   "author": ""
  },
  {
+  "date": "2020-04-14T09:53:45.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Now Learning Blog – Online learning and certification with ServiceNow",
+  "author": "Julie",
+  "link": "https://community.servicenow.com/community?id=community_blog&sys_id=618ae5a3db841c9c1cd8a345ca96196d"
+ },
+ {
+  "date": "2020-04-09T21:20:40.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Understanding and Using Campaigns",
+  "author": "Allison French",
+  "link": "https://community.servicenow.com/community?id=community_blog&sys_id=4bc79a02db48d05cf7fca851ca9619f3"
+ },
+ {
+  "date": "2020-04-08T14:22:16.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Now Learning Blog – Online learning and certification with ServiceNow",
+  "author": "Julie",
+  "link": "https://community.servicenow.com/community?id=community_blog&sys_id=907e67e1db805c1c1cd8a345ca961909"
+ },
+ {
+  "date": "2016-07-14T17:56:48.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "\"Related Attachments\" Related List",
+  "author": "Jim Coyne",
+  "link": "https://community.servicenow.com/community?id=community_blog&sys_id=928c2ae1dbd0dbc01dcaf3231f961927"
+ },
+ {
+  "date": "2016-03-17T19:46:25.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Harness the power of Knowledge Search",
+  "author": "Sarup Paul",
+  "link": "https://community.servicenow.com/community?id=community_blog&sys_id=f91e226ddbd0dbc01dcaf3231f961910"
+ },
+ {
+  "date": "2008-10-24T11:27:20.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "OID, vey!",
+  "author": "SlightlyLoony",
+  "link": "https://community.servicenow.com/community?id=community_blog&sys_id=ca0eaa2ddbd0dbc01dcaf3231f9619fe"
+ },
+ {
+  "date": "2020-03-02T03:23:08.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "【バーチャルクラス形式延長】【ServiceNow トレーニング】開催形式変更・開催中止のご案内【新型コロナウイルス感染拡大防止】",
+  "author": "Kentaro Suzuki",
+  "link": "https://community.servicenow.com/community?id=community_blog&sys_id=10c43ea9db9f04105ed4a851ca96199e"
+ },
+ {
+  "date": "2020-04-10T13:45:22.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Virtual Agent Work-From-Home Starter Pack For IT",
+  "author": "Ankit Khetarpal",
+  "link": "https://community.servicenow.com/community?id=community_blog&sys_id=5f29bd52db4c509cd58ea345ca9619a0"
+ },
+ {
   "date": "2020-04-13T17:13:14.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -6411,22 +6475,6 @@
   "title": "TechNow Episode List",
   "author": "Chuck Tomasi",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=4d6eaeaddbd0dbc01dcaf3231f961964"
- },
- {
-  "date": "2020-04-09T21:20:40.000Z",
-  "site": "ServiceNow Blogs",
-  "category": "Blog",
-  "title": "Understanding and Using Campaigns",
-  "author": "Allison French",
-  "link": "https://community.servicenow.com/community?id=community_blog&sys_id=4bc79a02db48d05cf7fca851ca9619f3"
- },
- {
-  "date": "2016-07-14T17:56:48.000Z",
-  "site": "ServiceNow Blogs",
-  "category": "Blog",
-  "title": "\"Related Attachments\" Related List",
-  "author": "Jim Coyne",
-  "link": "https://community.servicenow.com/community?id=community_blog&sys_id=928c2ae1dbd0dbc01dcaf3231f961927"
  },
  {
   "date": "2020-01-24T13:41:31.000Z",
@@ -6611,14 +6659,6 @@
   "title": "Steps to determine the cause of a cache flush",
   "author": "Nikisha",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=56b8c9b9db08901c4819fb2439961942"
- },
- {
-  "date": "2020-04-08T14:22:16.000Z",
-  "site": "ServiceNow Blogs",
-  "category": "Blog",
-  "title": "Now Learning Blog – Online learning and certification with ServiceNow",
-  "author": "Julie",
-  "link": "https://community.servicenow.com/community?id=community_blog&sys_id=907e67e1db805c1c1cd8a345ca961909"
  },
  {
   "date": "2020-04-06T11:26:37.000Z",
@@ -6893,14 +6933,6 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=a84daee5dbd0dbc01dcaf3231f96198e"
  },
  {
-  "date": "2016-03-17T19:46:25.000Z",
-  "site": "ServiceNow Blogs",
-  "category": "Blog",
-  "title": "Harness the power of Knowledge Search",
-  "author": "Sarup Paul",
-  "link": "https://community.servicenow.com/community?id=community_blog&sys_id=f91e226ddbd0dbc01dcaf3231f961910"
- },
- {
   "date": "2020-03-03T18:44:57.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -7137,7 +7169,7 @@
   "site": "ServiceNow Blogs",
   "category": "Blog",
   "title": "Improve performance: database indexes and slow queries",
-  "author": "Ankit K",
+  "author": "Ankit Khetarpal",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=6b4da229dbd0dbc01dcaf3231f9619ad"
  },
  {
@@ -7489,7 +7521,7 @@
   "site": "ServiceNow Blogs",
   "category": "Blog",
   "title": "Vendor Manager Workspace",
-  "author": "Ankit K",
+  "author": "Ankit Khetarpal",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=545c8f51db2c8018f7fca851ca961908"
  },
  {
@@ -7521,7 +7553,7 @@
   "site": "ServiceNow Blogs",
   "category": "Blog",
   "title": "Additional Innovations",
-  "author": "Ankit K",
+  "author": "Ankit Khetarpal",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=9ff5d589db67c414d58ea345ca9619db"
  },
  {
@@ -7577,7 +7609,7 @@
   "site": "ServiceNow Blogs",
   "category": "Blog",
   "title": "Virtual Agent",
-  "author": "Ankit K",
+  "author": "Ankit Khetarpal",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=f90d8c51dbd840544819fb24399619fe"
  },
  {
@@ -8057,7 +8089,7 @@
   "site": "ServiceNow Blogs",
   "category": "Blog",
   "title": "Walkup Experience",
-  "author": "Ankit K",
+  "author": "Ankit Khetarpal",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=0dd0b190db1844904819fb24399619df"
  },
  {
@@ -8137,7 +8169,7 @@
   "site": "ServiceNow Blogs",
   "category": "Blog",
   "title": "Problem Management",
-  "author": "Ankit K",
+  "author": "Ankit Khetarpal",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=8856e9d7db0c88100be6a345ca96191d"
  },
  {
@@ -8393,7 +8425,7 @@
   "site": "ServiceNow Blogs",
   "category": "Blog",
   "title": "Request Management",
-  "author": "Ankit K",
+  "author": "Ankit Khetarpal",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=f29e5ddcdb180890d82ffb24399619e7"
  },
  {
@@ -8401,7 +8433,7 @@
   "site": "ServiceNow Blogs",
   "category": "Blog",
   "title": "Service Owner Workspace",
-  "author": "Ankit K",
+  "author": "Ankit Khetarpal",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=fbea835ddba88018f7fca851ca96192a"
  },
  {
@@ -8409,7 +8441,7 @@
   "site": "ServiceNow Blogs",
   "category": "Blog",
   "title": "ITSM - Predictive Intelligence",
-  "author": "Ankit K",
+  "author": "Ankit Khetarpal",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=3872835ddb6040d85129a851ca9619cc"
  },
  {
@@ -8417,7 +8449,7 @@
   "site": "ServiceNow Blogs",
   "category": "Blog",
   "title": "Change Management",
-  "author": "Ankit K",
+  "author": "Ankit Khetarpal",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=6b3be4e5dbbffbc84819fb2439961973"
  },
  {
@@ -8425,7 +8457,7 @@
   "site": "ServiceNow Blogs",
   "category": "Blog",
   "title": "Continual Improvement Management (CIM)",
-  "author": "Ankit K",
+  "author": "Ankit Khetarpal",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=ed1b3b89db5800544819fb243996196d"
  },
  {
@@ -8433,7 +8465,7 @@
   "site": "ServiceNow Blogs",
   "category": "Blog",
   "title": "Incident Management",
-  "author": "Ankit K",
+  "author": "Ankit Khetarpal",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=b0a408a5dbd7bf0014d6fb24399619ce"
  },
  {
@@ -8441,7 +8473,7 @@
   "site": "ServiceNow Blogs",
   "category": "Blog",
   "title": "ITSM to ITSM PRO Evolution Why What",
-  "author": "Ankit K",
+  "author": "Ankit Khetarpal",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=33e24880db5bc850d58ea345ca96190d"
  },
  {
@@ -8507,14 +8539,6 @@
   "title": "Mini-Lab: Web Services — Part 4: Modifying Help-the-Help-Desk to use a scripted Web Service",
   "author": "sabell2012",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=b95ca6a1dbd0dbc01dcaf3231f9619ed"
- },
- {
-  "date": "2020-03-02T03:23:08.000Z",
-  "site": "ServiceNow Blogs",
-  "category": "Blog",
-  "title": "【ServiceNow トレーニング】開催形式変更・開催中止のご案内【新型コロナウイルス感染拡大防止】",
-  "author": "Kentaro Suzuki",
-  "link": "https://community.servicenow.com/community?id=community_blog&sys_id=10c43ea9db9f04105ed4a851ca96199e"
  },
  {
   "date": "2016-06-28T08:19:51.000Z",
@@ -8825,7 +8849,7 @@
   "site": "ServiceNow Blogs",
   "category": "Blog",
   "title": "Vendor Manager Workspace Overview",
-  "author": "Ankit K",
+  "author": "Ankit Khetarpal",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=fdd638c5db63bfc02be0a851ca96197b"
  },
  {
@@ -11873,7 +11897,7 @@
   "site": "ServiceNow Blogs",
   "category": "Blog",
   "title": "Vendor Management Workspace FAQ's",
-  "author": "Ankit K",
+  "author": "Ankit Khetarpal",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=af9be017dbccc4100be6a345ca961924"
  },
  {
@@ -23961,7 +23985,7 @@
   "site": "ServiceNow Blogs",
   "category": "Blog",
   "title": "ServiceNow Instance Performance - master document",
-  "author": "Ankit K",
+  "author": "Ankit Khetarpal",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=da050187dbb89380032a7a9e0f9619c4"
  },
  {
@@ -24553,7 +24577,7 @@
   "site": "ServiceNow Blogs",
   "category": "Blog",
   "title": "Monitoring your instance using Servlet Performance Graphs",
-  "author": "Ankit K",
+  "author": "Ankit Khetarpal",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=eafd662ddbd0dbc01dcaf3231f9619e7"
  },
  {
@@ -24865,7 +24889,7 @@
   "site": "ServiceNow Blogs",
   "category": "Blog",
   "title": "Preserve performance by halting excessive logging in syslog tables",
-  "author": "Ankit K",
+  "author": "Ankit Khetarpal",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=3b8d2a69dbd0dbc01dcaf3231f9619e4"
  },
  {
@@ -32105,7 +32129,7 @@
   "site": "ServiceNow Blogs",
   "category": "Blog",
   "title": "Long running Import Set Deleter job causing performance issues on the affected node",
-  "author": "Ankit K",
+  "author": "Ankit Khetarpal",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=872da6e5dbd0dbc01dcaf3231f9619f2"
  },
  {
@@ -32881,7 +32905,7 @@
   "site": "ServiceNow Blogs",
   "category": "Blog",
   "title": "3 symptoms of SAM License Counter running long scheduled jobs",
-  "author": "Ankit K",
+  "author": "Ankit Khetarpal",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=9a3deae5dbd0dbc01dcaf3231f961941"
  },
  {
@@ -34081,7 +34105,7 @@
   "site": "ServiceNow Blogs",
   "category": "Blog",
   "title": "Using SQL Debugger to troubleshoot slow queries",
-  "author": "Ankit K",
+  "author": "Ankit Khetarpal",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=b8fca2a5dbd0dbc01dcaf3231f961903"
  },
  {
@@ -35937,7 +35961,7 @@
   "site": "ServiceNow Blogs",
   "category": "Blog",
   "title": "Semaphore queue \"leaking\" due to RESTAPIProcessor exception",
-  "author": "Ankit K",
+  "author": "Ankit Khetarpal",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=ba7d6269dbd0dbc01dcaf3231f9619f4"
  },
  {
@@ -52165,14 +52189,6 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=a19c2ee1dbd0dbc01dcaf3231f96198f"
  },
  {
-  "date": "2008-10-24T11:27:20.000Z",
-  "site": "ServiceNow Blogs",
-  "category": "Blog",
-  "title": "OID, vey!",
-  "author": "SlightlyLoony",
-  "link": "https://community.servicenow.com/community?id=community_blog&sys_id=ca0eaa2ddbd0dbc01dcaf3231f9619fe"
- },
- {
   "date": "2013-03-15T17:47:04.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -53298,7 +53314,7 @@
   "category": "Blog",
   "title": "Webinar SERVICENOW dédié aux infogérants",
   "author": "avigneras",
-  "link": "https://community.servicenow.com/community?id=community_blog&sys_id=bd0eaa2ddbd0dbc01dcaf3231f96199d"
+  "link": "https://community.servicenow.com/community?id=community_blog&sys_id=d81daea5dbd0dbc01dcaf3231f961923"
  },
  {
   "date": "2012-09-24T06:30:21.000Z",
@@ -53306,7 +53322,7 @@
   "category": "Blog",
   "title": "Webinar SERVICENOW dédié aux infogérants",
   "author": "avigneras",
-  "link": "https://community.servicenow.com/community?id=community_blog&sys_id=d81daea5dbd0dbc01dcaf3231f961923"
+  "link": "https://community.servicenow.com/community?id=community_blog&sys_id=bd0eaa2ddbd0dbc01dcaf3231f96199d"
  },
  {
   "date": "2012-09-14T18:44:04.000Z",
@@ -53986,7 +54002,7 @@
   "category": "Blog",
   "title": "Webinar BOMGAR le 26 juin 2012 — 16h",
   "author": "avigneras",
-  "link": "https://community.servicenow.com/community?id=community_blog&sys_id=eefd662ddbd0dbc01dcaf3231f961993"
+  "link": "https://community.servicenow.com/community?id=community_blog&sys_id=048c26e1dbd0dbc01dcaf3231f96198c"
  },
  {
   "date": "2012-05-31T13:24:39.000Z",
@@ -53994,7 +54010,7 @@
   "category": "Blog",
   "title": "Webinar BOMGAR le 26 juin 2012 — 16h",
   "author": "avigneras",
-  "link": "https://community.servicenow.com/community?id=community_blog&sys_id=048c26e1dbd0dbc01dcaf3231f96198c"
+  "link": "https://community.servicenow.com/community?id=community_blog&sys_id=eefd662ddbd0dbc01dcaf3231f961993"
  },
  {
   "date": "2012-05-31T12:22:08.000Z",
@@ -54162,7 +54178,7 @@
   "category": "Blog",
   "title": "Knowledge 12, New Orleans — Mercredi 16 mai 2012",
   "author": "avigneras",
-  "link": "https://community.servicenow.com/community?id=community_blog&sys_id=be6d2e29dbd0dbc01dcaf3231f96199c"
+  "link": "https://community.servicenow.com/community?id=community_blog&sys_id=c7cca265dbd0dbc01dcaf3231f9619ba"
  },
  {
   "date": "2012-05-17T00:24:16.000Z",
@@ -54170,7 +54186,7 @@
   "category": "Blog",
   "title": "Knowledge 12, New Orleans — Mercredi 16 mai 2012",
   "author": "avigneras",
-  "link": "https://community.servicenow.com/community?id=community_blog&sys_id=c7cca265dbd0dbc01dcaf3231f9619ba"
+  "link": "https://community.servicenow.com/community?id=community_blog&sys_id=be6d2e29dbd0dbc01dcaf3231f96199c"
  },
  {
   "date": "2012-05-16T20:53:59.000Z",
@@ -54202,7 +54218,7 @@
   "category": "Blog",
   "title": "Knowledge 12, New Orleans — Mardi 15 mai 2012",
   "author": "avigneras",
-  "link": "https://community.servicenow.com/community?id=community_blog&sys_id=cc0ee62ddbd0dbc01dcaf3231f9619e2"
+  "link": "https://community.servicenow.com/community?id=community_blog&sys_id=ae2e2a6ddbd0dbc01dcaf3231f961916"
  },
  {
   "date": "2012-05-16T03:16:28.000Z",
@@ -54210,7 +54226,7 @@
   "category": "Blog",
   "title": "Knowledge 12, New Orleans — Mardi 15 mai 2012",
   "author": "avigneras",
-  "link": "https://community.servicenow.com/community?id=community_blog&sys_id=ae2e2a6ddbd0dbc01dcaf3231f961916"
+  "link": "https://community.servicenow.com/community?id=community_blog&sys_id=cc0ee62ddbd0dbc01dcaf3231f9619e2"
  },
  {
   "date": "2012-05-15T21:58:53.000Z",
@@ -54226,7 +54242,7 @@
   "category": "Blog",
   "title": "Knowledge 12, New Orleans — Dimanche 13 mai 2012",
   "author": "avigneras",
-  "link": "https://community.servicenow.com/community?id=community_blog&sys_id=2e6e22eddbd0dbc01dcaf3231f96196b"
+  "link": "https://community.servicenow.com/community?id=community_blog&sys_id=936caea1dbd0dbc01dcaf3231f96195f"
  },
  {
   "date": "2012-05-14T23:13:56.000Z",
@@ -54234,7 +54250,7 @@
   "category": "Blog",
   "title": "Knowledge 12, New Orleans — Dimanche 13 mai 2012",
   "author": "avigneras",
-  "link": "https://community.servicenow.com/community?id=community_blog&sys_id=936caea1dbd0dbc01dcaf3231f96195f"
+  "link": "https://community.servicenow.com/community?id=community_blog&sys_id=2e6e22eddbd0dbc01dcaf3231f96196b"
  },
  {
   "date": "2012-05-14T13:13:58.000Z",
