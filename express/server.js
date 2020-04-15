@@ -12,7 +12,9 @@ router.get('/test', (req, res) => {
 });
 router.get('/', (req, res) => {
 
-    res.header('Access-Control-Allow-Origin', '*');
+    res.setHeader('Access-Control-Allow-Origin', '*');
+    res.setHeader('Access-Control-Allow-Methods', 'GET, POST, OPTIONS, PUT, PATCH, DELETE');
+
     res.writeHead(200, { 'Content-Type': 'application/json; charset=utf-8' });
     //console.log(req.path);
     //console.log(JSON.stringify(req.query));
