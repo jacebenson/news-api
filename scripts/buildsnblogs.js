@@ -4,7 +4,7 @@ module.exports = {
         var fs = require("fs");
         var outputArr = [];
         let feedPath = "./feeds.json"
-        
+
         // get count to start...
         var getNowBlogs = function (start, callback) {
             if (!start) {
@@ -71,6 +71,22 @@ module.exports = {
                             var uniqueArray = newArr.filter(function (item, pos) {
                                 return newArr.indexOf(item) == pos;
                             })
+                            uniqueArray.sort(function (a, b) {
+                                var adate = new Date(a.date);
+                                var bdate = new Date(b.date);
+                                return bdate - adate;
+                            })
+                            uniqueArray = (function () {
+                                var arr = uniqueArray;
+                                var comp = 'link';
+                                const unique = arr
+                                    .map(e => e[comp])
+                                    // store the keys of the unique objects
+                                    .map((e, i, final) => final.indexOf(e) === i && i)
+                                    // eliminate the dead keys & store unique objects
+                                    .filter(e => arr[e]).map(e => arr[e]);
+                                return unique;
+                            })();
                             fs.writeFileSync(feedPath, JSON.stringify(uniqueArray, '', ' '));
                         });
                         //}

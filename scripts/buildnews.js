@@ -54,7 +54,7 @@ module.exports = {
             { "title": "Man Myth and Legend", "type": "YouTube", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCT3ONLZwnTIfmVqRiDsRMVA" },
             { "title": "PhilGoesDeep", "type": "YouTube", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCTmjY6H5roYkGQmwAQAcgQ" },
             { "title": "Dylan Lindgren", "type": "Blog", "url": "https://www.dylanlindgren.com/feed/" },
-            { "title": "ServiceNow Geek", "type": "YouTube", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCKMW-HaQjgHvSG5CBCLHPA"}
+            { "title": "ServiceNow Geek", "type": "YouTube", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCKMW-HaQjgHvSG5CBCLHPA" }
             //{ "title": "Reddit", "type": "Questions", "url": "http://reddit.com/r/servicenow/.rss" },
             //{ "title": "StackOverflow", "type": "Questions", "url": "https://stackoverflow.com/feeds/tag?tagnames=servicenow&amp;sort=newest" },
         ];
@@ -93,7 +93,34 @@ module.exports = {
                     fs.exists(feedPath, function (exists) {
                         if (exists) {//overwrite
                             console.log('updating feeds.json')
-                            fs.writeFileSync(feedPath, JSON.stringify(outputObj.news, '', ' '));
+                            fs.readFile(feedPath, (err, data) => {
+                                if (err) {
+                                    throw err;
+                                }
+                                //console.log(data);
+                                var tempData = JSON.parse(data);
+                                var newArr = tempData.concat(outputObj.news);
+                                var uniqueArray = newArr.filter(function (item, pos) {
+                                    return newArr.indexOf(item) == pos;
+                                })
+                                uniqueArray.sort(function (a, b) {
+                                    var adate = new Date(a.date);
+                                    var bdate = new Date(b.date);
+                                    return bdate - adate;
+                                })
+                                uniqueArray = (function () {
+                                    var arr = uniqueArray;
+                                    var comp = 'link';
+                                    const unique = arr
+                                        .map(e => e[comp])
+                                        // store the keys of the unique objects
+                                        .map((e, i, final) => final.indexOf(e) === i && i)
+                                        // eliminate the dead keys & store unique objects
+                                        .filter(e => arr[e]).map(e => arr[e]);
+                                    return unique;
+                                })();
+                                fs.writeFileSync(feedPath, JSON.stringify(uniqueArray, '', ' '));
+                            });
 
                             callback();
                         } else {//create
