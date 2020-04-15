@@ -57631,12 +57631,28 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=390eaa2ddbd0dbc01dcaf3231f961999"
  },
  {
+  "date": "2010-02-25T09:00:00.000Z",
+  "site": "SNGuru",
+  "category": "Blog",
+  "title": "User Object Cheat Sheet",
+  "author": "Mark Stanger",
+  "link": "https://www.servicenowguru.com/scripting/user-object-cheat-sheet/"
+ },
+ {
   "date": "2010-02-23T13:40:56.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
   "title": "Service-now.com Guru",
   "author": "terry.brown",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=dd2e666ddbd0dbc01dcaf3231f961964"
+ },
+ {
+  "date": "2010-02-23T09:00:00.000Z",
+  "site": "SNGuru",
+  "category": "Blog",
+  "title": "GlideRecord Query Cheat Sheet",
+  "author": "Mark Stanger",
+  "link": "https://www.servicenowguru.com/scripting/gliderecord-query-cheat-sheet/"
  },
  {
   "date": "2010-02-16T13:39:13.000Z",
