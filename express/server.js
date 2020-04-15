@@ -82,7 +82,6 @@ router.get('/', (req, res) => {
         var bdate = new Date(b.date);
         return bdate - adate;
     });
-
     var obj = {
         queryGiven: req.query,
         queryUsed: {
