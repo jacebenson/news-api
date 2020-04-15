@@ -6,7 +6,7 @@ const bodyParser = require('body-parser');
 const feeds = require('../feeds.json');
 var query = [];
 const router = express.Router();
-router.get('/test', (req, res)=>{
+router.get('/test', (req, res) => {
     //console.log('feeds.length', feeds.length);
     res.json({ now: new Date() })
 });
@@ -17,14 +17,14 @@ router.get('/', (req, res) => {
     //console.log(req.path);
     //console.log(JSON.stringify(req.query));
     var startDate = new Date();
-    startDate.setDate(startDate.getDate()-30);
-    if(req.query.start){
+    startDate.setDate(startDate.getDate() - 30);
+    if (req.query.start) {
         //console.log('start defined');
         startDate = new Date(req.query.start);
     }
     var endDate = new Date(startDate.toISOString());
-    endDate.setDate(startDate.getDate()+30);
-    if(req.query.end){
+    endDate.setDate(startDate.getDate() + 30);
+    if (req.query.end) {
         //console.log('end defined');
         endDate = new Date(req.query.end);
     }
@@ -32,8 +32,8 @@ router.get('/', (req, res) => {
     //console.log('endDate', endDate)
     var filteredFeeds = feeds.filter(function (feed) {
         var feedDate = new Date(feed.date);
-        var feedDateBeforeEnd = feedDate<=endDate;
-        var feedDateAfterStart = feedDate>=startDate;
+        var feedDateBeforeEnd = feedDate <= endDate;
+        var feedDateAfterStart = feedDate >= startDate;
         //console.log('feed', feed.site, feed.title.substring(0,10), 'feedDate', feedDate, 'afterStart', feedDateAfterStart, 'beforeEnd', feedDateBeforeEnd);
         if (feedDateBeforeEnd && feedDateAfterStart) {
             return true;
@@ -41,11 +41,11 @@ router.get('/', (req, res) => {
             return false;
         }
     });
-    if(req.query.site){
+    if (req.query.site) {
         var site = req.query.site || '';
         site = site.toLowerCase();
-        filteredFeeds = filteredFeeds.filter(function(feed){
-            if(feed.site.toLowerCase() == site){
+        filteredFeeds = filteredFeeds.filter(function (feed) {
+            if (feed.site.toLowerCase() == site) {
                 //console.log('returning true');
                 return true;
             } else {
@@ -54,34 +54,34 @@ router.get('/', (req, res) => {
         });
         //console.log('filteredFeeds.length', filteredFeeds.length);
     }
-    if(req.query.author){
+    if (req.query.author) {
         var author = req.query.author || '';
-        filteredFeeds = filteredFeeds.filter(function(feed){
-            if(feed.author.toLowerCase() == author.toLowerCase()){
+        filteredFeeds = filteredFeeds.filter(function (feed) {
+            if (feed.author.toLowerCase() == author.toLowerCase()) {
                 return true;
             } else {
                 return false;
             }
         });
     }
-    if(req.query.text){
+    if (req.query.text) {
         var text = req.query.text.toLowerCase() || '';
-        filteredFeeds = filteredFeeds.filter(function(feed){
-            if(feed.site.toLowerCase().indexOf(text) >-1 ||
-               feed.category.toLowerCase().indexOf(text) >-1 ||
-               feed.title.toLowerCase().indexOf(text) >-1 ||
-               feed.author.toLowerCase().indexOf(text) >-1){
+        filteredFeeds = filteredFeeds.filter(function (feed) {
+            if (feed.site.toLowerCase().indexOf(text) > -1 ||
+                feed.category.toLowerCase().indexOf(text) > -1 ||
+                feed.title.toLowerCase().indexOf(text) > -1 ||
+                feed.author.toLowerCase().indexOf(text) > -1) {
                 return true;
             } else {
                 return false;
             }
         });
     }
-    filteredFeeds.sort(function(a,b){
+    filteredFeeds.sort(function (a, b) {
         var adate = new Date(a.date);
         var bdate = new Date(b.date);
         return bdate - adate;
-      })
+    });
 
     var obj = {
         queryGiven: req.query,
@@ -93,9 +93,9 @@ router.get('/', (req, res) => {
         //feeds: feeds,
         filteredFeeds: filteredFeeds
     }
-    if(req.query.text){
+    if (req.query.text) {
         obj.queryUsed.text = req.query.text.toLowerCase();
-        obj.queryUsed.url += "&text=" +req.query.text.toLowerCase();
+        obj.queryUsed.url += "&text=" + req.query.text.toLowerCase();
     }
     console.log(obj.queryUsed.url, '=>', filteredFeeds.length);
     res.write(JSON.stringify(obj));
