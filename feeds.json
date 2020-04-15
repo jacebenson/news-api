@@ -5,7 +5,7 @@
   "category": "Blog",
   "title": "We Care: Helping our local organizations amid COVID-19",
   "link": "https://pathwayscg.com/we-care-helping-our-local-organizations-amid-covid-19/",
-  "author": ""
+  "author": "Kaitlyn Giovinazzo"
  },
  {
   "date": "2020-04-15T15:09:13.000Z",
@@ -13,7 +13,7 @@
   "category": "YouTube",
   "title": "Code Decoded: Passing Objects to/from functions",
   "link": "https://www.youtube.com/watch?v=lBQyJpBKK3U",
-  "author": ""
+  "author": "Chuck Tomasi"
  },
  {
   "date": "2020-04-15T13:04:44.000Z",
@@ -29,7 +29,7 @@
   "category": "Blog",
   "title": "ServiceNow Patching & Upgrades Program | Release Cycle",
   "link": "http://www.cloudminus89.com/2020/04/servicenow-patching-upgrades-program.html",
-  "author": ""
+  "author": "Ruen Smith"
  },
  {
   "date": "2020-04-15T06:00:00.000Z",
@@ -213,7 +213,7 @@
   "category": "Blog",
   "title": "Virtual Meetups",
   "link": "https://developer.servicenow.com/blog.do?p=/post/virtual-meetups/",
-  "author": ""
+  "author": "Andrew Barnes"
  },
  {
   "date": "2020-04-10T13:45:22.000Z",
@@ -685,7 +685,7 @@
   "category": "Blog",
   "title": "Service Portal Widgets: Clear html fields in portal widget in client script",
   "link": "http://www.cloudminus89.com/2020/03/service-portal-widgets-clear-html.html",
-  "author": ""
+  "author": "Ruen Smith"
  },
  {
   "date": "2020-03-31T13:44:00.000Z",
@@ -693,7 +693,7 @@
   "category": "Blog",
   "title": "Navigate to history entry from ui action",
   "link": "http://www.cloudminus89.com/2020/03/navigate-to-history-entry-from-ui-action.html",
-  "author": ""
+  "author": "Ruen Smith"
  },
  {
   "date": "2020-03-31T13:43:00.000Z",
@@ -701,7 +701,7 @@
   "category": "Blog",
   "title": "Reset group approval UI ACTION",
   "link": "http://www.cloudminus89.com/2020/03/reset-group-approval-ui-action.html",
-  "author": ""
+  "author": "Ruen Smith"
  },
  {
   "date": "2020-03-31T13:42:00.000Z",
@@ -709,7 +709,7 @@
   "category": "Blog",
   "title": "Write data to CSV",
   "link": "http://www.cloudminus89.com/2020/03/write-data-to-csv.html",
-  "author": ""
+  "author": "Ruen Smith"
  },
  {
   "date": "2020-03-31T13:24:00.000Z",
@@ -717,7 +717,7 @@
   "category": "Blog",
   "title": "Broadcast an event to workflow",
   "link": "http://www.cloudminus89.com/2020/03/broadcast-event-to-workflow.html",
-  "author": ""
+  "author": "Ruen Smith"
  },
  {
   "date": "2020-03-31T13:23:00.000Z",
@@ -725,7 +725,7 @@
   "category": "Blog",
   "title": "Working with Linux MID Servers",
   "link": "http://www.cloudminus89.com/2020/03/working-with-linux-mid-servers.html",
-  "author": ""
+  "author": "Ruen Smith"
  },
  {
   "date": "2020-03-31T12:55:00.000Z",
@@ -733,7 +733,7 @@
   "category": "Blog",
   "title": "Blank Strings Regex Check",
   "link": "http://www.cloudminus89.com/2020/03/blank-strings-regex-check.html",
-  "author": ""
+  "author": "Ruen Smith"
  },
  {
   "date": "2020-03-31T12:50:04.000Z",
@@ -2221,7 +2221,7 @@
   "category": "Blog",
   "title": "Building up a scripted REST api list of catalog tasks plus their variables",
   "link": "http://www.cloudminus89.com/2020/03/building-up-scripted-rest-api-list-of.html",
-  "author": ""
+  "author": "Ruen Smith"
  },
  {
   "date": "2020-03-03T16:09:16.000Z",
@@ -8796,7 +8796,7 @@
   "category": "Blog",
   "title": "UI Action Trigger New Approval",
   "link": "http://www.cloudminus89.com/2019/05/ui-action-trigger-new-approval.html",
-  "author": ""
+  "author": "Ruen Smith"
  },
  {
   "date": "2019-05-17T16:25:00.000Z",
@@ -8804,7 +8804,7 @@
   "category": "Blog",
   "title": "UI Action Test Load 2 records",
   "link": "http://www.cloudminus89.com/2019/05/ui-action-test-load-2-records.html",
-  "author": ""
+  "author": "Ruen Smith"
  },
  {
   "date": "2019-05-17T16:23:00.000Z",
@@ -8812,7 +8812,7 @@
   "category": "Blog",
   "title": "Locate trigger action from workflow",
   "link": "http://www.cloudminus89.com/2019/05/locate-trigger-action-from-workflow.html",
-  "author": ""
+  "author": "Ruen Smith"
  },
  {
   "date": "2019-05-17T16:22:00.000Z",
@@ -8820,7 +8820,7 @@
   "category": "Blog",
   "title": "kill old workflows",
   "link": "http://www.cloudminus89.com/2019/05/kill-old-workflows.html",
-  "author": ""
+  "author": "Ruen Smith"
  },
  {
   "date": "2019-05-17T16:21:00.000Z",
@@ -8828,7 +8828,7 @@
   "category": "Blog",
   "title": "Attach a file to email for users with no roles",
   "link": "http://www.cloudminus89.com/2019/05/attach-file-to-email-for-users-with-no.html",
-  "author": ""
+  "author": "Ruen Smith"
  },
  {
   "date": "2019-05-17T13:47:46.000Z",
@@ -9036,7 +9036,7 @@
   "category": "Blog",
   "title": "Get bits from the URL",
   "link": "http://www.cloudminus89.com/2019/05/get-bits-from-url.html",
-  "author": ""
+  "author": "Ruen Smith"
  },
  {
   "date": "2019-05-08T23:20:00.000Z",
@@ -9044,7 +9044,7 @@
   "category": "Blog",
   "title": "variable advanced reference qualifier example",
   "link": "http://www.cloudminus89.com/2019/05/variable-advanced-reference-qualifier.html",
-  "author": ""
+  "author": "Ruen Smith"
  },
  {
   "date": "2019-05-08T23:19:00.000Z",
@@ -9052,7 +9052,7 @@
   "category": "Blog",
   "title": "XML Parse example (on ecc queue table)",
   "link": "http://www.cloudminus89.com/2019/05/xml-parse-example.html",
-  "author": ""
+  "author": "Ruen Smith"
  },
  {
   "date": "2019-05-08T23:18:00.000Z",
@@ -9060,7 +9060,7 @@
   "category": "Blog",
   "title": "URL link in addInfoMessage",
   "link": "http://www.cloudminus89.com/2019/05/url-link-in-addinfomessage.html",
-  "author": ""
+  "author": "Ruen Smith"
  },
  {
   "date": "2019-05-08T23:17:00.000Z",
@@ -9068,7 +9068,7 @@
   "category": "Blog",
   "title": "UI Macro: attachment file for record producer",
   "link": "http://www.cloudminus89.com/2019/05/ui-macro-attachment-file-for-record.html",
-  "author": ""
+  "author": "Ruen Smith"
  },
  {
   "date": "2019-05-08T23:16:00.000Z",
@@ -9076,7 +9076,7 @@
   "category": "Blog",
   "title": "UI Macro: link to CIs assigned to user",
   "link": "http://www.cloudminus89.com/2019/05/ui-macro-link-to-cis-assigned-to-user.html",
-  "author": ""
+  "author": "Ruen Smith"
  },
  {
   "date": "2019-05-08T23:15:00.000Z",
@@ -9084,7 +9084,7 @@
   "category": "Blog",
   "title": "transform script: get import set row sysid (oncomplete script) in transform map",
   "link": "http://www.cloudminus89.com/2019/05/transform-script-get-import-set-row.html",
-  "author": ""
+  "author": "Ruen Smith"
  },
  {
   "date": "2019-05-08T23:14:00.000Z",
@@ -9092,7 +9092,7 @@
   "category": "Blog",
   "title": "deal with leading / trailing spaces",
   "link": "http://www.cloudminus89.com/2019/05/deal-with-leading-trailing-spaces.html",
-  "author": ""
+  "author": "Ruen Smith"
  },
  {
   "date": "2019-05-08T23:13:00.000Z",
@@ -9108,7 +9108,7 @@
   "category": "Blog",
   "title": "Skip workflows, business rules and last updated value",
   "link": "http://www.cloudminus89.com/2019/05/skip-workflows-business-rules-and-last.html",
-  "author": ""
+  "author": "Ruen Smith"
  },
  {
   "date": "2019-05-08T23:12:00.000Z",
@@ -9116,7 +9116,7 @@
   "category": "Blog",
   "title": "set variables read only in a client script",
   "link": "http://www.cloudminus89.com/2019/05/set-variables-read-only-in-client-script.html",
-  "author": ""
+  "author": "Ruen Smith"
  },
  {
   "date": "2019-05-08T21:00:00.000Z",
