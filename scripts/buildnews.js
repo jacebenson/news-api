@@ -253,8 +253,9 @@ module.exports = {
                 console.log(outputObj.feeds.length, '/', feeds.length, rssFeed.title);
                 //console.log(feed.items.length>0);
                 feed.items.forEach(function (item) {
+                    var forceUpdateDate = item.isoDate.replace('0Z', '1Z');
                     outputObj.news.push({
-                        date: item.isoDate,
+                        date: forceUpdateDate,//item.isoDate,
                         site: rssFeed.title,
                         category: rssFeed.type,
                         title: item.title,
