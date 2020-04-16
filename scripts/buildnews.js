@@ -115,7 +115,7 @@ module.exports = {
                 "title": "ServiceNow Support", 
                 "type": "YouTube", 
                 "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQjE37R-Y4DTq7kUWPO83Wg",
-                "author": "Unknown"
+                "author": "— "
             }, {
                 "title": "ServiceNow TechBytes Podcast", 
                 "type": "Podcast", 
@@ -145,7 +145,7 @@ module.exports = {
                 "title": "Sumo IT", 
                 "type": "Blog", 
                 "url": "https://hiresumo.com/home?format=rss",
-                "author": "Unknown"
+                "author": "— "
             }, {
                 "title": "SNGuru", 
                 "type": "Blog", 
@@ -155,17 +155,17 @@ module.exports = {
                 "title": "Covestic", 
                 "type": "Blog", 
                 "url": "https://www.covestic.com/feed/",
-                "author": "Unknown"
+                "author": "— "
             }, {
                 "title": "Ahead LLC", 
                 "type": "Blog",
                  "url": "https://www.thinkahead.com/feed",
-                 "author": "Unknown"
+                 "author": "— "
             }, {
                 "title": "Aeritae Blog", 
                 "type": "Blog", 
                 "url": "https://aeritae.com/blog/feed",
-                "author": "Unknown"
+                "author": "— "
             }, {
                 "title": "ServicePortal.io", 
                 "type": "Blog", 
@@ -175,7 +175,7 @@ module.exports = {
                 "title": "GlideFast",
                 "type": "YouTube", 
                 "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZNM56LyLhmba73FtDsyaAw",
-                "author": "Unknown"
+                "author": "— "
             }, {
                 "title": "ServiceSharp", 
                 "type": "Podcast", 
