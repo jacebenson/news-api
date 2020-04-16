@@ -110,7 +110,7 @@ module.exports = {
                 "title": "ServiceNow Community", 
                 "type": "YouTube", 
                 "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCBQU8mlFrElxQNR2mo-gLg",
-                "author": "Unknown"
+                "author": "Miscellaneous"
             }, {
                 "title": "ServiceNow Support", 
                 "type": "YouTube", 
@@ -125,7 +125,7 @@ module.exports = {
                 "title": "ServiceNow Community Podcasts", 
                 "type": "Podcast", 
                 "url": "https://omny.fm/shows/servicenow-cloudcast/playlists/servicenow-podcasts.rss",
-                "author": "Misc."
+                "author": "Miscellaneous."
             }, {
                 "title": "ServiceNow Think", 
                 "type": "Blog", 
@@ -185,7 +185,7 @@ module.exports = {
                 "title": "Workflow", 
                 "type": "Newsletter", 
                 "url": "https://workflow.servicenow.com/feed/",
-                "author": "Misc"
+                "author": "Miscellaneous"
             }, {
                 "title": "SNProtips", 
                 "type": "Blog", 
@@ -195,7 +195,7 @@ module.exports = {
                 "title": "SNC-Blog", 
                 "type": "Blog", 
                 "url": "http://www.snc-blog.com/feed",
-                "author": "Misc"
+                "author": "Miscellaneous"
             }, {
                 "title": "SNDevelopment", 
                 "type": "Blog", 
