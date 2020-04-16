@@ -259,7 +259,7 @@ module.exports = {
                         category: rssFeed.type,
                         title: item.title,
                         link: item.link,
-                        author: item.author || rssFeed.author
+                        author: rssFeed.author//item.author || 
                     });
                     //console.log(item);
                     //console.log(item.title + ':' + item.link);
