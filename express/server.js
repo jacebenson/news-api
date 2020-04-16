@@ -18,13 +18,12 @@ router.get('/', (req, res) => {
     res.writeHead(200, { 'Content-Type': 'application/json; charset=utf-8' });
     //console.log(req.path);
     //console.log(JSON.stringify(req.query));
-    var startDate = new Date();
-    startDate.setDate(startDate.getDate() - 30);
+    var startDate = new Date(new Date().getFullYear() + '-01-01');
     if (req.query.start) {
         //console.log('start defined');
         startDate = new Date(req.query.start);
     }
-    var endDate = new Date(startDate.toISOString());
+    var endDate = new Date(new Date().getFullYear() + '-12-31');
     endDate.setDate(startDate.getDate() + 30);
     if (req.query.end) {
         //console.log('end defined');
