@@ -1,5 +1,69 @@
 [
  {
+  "date": "2020-04-16T19:53:59.000Z",
+  "site": "GlideFast",
+  "category": "YouTube",
+  "title": "Integrating Zoom with ServiceNow",
+  "link": "https://www.youtube.com/watch?v=XKqvhllwXhI",
+  "author": "GlideFast Consulting"
+ },
+ {
+  "date": "2020-04-16T14:00:00.001Z",
+  "site": "ServiceNow Developer Blog",
+  "category": "Blog",
+  "title": "Community Content Highlight - Q1 2020",
+  "link": "https://developer.servicenow.com/blog.do?p=/post/2020q1-mvp-content/",
+  "author": "Andrew Albury-Dor"
+ },
+ {
+  "date": "2020-04-16T13:00:18.000Z",
+  "site": "GlideFast",
+  "category": "YouTube",
+  "title": "Outbound Rest Integration in ServiceNow | Overview",
+  "link": "https://www.youtube.com/watch?v=lu5mbf9QPZk",
+  "author": "GlideFast Consulting"
+ },
+ {
+  "date": "2020-04-16T13:00:00.001Z",
+  "site": "CJ & The Duke",
+  "category": "Podcast",
+  "title": "Ep005 -  Five Pillars of Deploying Big Solutions, Fast",
+  "link": "https://share.transistor.fm/s/8b6aaae9",
+  "author": "Robert Fedoruk & Cory Wesley"
+ },
+ {
+  "date": "2020-04-15T21:27:24.000Z",
+  "site": "ServiceNow Community",
+  "category": "YouTube",
+  "title": "Mobile App Academy 2020 04 14 Working from home with mobile apps",
+  "link": "https://www.youtube.com/watch?v=k_zBw9z6d4E",
+  "author": "ServiceNow Now Community"
+ },
+ {
+  "date": "2020-04-15T20:42:36.000Z",
+  "site": "Workflow",
+  "category": "Newsletter",
+  "title": "How Covid-19 is sparking innovation in customer support",
+  "link": "https://workflow.servicenow.com/customer-experience/service-innovation-customer-experience/",
+  "author": "Miscellaneous"
+ },
+ {
+  "date": "2020-04-15T18:35:42.000Z",
+  "site": "ServiceNow Dev Program",
+  "category": "YouTube",
+  "title": "Parsing XML in Flow Designer- Live Coding Happy Hour for 2020-04-17",
+  "link": "https://www.youtube.com/watch?v=SkPfpoxPTiQ",
+  "author": "ServiceNow Dev Program"
+ },
+ {
+  "date": "2020-04-15T17:54:39.000Z",
+  "site": "John James Andersen",
+  "category": "Blog",
+  "title": "Adding support for additional Database Server types in ServiceNow imports",
+  "link": "http://www.john-james-andersen.com/blog/service-now/adding-support-for-additional-database-server-types-in-servicenow-imports.html",
+  "author": "John Andersen"
+ },
+ {
   "date": "2020-04-15T15:30:37.000Z",
   "site": "Pathway",
   "category": "Blog",
@@ -8,7 +72,7 @@
   "author": "Kaitlyn Giovinazzo"
  },
  {
-  "date": "2020-04-15T15:09:13.000Z",
+  "date": "2020-04-15T15:09:13.001Z",
   "site": "ServiceNow Community",
   "category": "YouTube",
   "title": "Code Decoded: Passing Objects to/from functions",
@@ -16,7 +80,7 @@
   "author": "Chuck Tomasi"
  },
  {
-  "date": "2020-04-15T13:04:44.000Z",
+  "date": "2020-04-15T13:04:44.001Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
   "title": "Video: Code Decoded - Passing Objects to/from functions",
@@ -30,6 +94,14 @@
   "title": "ServiceNow Patching & Upgrades Program | Release Cycle",
   "link": "http://www.cloudminus89.com/2020/04/servicenow-patching-upgrades-program.html",
   "author": "Ruen Smith"
+ },
+ {
+  "date": "2020-04-15T11:40:50.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Dot Walk from Parent to Child Table",
+  "author": "Anurag Tripathi",
+  "link": "https://community.servicenow.com/community?id=community_blog&sys_id=379cc7ffdbc054dc1cd8a345ca9619f9"
  },
  {
   "date": "2020-04-15T06:00:00.000Z",
@@ -806,6 +878,14 @@
   "title": "Didja Know, Didja Care? Episode 9 - Browser shortcuts",
   "link": "https://www.youtube.com/watch?v=XLl5l-9MuQA",
   "author": ""
+ },
+ {
+  "date": "2020-03-30T09:12:33.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "[New] Now Support (HI) Service Catalog Item - List of Available Backups of an Instance",
+  "author": "Vikas",
+  "link": "https://community.servicenow.com/community?id=community_blog&sys_id=6f311c3adbf7485823f4a345ca961927"
  },
  {
   "date": "2020-03-30T02:08:55.000Z",
@@ -1965,7 +2045,7 @@
   "category": "Blog",
   "title": "spUtil API Reference Cheat Sheet",
   "link": "https://serviceportal.io/sputil-cheat-sheet/",
-  "author": ""
+  "author": "Nathan Firth"
  },
  {
   "date": "2020-03-11T15:24:34.000Z",

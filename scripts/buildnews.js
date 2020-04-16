@@ -115,7 +115,7 @@ module.exports = {
                 "title": "ServiceNow Support", 
                 "type": "YouTube", 
                 "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQjE37R-Y4DTq7kUWPO83Wg",
-                "author": "— "
+                "author": "—"
             }, {
                 "title": "ServiceNow TechBytes Podcast", 
                 "type": "Podcast", 
