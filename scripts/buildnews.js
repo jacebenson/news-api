@@ -7,7 +7,7 @@ module.exports = {
 
         let feeds = [
             {
-                "title": "An Errant Programmer",
+                "title": "anerrantprogrammer.com",
                 "type": "Blog",
                 "url": "http://anerrantprogrammer.com/?feed=rss2",
                 "author": "Sal Costa"
@@ -17,7 +17,7 @@ module.exports = {
                 "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2ey_HG743-CrxOTPU_ft7g",
                 "author": "Sal Costa"
             }, {
-                "title": "Andrew Albury-Dor",
+                "title": "andrew.alburydor.com",
                 "type": "Blog",
                 "url": "https://andrew.alburydor.com/posts/index.xml",
                 "author": "Andrew Albury-Dor"
@@ -32,12 +32,12 @@ module.exports = {
                 "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpXBKCVchJqXo08OyD0i2eQ",
                 "author": "Ben Hollifield"
             }, {
-                "title": "ServiceNow Elite",
+                "title": "www.servicenowelite.com",
                 "type": "Blog",
                 "url": "http://www.servicenowelite.com/blog?format=rss",
                 "author": "Mike Kaufman"
             }, {
-                "title": "CloudMinus89",
+                "title": "www.cloudminus89.com",
                 "type": "Blog",
                 "url": "http://www.cloudminus89.com/feeds/posts/default?alt=rss",
                 "author": "Ruen Smith"
@@ -47,12 +47,12 @@ module.exports = {
                 "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCmwKZdMYyUD4AWnAIrx5JVw",
                 "author": "Travis Toulson"
             }, {
-                "title": "Code Creative",
+                "title": "codecreative.io",
                 "type": "Blog",
                 "url": "https://codecreative.io/index.xml",
                 "author": "Travis Toulson"
             }, {
-                "title": "Shiva Thomas",
+                "title": "servicenow.implementation.blog",
                 "type": "Blog",
                 "url": "https://servicenow.implementation.blog/feed/",
                 "author": "Shiva Thomas"
@@ -62,7 +62,7 @@ module.exports = {
                 "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUJK90r6dnu-YXHyDOVIRww",
                 "author": "Göran Lundqvist"
             }, {
-                "title": "John James Andersen",
+                "title": "john-james-andersen.com",
                 "type": "Blog",
                 "url": "http://john-james-andersen.com/feed",
                 "author": "John Andersen",
@@ -97,12 +97,12 @@ module.exports = {
                 "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCdXorgCT87YlFRN9n8oJ7_A",
                 "author": "Andrew Barnes, Brad Tilton, and Chuck Tomasi"
             }, {
-                "title": "ServiceNow Developer Blog",
+                "title": "developer.servicenow.com/blog.do",
                 "type": "Blog", 
                 "url": "https://developer.servicenow.com/blog.do?p=/index.xml",
                 "author": "Andrew Barnes, and Brad Tilton"
             }, {
-                "title": "ServiceNow Gems",
+                "title": "servicenowgems.com",
                 "type": "Blog", 
                 "url": "http://servicenowgems.com/feed",
                 "author": "Ahmed Hmeid"
@@ -127,7 +127,7 @@ module.exports = {
                 "url": "https://omny.fm/shows/servicenow-cloudcast/playlists/servicenow-podcasts.rss",
                 "author": "Miscellaneous."
             }, {
-                "title": "ServiceNow Think", 
+                "title": "servicenowthink.wordpress.com", 
                 "type": "Blog", 
                 "url": "https://servicenowthink.wordpress.com/feed",
                 "author": "Aleksas Kucinskas"
@@ -137,37 +137,37 @@ module.exports = {
                 "url": "https://feeds.buzzsprout.com/457558.rss",
                 "author": "Devon Clarke"
             }, {
-                "title": "Finite Partners", 
+                "title": "finite-partners.com", 
                 "type": "Blog", 
                 "url": "https://finite-partners.com/feed",
                 "author": "Garrett Griffin-Morales"
             }, {
-                "title": "Sumo IT", 
+                "title": "hiresumo.com/home", 
                 "type": "Blog", 
                 "url": "https://hiresumo.com/home?format=rss",
                 "author": "— "
             }, {
-                "title": "SNGuru", 
+                "title": "www.servicenowguru.com", 
                 "type": "Blog", 
                 "url": "https://www.servicenowguru.com/feed/",
                 "author": "Mark Stanger"
             }, {
-                "title": "Covestic", 
+                "title": "www.covestic.com", 
                 "type": "Blog", 
                 "url": "https://www.covestic.com/feed/",
                 "author": "— "
             }, {
-                "title": "Ahead LLC", 
+                "title": "www.thinkahead.com/", 
                 "type": "Blog",
                  "url": "https://www.thinkahead.com/feed",
                  "author": "— "
             }, {
-                "title": "Aeritae Blog", 
+                "title": "aeritae.com", 
                 "type": "Blog", 
                 "url": "https://aeritae.com/blog/feed",
                 "author": "— "
             }, {
-                "title": "ServicePortal.io", 
+                "title": "serviceportal.io", 
                 "type": "Blog", 
                 "url": "https://serviceportal.io/feed",
                 "author": "Nathan Firth"
@@ -182,32 +182,32 @@ module.exports = {
                 "url": "https://anchor.fm/s/a71217c/podcast/rss",
                 "author": "Randy Haas and Jason Gibson"
             }, {
-                "title": "Workflow", 
+                "title": "workflow.servicenow.com", 
                 "type": "Newsletter", 
                 "url": "https://workflow.servicenow.com/feed/",
                 "author": "Miscellaneous"
             }, {
-                "title": "SNProtips", 
+                "title": "snprotips.com", 
                 "type": "Blog", 
                 "url": "https://snprotips.com/?format=rss",
                 "author": "Tim Woodruff"
             }, {
-                "title": "SNC-Blog", 
+                "title": "www.snc-blog.com", 
                 "type": "Blog", 
                 "url": "http://www.snc-blog.com/feed",
                 "author": "Miscellaneous"
             }, {
-                "title": "SNDevelopment", 
+                "title": "sncdevelopment.com", 
                 "type": "Blog", 
                 "url": "https://sncdevelopment.com/feed",
                 "author": "James Naphen"
             }, {
-                "title": "WomenNow", 
+                "title": "womennow.dev", 
                 "type": "Blog", 
                 "url": "https://womennow.dev/?feed=rss2",
                 "author": "Paige"
             }, {
-                "title": "Pathway",
+                "title": "pathwayscg.com",
                 "type": "Blog", 
                 "url": "https://pathwayscg.com/feed/",
                 "author": "Kaitlyn Giovinazzo"
@@ -222,7 +222,7 @@ module.exports = {
                 "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCTmjY6H5roYkGQmwAQAcgQ",
                 "author": "Phil Swann"
             }, {
-                "title": "Dylan Lindgren", 
+                "title": "www.dylanlindgren.com", 
                 "type": "Blog", 
                 "url": "https://www.dylanlindgren.com/feed/",
                 "author": "Dylan Lindgren", 
@@ -232,11 +232,17 @@ module.exports = {
                 "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCKMW-HaQjgHvSG5CBCLHPA",
                 "author": "Jeremy Duncan"
             }, {
-                "title": "HelpfulTechBlog.com",
+                "title": "helpfultechblog.com",
                 "type": "Blog",
                 "url": "http://helpfultechblog.com/feed/",
                 "author": "Phuong Nguyen"
+            }, {
+                "title": "medium.com/@pishchulin",
+                "type": "Blog",
+                "url": "https://medium.com/feed/@pishchulin",
+                "author": "Andrew Pishchulin"
             }
+
             //{ "title": "ServiceNow Vimeo", "type": "Vimeo", "url": "https://vimeo.com/servicenow/videos/rss" },
             //{ "title": "Fruition Partners Vimeo", "type": "Vimeo", "url": "https://vimeo.com/user4353238/videos/rss" },
             //{ "title": "Linium Blog", "type": "Blog", "url": "https://www.linium.com/blog/rss.xml" },

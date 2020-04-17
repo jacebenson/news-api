@@ -248,6 +248,14 @@
   "author": "— "
  },
  {
+  "date": "2020-04-12T15:34:30.001Z",
+  "site": "medium.com/@pishchulin",
+  "category": "Blog",
+  "title": "ServiceNow UI Framework",
+  "link": "https://medium.com/@pishchulin/servicenow-ui-framework-be88f466be01?source=rss-4b2609af2935------2",
+  "author": "Andrew Pishchulin"
+ },
+ {
   "date": "2020-04-12T04:15:40.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -1040,6 +1048,14 @@
   "author": "— "
  },
  {
+  "date": "2020-03-27T21:07:50.001Z",
+  "site": "medium.com/@pishchulin",
+  "category": "Blog",
+  "title": "Signature pad for ServiceNow applications",
+  "link": "https://medium.com/@pishchulin/signature-pad-for-servicenow-applications-ab3c4677e4e1?source=rss-4b2609af2935------2",
+  "author": "Andrew Pishchulin"
+ },
+ {
   "date": "2020-03-27T17:09:53.001Z",
   "site": "ServiceNow Community",
   "category": "YouTube",
@@ -1256,6 +1272,14 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=0d81a224db378018feb1a851ca96194b"
  },
  {
+  "date": "2020-03-23T18:30:50.001Z",
+  "site": "medium.com/@pishchulin",
+  "category": "Blog",
+  "title": "Building ServiceNow forms with React",
+  "link": "https://medium.com/@pishchulin/building-servicenow-forms-with-react-f230a777c712?source=rss-4b2609af2935------2",
+  "author": "Andrew Pishchulin"
+ },
+ {
   "date": "2020-03-23T16:50:41.001Z",
   "site": "Pathway",
   "category": "Blog",
@@ -1264,12 +1288,12 @@
   "author": "Kaitlyn Giovinazzo"
  },
  {
-  "date": "2020-03-23T15:36:58.000Z",
+  "date": "2020-03-23T15:36:58.001Z",
   "site": "ServiceNow Community",
   "category": "YouTube",
   "title": "NOWCommunity Live Stream - 2020-03-23",
   "link": "https://www.youtube.com/watch?v=AV8DF0iZV6o",
-  "author": ""
+  "author": "Miscellaneous"
  },
  {
   "date": "2020-03-23T14:07:13.000Z",
@@ -2184,6 +2208,14 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=57a16d141bef84d0ada243f6fe4bcb99"
  },
  {
+  "date": "2020-03-09T23:40:50.001Z",
+  "site": "medium.com/@pishchulin",
+  "category": "Blog",
+  "title": "Advanced attachment management in ServiceNow",
+  "link": "https://medium.com/@pishchulin/advanced-attachment-management-in-servicenow-f15246e7f785?source=rss-4b2609af2935------2",
+  "author": "Andrew Pishchulin"
+ },
+ {
   "date": "2020-03-09T16:28:41.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -2446,6 +2478,14 @@
   "title": "【バーチャルクラス形式延長】【ServiceNow トレーニング】開催形式変更・開催中止のご案内【新型コロナウイルス感染拡大防止】",
   "author": "Kentaro Suzuki",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=10c43ea9db9f04105ed4a851ca96199e"
+ },
+ {
+  "date": "2020-03-02T01:34:53.001Z",
+  "site": "medium.com/@pishchulin",
+  "category": "Blog",
+  "title": "Web applications in ServiceNow",
+  "link": "https://medium.com/@pishchulin/web-applications-in-servicenow-e4f3421560b?source=rss-4b2609af2935------2",
+  "author": "Andrew Pishchulin"
  },
  {
   "date": "2020-03-01T15:09:28.001Z",
@@ -2960,6 +3000,14 @@
   "author": "Randy Haas and Jason Gibson"
  },
  {
+  "date": "2020-02-11T22:08:59.001Z",
+  "site": "medium.com/@pishchulin",
+  "category": "Blog",
+  "title": "There are multiple options how you can redirect, one of the common way — window.location:",
+  "link": "https://medium.com/@pishchulin/there-are-multiple-options-how-you-can-redirect-one-of-the-common-way-window-location-15ffe4ddd302?source=rss-4b2609af2935------2",
+  "author": "Andrew Pishchulin"
+ },
+ {
   "date": "2020-02-11T17:00:00.001Z",
   "site": "Finite Partners",
   "category": "Blog",
@@ -3054,6 +3102,14 @@
   "title": "Automating ATF - My Journey Building a Test Recorder",
   "author": "Paul Morris",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=a4398aea1bb20c18fff162c4bd4bcbc8"
+ },
+ {
+  "date": "2020-02-09T00:10:15.001Z",
+  "site": "medium.com/@pishchulin",
+  "category": "Blog",
+  "title": "How to clone ServiceNow applications",
+  "link": "https://medium.com/@pishchulin/how-to-clone-servicenow-applications-7b2d2bb736b8?source=rss-4b2609af2935------2",
+  "author": "Andrew Pishchulin"
  },
  {
   "date": "2020-02-08T07:02:57.001Z",
@@ -3584,6 +3640,14 @@
   "author": "Andrew Albury-Dor"
  },
  {
+  "date": "2020-01-28T03:26:24.001Z",
+  "site": "medium.com/@pishchulin",
+  "category": "Blog",
+  "title": "ServiceNow Agent Workspace",
+  "link": "https://medium.com/@pishchulin/servicenow-agent-workspace-399f157fd5a5?source=rss-4b2609af2935------2",
+  "author": "Andrew Pishchulin"
+ },
+ {
   "date": "2020-01-28T02:04:46.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -4048,6 +4112,14 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=bb67168ddb564c501cd8a345ca9619e9"
  },
  {
+  "date": "2020-01-10T15:35:48.001Z",
+  "site": "medium.com/@pishchulin",
+  "category": "Blog",
+  "title": "React in ServiceNow applications (advanced)",
+  "link": "https://medium.com/@pishchulin/react-in-servicenow-applications-advanced-3e1966fbb817?source=rss-4b2609af2935------2",
+  "author": "Andrew Pishchulin"
+ },
+ {
   "date": "2020-01-09T21:27:49.001Z",
   "site": "ServicePortal.io",
   "category": "Blog",
@@ -4262,6 +4334,14 @@
   "title": "Quick Guide: Orlando",
   "link": "https://jace.pro/post/2020-01-06-orlando/",
   "author": "Jace Benson"
+ },
+ {
+  "date": "2020-01-04T19:12:26.001Z",
+  "site": "medium.com/@pishchulin",
+  "category": "Blog",
+  "title": "the proposed solution may work, I would try to use custom events/broadcasting to pass data…",
+  "link": "https://medium.com/@pishchulin/the-proposed-solution-may-work-i-would-try-to-use-custom-events-broadcasting-to-pass-data-1abf8c6c4034?source=rss-4b2609af2935------2",
+  "author": "Andrew Pishchulin"
  },
  {
   "date": "2020-01-04T02:03:27.000Z",
