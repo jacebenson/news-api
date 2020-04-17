@@ -1,5 +1,45 @@
 [
  {
+  "date": "2020-04-17T17:07:45.001Z",
+  "site": "Pathway",
+  "category": "Blog",
+  "title": "Configuring code linting in ServiceNow",
+  "link": "https://pathwayscg.com/configuring-code-linting-in-servicenow/",
+  "author": "Kaitlyn Giovinazzo"
+ },
+ {
+  "date": "2020-04-17T16:06:06.001Z",
+  "site": "GlideFast",
+  "category": "YouTube",
+  "title": "CWIC - Connected While In Crisis",
+  "link": "https://www.youtube.com/watch?v=4zFu-crWXi0",
+  "author": "— "
+ },
+ {
+  "date": "2020-04-17T15:36:12.001Z",
+  "site": "ServiceSharp",
+  "category": "Podcast",
+  "title": "2x7 API Integrations",
+  "link": "https://anchor.fm/servicesharp/episodes/2x7-API-Integrations-ecsttm",
+  "author": "Randy Haas and Jason Gibson"
+ },
+ {
+  "date": "2020-04-17T13:18:48.001Z",
+  "site": "Man Myth and Legend",
+  "category": "YouTube",
+  "title": "Didja Know, Didja Care? Episode 12 - CI Inclusion Rules",
+  "link": "https://www.youtube.com/watch?v=4wRW_08viGs",
+  "author": "Lord Ryan Gillespie"
+ },
+ {
+  "date": "2020-04-16T22:33:24.001Z",
+  "site": "Andrew Albury-Dor",
+  "category": "YouTube",
+  "title": "NOW I'm Awake - 17/04/2020",
+  "link": "https://www.youtube.com/watch?v=qDBaMwHMSdM",
+  "author": "Andrew Albury-Dor"
+ },
+ {
   "date": "2020-04-16T19:53:59.001Z",
   "site": "GlideFast",
   "category": "YouTube",
@@ -9479,6 +9519,14 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=3bdeb157dbc17b8454250b55ca9619cb"
  },
  {
+  "date": "2019-05-01T17:06:01.001Z",
+  "site": "HelpfulTechBlog.com",
+  "category": "Blog",
+  "title": "UI macro – show related tasks on form view",
+  "link": "http://helpfultechblog.com/servicenow/ui-macro-show-related-tasks-on-form-view/?utm_source=rss&utm_medium=rss&utm_campaign=ui-macro-show-related-tasks-on-form-view",
+  "author": "Phuong Nguyen"
+ },
+ {
   "date": "2019-05-01T15:21:11.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -9693,6 +9741,14 @@
   "title": "SNUGs at Knowledge 2019!",
   "author": "tracyo'brien",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=f9c3a75ddbcd33c013b5fb24399619ce"
+ },
+ {
+  "date": "2019-04-25T15:36:30.001Z",
+  "site": "HelpfulTechBlog.com",
+  "category": "Blog",
+  "title": "Changing the URL type field display value",
+  "link": "http://helpfultechblog.com/servicenow/changing-the-url-type-field-display-value/?utm_source=rss&utm_medium=rss&utm_campaign=changing-the-url-type-field-display-value",
+  "author": "Phuong Nguyen"
  },
  {
   "date": "2019-04-25T13:33:20.000Z",
@@ -10701,6 +10757,14 @@
   "title": "\"FpcUser\" - A More Useful User Object",
   "author": "Jim Coyne",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=343a6f2adb84f70023f4a345ca96195d"
+ },
+ {
+  "date": "2019-03-10T22:56:35.001Z",
+  "site": "HelpfulTechBlog.com",
+  "category": "Blog",
+  "title": "Service Portal – Impersonate Dialog",
+  "link": "http://helpfultechblog.com/servicenow/service-portal-impersonate-dialog/?utm_source=rss&utm_medium=rss&utm_campaign=service-portal-impersonate-dialog",
+  "author": "Phuong Nguyen"
  },
  {
   "date": "2019-03-08T19:27:24.000Z",

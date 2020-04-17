@@ -231,6 +231,11 @@ module.exports = {
                 "type": "YouTube", 
                 "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCKMW-HaQjgHvSG5CBCLHPA",
                 "author": "Jeremy Duncan"
+            }, {
+                "title": "HelpfulTechBlog.com",
+                "type": "Blog",
+                "url": "http://helpfultechblog.com/feed/",
+                "author": "Phuong Nguyen"
             }
             //{ "title": "ServiceNow Vimeo", "type": "Vimeo", "url": "https://vimeo.com/servicenow/videos/rss" },
             //{ "title": "Fruition Partners Vimeo", "type": "Vimeo", "url": "https://vimeo.com/user4353238/videos/rss" },
