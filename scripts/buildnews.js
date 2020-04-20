@@ -61,12 +61,12 @@ module.exports = {
                 "type": "YouTube",
                 "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUJK90r6dnu-YXHyDOVIRww",
                 "author": "Göran Lundqvist"
-            }, {
+            },/* {
                 "title": "john-james-andersen.com",
                 "type": "Blog",
                 "url": "http://john-james-andersen.com/feed",
                 "author": "John Andersen",
-            }, {
+            },*/ {
                 "title": "Mark Scott",
                 "type": "YouTube",
                 "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCysyuAe0q31GOOedkJja67Q",
@@ -241,6 +241,11 @@ module.exports = {
                 "type": "Blog",
                 "url": "https://medium.com/feed/@pishchulin",
                 "author": "Andrew Pishchulin"
+            }, {
+                "title": "Harshad Chawra",
+                "type": "YouTube",
+                "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxbveNIN8WJWmioo42HdQSA",
+                "author": "Harshad Chawra"
             }
 
             //{ "title": "ServiceNow Vimeo", "type": "Vimeo", "url": "https://vimeo.com/servicenow/videos/rss" },
