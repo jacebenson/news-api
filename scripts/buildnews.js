@@ -147,7 +147,7 @@ module.exports = {
                 "url": "https://hiresumo.com/home?format=rss",
                 "author": "— "
             }, {
-                "title": "www.servicenowguru.com", 
+                "title": "servicenowguru.com", 
                 "type": "Blog", 
                 "url": "https://www.servicenowguru.com/feed/",
                 "author": "Mark Stanger"
