@@ -246,6 +246,11 @@ module.exports = {
                 "type": "YouTube",
                 "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxbveNIN8WJWmioo42HdQSA",
                 "author": "Harshad Chawra"
+            }, {
+                "title": "snc-blog.com",
+                "type": "Blog",
+                "url": "https://www.snc-blog.com/feed",
+                "author": "Miscellaneous"
             }
 
             //{ "title": "ServiceNow Vimeo", "type": "Vimeo", "url": "https://vimeo.com/servicenow/videos/rss" },
