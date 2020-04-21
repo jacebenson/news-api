@@ -1,5 +1,117 @@
 [
  {
+  "date": "2020-04-20T20:32:28.001Z",
+  "site": "PhilGoesDeep",
+  "category": "YouTube",
+  "title": "ServiceNow Community Service 20200420",
+  "link": "https://www.youtube.com/watch?v=3PmIHPZUIKQ",
+  "author": "Phil Swann"
+ },
+ {
+  "date": "2020-04-20T19:47:40.001Z",
+  "site": "PhilGoesDeep",
+  "category": "YouTube",
+  "title": "ServiceNow Community Service 20200420",
+  "link": "https://www.youtube.com/watch?v=fjvZe9xecyU",
+  "author": "Phil Swann"
+ },
+ {
+  "date": "2020-04-20T19:43:35.001Z",
+  "site": "pathwayscg.com",
+  "category": "Blog",
+  "title": "A strong culture is critical now more than ever — Women to Watch: Tech Watch",
+  "link": "https://pathwayscg.com/a-strong-culture-is-critical-now-more-than-ever-women-to-watch-tech-watch/",
+  "author": "Kaitlyn Giovinazzo"
+ },
+ {
+  "date": "2020-04-20T18:44:10.001Z",
+  "site": "ServiceNow Support",
+  "category": "YouTube",
+  "title": "Now Support (HI) Home Page",
+  "link": "https://www.youtube.com/watch?v=3xYonOSXOwQ",
+  "author": "—"
+ },
+ {
+  "date": "2020-04-20T17:36:24.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Now on Now: How ServiceNow IT drives innovation and results",
+  "author": "Mary Hain",
+  "link": "https://community.servicenow.com/community?id=community_blog&sys_id=85fd8a65db189010d82ffb2439961948"
+ },
+ {
+  "date": "2020-04-20T17:13:53.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Knowledge 2020 Digital Experience - Registration is easy and free, Sign up today!",
+  "author": "Doug Dykes",
+  "link": "https://community.servicenow.com/community?id=community_blog&sys_id=4bc84625db981c10feb1a851ca961998"
+ },
+ {
+  "date": "2020-04-20T16:55:02.001Z",
+  "site": "ServiceNow Community",
+  "category": "YouTube",
+  "title": "NOWCommunity Live Stream - Lessons Learned - Flow Designer - Referencing Records",
+  "link": "https://www.youtube.com/watch?v=Jlu4DkjEB0Q",
+  "author": "Miscellaneous"
+ },
+ {
+  "date": "2020-04-20T16:43:03.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Localize COVID-19 Apps para o Português",
+  "author": "ccook",
+  "link": "https://community.servicenow.com/community?id=community_blog&sys_id=ebb18261db981450d58ea345ca9619d2"
+ },
+ {
+  "date": "2020-04-20T16:10:38.001Z",
+  "site": "ServiceNow Support",
+  "category": "YouTube",
+  "title": "Quick Demo | Setting up filtered lists for Agent Workspace",
+  "link": "https://www.youtube.com/watch?v=t6YiHOmz958",
+  "author": "—"
+ },
+ {
+  "date": "2020-04-20T14:34:15.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Video: NOWCommunity Live Stream - Lessons Learned - Flow Designer - Referencing Records",
+  "author": "Chuck Tomasi",
+  "link": "https://community.servicenow.com/community?id=community_blog&sys_id=7044adaddb901c90f7fca851ca9619b4"
+ },
+ {
+  "date": "2020-04-20T14:05:12.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Time to measure and adjust: one month of pandemic-style customer service",
+  "author": "paulselby",
+  "link": "https://community.servicenow.com/community?id=community_blog&sys_id=579d9929dbd054dc4819fb24399619d1"
+ },
+ {
+  "date": "2020-04-20T13:00:37.001Z",
+  "site": "Man Myth and Legend",
+  "category": "YouTube",
+  "title": "Didja Know, Didja Care? Episode 12 - Shortcut Cheat Sheet",
+  "link": "https://www.youtube.com/watch?v=vw1B7GwaUFA",
+  "author": "Lord Ryan Gillespie"
+ },
+ {
+  "date": "2020-04-20T12:30:16.001Z",
+  "site": "GlideFast",
+  "category": "YouTube",
+  "title": "COE Security Policies - ServiceNow - HR - Orlando Feature | Overview",
+  "link": "https://www.youtube.com/watch?v=jZ7nKRaS8Mw",
+  "author": "— "
+ },
+ {
+  "date": "2020-04-20T03:26:21.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Displaying Virtual Agent widget depending on User properties (company, department, etcetera)",
+  "author": "Mark Roethof",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=9d6b8b991bd4dcdcd01143f6fe4bcbb6"
+ },
+ {
   "date": "2020-04-19T23:05:58.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -102,6 +214,14 @@
   "title": "Integrating Zoom with ServiceNow",
   "link": "https://www.youtube.com/watch?v=XKqvhllwXhI",
   "author": "— "
+ },
+ {
+  "date": "2020-04-16T19:52:03.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "On Defense of \"Bad\" Variable Names: is GR really that bad.",
+  "author": "Javier Arroyo",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=9da6ca94db909850f7fca851ca961959"
  },
  {
   "date": "2020-04-16T14:00:00.001Z",
@@ -294,6 +414,14 @@
   "title": "Top 5 Customer Service Management \"Attractions\" in the Orlando Release",
   "link": "https://www.covestic.com/top-5-customer-service-management-attractions-in-the-orlando-release/",
   "author": "— "
+ },
+ {
+  "date": "2020-04-13T08:02:09.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "System Clone Preserve Update Sets [Orlando]",
+  "author": "Mark Roethof",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=116748dbdb08989cd58ea345ca9619cc"
  },
  {
   "date": "2020-04-12T15:41:00.001Z",
@@ -640,6 +768,14 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=7b0370cddb8494d82be0a851ca961943"
  },
  {
+  "date": "2020-04-06T02:48:27.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Generating a Catalog Item Variables summary",
+  "author": "Mark Roethof",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=9d7cf274db081898190dfb243996197c"
+ },
+ {
   "date": "2020-04-05T23:39:06.001Z",
   "site": "Robert, The Duke, Fedoruk",
   "category": "YouTube",
@@ -670,6 +806,14 @@
   "title": "Avoid sending empty file in Scheduled Data Exports",
   "author": "Ankur Bawiskar",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=28165260db8098d823f4a345ca9619e2"
+ },
+ {
+  "date": "2020-04-04T18:32:57.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Code Architecture: Decreasing bugs by decreasing code surface",
+  "author": "Javier Arroyo",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=6d714ca4db4058d823f4a345ca961956"
  },
  {
   "date": "2020-04-04T16:49:41.001Z",
@@ -704,6 +848,22 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=3d94d51cdb8cd4d823f4a345ca96198a"
  },
  {
+  "date": "2020-04-04T00:03:31.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Code Smells, Refactoring Data Clumps Including Parameter Lists– Bloaters: Day 4",
+  "author": "Javier Arroyo",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=ce834c50db44d4d823f4a345ca9619f7"
+ },
+ {
+  "date": "2020-04-03T22:24:54.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Code Smells, Refactoring Long Parameter Lists – Bloaters: Day 3",
+  "author": "Javier Arroyo",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=51fca788db80d4d823f4a345ca9619d7"
+ },
+ {
   "date": "2020-04-03T21:49:39.001Z",
   "site": "ServiceNow Dev Program",
   "category": "YouTube",
@@ -718,6 +878,14 @@
   "title": "Properly configuring a three-tier dependency",
   "link": "https://pathwayscg.com/properly-configuring-a-three-tier-dependency/",
   "author": " - "
+ },
+ {
+  "date": "2020-04-03T20:48:46.001Z",
+  "site": "pathwayscg.com",
+  "category": "Blog",
+  "title": "Three-tier dependencies in ServiceNow: A common pitfall",
+  "link": "https://pathwayscg.com/three-tier-dependencies-in-servicenow-a-common-pitfall/",
+  "author": "Kaitlyn Giovinazzo"
  },
  {
   "date": "2020-04-03T18:20:31.001Z",
@@ -1038,6 +1206,14 @@
   "title": "[New] Now Support (HI) Service Catalog Item - List of Available Backups of an Instance",
   "author": "Vikas",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=6f311c3adbf7485823f4a345ca961927"
+ },
+ {
+  "date": "2020-03-30T03:49:35.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Now Mobile URL Applet (example: Virtual Agent with URL parameters)",
+  "author": "Mark Roethof",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=38574762db778058f7fca851ca9619dc"
  },
  {
   "date": "2020-03-30T02:08:55.000Z",
@@ -1390,6 +1566,14 @@
   "title": "Slow Performance in ServiceNow Now Mobile app",
   "author": "benmc",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=76723060db3fc8d4d58ea345ca9619a4"
+ },
+ {
+  "date": "2020-03-23T05:08:47.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Changing the Service Portal Virtual Agent widget CSS properties (height, width, icon, etcetera)",
+  "author": "Mark Roethof",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=a856535cdbb74494190dfb24399619b9"
  },
  {
   "date": "2020-03-21T23:37:58.001Z",
@@ -1928,6 +2112,14 @@
   "author": "Jace Benson"
  },
  {
+  "date": "2020-03-17T03:40:44.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Remove Multi-factor Authentication pairing",
+  "author": "Mark Roethof",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=24a8c06a1babc854ada243f6fe4bcba9"
+ },
+ {
   "date": "2020-03-17T03:39:03.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -2296,6 +2488,14 @@
   "author": "Andrew Pishchulin"
  },
  {
+  "date": "2020-03-09T17:12:29.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Virtual Agent multiple chat branding [Orlando]",
+  "author": "Mark Roethof",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=c1b57504dbeb8c90feb1a851ca961910"
+ },
+ {
   "date": "2020-03-09T16:28:41.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -2448,6 +2648,22 @@
   "author": "— "
  },
  {
+  "date": "2020-03-05T04:23:49.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "JSON field attribute",
+  "author": "Mark Roethof",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=566fdea2db97c8506064eeb5ca961946"
+ },
+ {
+  "date": "2020-03-04T22:22:52.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Now Support Virtual Agent Conversations for When You are Having Trouble Logging in",
+  "author": "Howard S.",
+  "link": "https://community.servicenow.com/community?id=community_blog&sys_id=4fcc4922db53885023f4a345ca961925"
+ },
+ {
   "date": "2020-03-04T22:18:04.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -2518,6 +2734,14 @@
   "title": "Discovery in ServiceNow | Overview",
   "link": "https://www.youtube.com/watch?v=TPtTVTsJBSg",
   "author": "— "
+ },
+ {
+  "date": "2020-03-03T15:14:41.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Reducing Boilerplate Code - Refactoring into a Utility Function",
+  "author": "Javier Arroyo",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=d131a682db57cc1013b5fb2439961904"
  },
  {
   "date": "2020-03-03T11:40:55.000Z",
@@ -2598,6 +2822,14 @@
   "title": "#ServiceNow One Minute M'Orlando - RIDAC Transitions",
   "link": "https://www.youtube.com/watch?v=I7O3OrAHKLA",
   "author": "Robert Fedoruk"
+ },
+ {
+  "date": "2020-03-01T06:35:40.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Workflow Catalog Task condition(s)",
+  "author": "Mark Roethof",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=3e375ad5db9bc010414eeeb5ca96198c"
  },
  {
   "date": "2020-02-29T07:11:51.001Z",
@@ -2752,6 +2984,14 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=ad959508db130c906064eeb5ca961901"
  },
  {
+  "date": "2020-02-26T00:41:36.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Code Smells, Refactoring Long Functions – Bloaters: Day 2",
+  "author": "Javier Arroyo",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=91df90c81b5b4890fff162c4bd4bcba1"
+ },
+ {
   "date": "2020-02-25T22:35:20.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -2816,6 +3056,14 @@
   "author": "Travis Toulson"
  },
  {
+  "date": "2020-02-24T23:29:48.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Code Smells, Refactoring Comments – Bloaters: Day 1",
+  "author": "Javier Arroyo",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=3fc54bab1b4bc090fff162c4bd4bcba3"
+ },
+ {
   "date": "2020-02-24T20:20:46.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -2878,6 +3126,14 @@
   "title": "Investment Funding",
   "link": "https://www.servicenowelite.com/blog/2019/9/29/investment-funding",
   "author": "Mike Kaufman"
+ },
+ {
+  "date": "2020-02-23T05:50:56.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Virtual Agent reusable topic blocks (+ example) [Orlando]",
+  "author": "Mark Roethof",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=1bd9424b1b430090ada243f6fe4bcb1c"
  },
  {
   "date": "2020-02-23T01:47:16.001Z",
@@ -2992,6 +3248,14 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=37c045cadbcf409023f4a345ca961921"
  },
  {
+  "date": "2020-02-19T17:28:22.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "A bit of code smell: Collocating type in variable names",
+  "author": "Javier Arroyo",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=242340cadb8fcc5023f4a345ca9619af"
+ },
+ {
   "date": "2020-02-18T17:38:39.001Z",
   "site": "ServicePortal.io",
   "category": "Blog",
@@ -3038,6 +3302,14 @@
   "title": "CRM: service for a bygone era",
   "author": "paulselby",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=7ff3f541dbc388dc13b5fb243996195f"
+ },
+ {
+  "date": "2020-02-16T04:56:17.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Forget about adding log statements to Server Side script, use logpoints! [Orlando]",
+  "author": "Mark Roethof",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=e23a31b8db8f8090d82ffb2439961931"
  },
  {
   "date": "2020-02-15T20:50:41.001Z",
@@ -3142,6 +3414,14 @@
   "title": "AHEAD Unveils Results of \"State of Enterprise Digital Transformation\" Survey",
   "link": "https://www.thinkahead.com/state-of-digital-transformation-study-2020/",
   "author": "— "
+ },
+ {
+  "date": "2020-02-12T14:24:06.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "URL parameter &XML",
+  "author": "Mark Roethof",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=89d5d7271bbaccdcada243f6fe4bcb4e"
  },
  {
   "date": "2020-02-12T04:50:09.001Z",
@@ -3334,6 +3614,14 @@
   "title": "Unlearn Series - Create Or Update Record With Encoded Query",
   "author": "Kalaiarasan Pushpanathan",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=e7086f35db7604d84819fb24399619e1"
+ },
+ {
+  "date": "2020-02-07T04:22:26.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Help! I lost access to my Instance due to Web service access only",
+  "author": "Mark Roethof",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=362c97f1db36845cd58ea345ca9619bc"
  },
  {
   "date": "2020-02-06T19:41:41.000Z",
@@ -3672,6 +3960,14 @@
   "author": "Göran Lundqvist"
  },
  {
+  "date": "2020-02-02T08:55:01.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Finding references / sys_ids in Workflows",
+  "author": "Mark Roethof",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=439a6ed4db3a40182be0a851ca9619d5"
+ },
+ {
   "date": "2020-02-02T04:39:06.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -3718,6 +4014,14 @@
   "title": "SN Developer Quick Tips Episode 3 - Quick Dev Navigation",
   "link": "https://www.youtube.com/watch?v=YgwfyiwbL0Y",
   "author": "Andrew Albury-Dor"
+ },
+ {
+  "date": "2020-01-30T11:40:35.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "To Peer-Review or not to Peer-Review",
+  "author": "Javier Arroyo",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=83b3375fdbae8494d82ffb24399619ee"
  },
  {
   "date": "2020-01-30T07:48:52.000Z",
@@ -3918,6 +4222,14 @@
   "title": "ServiceNow Live Coding - 26th Jan 2020",
   "link": "https://www.youtube.com/watch?v=a9Dn_o5R_ck",
   "author": "Andrew Albury-Dor"
+ },
+ {
+  "date": "2020-01-26T04:23:20.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Virtual Agent Search Knowledge Base results sorted by Most Viewed",
+  "author": "Mark Roethof",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=c349a582db268cd04819fb2439961982"
  },
  {
   "date": "2020-01-25T04:25:00.001Z",
@@ -4144,6 +4456,14 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=9f5fe058dba2c0506064eeb5ca96198f"
  },
  {
+  "date": "2020-01-20T05:41:39.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Virtual Agent feature bubble (2), auto display after N seconds",
+  "author": "Mark Roethof",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=bfa107c81ba20050d01143f6fe4bcb39"
+ },
+ {
   "date": "2020-01-18T22:31:29.001Z",
   "site": "Robert, The Duke, Fedoruk",
   "category": "YouTube",
@@ -4158,6 +4478,14 @@
   "title": "ServiceNow Trivia Time - Live Coding Happy Hour for 2020-01-17",
   "link": "https://www.youtube.com/watch?v=PFMU6sG85ds",
   "author": "Andrew Barnes, Brad Tilton, and Chuck Tomasi"
+ },
+ {
+  "date": "2020-01-16T23:29:02.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Familiarity biases and delay in adoption of coding techniques",
+  "author": "Javier Arroyo",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=a0af8243db16841023f4a345ca961950"
  },
  {
   "date": "2020-01-16T22:10:00.001Z",
@@ -4222,6 +4550,14 @@
   "title": "Debugging and you",
   "link": "https://developer.servicenow.com/blog.do?p=/post/debugging/",
   "author": "Andrew Barnes, and Brad Tilton"
+ },
+ {
+  "date": "2020-01-15T04:41:06.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Virtual Agent bubble color / url parameters",
+  "author": "Mark Roethof",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=1ce3cd66db9e88101cd8a345ca961932"
  },
  {
   "date": "2020-01-14T21:03:24.000Z",
@@ -4342,6 +4678,14 @@
   "title": "React in ServiceNow applications (advanced)",
   "link": "https://medium.com/@pishchulin/react-in-servicenow-applications-advanced-3e1966fbb817?source=rss-4b2609af2935------2",
   "author": "Andrew Pishchulin"
+ },
+ {
+  "date": "2020-01-10T03:49:19.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Client Side Scripting: Go for GlideAjax (with getXMLAnswer)!",
+  "author": "Mark Roethof",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=c918c3b8db968c5013b5fb2439961918"
  },
  {
   "date": "2020-01-09T21:27:49.001Z",
@@ -4616,6 +4960,14 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=bf19f1b21b0a4010d01143f6fe4bcb50"
  },
  {
+  "date": "2020-01-03T12:12:33.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Utilizing the Script Editor",
+  "author": "Mark Roethof",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=8428fcfedb82c814f7fca851ca961958"
+ },
+ {
   "date": "2020-01-03T06:11:17.001Z",
   "site": "Pathway",
   "category": "Blog",
@@ -4726,6 +5078,14 @@
   "title": "Orlando Early Access for Technology Partners",
   "author": "Pradeep Sharma",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=7e5675fadbf1489013b5fb2439961936"
+ },
+ {
+  "date": "2019-12-22T04:51:21.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "getXMLAnswer vs getXML",
+  "author": "Mark Roethof",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=1c10a1fedbbd4890feb1a851ca961909"
  },
  {
   "date": "2019-12-21T15:51:17.000Z",
@@ -4872,6 +5232,14 @@
   "author": " - "
  },
  {
+  "date": "2019-12-17T14:40:54.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Virtual Agent User Input 'Image Picker'",
+  "author": "Mark Roethof",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=2707b151db7980506064eeb5ca96196a"
+ },
+ {
   "date": "2019-12-16T18:31:55.001Z",
   "site": "Pathway",
   "category": "Blog",
@@ -4942,6 +5310,14 @@
   "title": "Apresente no Knowledge! Penúltimo Dia!",
   "author": "ccook",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=502c8cfbdb69c890414eeeb5ca9619d5"
+ },
+ {
+  "date": "2019-12-12T07:22:26.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Conditional visible Multi-Row Variable Set",
+  "author": "Mark Roethof",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=44c22e2bdba9c4904819fb243996197f"
  },
  {
   "date": "2019-12-12T06:54:51.000Z",
@@ -5152,6 +5528,14 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=e162b0e2dba1c01023f4a345ca96191a"
  },
  {
+  "date": "2019-12-08T05:21:15.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Mandatory Multi-Row Variable Set",
+  "author": "Mark Roethof",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=39a0e99adb2d0010feb1a851ca96191d"
+ },
+ {
   "date": "2019-12-07T00:17:27.001Z",
   "site": "ServiceNow Think",
   "category": "Blog",
@@ -5238,6 +5622,14 @@
   "title": "How to fix the red popup \"... must declare a cross scope access privilege\" errors",
   "author": "Michael Ritchie",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=ce28d5b8db690c5c5129a851ca961999"
+ },
+ {
+  "date": "2019-12-03T07:50:13.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Virtual Agent feature bubble",
+  "author": "Mark Roethof",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=c3c29c78dbe5c89c6064eeb5ca9619b7"
  },
  {
   "date": "2019-12-02T22:19:00.000Z",
@@ -5344,6 +5736,14 @@
   "author": ""
  },
  {
+  "date": "2019-11-28T07:55:00.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Where are the Virtual Agent General Settings stored? [New York]",
+  "author": "Mark Roethof",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=10f326031b9100907a5933f2cd4bcb45"
+ },
+ {
   "date": "2019-11-27T17:53:16.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -5400,6 +5800,14 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=8c8fc012db9984d4190dfb2439961900"
  },
  {
+  "date": "2019-11-25T04:31:41.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Scheduled creation of a Private Task (including a Checklist) on a Visual Task Board",
+  "author": "Mark Roethof",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=f4a81a8edb5148545129a851ca961964"
+ },
+ {
   "date": "2019-11-25T00:34:19.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -5454,6 +5862,14 @@
   "title": "Orlando Early Release Open for Registration",
   "author": "Victoria Del Mundo",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=4f4996c1db510cd4d58ea345ca9619f4"
+ },
+ {
+  "date": "2019-11-21T16:17:32.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Changing out-of-the-box Messages",
+  "author": "Mark Roethof",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=65d3d0c5db1dc05413b5fb2439961913"
  },
  {
   "date": "2019-11-21T15:38:29.000Z",
@@ -5648,6 +6064,14 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=bd47ff331b05c050fff162c4bd4bcb7d"
  },
  {
+  "date": "2019-11-18T04:21:52.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Catalog Client Script Messages (Internationalization/Multi-Language)",
+  "author": "Mark Roethof",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=8d43d2bfdb4d8c50d58ea345ca961921"
+ },
+ {
   "date": "2019-11-17T23:41:01.001Z",
   "site": "ServiceNow Elite",
   "category": "Blog",
@@ -5760,6 +6184,14 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=6e8a2ad2db410450414eeeb5ca9619ac"
  },
  {
+  "date": "2019-11-13T10:54:40.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Removing Service Portal Catalog Item Help tag icons",
+  "author": "Mark Roethof",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=963dbd9edb8104506064eeb5ca961907"
+ },
+ {
   "date": "2019-11-13T10:24:00.001Z",
   "site": "ServiceNow Community Podcasts",
   "category": "Podcast",
@@ -5854,6 +6286,14 @@
   "title": "Set customer service agents up for success as Black Friday approaches",
   "author": "paulselby",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=3a75a565dbc188d4190dfb24399619d4"
+ },
+ {
+  "date": "2019-11-10T05:06:41.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Virtual Agent SideNav Service Portal widget",
+  "author": "Mark Roethof",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=97c019511bcd841cada243f6fe4bcb66"
  },
  {
   "date": "2019-11-10T03:27:06.000Z",
@@ -6024,6 +6464,14 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=64a27f17dbbc08942be0a851ca961911"
  },
  {
+  "date": "2019-11-04T07:26:34.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Service Portal Modal SlideNav",
+  "author": "Mark Roethof",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=3d473a13db3cc4d0d58ea345ca96197a"
+ },
+ {
   "date": "2019-11-04T07:25:10.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -6062,6 +6510,14 @@
   "title": "GlideAJAX Equivalent for Service Portal &#8211; Getting Server Data from Client",
   "link": "https://pathwayscg.com/glideajax-equivalent-for-service-portal-getting-server-data-from-client/",
   "author": " - "
+ },
+ {
+  "date": "2019-10-31T14:47:06.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Adding “global” Visual Task Board labels [New York]",
+  "author": "Mark Roethof",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=ccc57382db38c0905ed4a851ca9619bd"
  },
  {
   "date": "2019-10-31T05:41:48.000Z",
@@ -6166,6 +6622,14 @@
   "title": "Digital workflow: powering dramatic customer service and experience improvements",
   "author": "paulselby",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=b33514cddbb04810feb1a851ca9619f5"
+ },
+ {
+  "date": "2019-10-27T07:13:58.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Read-only Multi-Row Variable Set",
+  "author": "Mark Roethof",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=a3a7a578dbbc0410190dfb2439961941"
  },
  {
   "date": "2019-10-24T22:39:20.001Z",
@@ -6318,6 +6782,14 @@
   "title": "Episode 24 - XML Parser in ServiceNow",
   "link": "https://www.youtube.com/watch?v=18DnY4FfMqI",
   "author": "Göran Lundqvist"
+ },
+ {
+  "date": "2019-10-21T04:20:28.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Scripted Tags",
+  "author": "Mark Roethof",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=df660232dbac8050feb1a851ca9619eb"
  },
  {
   "date": "2019-10-20T10:06:10.001Z",
@@ -6502,6 +6974,14 @@
   "title": "Servicenow System Administrator Day",
   "link": "https://jace.pro/talk/servicenow-2019-admin-day/",
   "author": "Jace Benson"
+ },
+ {
+  "date": "2019-10-15T13:17:21.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Add row onLoad to Multi-Row Variable Set",
+  "author": "Mark Roethof",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=a9c7454ddb6880d4414eeeb5ca96191d"
  },
  {
   "date": "2019-10-15T13:00:00.001Z",
@@ -6759,6 +7239,14 @@
   "author": "Miscellaneous"
  },
  {
+  "date": "2019-10-08T13:57:33.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Scripted Visual Task Board Card labels [New York]",
+  "author": "Mark Roethof",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=8add0d3edb94c49023f4a345ca9619e8"
+ },
+ {
   "date": "2019-10-07T16:56:28.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -6831,6 +7319,14 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=9a23f069db18805013b5fb243996192b"
  },
  {
+  "date": "2019-10-04T14:19:49.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Code Architecture – An Alternative Approach To Try/Catch",
+  "author": "Javier Arroyo",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=519c2469db1888102be0a851ca96197a"
+ },
+ {
   "date": "2019-10-04T01:31:02.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -6885,6 +7381,14 @@
   "title": "Video: Community Live Stream - 2019-10-03",
   "author": "Chuck Tomasi",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=bba993c91b100c14fff162c4bd4bcb36"
+ },
+ {
+  "date": "2019-10-03T06:59:23.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "(Improved) embedded Virtual Agent Service Portal widget",
+  "author": "Mark Roethof",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=bf2eb989db1c4894fff8a345ca9619f0"
  },
  {
   "date": "2019-10-03T06:48:00.000Z",
@@ -7239,6 +7743,14 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=81604222db8000d423f4a345ca9619f7"
  },
  {
+  "date": "2019-09-25T04:16:17.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Virtual Agent - Available topics depending on different Service Portals",
+  "author": "Mark Roethof",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=342c482adb0c4894f7fca851ca9619e8"
+ },
+ {
   "date": "2019-09-24T17:19:16.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -7303,6 +7815,14 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=0b6187b91b400494fff162c4bd4bcbc6"
  },
  {
+  "date": "2019-09-23T03:45:20.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Internationalize your Virtual Agent",
+  "author": "Mark Roethof",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=bfd1b171dbcc441423f4a345ca9619fb"
+ },
+ {
   "date": "2019-09-22T22:15:58.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -7357,6 +7877,14 @@
   "title": "Around The World With Now At Work: Now On Now",
   "link": "https://omny.fm/shows/servicenow-cloudcast/around-the-world-with-now-at-work-now-on-now",
   "author": "Miscellaneous"
+ },
+ {
+  "date": "2019-09-19T03:44:22.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Virtual Agents new \"Anything else topic\" functionality [New York]",
+  "author": "Mark Roethof",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=ee4bc5e4db48c4145129a851ca961941"
  },
  {
   "date": "2019-09-18T14:51:14.001Z",
@@ -7461,6 +7989,14 @@
   "title": "Using personas to drive better customer service",
   "author": "paulselby",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=88e7b76bdb3fbb006064eeb5ca961946"
+ },
+ {
+  "date": "2019-09-16T05:53:46.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Regex Variable Validation on mandatory variables [workaround]",
+  "author": "Mark Roethof",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=012c02e3db7fb700190dfb2439961975"
  },
  {
   "date": "2019-09-14T20:28:29.001Z",
@@ -7583,6 +8119,14 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=745c55f1db7bf30c14d6fb24399619c3"
  },
  {
+  "date": "2019-09-10T14:29:18.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Personalized Virtual Agent \"Greetings\" topic [New York]",
+  "author": "Mark Roethof",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=8e98c5f5db7bb30c14d6fb2439961958"
+ },
+ {
   "date": "2019-09-10T14:04:02.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -7637,6 +8181,14 @@
   "title": "Service Portal: Drag & Drop Attachments",
   "author": "ralf.schnell",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=d4179a9ddbf7bfcc1cd8a345ca9619f5"
+ },
+ {
+  "date": "2019-09-08T22:30:33.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Every piece of knowledge or logic must have a single, unambiguous representation within a system",
+  "author": "Javier Arroyo",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=5c93ecd1dbbf7f885129a851ca961988"
  },
  {
   "date": "2019-09-08T04:25:56.001Z",
@@ -7719,6 +8271,14 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=52890f1cdb73f3c8f7fca851ca9619f3"
  },
  {
+  "date": "2019-09-06T06:19:57.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Visual Task Board unlimited labels [New York]",
+  "author": "Mark Roethof",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=3a323a581b7fb348d01143f6fe4bcb70"
+ },
+ {
   "date": "2019-09-05T23:41:33.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -7791,6 +8351,14 @@
   "author": " - "
  },
  {
+  "date": "2019-09-04T10:25:59.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Utilizing the breadcrumb on lists to generate your query",
+  "author": "Mark Roethof",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=2757d97fdb2b7f84feb1a851ca96198f"
+ },
+ {
   "date": "2019-09-03T19:44:48.001Z",
   "site": "Pathway",
   "category": "Blog",
@@ -7861,6 +8429,14 @@
   "title": "New features (MRVS, Impersonate & Interceptor) in ServiceNow New York Release.",
   "link": "https://www.youtube.com/watch?v=nhMrtZitiGM",
   "author": "Göran Lundqvist"
+ },
+ {
+  "date": "2019-09-01T06:41:32.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Hiding topics from the Virtual Agent Topic Picker",
+  "author": "Mark Roethof",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=563785fadb27b7c423f4a345ca9619f6"
  },
  {
   "date": "2019-09-01T04:54:03.001Z",
@@ -8071,6 +8647,14 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=d022b3fcdb23bf80d82ffb24399619a7"
  },
  {
+  "date": "2019-08-25T11:23:51.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Expanding Syntax Editor Macros",
+  "author": "Mark Roethof",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=61b4c6681ba77780d01143f6fe4bcbaa"
+ },
+ {
   "date": "2019-08-25T10:45:09.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -8173,6 +8757,14 @@
   "title": "Pathways to sponsor annual Fight4Vets Street Fight boxing event",
   "link": "https://pathwayscg.com/pathways-to-sponsor-annual-fight4vets-street-fight-boxing-event/",
   "author": " - "
+ },
+ {
+  "date": "2019-08-16T06:07:16.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Elevating approval approvers",
+  "author": "Mark Roethof",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=dcf566a5db97734023f4a345ca9619c1"
  },
  {
   "date": "2019-08-16T02:40:08.001Z",
@@ -8327,6 +8919,14 @@
   "author": "Jace Benson"
  },
  {
+  "date": "2019-08-10T13:59:20.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Regexes for Catalog Items Variable Validation, part 2 [Madrid]",
+  "author": "Mark Roethof",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=78785137dbcbf3801cd8a345ca961924"
+ },
+ {
   "date": "2019-08-10T00:00:00.001Z",
   "site": "jace.pro",
   "category": "Blog",
@@ -8405,6 +9005,14 @@
   "title": "Time Zones: Why You Punish Me",
   "link": "https://codecreative.io/blog/time-zones-why-you-punish-me/",
   "author": "Travis Toulson"
+ },
+ {
+  "date": "2019-08-06T13:20:05.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "No Code date validations through (Catalog) UI Policies",
+  "author": "Mark Roethof",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=f61964aadbcb3fc85129a851ca9619eb"
  },
  {
   "date": "2019-08-05T15:47:37.001Z",
@@ -8775,6 +9383,14 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=918c3c4adb763b805ed4a851ca961927"
  },
  {
+  "date": "2019-07-23T13:25:41.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Unique Page header captions to identify your environments",
+  "author": "Mark Roethof",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=9824284a1bfe3f40fff162c4bd4bcbe1"
+ },
+ {
   "date": "2019-07-23T10:01:39.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -8863,6 +9479,14 @@
   "author": "Jace Benson"
  },
  {
+  "date": "2019-07-19T14:03:59.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Create your own (user) sys_id",
+  "author": "Mark Roethof",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=7686c4b81b3af700d01143f6fe4bcb60"
+ },
+ {
   "date": "2019-07-19T12:27:25.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -8917,6 +9541,14 @@
   "title": "Come meet with ServiceNow at Black Hat 2019 in Las Vegas",
   "author": "Eric Feron",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=87fa64f7dbaebb00fff8a345ca961921"
+ },
+ {
+  "date": "2019-07-16T03:25:19.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Clear the field value / Clear the variable value",
+  "author": "Mark Roethof",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=399716efdb6af300d58ea345ca96197e"
  },
  {
   "date": "2019-07-15T17:51:26.001Z",
@@ -9415,6 +10047,14 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=ca8dc10bdb8effc0656a5583ca961960"
  },
  {
+  "date": "2019-06-18T16:58:25.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Fix: Virtual Agent topic Search Knowledge Base \"Show more\"",
+  "author": "Mark Roethof",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=2f25893adb4af7407d3e02d5ca9619b5"
+ },
+ {
   "date": "2019-06-18T12:11:02.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -9469,6 +10109,14 @@
   "title": "Episode 21 - Update set administration in ServiceNow",
   "link": "https://www.youtube.com/watch?v=eqaIJV4e9WI",
   "author": "Göran Lundqvist"
+ },
+ {
+  "date": "2019-06-15T11:34:36.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Enhance UX SC Catalog Item widget submit button",
+  "author": "Mark Roethof",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=7a4e9c7d1b0ebb04ada243f6fe4bcba1"
  },
  {
   "date": "2019-06-14T18:05:21.001Z",
@@ -9591,6 +10239,14 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=61a1d348db4a7b00e0e80b55ca9619d3"
  },
  {
+  "date": "2019-06-07T05:21:48.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Multi-Row Variable Set - Date variables submitted are incorrect [Workaround]",
+  "author": "Mark Roethof",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=7b3c718f1b35fb00ada243f6fe4bcb17"
+ },
+ {
   "date": "2019-06-06T17:32:26.001Z",
   "site": "Pathway",
   "category": "Blog",
@@ -9613,6 +10269,14 @@
   "title": "Is Not Allowed In Scope: The Only Workaround Guide You Need",
   "author": "Paul Morris",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=72b0f06adb3d33801cd8a345ca96194d"
+ },
+ {
+  "date": "2019-06-05T04:04:12.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Virtual Agent - Topic Name Translation [Workaround]",
+  "author": "Mark Roethof",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=af47939edb317780a39a0b55ca9619d0"
  },
  {
   "date": "2019-06-04T19:23:55.000Z",
@@ -9749,6 +10413,14 @@
   "title": "How to use ServiceNow platform system diagnostics debugger in Service Portal",
   "link": "https://servicenowthink.wordpress.com/2019/05/26/how-to-use-servicenow-platform-system-diagnostics-debugger-in-service-portal/",
   "author": "Aleksas Kucinskas"
+ },
+ {
+  "date": "2019-05-25T13:27:17.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Virtual Agent - Exit carousel option",
+  "author": "Mark Roethof",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=3cbe2007dbed7b84f7fca851ca9619be"
  },
  {
   "date": "2019-05-24T19:17:55.000Z",
@@ -9925,6 +10597,14 @@
   "title": "Release Testing Preview und Early Availability",
   "author": "ralf.schnell",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=003219d1db61b704e0e80b55ca96192b"
+ },
+ {
+  "date": "2019-05-19T10:21:55.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Virtual Agent - Starting conversations in a custom way",
+  "author": "Mark Roethof",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=8fba850ddb6d3f84a39a0b55ca96198a"
  },
  {
   "date": "2019-05-17T20:21:50.001Z",
@@ -11023,6 +11703,30 @@
   "author": "Travis Toulson"
  },
  {
+  "date": "2019-04-21T16:38:37.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Different favicons to identify your instances",
+  "author": "Mark Roethof",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=4074d284db01b3002be0a851ca961921"
+ },
+ {
+  "date": "2019-04-21T13:27:35.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Service Portal Catalog Items: Regex Field Validation [Madrid]",
+  "author": "Mark Roethof",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=f5b8a988db057300d82ffb24399619b8"
+ },
+ {
+  "date": "2019-04-21T13:02:35.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Service Portal Catalog Items: Hide Attachment / Mandatory Attachment [Madrid]",
+  "author": "Mark Roethof",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=aff2e9ccdbc17300d82ffb24399619fa"
+ },
+ {
   "date": "2019-04-21T11:22:48.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -11159,12 +11863,28 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=2c6b482edbbc3340a39a0b55ca961955"
  },
  {
+  "date": "2019-04-16T14:00:45.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Accessing Multi-Row Variable Set value outside the Multi-Row Variable Set [Catalog Item, Client Side]",
+  "author": "Mark Roethof",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=2a508caedbf47f48d82ffb243996198f"
+ },
+ {
   "date": "2019-04-16T13:47:46.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
   "title": "Now Available! \"Configuration Management and CMDB for Dummies\" Book",
   "author": "Lisa Latour",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=9c6df39edb30fb4823f4a345ca96194a"
+ },
+ {
+  "date": "2019-04-16T06:31:02.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Service Portal Submit & Redirect [Madrid]",
+  "author": "Mark Roethof",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=cf699a92db3cb788200f0b55ca961963"
  },
  {
   "date": "2019-04-15T19:40:06.000Z",
@@ -11357,6 +12077,14 @@
   "title": "Surpassing the shortcomings of CRM",
   "author": "paulselby",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=ed3372f3db2cbb04e0e80b55ca961941"
+ },
+ {
+  "date": "2019-04-07T12:23:57.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Virtual Agent - Enhanced Check Ticket Status topic",
+  "author": "Mark Roethof",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=70e35127db28b304fff8a345ca96192d"
  },
  {
   "date": "2019-04-07T07:57:12.001Z",
@@ -11559,6 +12287,14 @@
   "author": " - "
  },
  {
+  "date": "2019-03-29T15:38:36.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Virtual Agent - Enhanced Order an Item topic",
+  "author": "Mark Roethof",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=102a2f24db28b30c5ed4a851ca961960"
+ },
+ {
   "date": "2019-03-29T12:02:36.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -11687,6 +12423,14 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=bd2fb15fdb1cbf085ed4a851ca96193f"
  },
  {
+  "date": "2019-03-24T23:56:04.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Code Architecture – Introducing Piping to Help Enhance Code Readability",
+  "author": "Javier Arroyo",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=cb0ce707db103f48d82ffb24399619f9"
+ },
+ {
   "date": "2019-03-22T15:58:54.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -11709,6 +12453,14 @@
   "title": "New in Madrid: Antivirus Scanning",
   "link": "https://pathwayscg.com/new-in-madrid-antivirus-scanning/",
   "author": " - "
+ },
+ {
+  "date": "2019-03-22T11:28:24.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Virtual Agent - Changing the bot appearance",
+  "author": "Mark Roethof",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=8bbd6a92dbd8ffc42be0a851ca9619c0"
  },
  {
   "date": "2019-03-21T17:46:20.000Z",
@@ -11877,6 +12629,14 @@
   "title": "Call for Speakers for March 21st SNUG!",
   "author": "carolinecampbell",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=f1c7ee45db947f045129a851ca96198f"
+ },
+ {
+  "date": "2019-03-17T12:09:02.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Virtual Agent - Rate their experience topic",
+  "author": "Mark Roethof",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=7d174d74db54b744d82ffb24399619bd"
  },
  {
   "date": "2019-03-17T09:10:40.000Z",
@@ -12069,6 +12829,14 @@
   "title": "Integration Hub: Neue Spokes (Schnittstellen) verfügbar!",
   "author": "ralf.schnell",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=f34da9b5db043700feb1a851ca9619e2"
+ },
+ {
+  "date": "2019-03-08T05:23:03.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Code Architecture - Refactoring a Script as a Walk-Through to the Beginnings of Code Libraries",
+  "author": "Javier Arroyo",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=32d35531db40f3001cd8a345ca961937"
  },
  {
   "date": "2019-03-08T02:37:50.000Z",
@@ -12277,6 +13045,14 @@
   "title": "Show All The Variables In A Structured Tabular Format In The Email Body",
   "author": "amlanpal",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=ee8519acdb00bfc42be0a851ca961921"
+ },
+ {
+  "date": "2019-03-03T02:03:44.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Trying to understand GlideRecord.next()",
+  "author": "Javier Arroyo",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=9246f244dbc037c45129a851ca9619a8"
  },
  {
   "date": "2019-03-01T12:13:54.000Z",
@@ -12581,6 +13357,14 @@
   "title": "Video: Community Live Stream - 2019-02-22",
   "author": "Chuck Tomasi",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=db3a6a91dbfb63c023f4a345ca961918"
+ },
+ {
+  "date": "2019-02-22T01:24:46.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Readability with a small \"clone\" utility as example",
+  "author": "Javier Arroyo",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=44179495db3f6f80fece0b55ca961974"
  },
  {
   "date": "2019-02-21T21:04:41.001Z",
@@ -14655,6 +15439,14 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=36d19294db71a300f21f5583ca961969"
  },
  {
+  "date": "2018-11-10T20:25:04.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Configurable Notifications - Delegating Email Content",
+  "author": "Javier Arroyo",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=99b6fcc0db752300d6a102d5ca961952"
+ },
+ {
   "date": "2018-11-09T20:11:07.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -14685,6 +15477,14 @@
   "title": "Constantly on the go? We can help",
   "link": "https://pathwayscg.com/constantly-on-the-go-we-can-help/",
   "author": " - "
+ },
+ {
+  "date": "2018-11-07T17:47:35.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Code Sample: A bit of \"Pagination\"",
+  "author": "Javier Arroyo",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=1de5b047db2daf0011762183ca961965"
  },
  {
   "date": "2018-11-07T13:30:21.000Z",
@@ -16303,6 +17103,14 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=47d90c5edb1cef448e7c2926ca96190e"
  },
  {
+  "date": "2018-09-03T17:52:10.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Bootstrapping Business Rules",
+  "author": "Javier Arroyo",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=7a970ecadb50af448e7c2926ca9619e8"
+ },
+ {
   "date": "2018-09-03T13:07:01.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -16927,6 +17735,14 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=4ea77fe6db7f9f04e0e80b55ca96191b"
  },
  {
+  "date": "2018-08-10T22:14:44.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Strategy for removing Hard-Coded State Values",
+  "author": "Javier Arroyo",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=7a8d13d2dbb3d7000be6a345ca961959"
+ },
+ {
   "date": "2018-08-10T18:10:50.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -17175,6 +17991,14 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=97576540db775340feb1a851ca961935"
  },
  {
+  "date": "2018-08-02T22:39:21.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Data Dictionary Strategies",
+  "author": "Javier Arroyo",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=ed765233dbe71f002be0a851ca961986"
+ },
+ {
   "date": "2018-08-02T03:56:38.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -17199,12 +18023,28 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=8d632c6fdb6f1f84b2102926ca96195c"
  },
  {
+  "date": "2018-08-01T12:40:10.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Code Philosophy -  Through Code Samples",
+  "author": "Javier Arroyo",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=7eb34b9bdb2b5f848e7c2926ca96194d"
+ },
+ {
   "date": "2018-08-01T11:23:01.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
   "title": "ServiceNow SLA reporting. Useful or not?",
   "author": "Pavel Rodin",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=6412b693dbe393005ed4a851ca9619e0"
+ },
+ {
+  "date": "2018-08-01T10:48:03.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Design Patterns for IF Statements",
+  "author": "Javier Arroyo",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=581aa6d7dba393002be0a851ca9619a1"
  },
  {
   "date": "2018-08-01T00:00:00.001Z",
@@ -17229,6 +18069,14 @@
   "title": "Six Tips for Useful URLs in Your Knowledge Base Articles",
   "author": "janiceg",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=f894634bdbe79384feb1a851ca96191b"
+ },
+ {
+  "date": "2018-07-31T12:11:29.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Introducing Design Patterns to Coding Practices",
+  "author": "Javier Arroyo",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=fc933107db63d3c42be0a851ca9619c1"
  },
  {
   "date": "2018-07-31T08:28:34.000Z",
@@ -19965,6 +20813,14 @@
   "title": "Proactively Manage Configuration Issues with Analytics Diagnostics",
   "author": "Adam Stout",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=f7396625db68dbc00e3dfb651f961903"
+ },
+ {
+  "date": "2018-02-27T18:15:33.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Allow Execution Context to Pick up \"current\" record without explicitly passing it as a Class, or Func parameter",
+  "author": "Javier Arroyo",
+  "link": "https://community.servicenow.com/community?id=community_article&sys_id=10120aa1dbe893c04837f3231f961975"
  },
  {
   "date": "2018-02-27T15:26:08.000Z",

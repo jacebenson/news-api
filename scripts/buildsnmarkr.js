@@ -1,5 +1,6 @@
 module.exports = {
-    build: function (callback) {
+    build: function (callbackFinal) {
+
         var http = require("https");
         var fs = require("fs");
         var outputArr = [];
@@ -13,7 +14,6 @@ module.exports = {
             var options = {
                 method: "GET",
                 hostname: "community.servicenow.com",
-                //5c101a25db581fc09c9ffb651f961978
                 path: "/api/sn_communities/v1/community/contents?last=" + end + "&stFrom=" + start + "&before=" + new Date().toISOString() + "&forum=&type=5eaa334a5f10030069c587dc3f73130b&user=e5cf8aeddb181fc09c9ffb651f961930&state=all&filters=undefined",
                 headers: {
                     "Accept": "*/*",
@@ -39,7 +39,7 @@ module.exports = {
                     //console.log(body.toString());
                     var responseObj = JSON.parse(body);
 
-                    console.log((start, '/', responseObj.result.nextRecord), 'ServiceNow Community')
+                    console.log(responseObj.result.nextRecord, 'ServiceNow Community - Mark R')
                     responseObj.result.contents.forEach(function (post) {
                         var dateObj = new Date(post.published_date);
                         outputArr.push({
@@ -57,6 +57,7 @@ module.exports = {
                             console.log('outputArr.length', outputArr.length)
                         });
                     } else {
+
                         fs.readFile(feedPath, (err, data) => {
                             if (err) {
                                 throw err;
@@ -85,6 +86,7 @@ module.exports = {
                                 return unique;
                             })();
                             fs.writeFileSync(feedPath, JSON.stringify(uniqueArray, '', ' '));
+                            callbackFinal();
                         });
                     }
                 });
@@ -94,3 +96,4 @@ module.exports = {
         getNowBlogs(null, null);
     }
 }
+

@@ -39,7 +39,7 @@ module.exports = {
                     //console.log(body.toString());
                     var responseObj = JSON.parse(body);
 
-                    console.log((start, '/', responseObj.result.nextRecord), 'ServiceNow Community')
+                    console.log(responseObj.result.nextRecord, 'ServiceNow Community - Javiera')
                     responseObj.result.contents.forEach(function (post) {
                         var dateObj = new Date(post.published_date);
                         outputArr.push({

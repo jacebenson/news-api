@@ -14,15 +14,17 @@ var markr = require('./buildsnmarkr');
 
     rssFeeds.build(function(){
         console.log('rss feeds built');
-        communityBlogs.build(function(){
-            console.log('community blogs built');
+        
             javiera.build(function(){
                 console.log('getting javiera\'s posts');
                 markr.build(function(){
                     console.log('getting markr\'s posts');
+                    communityBlogs.build(function(){
+                        console.log('community blogs built');
+                    })
                 })
             })
-        })
+        
     });
 module.exports = {
     
