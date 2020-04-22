@@ -1,5 +1,13 @@
 [
  {
+  "date": "2020-04-22T18:27:51.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "CreatorCon Hackathon Prizes",
+  "author": "Brad Tilton",
+  "link": "https://community.servicenow.com/community?id=community_blog&sys_id=d2eca456dbdcdc102be0a851ca961948"
+ },
+ {
   "date": "2020-04-20T20:32:28.001Z",
   "site": "PhilGoesDeep",
   "category": "YouTube",
@@ -112,6 +120,14 @@
   "link": "https://community.servicenow.com/community?id=community_article&sys_id=9d6b8b991bd4dcdcd01143f6fe4bcbb6"
  },
  {
+  "title": "#ServiceNow Architecture - Solving Better Problems",
+  "author": "Robert Fedoruk",
+  "category": "YouTube",
+  "date": "2020-04-19T23:59:59.999Z",
+  "link": "https://www.youtube.com/watch?v=v2vt5WlTcac",
+  "site": "Robert, The Duke, Fedoruk"
+ },
+ {
   "date": "2020-04-19T23:05:58.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -142,14 +158,6 @@
   "title": "Delete Custom table created in installed Scoped System Application",
   "author": "Ankur Bawiskar",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=367b2585db94d4101cd8a345ca9619f5"
- },
- {
-  "date": "2020-04-18T19:30:12.001Z",
-  "site": "Robert, The Duke, Fedoruk",
-  "category": "YouTube",
-  "title": "#ServiceNow Architecture - Solving Better Problems",
-  "link": "https://www.youtube.com/watch?v=v2vt5WlTcac",
-  "author": "Robert Fedoruk"
  },
  {
   "date": "2020-04-18T09:47:02.001Z",
@@ -776,12 +784,12 @@
   "link": "https://community.servicenow.com/community?id=community_article&sys_id=9d7cf274db081898190dfb243996197c"
  },
  {
-  "date": "2020-04-05T23:39:06.001Z",
-  "site": "Robert, The Duke, Fedoruk",
-  "category": "YouTube",
   "title": "Titans of #ServiceNow - ChuckTomasi",
+  "author": "Robert Fedoruk",
+  "category": "YouTube",
+  "date": "2020-04-05T23:59:59.999Z",
   "link": "https://www.youtube.com/watch?v=6xcb7a089K8",
-  "author": "Robert Fedoruk"
+  "site": "Robert, The Duke, Fedoruk"
  },
  {
   "date": "2020-04-05T14:27:21.000Z",
@@ -808,20 +816,20 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=28165260db8098d823f4a345ca9619e2"
  },
  {
+  "title": "Everyday Xplore - Fast Table Exploration",
+  "author": "Robert Fedoruk",
+  "category": "YouTube",
+  "date": "2020-04-04T23:59:59.999Z",
+  "link": "https://www.youtube.com/watch?v=eYEFHZEOwgI",
+  "site": "Robert, The Duke, Fedoruk"
+ },
+ {
   "date": "2020-04-04T18:32:57.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
   "title": "Code Architecture: Decreasing bugs by decreasing code surface",
   "author": "Javier Arroyo",
   "link": "https://community.servicenow.com/community?id=community_article&sys_id=6d714ca4db4058d823f4a345ca961956"
- },
- {
-  "date": "2020-04-04T16:49:41.001Z",
-  "site": "Robert, The Duke, Fedoruk",
-  "category": "YouTube",
-  "title": "Everyday Xplore - Fast Table Exploration",
-  "link": "https://www.youtube.com/watch?v=eYEFHZEOwgI",
-  "author": "Robert Fedoruk"
  },
  {
   "date": "2020-04-04T15:49:36.000Z",
@@ -2200,12 +2208,12 @@
   "author": "Lord Ryan Gillespie"
  },
  {
-  "date": "2020-03-15T16:54:13.001Z",
-  "site": "Robert, The Duke, Fedoruk",
-  "category": "YouTube",
   "title": "#ServiceNow One Minute M'Orlando - Logpoints",
+  "author": "Robert Fedoruk",
+  "category": "YouTube",
+  "date": "2020-03-15T23:59:59.999Z",
   "link": "https://www.youtube.com/watch?v=GpJou1V5l4E",
-  "author": "Robert Fedoruk"
+  "site": "Robert, The Duke, Fedoruk"
  },
  {
   "date": "2020-03-15T02:43:39.001Z",
@@ -2568,12 +2576,12 @@
   "author": "Robert Fedoruk"
  },
  {
-  "date": "2020-03-06T14:53:06.001Z",
-  "site": "Robert, The Duke, Fedoruk",
-  "category": "YouTube",
   "title": "#ServiceNow One Minute M'Orlando - Project Import Custom Fields",
+  "author": "Robert Fedoruk",
+  "category": "YouTube",
+  "date": "2020-03-06T23:59:59.999Z",
   "link": "https://www.youtube.com/watch?v=VQ616DkJkCM",
-  "author": "Robert Fedoruk"
+  "site": "Robert, The Duke, Fedoruk"
  },
  {
   "date": "2020-03-06T13:51:51.000Z",
@@ -2816,12 +2824,12 @@
   "author": "Andrew Pishchulin"
  },
  {
-  "date": "2020-03-01T15:09:28.001Z",
-  "site": "Robert, The Duke, Fedoruk",
-  "category": "YouTube",
   "title": "#ServiceNow One Minute M'Orlando - RIDAC Transitions",
+  "author": "Robert Fedoruk",
+  "category": "YouTube",
+  "date": "2020-03-01T23:59:59.999Z",
   "link": "https://www.youtube.com/watch?v=I7O3OrAHKLA",
-  "author": "Robert Fedoruk"
+  "site": "Robert, The Duke, Fedoruk"
  },
  {
   "date": "2020-03-01T06:35:40.000Z",
@@ -4464,12 +4472,12 @@
   "link": "https://community.servicenow.com/community?id=community_article&sys_id=bfa107c81ba20050d01143f6fe4bcb39"
  },
  {
-  "date": "2020-01-18T22:31:29.001Z",
-  "site": "Robert, The Duke, Fedoruk",
-  "category": "YouTube",
   "title": "Titans of #ServiceNow - Mike Lombardo!!!",
+  "author": "Robert Fedoruk",
+  "category": "YouTube",
+  "date": "2020-01-18T23:59:59.999Z",
   "link": "https://www.youtube.com/watch?v=1-tOEk8GmO0",
-  "author": "Robert Fedoruk"
+  "site": "Robert, The Duke, Fedoruk"
  },
  {
   "date": "2020-01-17T22:43:59.001Z",
@@ -4560,6 +4568,14 @@
   "link": "https://community.servicenow.com/community?id=community_article&sys_id=1ce3cd66db9e88101cd8a345ca961932"
  },
  {
+  "title": "Titans of #ServiceNow - Sarah Weeks",
+  "author": "Robert Fedoruk",
+  "category": "YouTube",
+  "date": "2020-01-14T23:59:59.999Z",
+  "link": "https://www.youtube.com/watch?v=QSs3a9AVAUk",
+  "site": "Robert, The Duke, Fedoruk"
+ },
+ {
   "date": "2020-01-14T21:03:24.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -4584,12 +4600,164 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=e92cd2d61bd6c810fff162c4bd4bcbf4"
  },
  {
-  "date": "2020-01-14T14:26:33.001Z",
-  "site": "Robert, The Duke, Fedoruk",
+  "title": "Titans of #ServiceNow - Jeff Nicoll",
+  "author": "Robert Fedoruk",
   "category": "YouTube",
-  "title": "Titans of #ServiceNow - Sarah Weeks",
-  "link": "https://www.youtube.com/watch?v=QSs3a9AVAUk",
-  "author": "Robert Fedoruk"
+  "date": "2020-01-13T23:59:59.999Z",
+  "link": "https://www.youtube.com/watch?v=GwWVu3EgD_k&t=964s",
+  "site": "Robert, The Duke, Fedoruk"
+ },
+ {
+  "title": "ShowXML - The #ServiceNow Admin's XRay Specs!",
+  "author": "Robert Fedoruk",
+  "category": "YouTube",
+  "date": "",
+  "link": "https://www.youtube.com/watch?v=MrY8koqOouQ&t=4s",
+  "site": "Robert, The Duke, Fedoruk"
+ },
+ {
+  "date": "2020-04-22T19:44:55.001Z",
+  "site": "pathwayscg.com",
+  "category": "Blog",
+  "title": "ServiceNow application spotlight: Visual Task Boards",
+  "link": "https://pathwayscg.com/servicenow-application-spotlight-visual-task-boards/",
+  "author": "Kaitlyn Giovinazzo"
+ },
+ {
+  "date": "2020-04-22T19:09:43.001Z",
+  "site": "PhilGoesDeep",
+  "category": "YouTube",
+  "title": "ServiceNow Community Service 20200422",
+  "link": "https://www.youtube.com/watch?v=v2opGvVAmdE",
+  "author": "Phil Swann"
+ },
+ {
+  "date": "2020-04-22T17:25:41.001Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "Knowledge is Going Digital: Thought Leadership",
+  "link": "https://omny.fm/shows/servicenow-cloudcast/knowledge-is-going-digital-thought-leadership",
+  "author": "Miscellaneous."
+ },
+ {
+  "date": "2020-04-22T17:08:54.001Z",
+  "site": "serviceportal.io",
+  "category": "Blog",
+  "title": "Let’s Meet at Knowledge 2020!",
+  "link": "https://serviceportal.io/lets-meet-knowledge-2020/",
+  "author": "Nathan Firth"
+ },
+ {
+  "date": "2020-04-22T15:00:00.001Z",
+  "site": "developer.servicenow.com/blog.do",
+  "category": "Blog",
+  "title": "CreatorCon Hackathon Prizes",
+  "link": "https://developer.servicenow.com/blog.do?p=/post/creatorcon-hackathon-prizes/",
+  "author": "Andrew Barnes, and Brad Tilton"
+ },
+ {
+  "date": "2020-04-22T13:38:23.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "What does the 'new normal' look like in education?",
+  "author": "Sarah Struble",
+  "link": "https://community.servicenow.com/community?id=community_blog&sys_id=0eaae3cedb90dc10d82ffb24399619a5"
+ },
+ {
+  "date": "2020-04-22T11:57:04.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Security Top Tips Part 7:  Pest control – Software patching and updates",
+  "author": "ashok-sn",
+  "link": "https://community.servicenow.com/community?id=community_blog&sys_id=4273df86db5490d013b5fb2439961980"
+ },
+ {
+  "date": "2020-04-22T05:30:03.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Emergency Response Apps: Jetzt auch in deutscher Sprache verfügbar!",
+  "author": "ralf.schnell",
+  "link": "https://community.servicenow.com/community?id=community_blog&sys_id=6ceaf186db1c9010190dfb2439961912"
+ },
+ {
+  "date": "2020-04-21T22:22:22.001Z",
+  "site": "ServiceNow Community",
+  "category": "YouTube",
+  "title": "Virtual Agent Academy 2020 04 21 Work-From-Home Starter Pack",
+  "link": "https://www.youtube.com/watch?v=W-iit5zQ22Y",
+  "author": "Miscellaneous"
+ },
+ {
+  "date": "2020-04-21T20:59:21.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "New ServiceNow Upgrade Frequently Asked Questions (FAQ): Now Available",
+  "author": "Victoria Del Mundo",
+  "link": "https://community.servicenow.com/community?id=community_blog&sys_id=3bf5c80e1b1454d0fff162c4bd4bcbfe"
+ },
+ {
+  "date": "2020-04-21T18:24:08.001Z",
+  "site": "workflow.servicenow.com",
+  "category": "Newsletter",
+  "title": "A practical guide to digital risk",
+  "link": "https://workflow.servicenow.com/security-risk/understanding-digital-risk-management/",
+  "author": "Miscellaneous"
+ },
+ {
+  "date": "2020-04-21T18:20:55.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Effectively Manage Your Remote Team- LIVE Webinar April 28th, 11am PT",
+  "author": "kellykillingsworth",
+  "link": "https://community.servicenow.com/community?id=community_blog&sys_id=0bb167b1db981c906064eeb5ca9619b3"
+ },
+ {
+  "date": "2020-04-21T15:23:48.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Get a Peek at the Knowledge 2020 GRC Sessions",
+  "author": "teresalaw",
+  "link": "https://community.servicenow.com/community?id=community_blog&sys_id=ac39f6fddb545810d82ffb24399619da"
+ },
+ {
+  "date": "2020-04-21T13:36:13.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Now Learning Blog – Curious about App Engine?",
+  "author": "Julie",
+  "link": "https://community.servicenow.com/community?id=community_blog&sys_id=2890ea71db14d45023f4a345ca9619c0"
+ },
+ {
+  "date": "2020-04-21T12:56:38.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Now Learning Blog - Curious about App Engine?",
+  "author": "Julie",
+  "link": "https://community.servicenow.com/community?id=community_blog&sys_id=fc8756b5db98945023f4a345ca9619cf"
+ },
+ {
+  "date": "2020-04-21T12:51:19.001Z",
+  "site": "medium.com/@pishchulin",
+  "category": "Blog",
+  "title": "I’ve heard from multiple people that eventually it will be available for building stand-alone…",
+  "link": "https://medium.com/@pishchulin/ive-heard-from-multiple-people-that-eventually-it-will-be-available-for-building-stand-alone-745300c76cbb?source=rss-4b2609af2935------2",
+  "author": "Andrew Pishchulin"
+ },
+ {
+  "date": "2020-04-20T21:48:00.001Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "Knowledge is Going Digital: Breakout Sessions and Labs",
+  "link": "https://omny.fm/shows/servicenow-cloudcast/knowledge-is-going-digital-breakout-sessions-and-l",
+  "author": "Miscellaneous."
+ },
+ {
+  "date": "2020-04-19T18:37:35.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Orchestration Part Four: How to execute PowerShell Script stored on Remote Server Using MID Server",
+  "author": "Ashutosh Munot",
+  "link": "https://community.servicenow.com/community?id=community_blog&sys_id=27521d19db1c549c5129a851ca9619fa"
  },
  {
   "date": "2020-01-13T22:49:14.000Z",
@@ -5134,6 +5302,14 @@
   "title": "Titans of #ServiceNow - Hichem Guemiri",
   "link": "https://www.youtube.com/watch?v=rQyaOEd1M-8",
   "author": "Robert Fedoruk"
+ },
+ {
+  "title": "Titans of #ServiceNow - Hichem Guemiri",
+  "author": "Robert Fedoruk",
+  "category": "YouTube",
+  "date": "2019-12-19T23:59:59.999Z",
+  "link": "https://www.youtube.com/watch?v=rQyaOEd1M-8&t=16s",
+  "site": "Robert, The Duke, Fedoruk"
  },
  {
   "date": "2019-12-19T22:49:01.000Z",
@@ -6080,6 +6256,14 @@
   "author": "Mike Kaufman"
  },
  {
+  "title": "Titans of #ServiceNow - Tim Woodruff",
+  "author": "Robert Fedoruk",
+  "category": "YouTube",
+  "date": "2019-11-15T23:59:59.999Z",
+  "link": "https://www.youtube.com/watch?v=ewd-Bb_7t9g",
+  "site": "Robert, The Duke, Fedoruk"
+ },
+ {
   "date": "2019-11-15T18:53:29.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -6094,14 +6278,6 @@
   "title": "Attaching an Excel attachment via email in ServiceNow",
   "link": "https://pathwayscg.com/attaching-an-excel-attachment-via-email-in-servicenow/",
   "author": " - "
- },
- {
-  "date": "2019-11-15T13:57:33.001Z",
-  "site": "Robert, The Duke, Fedoruk",
-  "category": "YouTube",
-  "title": "Titans of #ServiceNow - Tim Woodruff",
-  "link": "https://www.youtube.com/watch?v=ewd-Bb_7t9g",
-  "author": "Robert Fedoruk"
  },
  {
   "date": "2019-11-14T18:20:34.000Z",
@@ -6302,6 +6478,14 @@
   "title": "Query Business Rules: A Definitive Guide",
   "author": "Paul Morris",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=240af05ddb010cd44819fb24399619ca"
+ },
+ {
+  "title": "Titans of #ServiceNow - Nathan Firth",
+  "author": "Robert Fedoruk",
+  "category": "YouTube",
+  "date": "2019-11-09T23:59:59.999Z",
+  "link": "https://www.youtube.com/watch?v=6HSt4E5TTWM",
+  "site": "Robert, The Duke, Fedoruk"
  },
  {
   "date": "2019-11-08T16:24:07.000Z",
@@ -6662,6 +6846,14 @@
   "title": "ServiceNow DevOps Podcast Episode 3 – Jessica Constantinidis",
   "author": "ericledyard",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=bb509fbbdbacc450190dfb2439961933"
+ },
+ {
+  "title": "Titans of #ServiceNow - Travis Toulson",
+  "author": "Robert Fedoruk",
+  "category": "YouTube",
+  "date": "2019-10-23T23:59:59.999Z",
+  "link": "https://www.youtube.com/watch?v=SdGvjU0UP4g",
+  "site": "Robert, The Duke, Fedoruk"
  },
  {
   "date": "2019-10-23T21:37:12.000Z",
@@ -7079,12 +7271,28 @@
   "author": "— "
  },
  {
+  "title": "The Power of #ServiceNow System Events - Part 2 - gs.eventQueueScheduled",
+  "author": "Robert Fedoruk",
+  "category": "YouTube",
+  "date": "2019-10-13T23:59:59.999Z",
+  "link": "https://www.youtube.com/watch?v=u38C-qNZcTQ",
+  "site": "Robert, The Duke, Fedoruk"
+ },
+ {
   "date": "2019-10-13T20:28:28.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
   "title": "Customer service: it's not just a department",
   "author": "paulselby",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=4d47d4a8db24c854feb1a851ca961952"
+ },
+ {
+  "title": "Titans of #ServiceNow - Jared Laethem",
+  "author": "Robert Fedoruk",
+  "category": "YouTube",
+  "date": "2019-10-11T23:59:59.999Z",
+  "link": "https://www.youtube.com/watch?v=iyuZuHPuFyI&t=5s",
+  "site": "Robert, The Duke, Fedoruk"
  },
  {
   "date": "2019-10-11T22:21:18.000Z",
@@ -7117,6 +7325,14 @@
   "title": "2019年PEAK Tokyo イベント紹介",
   "author": "ギター君",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=d91287ebdbd4c814f7fca851ca96198e"
+ },
+ {
+  "title": "The Power of #ServiceNow System Events",
+  "author": "Robert Fedoruk",
+  "category": "YouTube",
+  "date": "2019-10-10T23:59:59.999Z",
+  "link": "https://www.youtube.com/watch?v=1NqyqckDrPs",
+  "site": "Robert, The Duke, Fedoruk"
  },
  {
   "date": "2019-10-10T23:00:00.001Z",
@@ -7429,6 +7645,14 @@
   "title": "Presentasjoner fra SNUG September 2019",
   "author": "mgudmundsen",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=77876df8dbd80854fff8a345ca96196c"
+ },
+ {
+  "title": "Work BLAZING FAST on ServiceNow",
+  "author": "Robert Fedoruk",
+  "category": "YouTube",
+  "date": "2019-10-01T23:59:59.999Z",
+  "link": "https://www.youtube.com/watch?v=UvwA4_9ajX8",
+  "site": "Robert, The Duke, Fedoruk"
  },
  {
   "date": "2019-10-01T18:42:12.001Z",
@@ -7783,6 +8007,14 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=2f2678dedb84cc94414eeeb5ca96194b"
  },
  {
+  "title": "The Most DANGEROUS Risk to EVERY ServiceNow Implementation",
+  "author": "Robert Fedoruk",
+  "category": "YouTube",
+  "date": "2019-09-23T23:59:59.999Z",
+  "link": "https://www.youtube.com/watch?v=wvUPn6c-Hj8",
+  "site": "Robert, The Duke, Fedoruk"
+ },
+ {
   "date": "2019-09-23T21:23:53.001Z",
   "site": "Pathway",
   "category": "Blog",
@@ -7837,6 +8069,14 @@
   "title": "Approval Summarizer for Group Approvals",
   "author": "Ankur Bawiskar",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=fbd102d9db0c881414d6fb24399619aa"
+ },
+ {
+  "title": "What this #ServiceNow channel is about",
+  "author": "Robert Fedoruk",
+  "category": "YouTube",
+  "date": "2019-09-20T23:59:59.999Z",
+  "link": "https://www.youtube.com/watch?v=rbR5auS45is&t=36s",
+  "site": "Robert, The Duke, Fedoruk"
  },
  {
   "date": "2019-09-20T16:14:54.001Z",
@@ -7909,6 +8149,22 @@
   "title": "Det nærmer seg SNUG",
   "author": "mgudmundsen",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=e526d33fdb77f340d82ffb24399619f6"
+ },
+ {
+  "title": "#ServiceNow New York Minute - VTB Lane Limits",
+  "author": "Robert Fedoruk",
+  "category": "YouTube",
+  "date": "2019-09-16T23:59:59.999Z",
+  "link": "https://www.youtube.com/watch?v=mXDuQ7T3x6A",
+  "site": "Robert, The Duke, Fedoruk"
+ },
+ {
+  "title": "#ServiceNow New York Minute - VTB Swimlanes",
+  "author": "Robert Fedoruk",
+  "category": "YouTube",
+  "date": "2019-09-16T23:59:59.999Z",
+  "link": "https://www.youtube.com/watch?v=_43cX9-RM9c",
+  "site": "Robert, The Duke, Fedoruk"
  },
  {
   "date": "2019-09-16T20:29:31.001Z",
@@ -8005,6 +8261,14 @@
   "title": "Recordless Rest Is Great",
   "link": "https://jace.pro/post/2019-09-14-recordless-rest-is-great/",
   "author": "Jace Benson"
+ },
+ {
+  "title": "Titans of #ServiceNow - Jace Benson",
+  "author": "Robert Fedoruk",
+  "category": "YouTube",
+  "date": "2019-09-13T23:59:59.999Z",
+  "link": "https://www.youtube.com/watch?v=wyVLCxOtZl8&t=656s",
+  "site": "Robert, The Duke, Fedoruk"
  },
  {
   "date": "2019-09-13T18:34:38.001Z",
@@ -8231,6 +8495,14 @@
   "author": "Jace Benson"
  },
  {
+  "title": "#ServiceNow New York Minute - MultiSelect Breakdowns",
+  "author": "Robert Fedoruk",
+  "category": "YouTube",
+  "date": "2019-09-06T23:59:59.999Z",
+  "link": "https://www.youtube.com/watch?v=xUrv0I8x5Ek",
+  "site": "Robert, The Duke, Fedoruk"
+ },
+ {
   "date": "2019-09-06T18:37:17.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -8277,6 +8549,14 @@
   "title": "Visual Task Board unlimited labels [New York]",
   "author": "Mark Roethof",
   "link": "https://community.servicenow.com/community?id=community_article&sys_id=3a323a581b7fb348d01143f6fe4bcb70"
+ },
+ {
+  "title": "#ServiceNow New York Minute - Related Items & Articles",
+  "author": "Robert Fedoruk",
+  "category": "YouTube",
+  "date": "2019-09-05T23:59:59.999Z",
+  "link": "https://www.youtube.com/watch?v=Zgr3tHt9WzM",
+  "site": "Robert, The Duke, Fedoruk"
  },
  {
   "date": "2019-09-05T23:41:33.000Z",
@@ -8615,6 +8895,14 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=08d34055dbafffc013b5fb24399619a5"
  },
  {
+  "title": "#ServiceNow New York Minute - Instance Data Replication",
+  "author": "Robert Fedoruk",
+  "category": "YouTube",
+  "date": "2019-08-26T23:59:59.999Z",
+  "link": "https://www.youtube.com/watch?v=89tHih-8B9Y",
+  "site": "Robert, The Duke, Fedoruk"
+ },
+ {
   "date": "2019-08-26T23:35:06.001Z",
   "site": "ServiceNow Elite",
   "category": "Blog",
@@ -8677,6 +8965,14 @@
   "title": "Approve/Reject button in Approval notification",
   "author": "Jaspal Singh",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=8080e8dc1babb380d01143f6fe4bcb0e"
+ },
+ {
+  "title": "#ServiceNow New York Minute - Script Detective",
+  "author": "Robert Fedoruk",
+  "category": "YouTube",
+  "date": "2019-08-23T23:59:59.999Z",
+  "link": "https://www.youtube.com/watch?v=O7Ql5k62sNc",
+  "site": "Robert, The Duke, Fedoruk"
  },
  {
   "date": "2019-08-23T15:07:40.000Z",
@@ -8749,6 +9045,22 @@
   "title": "NEW North Florida SNUG Chapter!",
   "author": "Christin Rhodes",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=d2960ee2dbd3b7002be0a851ca9619d5"
+ },
+ {
+  "title": "#ServiceNow New York Minute(s) - Time Card Daily Records",
+  "author": "Robert Fedoruk",
+  "category": "YouTube",
+  "date": "2019-08-17T23:59:59.999Z",
+  "link": "https://www.youtube.com/watch?v=VVxYE13qapk",
+  "site": "Robert, The Duke, Fedoruk"
+ },
+ {
+  "title": "#ServiceNow New York Minute(s) - ITSM Roles",
+  "author": "Robert Fedoruk",
+  "category": "YouTube",
+  "date": "2019-08-16T23:59:59.999Z",
+  "link": "https://www.youtube.com/watch?v=k-wXr_0awH0",
+  "site": "Robert, The Duke, Fedoruk"
  },
  {
   "date": "2019-08-16T16:01:44.001Z",
@@ -9037,6 +9349,14 @@
   "title": "Your customer self-service is failing - here's why",
   "author": "paulselby",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=6c08304edb8fbb885129a851ca9619f7"
+ },
+ {
+  "title": "Build vs Buy on #ServiceNow",
+  "author": "Robert Fedoruk",
+  "category": "YouTube",
+  "date": "2019-08-04T23:59:59.999Z",
+  "link": "https://www.youtube.com/watch?v=bAHbpHo5vi0",
+  "site": "Robert, The Duke, Fedoruk"
  },
  {
   "date": "2019-08-04T21:51:51.001Z",
@@ -9663,6 +9983,14 @@
   "author": "Jace Benson"
  },
  {
+  "title": "Is #ServiceNow Performance Analytics Enough?",
+  "author": "Robert Fedoruk",
+  "category": "YouTube",
+  "date": "2019-07-09T23:59:59.999Z",
+  "link": "https://www.youtube.com/watch?v=nws9zKcBe40&t=66s",
+  "site": "Robert, The Duke, Fedoruk"
+ },
+ {
   "date": "2019-07-09T18:30:29.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -9709,6 +10037,30 @@
   "title": "Combine humans and bots for a winning customer service experience",
   "author": "paulselby",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=b6dddb09db6efbc0e0e80b55ca96190b"
+ },
+ {
+  "title": "#ServiceNow Reporting: Using the Relative Operator",
+  "author": "Robert Fedoruk",
+  "category": "YouTube",
+  "date": "2019-07-07T23:59:59.999Z",
+  "link": "https://www.youtube.com/watch?v=VaFUWcmQ6l4",
+  "site": "Robert, The Duke, Fedoruk"
+ },
+ {
+  "title": "Choice List vs Table: How to Decide",
+  "author": "Robert Fedoruk",
+  "category": "YouTube",
+  "date": "2019-07-06T23:59:59.999Z",
+  "link": "https://www.youtube.com/watch?v=1HwCcxd8gEQ",
+  "site": "Robert, The Duke, Fedoruk"
+ },
+ {
+  "title": "Exploring with Xplore - Ep7 - Regex",
+  "author": "Robert Fedoruk",
+  "category": "YouTube",
+  "date": "2019-07-06T23:59:59.999Z",
+  "link": "https://www.youtube.com/watch?v=HMbPn5LWf2w&t=16s",
+  "site": "Robert, The Duke, Fedoruk"
  },
  {
   "date": "2019-07-05T18:39:06.000Z",
@@ -10287,6 +10639,14 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=4a3061dadb713380a39a0b55ca9619d3"
  },
  {
+  "title": "Exploring with Xplore - Ep6 - User Data with JSON or XML",
+  "author": "Robert Fedoruk",
+  "category": "YouTube",
+  "date": "2019-06-03T23:59:59.999Z",
+  "link": "https://www.youtube.com/watch?v=Wpnw1ssdO-s",
+  "site": "Robert, The Duke, Fedoruk"
+ },
+ {
   "date": "2019-06-03T18:46:30.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -10423,6 +10783,14 @@
   "link": "https://community.servicenow.com/community?id=community_article&sys_id=3cbe2007dbed7b84f7fca851ca9619be"
  },
  {
+  "title": "Exploring with Xplore - Ep5 - User Data",
+  "author": "Robert Fedoruk",
+  "category": "YouTube",
+  "date": "2019-05-24T23:59:59.999Z",
+  "link": "https://www.youtube.com/watch?v=rbFcwVKaIEs",
+  "site": "Robert, The Duke, Fedoruk"
+ },
+ {
   "date": "2019-05-24T19:17:55.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -10485,6 +10853,14 @@
   "title": "Using cyber exposure to objectively measure cyber risk",
   "author": "teresalaw",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=50bee8aadbe1ff04fece0b55ca96197d"
+ },
+ {
+  "title": "#ServiceNow Reporting: Using Trend Condition",
+  "author": "Robert Fedoruk",
+  "category": "YouTube",
+  "date": "2019-05-23T23:59:59.999Z",
+  "link": "https://www.youtube.com/watch?v=_jfwxWCBJwI",
+  "site": "Robert, The Duke, Fedoruk"
  },
  {
   "date": "2019-05-23T15:28:27.000Z",
@@ -10743,6 +11119,14 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=c211aaafdb11bb8cf7fca851ca9619c8"
  },
  {
+  "title": "2018 Women's Day Retrospective",
+  "author": "Robert Fedoruk",
+  "category": "YouTube",
+  "date": "2019-05-14T23:59:59.999Z",
+  "link": "https://www.youtube.com/watch?v=c0ZWvs2tPdc&t=23s",
+  "site": "Robert, The Duke, Fedoruk"
+ },
+ {
   "date": "2019-05-14T18:17:36.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -10805,6 +11189,14 @@
   "title": "How not to do ServiceNow - Maximum confusion",
   "author": "Fabian Kunzke",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=e46a7c4fdb993f0c14d6fb243996199a"
+ },
+ {
+  "title": "ACL Troubleshooting - A Visual Guide",
+  "author": "Robert Fedoruk",
+  "category": "YouTube",
+  "date": "2019-05-11T23:59:59.999Z",
+  "link": "https://www.youtube.com/watch?v=PRl4HxRu120&t=1s",
+  "site": "Robert, The Duke, Fedoruk"
  },
  {
   "date": "2019-05-11T23:59:59.000Z",
@@ -11191,6 +11583,14 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=120f0d3bdb49730ca39a0b55ca9619fb"
  },
  {
+  "title": "Glory & Recognition with the #ServiceNow Success Navigator",
+  "author": "Robert Fedoruk",
+  "category": "YouTube",
+  "date": "2019-05-02T23:59:59.999Z",
+  "link": "https://www.youtube.com/watch?v=utW3854FVGo",
+  "site": "Robert, The Duke, Fedoruk"
+ },
+ {
   "date": "2019-05-02T19:57:43.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -11301,6 +11701,14 @@
   "title": "Changing the Pace of Change: First Global ServiceNow Insight and Vision Report [K19 Speaker Preview]",
   "author": "meghanlockwood",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=49865c93db05b38423f4a345ca961917"
+ },
+ {
+  "title": "Exploring with Xplore - Ep4 - #ServiceNow Logging",
+  "author": "Robert Fedoruk",
+  "category": "YouTube",
+  "date": "2019-04-30T23:59:59.999Z",
+  "link": "https://www.youtube.com/watch?v=JczrKb3Rbzo",
+  "site": "Robert, The Duke, Fedoruk"
  },
  {
   "date": "2019-04-30T18:33:43.001Z",
@@ -11615,6 +12023,14 @@
   "author": "Jace Benson"
  },
  {
+  "title": "How to win a #ServiceNow Hackathon",
+  "author": "Robert Fedoruk",
+  "category": "YouTube",
+  "date": "2019-04-21T23:59:59.999Z",
+  "link": "https://www.youtube.com/watch?v=ctzX-ANG_Sk&t=4s",
+  "site": "Robert, The Duke, Fedoruk"
+ },
+ {
   "date": "2019-04-21T20:53:27.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -11781,6 +12197,14 @@
   "title": "Content Scheduler Update",
   "author": "Jennifer Chapin",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=f8a8c4a7dbb8b7c8190dfb24399619b0"
+ },
+ {
+  "title": "#ServiceNow Reporting: Related Record Conditions",
+  "author": "Robert Fedoruk",
+  "category": "YouTube",
+  "date": "2019-04-18T23:59:59.999Z",
+  "link": "https://www.youtube.com/watch?v=gkzKzSXbwk0",
+  "site": "Robert, The Duke, Fedoruk"
  },
  {
   "date": "2019-04-18T15:41:51.001Z",
@@ -12031,6 +12455,14 @@
   "author": "Harshad Chawra"
  },
  {
+  "title": "Exploring with Xplore - Ep3 - Table Hierarchies",
+  "author": "Robert Fedoruk",
+  "category": "YouTube",
+  "date": "2019-04-08T23:59:59.999Z",
+  "link": "https://www.youtube.com/watch?v=pyc-QN4B6bY",
+  "site": "Robert, The Duke, Fedoruk"
+ },
+ {
   "date": "2019-04-08T21:18:46.001Z",
   "site": "ServiceNow TechBytes Podcast",
   "category": "Podcast",
@@ -12093,6 +12525,14 @@
   "title": "Schedule multiple reports on single email in ServiceNow",
   "link": "https://www.youtube.com/watch?v=AHFBO9a9eCo",
   "author": "Harshad Chawra"
+ },
+ {
+  "title": "Exploring with Xplore - Ep?? - Installation & Upgrade",
+  "author": "Robert Fedoruk",
+  "category": "YouTube",
+  "date": "2019-04-06T23:59:59.999Z",
+  "link": "https://www.youtube.com/watch?v=hK6vbg5fepo",
+  "site": "Robert, The Duke, Fedoruk"
  },
  {
   "date": "2019-04-06T19:18:20.001Z",
@@ -12327,6 +12767,14 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=438544ccdba0b78823f4a345ca9619eb"
  },
  {
+  "title": "Exploring UI16 Dev Patch by Whitespace Studios",
+  "author": "Robert Fedoruk",
+  "category": "YouTube",
+  "date": "2019-03-26T23:59:59.999Z",
+  "link": "https://www.youtube.com/watch?v=qT48hgnWGpg",
+  "site": "Robert, The Duke, Fedoruk"
+ },
+ {
   "date": "2019-03-26T21:41:35.001Z",
   "site": "ServiceNow TechBytes Podcast",
   "category": "Podcast",
@@ -12463,6 +12911,14 @@
   "link": "https://community.servicenow.com/community?id=community_article&sys_id=8bbd6a92dbd8ffc42be0a851ca9619c0"
  },
  {
+  "title": "Exploring with Xplore - Ep2 - Business Rule Simulation",
+  "author": "Robert Fedoruk",
+  "category": "YouTube",
+  "date": "2019-03-21T23:59:59.999Z",
+  "link": "https://www.youtube.com/watch?v=ZgiilGfg7DE&t=3s",
+  "site": "Robert, The Duke, Fedoruk"
+ },
+ {
   "date": "2019-03-21T17:46:20.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -12525,6 +12981,14 @@
   "title": "Apresentação 9.o SNUG - Release Madrid ITSM",
   "author": "ccook",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=01dc5106dbd8b7c8a39a0b55ca96191a"
+ },
+ {
+  "title": "Exploring with Xplore - Ep1 - The Basics",
+  "author": "Robert Fedoruk",
+  "category": "YouTube",
+  "date": "2019-03-20T23:59:59.999Z",
+  "link": "https://www.youtube.com/watch?v=uPqMTq5FVFg&t=101s",
+  "site": "Robert, The Duke, Fedoruk"
  },
  {
   "date": "2019-03-20T20:46:18.001Z",
@@ -13165,6 +13629,22 @@
   "title": "Video: Community Live Stream - 2019-02-26",
   "author": "Chuck Tomasi",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=17d19beadbf7af0423f4a345ca961913"
+ },
+ {
+  "title": "ServiceNow ITBM Scenario - What happens when unallocated time is entered",
+  "author": "Robert Fedoruk",
+  "category": "YouTube",
+  "date": "2019-02-25T23:59:59.999Z",
+  "link": "https://www.youtube.com/watch?v=dUPLctnUL9U",
+  "site": "Robert, The Duke, Fedoruk"
+ },
+ {
+  "title": "ServiceNow ITBM - London upgrades to Resource Interfaces",
+  "author": "Robert Fedoruk",
+  "category": "YouTube",
+  "date": "2019-02-25T23:59:59.998Z",
+  "link": "https://www.youtube.com/watch?v=ivJ7TSCfgtM",
+  "site": "Robert, The Duke, Fedoruk"
  },
  {
   "date": "2019-02-25T21:46:01.000Z",
