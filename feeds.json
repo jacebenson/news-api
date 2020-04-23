@@ -1,5 +1,29 @@
 [
  {
+  "date": "2020-04-23T17:25:08.001Z",
+  "site": "ServiceSharp",
+  "category": "Podcast",
+  "title": "2x8 CMDB Part 1",
+  "link": "https://anchor.fm/servicesharp/episodes/2x8-CMDB-Part-1-ed5nrp",
+  "author": "Randy Haas and Jason Gibson"
+ },
+ {
+  "date": "2020-04-23T17:25:08.001Z",
+  "site": "ServiceSharp",
+  "category": "Podcast",
+  "title": "2x8 CMDB Part 1",
+  "link": "https://anchor.fm/s/a71217c/podcast/play/12819769/sponsor/at4tct/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-04-23%2F83ff249cb96620e4f4f1d11d3f458d02.m4a",
+  "author": "Randy Haas and Jason Gibson"
+ },
+ {
+  "date": "2020-04-23T12:41:24.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Video: NOWCommunity Live Stream - Topical Deep Dive - Global apps in Studio",
+  "author": "Chuck Tomasi",
+  "link": "https://community.servicenow.com/community?id=community_blog&sys_id=cd372ceedb9050901cd8a345ca96193a"
+ },
+ {
   "date": "2020-04-22T18:27:51.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -4616,20 +4640,60 @@
   "site": "Robert, The Duke, Fedoruk"
  },
  {
+  "date": "2020-04-23T15:44:06.001Z",
+  "site": "finite-partners.com",
+  "category": "Blog",
+  "title": "Update Incident Auto Close Time in ServiceNow",
+  "link": "https://finite-partners.com/update-incident-auto-close-time-in-servicenow/?utm_source=rss&utm_medium=rss&utm_campaign=update-incident-auto-close-time-in-servicenow",
+  "author": "Garrett Griffin-Morales"
+ },
+ {
+  "date": "2020-04-23T15:41:15.001Z",
+  "site": "finite-partners.com",
+  "category": "Blog",
+  "title": "How to Find your ServiceNow Certification Information",
+  "link": "https://finite-partners.com/how-to-find-your-servicenow-certification-information/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-find-your-servicenow-certification-information",
+  "author": "Garrett Griffin-Morales"
+ },
+ {
+  "date": "2020-04-23T15:00:11.001Z",
+  "site": "ServiceNow Community",
+  "category": "YouTube",
+  "title": "NOWCommunity Live Stream - Topical Deep Dive - Global apps in Studio",
+  "link": "https://www.youtube.com/watch?v=ttBKE8w05cs",
+  "author": "Miscellaneous"
+ },
+ {
+  "date": "2020-04-23T14:00:00.001Z",
+  "site": "Acorio - Candid Podcast",
+  "category": "Podcast",
+  "title": "Growing a Team of ServiceNow Consultants & Lessons Learned",
+  "link": "https://www.buzzsprout.com/457558/3476329-growing-a-team-of-servicenow-consultants-lessons-learned.mp3?blob_id=12719371",
+  "author": "Devon Clarke"
+ },
+ {
+  "date": "2020-04-23T08:38:13.001Z",
+  "site": "PhilGoesDeep",
+  "category": "YouTube",
+  "title": "ServiceNow Community Service 20200422",
+  "link": "https://www.youtube.com/watch?v=v2opGvVAmdE",
+  "author": "Phil Swann"
+ },
+ {
+  "date": "2020-04-22T20:31:37.001Z",
+  "site": "ServiceNow Community",
+  "category": "YouTube",
+  "title": "Performance Analytics Office Hours 2020 04 22 Dynamic Filter Options",
+  "link": "https://www.youtube.com/watch?v=R2ThD0l2apk",
+  "author": "Miscellaneous"
+ },
+ {
   "date": "2020-04-22T19:44:55.001Z",
   "site": "pathwayscg.com",
   "category": "Blog",
   "title": "ServiceNow application spotlight: Visual Task Boards",
   "link": "https://pathwayscg.com/servicenow-application-spotlight-visual-task-boards/",
   "author": "Kaitlyn Giovinazzo"
- },
- {
-  "date": "2020-04-22T19:09:43.001Z",
-  "site": "PhilGoesDeep",
-  "category": "YouTube",
-  "title": "ServiceNow Community Service 20200422",
-  "link": "https://www.youtube.com/watch?v=v2opGvVAmdE",
-  "author": "Phil Swann"
  },
  {
   "date": "2020-04-22T17:25:41.001Z",
@@ -4640,12 +4704,28 @@
   "author": "Miscellaneous."
  },
  {
+  "date": "2020-04-22T17:25:41.001Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "Knowledge is Going Digital: Thought Leadership",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/d7d10000-50e4-42aa-96ae-a84701459fc6/8f5ad62f-04a8-41ad-85cf-aba50124e0fe/audio.mp3?utm_source=Podcast&in_playlist=c27942bc-1e3d-412a-a004-a9fa0168417c&t=1587577600",
+  "author": "Miscellaneous."
+ },
+ {
   "date": "2020-04-22T17:08:54.001Z",
   "site": "serviceportal.io",
   "category": "Blog",
   "title": "Let’s Meet at Knowledge 2020!",
   "link": "https://serviceportal.io/lets-meet-knowledge-2020/",
   "author": "Nathan Firth"
+ },
+ {
+  "date": "2020-04-22T16:00:00.001Z",
+  "site": "finite-partners.com",
+  "category": "Blog",
+  "title": "Preparing for the K20 Hackathon",
+  "link": "https://finite-partners.com/preparing-for-the-k20-hackathon/?utm_source=rss&utm_medium=rss&utm_campaign=preparing-for-the-k20-hackathon",
+  "author": "Garrett Griffin-Morales"
  },
  {
   "date": "2020-04-22T15:00:00.001Z",
@@ -4752,12 +4832,156 @@
   "author": "Miscellaneous."
  },
  {
+  "date": "2020-04-20T21:48:00.001Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "Knowledge is Going Digital: Breakout Sessions and Labs",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/d7d10000-50e4-42aa-96ae-a84701459fc6/4b57a686-af28-4ed5-975b-aba400ec9630/audio.mp3?utm_source=Podcast&in_playlist=c27942bc-1e3d-412a-a004-a9fa0168417c&t=1587478899",
+  "author": "Miscellaneous."
+ },
+ {
   "date": "2020-04-19T18:37:35.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
   "title": "Orchestration Part Four: How to execute PowerShell Script stored on Remote Server Using MID Server",
   "author": "Ashutosh Munot",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=27521d19db1c549c5129a851ca9619fa"
+ },
+ {
+  "date": "2020-04-17T15:36:12.001Z",
+  "site": "ServiceSharp",
+  "category": "Podcast",
+  "title": "2x7 API Integrations",
+  "link": "https://anchor.fm/s/a71217c/podcast/play/12531062/sponsor/at4tct/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-04-17%2F992d9fb11d068b0987eb2d7c39bf083d.m4a",
+  "author": "Randy Haas and Jason Gibson"
+ },
+ {
+  "date": "2020-04-16T13:00:00.001Z",
+  "site": "CJ & The Duke",
+  "category": "Podcast",
+  "title": "Ep005 -  Five Pillars of Deploying Big Solutions, Fast",
+  "link": "https://media.transistor.fm/00481bc7.mp3",
+  "author": "Robert Fedoruk, and Corey Wesley"
+ },
+ {
+  "date": "2020-04-14T01:54:00.001Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "Knowledge is Going Digital: Customer Success",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/d7d10000-50e4-42aa-96ae-a84701459fc6/33f40e59-722c-4cde-ac3a-ab9d00f3c0e3/audio.mp3?utm_source=Podcast&in_playlist=c27942bc-1e3d-412a-a004-a9fa0168417c&t=1586875664",
+  "author": "Miscellaneous."
+ },
+ {
+  "date": "2020-04-08T21:26:00.001Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "Knowledge is Going Digital: What's coming!",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/d7d10000-50e4-42aa-96ae-a84701459fc6/fba43132-af45-4ead-bbb5-ab97016d58fb/audio.mp3?utm_source=Podcast&in_playlist=c27942bc-1e3d-412a-a004-a9fa0168417c&t=1586383830",
+  "author": "Miscellaneous."
+ },
+ {
+  "date": "2020-04-06T17:57:57.001Z",
+  "site": "ServiceSharp",
+  "category": "Podcast",
+  "title": "2X6 Special Guest Avery Williamson",
+  "link": "https://anchor.fm/s/a71217c/podcast/play/12080494/sponsor/at4tct/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-04-06%2F77aaecb7c81072a531b3dfa08c50acdc.m4a",
+  "author": "Randy Haas and Jason Gibson"
+ },
+ {
+  "date": "2020-03-31T19:14:21.001Z",
+  "site": "ServiceSharp",
+  "category": "Podcast",
+  "title": "2x5 working from home",
+  "link": "https://anchor.fm/s/a71217c/podcast/play/11821612/sponsor/at4tct/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-03-31%2F1063d3c449882c9632ba1286030c54d1.m4a",
+  "author": "Randy Haas and Jason Gibson"
+ },
+ {
+  "date": "2020-03-30T09:11:49.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "[New] Now Support (HI) Service Catalog Item - Database Footprint",
+  "author": "Vikas",
+  "link": "https://community.servicenow.com/community?id=community_blog&sys_id=cd11903adbf7485823f4a345ca961922"
+ },
+ {
+  "date": "2020-03-09T14:53:49.001Z",
+  "site": "ServiceSharp",
+  "category": "Podcast",
+  "title": "2x4 Portals",
+  "link": "https://anchor.fm/s/a71217c/podcast/play/10936337/sponsor/at4tct/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-03-09%2F758823ae9379e494e9cb774b0df0c0f6.m4a",
+  "author": "Randy Haas and Jason Gibson"
+ },
+ {
+  "date": "2020-02-21T14:52:00.001Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "EMEA Episode 12 - Digital Literacy with Faez Ahmed",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/d7d10000-50e4-42aa-96ae-a84701459fc6/c5c8327b-caf3-48ae-96b1-ab6800f425d5/audio.mp3?utm_source=Podcast&in_playlist=c27942bc-1e3d-412a-a004-a9fa0168417c&t=1583520546",
+  "author": "Miscellaneous."
+ },
+ {
+  "date": "2020-02-12T04:50:09.001Z",
+  "site": "ServiceSharp",
+  "category": "Podcast",
+  "title": "2x3 The new mobile apps and some listener questions:",
+  "link": "https://anchor.fm/s/a71217c/podcast/play/10219635/sponsor/at4tct/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-02-12%2F8511114980fbb1a8ab4b0a6850d87524.m4a",
+  "author": "Randy Haas and Jason Gibson"
+ },
+ {
+  "date": "2020-02-11T13:46:00.001Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "EMEA Episode 11 - Digital Transformation with Capita",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/d7d10000-50e4-42aa-96ae-a84701459fc6/2aaa97cb-ac32-44f0-b612-ab5e00e26749/audio.mp3?utm_source=Podcast&in_playlist=c27942bc-1e3d-412a-a004-a9fa0168417c&t=1583520416",
+  "author": "Miscellaneous."
+ },
+ {
+  "date": "2020-02-05T19:05:46.001Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "The Road To Knowledge: The value of Knowledge",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/d7d10000-50e4-42aa-96ae-a84701459fc6/2f74dffe-fe30-4d8b-acc7-ab580139f214/audio.mp3?utm_source=Podcast&in_playlist=c27942bc-1e3d-412a-a004-a9fa0168417c&t=1580929548",
+  "author": "Miscellaneous."
+ },
+ {
+  "date": "2020-02-03T21:44:30.001Z",
+  "site": "ServiceSharp",
+  "category": "Podcast",
+  "title": "2x2 Admin and Buy In",
+  "link": "https://anchor.fm/s/a71217c/podcast/play/10147681/sponsor/at4tct/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-02-03%2F58da5602334e6a3fdbda5e7ab1a2ff4c.m4a",
+  "author": "Randy Haas and Jason Gibson"
+ },
+ {
+  "date": "2020-01-28T18:02:52.001Z",
+  "site": "ServiceSharp",
+  "category": "Podcast",
+  "title": "2x1 Upgrades",
+  "link": "https://anchor.fm/s/a71217c/podcast/play/10019891/sponsor/at4tct/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-03-10%2F14bc8c6cf5ccbf367600dc3234e75377.m4a",
+  "author": "Randy Haas and Jason Gibson"
+ },
+ {
+  "date": "2020-01-28T01:14:05.001Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "DevOps Episode 6: Predict 2020 Project MP3",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/d7d10000-50e4-42aa-96ae-a84701459fc6/97584f52-99b9-4d96-be77-ab5000135852/audio.mp3?utm_source=Podcast&in_playlist=c27942bc-1e3d-412a-a004-a9fa0168417c&t=1580174050",
+  "author": "Miscellaneous."
+ },
+ {
+  "date": "2020-01-25T04:25:00.001Z",
+  "site": "CJ & The Duke",
+  "category": "Podcast",
+  "title": "Ep004 - Adventures at ServiceNow Sales Kickoff",
+  "link": "https://media.transistor.fm/17cb9d81.mp3",
+  "author": "Robert Fedoruk, and Corey Wesley"
+ },
+ {
+  "date": "2020-01-15T21:12:00.001Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "DevOps: Episode 5 – Mike Wolf Agile transformations",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/d7d10000-50e4-42aa-96ae-a84701459fc6/fcad3548-2761-42a8-b5be-ab43015baeab/audio.mp3?utm_source=Podcast&in_playlist=c27942bc-1e3d-412a-a004-a9fa0168417c&t=1579122771",
+  "author": "Miscellaneous."
  },
  {
   "date": "2020-01-13T22:49:14.000Z",
@@ -4813,6 +5037,14 @@
   "category": "Podcast",
   "title": "Ep003 - Learning ServiceNow the Hard Way",
   "link": "https://share.transistor.fm/s/70cc4478",
+  "author": "Robert Fedoruk, and Corey Wesley"
+ },
+ {
+  "date": "2020-01-12T00:30:00.001Z",
+  "site": "CJ & The Duke",
+  "category": "Podcast",
+  "title": "Ep003 - Learning ServiceNow the Hard Way",
+  "link": "https://media.transistor.fm/8e36ced2.mp3",
   "author": "Robert Fedoruk, and Corey Wesley"
  },
  {
@@ -4880,12 +5112,28 @@
   "author": "Miscellaneous"
  },
  {
+  "date": "2020-01-09T17:18:00.001Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "EMEA Episode 10 - Developer Resources 101 Part 2",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/d7d10000-50e4-42aa-96ae-a84701459fc6/442d862c-b802-4f5b-934f-ab3b0112d50a/audio.mp3?utm_source=Podcast&in_playlist=c27942bc-1e3d-412a-a004-a9fa0168417c&t=1583520138",
+  "author": "Miscellaneous."
+ },
+ {
   "date": "2020-01-09T00:00:00.001Z",
   "site": "ServiceNow Community Podcasts",
   "category": "Podcast",
   "title": "EMEA Episode 9 - Developer Resources 101 Part 1",
   "link": "https://omny.fm/shows/servicenow-cloudcast/episode-9-developer-resources-101-part-1",
   "author": "Miscellaneous"
+ },
+ {
+  "date": "2020-01-09T00:00:00.001Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "EMEA Episode 9 - Developer Resources 101 Part 1",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/d7d10000-50e4-42aa-96ae-a84701459fc6/e6cd9110-cf8c-4b1b-89e1-ab3b01123bc4/audio.mp3?utm_source=Podcast&in_playlist=c27942bc-1e3d-412a-a004-a9fa0168417c&t=1583520070",
+  "author": "Miscellaneous."
  },
  {
   "date": "2020-01-08T23:54:00.001Z",
@@ -4968,6 +5216,14 @@
   "author": "Steve Miller"
  },
  {
+  "date": "2020-01-07T20:52:00.001Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 57: Optimizing concurrent licenses using SAM",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/739ec4be-e3b0-402c-939b-a8470155f108/12b401c7-5e7d-4131-8413-ab3b01570716/audio.mp3?utm_source=Podcast&in_playlist=1874ae4a-a5d0-4e62-8a98-a8470155f111&t=1578581053",
+  "author": "Steve Miller"
+ },
+ {
   "date": "2020-01-07T20:31:11.001Z",
   "site": "Pathway",
   "category": "Blog",
@@ -5000,12 +5256,28 @@
   "author": "Miscellaneous"
  },
  {
+  "date": "2020-01-07T17:13:00.001Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "DevOps Podcast - Episode 4: Tameem Hourani @ RapDev.io",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/d7d10000-50e4-42aa-96ae-a84701459fc6/854e29f1-7dfa-40b0-8a3d-ab3b011b2cdb/audio.mp3?utm_source=Podcast&in_playlist=c27942bc-1e3d-412a-a004-a9fa0168417c&t=1578417256",
+  "author": "Miscellaneous."
+ },
+ {
   "date": "2020-01-07T16:37:00.001Z",
   "site": "ServiceNow Community Podcasts",
   "category": "Podcast",
   "title": "EMEA Episode 8 - The Future of Customer Experience",
   "link": "https://omny.fm/shows/servicenow-cloudcast/episode-8-the-future-of-customer-experience",
   "author": "Miscellaneous"
+ },
+ {
+  "date": "2020-01-07T16:37:00.001Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "EMEA Episode 8 - The Future of Customer Experience",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/d7d10000-50e4-42aa-96ae-a84701459fc6/907d3596-1eb5-467b-bfd9-ab3b01117139/audio.mp3?utm_source=Podcast&in_playlist=c27942bc-1e3d-412a-a004-a9fa0168417c&t=1583519938",
+  "author": "Miscellaneous."
  },
  {
   "date": "2020-01-07T16:18:54.001Z",
@@ -5208,6 +5480,14 @@
   "author": "Robert Fedoruk, and Corey Wesley"
  },
  {
+  "date": "2019-12-30T18:00:00.001Z",
+  "site": "CJ & The Duke",
+  "category": "Podcast",
+  "title": "Ep002 - Origins",
+  "link": "https://media.transistor.fm/d8e52619.mp3",
+  "author": "Robert Fedoruk, and Corey Wesley"
+ },
+ {
   "date": "2019-12-28T02:51:11.001Z",
   "site": "Andrew Albury-Dor",
   "category": "YouTube",
@@ -5392,6 +5672,14 @@
   "author": "Randy Haas and Jason Gibson"
  },
  {
+  "date": "2019-12-17T23:52:51.001Z",
+  "site": "ServiceSharp",
+  "category": "Podcast",
+  "title": "1x13. 99 Problems but ServiceNow aint one",
+  "link": "https://anchor.fm/s/a71217c/podcast/play/9051656/sponsor/at4tct/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-03-04%2F9d6d78d1abfdae2ba6e7b8979b2eb5b6.m4a",
+  "author": "Randy Haas and Jason Gibson"
+ },
+ {
   "date": "2019-12-17T18:15:37.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -5520,6 +5808,14 @@
   "author": "Robert Fedoruk, and Corey Wesley"
  },
  {
+  "date": "2019-12-12T04:00:00.001Z",
+  "site": "CJ & The Duke",
+  "category": "Podcast",
+  "title": "Ep001 - What is a ServiceNow Architect?",
+  "link": "https://media.transistor.fm/419cf329.mp3",
+  "author": "Robert Fedoruk, and Corey Wesley"
+ },
+ {
   "date": "2019-12-11T23:36:20.001Z",
   "site": "ServicePortal.io",
   "category": "Blog",
@@ -5550,6 +5846,14 @@
   "title": "The Road to Knowledge: 2020 is here!",
   "link": "https://omny.fm/shows/servicenow-cloudcast/the-road-to-knowledge-2020-is-here",
   "author": "Miscellaneous"
+ },
+ {
+  "date": "2019-12-11T20:34:23.001Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "The Road to Knowledge: 2020 is here!",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/d7d10000-50e4-42aa-96ae-a84701459fc6/5e4701ec-088d-46bc-921b-ab2001524455/audio.mp3?utm_source=Podcast&in_playlist=c27942bc-1e3d-412a-a004-a9fa0168417c&t=1576096466",
+  "author": "Miscellaneous."
  },
  {
   "date": "2019-12-11T20:18:15.000Z",
@@ -6184,6 +6488,14 @@
   "author": "Miscellaneous"
  },
  {
+  "date": "2019-11-19T16:16:00.001Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "EMEA Episode 7 - Transforming BP's IT- Adopting Digital Ways Of Working with Roddy Barnes",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/d7d10000-50e4-42aa-96ae-a84701459fc6/d4038bde-0a2b-494a-ae83-ab0a010bcfb2/audio.mp3?utm_source=Podcast&in_playlist=c27942bc-1e3d-412a-a004-a9fa0168417c&t=1583519608",
+  "author": "Miscellaneous."
+ },
+ {
   "date": "2019-11-19T10:13:50.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -6376,6 +6688,14 @@
   "author": "Miscellaneous"
  },
  {
+  "date": "2019-11-13T10:24:00.001Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "EMEA Episode 6 - The Innovation Experience with Chris Pope",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/d7d10000-50e4-42aa-96ae-a84701459fc6/6ecbf86a-7073-470a-ab0e-ab03011a01c9/audio.mp3?utm_source=Podcast&in_playlist=c27942bc-1e3d-412a-a004-a9fa0168417c&t=1583519567",
+  "author": "Miscellaneous."
+ },
+ {
   "date": "2019-11-12T14:14:23.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -6560,6 +6880,14 @@
   "author": "Randy Haas and Jason Gibson"
  },
  {
+  "date": "2019-11-06T17:25:53.001Z",
+  "site": "ServiceSharp",
+  "category": "Podcast",
+  "title": "12. ServiceNow Questions and Answers part 2",
+  "link": "https://anchor.fm/s/a71217c/podcast/play/8288533/sponsor/at4tct/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-02-28%2Fbb6a170ed104892af6be8dadab8d2260.m4a",
+  "author": "Randy Haas and Jason Gibson"
+ },
+ {
   "date": "2019-11-06T12:54:32.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -6574,6 +6902,14 @@
   "title": "EMEA Episode 5 - How To Meet Employee Expectations (Research Report) with Synco Jonkeren",
   "link": "https://omny.fm/shows/servicenow-cloudcast/episode-5-how-to-meet-employee-expectations",
   "author": "Miscellaneous"
+ },
+ {
+  "date": "2019-11-06T09:28:00.001Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "EMEA Episode 5 - How To Meet Employee Expectations (Research Report) with Synco Jonkeren",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/d7d10000-50e4-42aa-96ae-a84701459fc6/7dc285ea-3d5e-448b-acb3-aafc011513c6/audio.mp3?utm_source=Podcast&in_playlist=c27942bc-1e3d-412a-a004-a9fa0168417c&t=1583519392",
+  "author": "Miscellaneous."
  },
  {
   "date": "2019-11-05T19:43:14.000Z",
@@ -6760,6 +7096,14 @@
   "author": "Miscellaneous"
  },
  {
+  "date": "2019-10-29T16:21:00.001Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "EMEA Episode 4 - How Thames Water Embarked On Their Digital Transformation Journey with Phil Taphouse",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/d7d10000-50e4-42aa-96ae-a84701459fc6/03d68e28-94c1-4d3d-b4d8-aaf5010c516f/audio.mp3?utm_source=Podcast&in_playlist=c27942bc-1e3d-412a-a004-a9fa0168417c&t=1583519274",
+  "author": "Miscellaneous."
+ },
+ {
   "date": "2019-10-29T15:00:57.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -6872,6 +7216,14 @@
   "author": "Miscellaneous"
  },
  {
+  "date": "2019-10-23T17:52:39.001Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "DevOps: Episode 3 – Jessica Constantinidis – DOES 2019 London",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/d7d10000-50e4-42aa-96ae-a84701459fc6/5611d748-2d38-48c4-af68-aaef0125c78b/audio.mp3?utm_source=Podcast&in_playlist=c27942bc-1e3d-412a-a004-a9fa0168417c&t=1571853169",
+  "author": "Miscellaneous."
+ },
+ {
   "date": "2019-10-23T16:43:57.001Z",
   "site": "ServicePortal.io",
   "category": "Blog",
@@ -6918,6 +7270,14 @@
   "title": "EMEA Episode 3 - Innovation and Digital Disruption with Karel van der Poel",
   "link": "https://omny.fm/shows/servicenow-podcasts/episode-3-innovation-and-digital-disruption-with-k",
   "author": "Miscellaneous"
+ },
+ {
+  "date": "2019-10-22T15:07:56.001Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "EMEA Episode 3 - Innovation and Digital Disruption with Karel van der Poel",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/d7d10000-50e4-42aa-96ae-a84701459fc6/5f6a0701-0703-4855-9ca2-aaef01281b6e/audio.mp3?utm_source=Podcast&in_playlist=c27942bc-1e3d-412a-a004-a9fa0168417c&t=1571853563",
+  "author": "Miscellaneous."
  },
  {
   "date": "2019-10-22T15:06:02.001Z",
@@ -7032,6 +7392,14 @@
   "author": "Steve Miller"
  },
  {
+  "date": "2019-10-18T15:15:49.001Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 56: Now Community Idea Portal",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/739ec4be-e3b0-402c-939b-a8470155f108/c449c63e-01a7-4cb9-a5ea-aaea00fa6eef/audio.mp3?utm_source=Podcast&in_playlist=1874ae4a-a5d0-4e62-8a98-a8470155f111&t=1571411752",
+  "author": "Steve Miller"
+ },
+ {
   "date": "2019-10-18T14:49:18.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -7061,6 +7429,14 @@
   "category": "Podcast",
   "title": "11 Questions and Answers Pt 1",
   "link": "https://anchor.fm/servicesharp/episodes/11-Questions-and-Answers-Pt-1-e7pgu7",
+  "author": "Randy Haas and Jason Gibson"
+ },
+ {
+  "date": "2019-10-18T00:46:58.001Z",
+  "site": "ServiceSharp",
+  "category": "Podcast",
+  "title": "11 Questions and Answers Pt 1",
+  "link": "https://anchor.fm/s/a71217c/podcast/play/7176583/sponsor/at4tct/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-02-25%2F3a593e9f59e412e93ab82cea2e015c80.m4a",
   "author": "Randy Haas and Jason Gibson"
  },
  {
@@ -7180,6 +7556,7 @@
   "site": "Acorio - Candid Podcast",
   "category": "Podcast",
   "title": "The Journey to Becoming Acorio's CEO ft. Ellen Daley",
+  "link": "https://www.buzzsprout.com/457558/1867069-the-journey-to-becoming-acorio-s-ceo-ft-ellen-daley.mp3?blob_id=5596177",
   "author": "Devon Clarke"
  },
  {
@@ -7189,6 +7566,14 @@
   "title": "EMEA Episode 2 - New York Release Highlights with Chris Pope",
   "link": "https://omny.fm/shows/servicenow-podcasts/episode-2-new-york-release-highlights-with-chris-p",
   "author": "Miscellaneous"
+ },
+ {
+  "date": "2019-10-15T10:52:43.001Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "EMEA Episode 2 - New York Release Highlights with Chris Pope",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/d7d10000-50e4-42aa-96ae-a84701459fc6/1e2c06e2-6e90-44a2-b905-aaef01282209/audio.mp3?utm_source=Podcast&in_playlist=c27942bc-1e3d-412a-a004-a9fa0168417c&t=1571853593",
+  "author": "Miscellaneous."
  },
  {
   "date": "2019-10-15T07:06:15.000Z",
@@ -7407,12 +7792,28 @@
   "author": "Randy Haas and Jason Gibson"
  },
  {
+  "date": "2019-10-08T21:27:13.001Z",
+  "site": "ServiceSharp",
+  "category": "Podcast",
+  "title": "10 - Incidents and Requests in ServiceNow",
+  "link": "https://anchor.fm/s/a71217c/podcast/play/5755779/sponsor/at4tct/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-02-24%2F64f5104074d0e3a3a13b35f0822a5e03.m4a",
+  "author": "Randy Haas and Jason Gibson"
+ },
+ {
   "date": "2019-10-08T19:36:27.001Z",
   "site": "ServiceNow Community Podcasts",
   "category": "Podcast",
   "title": "Around The World With Now At Work: London",
   "link": "https://omny.fm/shows/servicenow-cloudcast/around-the-world-with-now-at-work-london",
   "author": "Miscellaneous"
+ },
+ {
+  "date": "2019-10-08T19:36:27.001Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "Around The World With Now At Work: London",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/d7d10000-50e4-42aa-96ae-a84701459fc6/8899ad23-f069-4139-90f1-aae00143ce2d/audio.mp3?utm_source=Podcast&in_playlist=c27942bc-1e3d-412a-a004-a9fa0168417c&t=1570563709",
+  "author": "Miscellaneous."
  },
  {
   "date": "2019-10-08T18:35:20.000Z",
@@ -7453,6 +7854,14 @@
   "title": "EMEA Episode 1: Value of the ServiceNow Alliance and Channel Ecosystem",
   "link": "https://omny.fm/shows/servicenow-podcasts/alliance-channel-ecosystem-seb-fitzjohn",
   "author": "Miscellaneous"
+ },
+ {
+  "date": "2019-10-08T15:10:14.001Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "EMEA Episode 1: Value of the ServiceNow Alliance and Channel Ecosystem",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/d7d10000-50e4-42aa-96ae-a84701459fc6/27f9e6a6-319e-4003-8bba-aaef01282830/audio.mp3?utm_source=Podcast&in_playlist=c27942bc-1e3d-412a-a004-a9fa0168417c&t=1571853618",
+  "author": "Miscellaneous."
  },
  {
   "date": "2019-10-08T13:57:33.000Z",
@@ -7703,6 +8112,14 @@
   "author": "Miscellaneous"
  },
  {
+  "date": "2019-09-30T20:47:37.001Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "State & Local Perspectives: Discussion with Tom Yeatts Former CTO Howard County - pt 2",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/d7d10000-50e4-42aa-96ae-a84701459fc6/e79297c4-e1d6-4e2b-8004-aad801565867/audio.mp3?utm_source=Podcast&in_playlist=c27942bc-1e3d-412a-a004-a9fa0168417c&t=1569876461",
+  "author": "Miscellaneous."
+ },
+ {
   "date": "2019-09-30T20:45:58.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -7719,12 +8136,28 @@
   "author": "Steve Miller"
  },
  {
+  "date": "2019-09-30T20:34:00.001Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 55: Vendor Manager Workspace",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/739ec4be-e3b0-402c-939b-a8470155f108/e76e5d99-1f35-492c-abf4-aad801521c8f/audio.mp3?utm_source=Podcast&in_playlist=1874ae4a-a5d0-4e62-8a98-a8470155f111&t=1569875675",
+  "author": "Steve Miller"
+ },
+ {
   "date": "2019-09-30T20:33:55.001Z",
   "site": "ServiceNow Community Podcasts",
   "category": "Podcast",
   "title": "State & Local Perspectives: Discussion with Tom Yeatts Former CTO Howard County - pt 1",
   "link": "https://omny.fm/shows/servicenow-cloudcast/discussion-with-tom-yeatts-former-cto-howard-count",
   "author": "Miscellaneous"
+ },
+ {
+  "date": "2019-09-30T20:33:55.001Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "State & Local Perspectives: Discussion with Tom Yeatts Former CTO Howard County - pt 1",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/d7d10000-50e4-42aa-96ae-a84701459fc6/934d2ebd-5737-4e18-9bb9-aad80152a91e/audio.mp3?utm_source=Podcast&in_playlist=c27942bc-1e3d-412a-a004-a9fa0168417c&t=1569875640",
+  "author": "Miscellaneous."
  },
  {
   "date": "2019-09-30T19:54:59.000Z",
@@ -8119,6 +8552,14 @@
   "author": "Miscellaneous"
  },
  {
+  "date": "2019-09-19T11:00:16.001Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "Around The World With Now At Work: Now On Now",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/d7d10000-50e4-42aa-96ae-a84701459fc6/32942dbf-2e1f-4de0-a44a-aae00143daeb/audio.mp3?utm_source=Podcast&in_playlist=c27942bc-1e3d-412a-a004-a9fa0168417c&t=1570563831",
+  "author": "Miscellaneous."
+ },
+ {
   "date": "2019-09-19T03:44:22.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -8279,6 +8720,14 @@
   "author": "Steve Miller"
  },
  {
+  "date": "2019-09-13T18:34:38.001Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 54: Service Owner Workspace",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/739ec4be-e3b0-402c-939b-a8470155f108/c94c6522-8f9c-445b-b01a-aac7012a8574/audio.mp3?utm_source=Podcast&in_playlist=1874ae4a-a5d0-4e62-8a98-a8470155f111&t=1568399683",
+  "author": "Steve Miller"
+ },
+ {
   "date": "2019-09-13T16:30:18.001Z",
   "site": "Pathway",
   "category": "Blog",
@@ -8317,6 +8766,14 @@
   "title": "Around The World With Now At Work: CreatorCon",
   "link": "https://omny.fm/shows/servicenow-cloudcast/around-the-world-with-now-at-work-creatorcon",
   "author": "Miscellaneous"
+ },
+ {
+  "date": "2019-09-12T11:46:31.001Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "Around The World With Now At Work: CreatorCon",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/d7d10000-50e4-42aa-96ae-a84701459fc6/d7e100a4-4634-4c36-9bfa-aac600f8bfa7/audio.mp3?utm_source=Podcast&in_playlist=c27942bc-1e3d-412a-a004-a9fa0168417c&t=1568300755",
+  "author": "Miscellaneous."
  },
  {
   "date": "2019-09-12T10:05:00.000Z",
@@ -8373,6 +8830,14 @@
   "title": "ServiceNow DevOps Podcast Series: Episode 2 – Chris Pope – DOES 2019 London",
   "link": "https://omny.fm/shows/servicenow-cloudcast/servicenow-devops-podcast-series-episode-2-chris-p",
   "author": "Miscellaneous"
+ },
+ {
+  "date": "2019-09-10T17:07:17.001Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "ServiceNow DevOps Podcast Series: Episode 2 – Chris Pope – DOES 2019 London",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/d7d10000-50e4-42aa-96ae-a84701459fc6/5d33dc5c-87e4-486d-a4d3-aac40118d9c4/audio.mp3?utm_source=Podcast&in_playlist=c27942bc-1e3d-412a-a004-a9fa0168417c&t=1568135242",
+  "author": "Miscellaneous."
  },
  {
   "date": "2019-09-10T15:55:30.000Z",
@@ -8573,6 +9038,14 @@
   "title": "Around The World With Now At Work: The Now Expo",
   "link": "https://omny.fm/shows/servicenow-cloudcast/around-the-world-with-now-at-work-the-now-expo",
   "author": "Miscellaneous"
+ },
+ {
+  "date": "2019-09-05T21:54:19.001Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "Around The World With Now At Work: The Now Expo",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/d7d10000-50e4-42aa-96ae-a84701459fc6/dcab1120-a2f7-4b6f-8bed-aabf0170d67c/audio.mp3?utm_source=Podcast&in_playlist=c27942bc-1e3d-412a-a004-a9fa0168417c&t=1567722273",
+  "author": "Miscellaneous."
  },
  {
   "date": "2019-09-05T15:44:02.001Z",
@@ -8847,6 +9320,14 @@
   "author": "Miscellaneous"
  },
  {
+  "date": "2019-08-28T22:38:20.001Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "Around the World with Now at Work: A chat with the Content team",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/d7d10000-50e4-42aa-96ae-a84701459fc6/d1ffc3a6-ec77-4d75-ba52-aab8001095f6/audio.mp3?utm_source=Podcast&in_playlist=c27942bc-1e3d-412a-a004-a9fa0168417c&t=1567040435",
+  "author": "Miscellaneous."
+ },
+ {
   "date": "2019-08-28T17:17:33.001Z",
   "site": "Pathway",
   "category": "Blog",
@@ -9015,6 +9496,14 @@
   "author": " - "
  },
  {
+  "date": "2019-08-20T10:00:00.001Z",
+  "site": "Acorio - Candid Podcast",
+  "category": "Podcast",
+  "title": "Finding Your Passion in ServiceNow ft. Ryan Gillespie",
+  "link": "https://www.buzzsprout.com/457558/1549636-finding-your-passion-in-servicenow-ft-ryan-gillespie.mp3?blob_id=4297636",
+  "author": "Devon Clarke"
+ },
+ {
   "date": "2019-08-19T17:11:58.001Z",
   "site": "Pathway",
   "category": "Blog",
@@ -9028,6 +9517,14 @@
   "category": "Podcast",
   "title": "Episode 53: Skills Management",
   "link": "https://omny.fm/shows/servicenow-techbytes/episode-53-skills-management",
+  "author": "Steve Miller"
+ },
+ {
+  "date": "2019-08-19T17:00:33.001Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 53: Skills Management",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/739ec4be-e3b0-402c-939b-a8470155f108/1669e175-a501-47f2-8449-aaae0116f030/audio.mp3?utm_source=Podcast&in_playlist=1874ae4a-a5d0-4e62-8a98-a8470155f111&t=1566234036",
   "author": "Steve Miller"
  },
  {
@@ -9151,12 +9648,28 @@
   "author": "Miscellaneous"
  },
  {
+  "date": "2019-08-14T18:37:56.001Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "DevOps Podcast - Episode1 - Richard Hawes and Eric Ledyard DevOps Overview",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/d7d10000-50e4-42aa-96ae-a84701459fc6/ccb4e83d-3604-42ca-ba17-aaa9012f686f/audio.mp3?utm_source=Podcast&in_playlist=c27942bc-1e3d-412a-a004-a9fa0168417c&t=1571855072",
+  "author": "Miscellaneous."
+ },
+ {
   "date": "2019-08-14T17:12:25.001Z",
   "site": "ServiceNow Community Podcasts",
   "category": "Podcast",
   "title": "Around the World with Now at Work: Digital Transformation Journey",
   "link": "https://omny.fm/shows/servicenow-cloudcast/around-the-world-with-now-at-work-digital-transfor",
   "author": "Miscellaneous"
+ },
+ {
+  "date": "2019-08-14T17:12:25.001Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "Around the World with Now at Work: Digital Transformation Journey",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/d7d10000-50e4-42aa-96ae-a84701459fc6/93a8de38-8868-4a73-b206-aaaa00f22e4b/audio.mp3?utm_source=Podcast&in_playlist=c27942bc-1e3d-412a-a004-a9fa0168417c&t=1565880117",
+  "author": "Miscellaneous."
  },
  {
   "date": "2019-08-14T16:08:56.000Z",
@@ -9279,6 +9792,14 @@
   "author": "Miscellaneous"
  },
  {
+  "date": "2019-08-08T01:19:14.001Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "Around the World with Now at Work: What is Now at Work?",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/d7d10000-50e4-42aa-96ae-a84701459fc6/293ff2fc-7a43-4d0a-8729-aaa701012728/audio.mp3?utm_source=Podcast&in_playlist=c27942bc-1e3d-412a-a004-a9fa0168417c&t=1565624191",
+  "author": "Miscellaneous."
+ },
+ {
   "date": "2019-08-07T16:55:02.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -9372,6 +9893,14 @@
   "category": "Podcast",
   "title": "Episode 52: Virtual Agent and NLU",
   "link": "https://omny.fm/shows/servicenow-techbytes/episode-52-virtual-agent-and-nlu",
+  "author": "Steve Miller"
+ },
+ {
+  "date": "2019-08-02T19:38:11.001Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 52: Virtual Agent and NLU",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/739ec4be-e3b0-402c-939b-a8470155f108/46006ce6-b970-456a-9881-aa9a015572fb/audio.mp3?utm_source=Podcast&in_playlist=1874ae4a-a5d0-4e62-8a98-a8470155f111&t=1564774698",
   "author": "Steve Miller"
  },
  {
@@ -9799,6 +10328,14 @@
   "author": "Jace Benson"
  },
  {
+  "date": "2019-07-19T16:00:00.001Z",
+  "site": "Acorio - Candid Podcast",
+  "category": "Podcast",
+  "title": "Driving Client Success with ServiceNow ft. Grant Pulver",
+  "link": "https://www.buzzsprout.com/457558/1427224-driving-client-success-with-servicenow-ft-grant-pulver.mp3?blob_id=3807010",
+  "author": "Devon Clarke"
+ },
+ {
   "date": "2019-07-19T14:03:59.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -10087,6 +10624,14 @@
   "author": "Randy Haas and Jason Gibson"
  },
  {
+  "date": "2019-07-04T03:11:46.001Z",
+  "site": "ServiceSharp",
+  "category": "Podcast",
+  "title": "Roadmaps and Strategy",
+  "link": "https://anchor.fm/s/a71217c/podcast/play/3758886/sponsor/at4tct/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-02-17%2F0a6a51225dec72430e5c6d6d266ab59c.m4a",
+  "author": "Randy Haas and Jason Gibson"
+ },
+ {
   "date": "2019-07-03T23:22:10.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -10247,6 +10792,14 @@
   "author": "Randy Haas and Jason Gibson"
  },
  {
+  "date": "2019-06-25T15:43:17.001Z",
+  "site": "ServiceSharp",
+  "category": "Podcast",
+  "title": "Required elements for success part 3",
+  "link": "https://anchor.fm/s/a71217c/podcast/play/3621260/sponsor/at4tct/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-02-17%2F31e24de7a41241c11e4bf0a77ae9a26f.m4a",
+  "author": "Randy Haas and Jason Gibson"
+ },
+ {
   "date": "2019-06-25T14:06:20.001Z",
   "site": "Pathway",
   "category": "Blog",
@@ -10309,6 +10862,14 @@
   "title": "Workflow Quarterly: The Leadership Issue",
   "link": "https://omny.fm/shows/servicenow-cloudcast/workflow-quarterly-the-leadership-issue",
   "author": "Miscellaneous"
+ },
+ {
+  "date": "2019-06-21T21:35:30.001Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "Workflow Quarterly: The Leadership Issue",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/d7d10000-50e4-42aa-96ae-a84701459fc6/dc22ac90-e907-42ca-9774-aa7301636f58/audio.mp3?utm_source=Podcast&in_playlist=c27942bc-1e3d-412a-a004-a9fa0168417c&t=1561152932",
+  "author": "Miscellaneous."
  },
  {
   "date": "2019-06-21T21:07:47.000Z",
@@ -10487,6 +11048,14 @@
   "author": "Miscellaneous"
  },
  {
+  "date": "2019-06-14T15:14:50.001Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "ServiceNow Podcast EMEA  - K19 Highlights (Chris Pope & Rhiannon Prothero)",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/d7d10000-50e4-42aa-96ae-a84701459fc6/d448ae3b-e88c-43e3-8f97-aa6c00f9b768/audio.mp3?utm_source=Podcast&in_playlist=c27942bc-1e3d-412a-a004-a9fa0168417c&t=1571855172",
+  "author": "Miscellaneous."
+ },
+ {
   "date": "2019-06-14T13:21:45.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -10572,6 +11141,14 @@
   "category": "Podcast",
   "title": "Required elements for success in ServiceNow Part 2",
   "link": "https://anchor.fm/servicesharp/episodes/Required-elements-for-success-in-ServiceNow-Part-2-e4a8je",
+  "author": "Randy Haas and Jason Gibson"
+ },
+ {
+  "date": "2019-06-11T05:31:02.001Z",
+  "site": "ServiceSharp",
+  "category": "Podcast",
+  "title": "Required elements for success in ServiceNow Part 2",
+  "link": "https://anchor.fm/s/a71217c/podcast/play/3530798/sponsor/at4tct/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-02-17%2F4dec2301c178645f0e3d650a21ca4cfd.m4a",
   "author": "Randy Haas and Jason Gibson"
  },
  {
@@ -10756,6 +11333,14 @@
   "category": "Podcast",
   "title": "Required Elements for Success in ServiceNow Part 1",
   "link": "https://anchor.fm/servicesharp/episodes/Required-Elements-for-Success-in-ServiceNow-Part-1-e45ot1",
+  "author": "Randy Haas and Jason Gibson"
+ },
+ {
+  "date": "2019-05-28T04:30:23.001Z",
+  "site": "ServiceSharp",
+  "category": "Podcast",
+  "title": "Required Elements for Success in ServiceNow Part 1",
+  "link": "https://anchor.fm/s/a71217c/podcast/play/3383649/sponsor/at4tct/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-02-16%2Fb9bdf8969980e3baafaab14b47c82d8b.m4a",
   "author": "Randy Haas and Jason Gibson"
  },
  {
@@ -11087,6 +11672,14 @@
   "author": "Miscellaneous"
  },
  {
+  "date": "2019-05-16T04:08:46.001Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "Live from Knowledge!",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/d7d10000-50e4-42aa-96ae-a84701459fc6/447a5150-b9d7-47c5-851a-aa4f00df978d/audio.mp3?utm_source=Podcast&in_playlist=c27942bc-1e3d-412a-a004-a9fa0168417c&t=1558013664",
+  "author": "Miscellaneous."
+ },
+ {
   "date": "2019-05-15T22:13:09.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -11295,6 +11888,14 @@
   "author": "Randy Haas and Jason Gibson"
  },
  {
+  "date": "2019-05-09T04:08:29.001Z",
+  "site": "ServiceSharp",
+  "category": "Podcast",
+  "title": "Knowledge 2019 ",
+  "link": "https://anchor.fm/s/a71217c/podcast/play/3186375/sponsor/at4tct/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-02-16%2Faa622f29a898204cf24cee3e000fce3c.m4a",
+  "author": "Randy Haas and Jason Gibson"
+ },
+ {
   "date": "2019-05-08T23:20:00.001Z",
   "site": "CloudMinus89",
   "category": "Blog",
@@ -11444,6 +12045,14 @@
   "category": "Podcast",
   "title": "Upgrades and Clones",
   "link": "https://anchor.fm/servicesharp/episodes/Upgrades-and-Clones-e3uq7m",
+  "author": "Randy Haas and Jason Gibson"
+ },
+ {
+  "date": "2019-05-06T20:30:59.001Z",
+  "site": "ServiceSharp",
+  "category": "Podcast",
+  "title": "Upgrades and Clones",
+  "link": "https://anchor.fm/s/a71217c/podcast/play/3155638/sponsor/at4tct/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-02-16%2Fdfa9914278f2b6687916deb2f8eb57ea.m4a",
   "author": "Randy Haas and Jason Gibson"
  },
  {
@@ -11759,11 +12368,27 @@
   "author": "Randy Haas and Jason Gibson"
  },
  {
+  "date": "2019-04-29T20:52:02.001Z",
+  "site": "ServiceSharp",
+  "category": "Podcast",
+  "title": "Change Management",
+  "link": "https://anchor.fm/s/a71217c/podcast/play/3082948/sponsor/at4tct/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-02-16%2Fc78bac0718260a8326cc4ae6d77e2d77.m4a",
+  "author": "Randy Haas and Jason Gibson"
+ },
+ {
   "date": "2019-04-29T20:42:04.001Z",
   "site": "ServiceNow TechBytes Podcast",
   "category": "Podcast",
   "title": "Episode 51: Change Management",
   "link": "https://omny.fm/shows/servicenow-techbytes/episode-51-change-management",
+  "author": "Steve Miller"
+ },
+ {
+  "date": "2019-04-29T20:42:04.001Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 51: Change Management",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/739ec4be-e3b0-402c-939b-a8470155f108/404cdb32-e5f4-419a-ac9e-aa3e010d1b2f/audio.mp3?utm_source=Podcast&in_playlist=1874ae4a-a5d0-4e62-8a98-a8470155f111&t=1556570527",
   "author": "Steve Miller"
  },
  {
@@ -11943,12 +12568,28 @@
   "author": "Miscellaneous"
  },
  {
+  "date": "2019-04-25T03:17:27.001Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "The Road to Knowledge: Mobile App",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/d7d10000-50e4-42aa-96ae-a84701459fc6/6ea1afca-75a9-4ebd-8b79-aa3a00f089ad/audio.mp3?utm_source=Podcast&in_playlist=c27942bc-1e3d-412a-a004-a9fa0168417c&t=1556202960",
+  "author": "Miscellaneous."
+ },
+ {
   "date": "2019-04-25T03:13:58.001Z",
   "site": "ServiceNow Community Podcasts",
   "category": "Podcast",
   "title": "The Road to Knowledge: KBYG",
   "link": "https://omny.fm/shows/servicenow-cloudcast/the-road-to-knowledge-kbyg",
   "author": "Miscellaneous"
+ },
+ {
+  "date": "2019-04-25T03:13:58.001Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "The Road to Knowledge: KBYG",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/d7d10000-50e4-42aa-96ae-a84701459fc6/9298638b-6860-4adf-9c23-aa3a00f08e37/audio.mp3?utm_source=Podcast&in_playlist=c27942bc-1e3d-412a-a004-a9fa0168417c&t=1556202976",
+  "author": "Miscellaneous."
  },
  {
   "date": "2019-04-25T00:52:07.000Z",
@@ -12012,6 +12653,14 @@
   "category": "Podcast",
   "title": "Configurations vs Customizations",
   "link": "https://anchor.fm/servicesharp/episodes/Configurations-vs-Customizations-e3q8f5",
+  "author": "Randy Haas and Jason Gibson"
+ },
+ {
+  "date": "2019-04-22T05:07:09.001Z",
+  "site": "ServiceSharp",
+  "category": "Podcast",
+  "title": "Configurations vs Customizations",
+  "link": "https://anchor.fm/s/a71217c/podcast/play/3006373/sponsor/at4tct/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-02-15%2Fb800f994f671a5bca7028e90145a9253.m4a",
   "author": "Randy Haas and Jason Gibson"
  },
  {
@@ -12231,6 +12880,14 @@
   "author": "Miscellaneous"
  },
  {
+  "date": "2019-04-18T02:37:15.001Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "The Road to Knowledge: Now on Now",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/d7d10000-50e4-42aa-96ae-a84701459fc6/fdabc38f-a4e3-4286-bd3c-aa3300e9a6dd/audio.mp3?utm_source=Podcast&in_playlist=c27942bc-1e3d-412a-a004-a9fa0168417c&t=1555597035",
+  "author": "Miscellaneous."
+ },
+ {
   "date": "2019-04-17T21:25:49.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -12252,6 +12909,14 @@
   "category": "Podcast",
   "title": "Starting off.. ",
   "link": "https://anchor.fm/servicesharp/episodes/Starting-off-e3nksa",
+  "author": "Randy Haas and Jason Gibson"
+ },
+ {
+  "date": "2019-04-16T22:36:55.001Z",
+  "site": "ServiceSharp",
+  "category": "Podcast",
+  "title": "Starting off.. ",
+  "link": "https://anchor.fm/s/a71217c/podcast/play/2920778/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-02-15%2Ff168184c842426f8c2bddbac05f04876.m4a",
   "author": "Randy Haas and Jason Gibson"
  },
  {
@@ -12383,6 +13048,14 @@
   "author": "Miscellaneous"
  },
  {
+  "date": "2019-04-10T22:47:19.001Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "The Road to Knowledge: Pre-conference Training and Education",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/d7d10000-50e4-42aa-96ae-a84701459fc6/e7ffa828-63aa-4654-9a18-aa2c00f2ec35/audio.mp3?utm_source=Podcast&in_playlist=c27942bc-1e3d-412a-a004-a9fa0168417c&t=1554993895",
+  "author": "Miscellaneous."
+ },
+ {
   "date": "2019-04-10T19:48:21.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -12468,6 +13141,14 @@
   "category": "Podcast",
   "title": "Episode 50: Walk-Up in Madrid",
   "link": "https://omny.fm/shows/servicenow-techbytes/episode-50-walk-up-in-madrid",
+  "author": "Steve Miller"
+ },
+ {
+  "date": "2019-04-08T21:18:46.001Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 50: Walk-Up in Madrid",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/739ec4be-e3b0-402c-939b-a8470155f108/0e306de3-f43a-4e3e-aa61-aa29010d8ece/audio.mp3?utm_source=Podcast&in_playlist=1874ae4a-a5d0-4e62-8a98-a8470155f111&t=1554758329",
   "author": "Steve Miller"
  },
  {
@@ -12607,12 +13288,28 @@
   "author": "Miscellaneous"
  },
  {
+  "date": "2019-04-04T21:04:24.001Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "The Road to Knowledge: *Bonus* The Content Scheduler",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/d7d10000-50e4-42aa-96ae-a84701459fc6/ed1b1fcf-38f4-4481-9aba-aa25015dddc5/audio.mp3?utm_source=Podcast&in_playlist=c27942bc-1e3d-412a-a004-a9fa0168417c&t=1554412436",
+  "author": "Miscellaneous."
+ },
+ {
   "date": "2019-04-04T21:02:02.001Z",
   "site": "ServiceNow Community Podcasts",
   "category": "Podcast",
   "title": "The Road to Knowledge: Customer Success at Knowledge",
   "link": "https://omny.fm/shows/servicenow-cloudcast/the-road-to-knowledge-customer-success-at-knowledg",
   "author": "Miscellaneous"
+ },
+ {
+  "date": "2019-04-04T21:02:02.001Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "The Road to Knowledge: Customer Success at Knowledge",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/d7d10000-50e4-42aa-96ae-a84701459fc6/fc8e4b5c-fc71-4061-bbcf-aa25015de8ea/audio.mp3?utm_source=Podcast&in_playlist=c27942bc-1e3d-412a-a004-a9fa0168417c&t=1554412462",
+  "author": "Miscellaneous."
  },
  {
   "date": "2019-04-04T19:21:41.000Z",
@@ -12783,6 +13480,14 @@
   "author": "Steve Miller"
  },
  {
+  "date": "2019-03-26T21:41:35.001Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 49: Coaching application",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/739ec4be-e3b0-402c-939b-a8470155f108/7829f7d6-49e3-474a-96a4-aa1c0163e978/audio.mp3?utm_source=Podcast&in_playlist=1874ae4a-a5d0-4e62-8a98-a8470155f111&t=1553636497",
+  "author": "Steve Miller"
+ },
+ {
   "date": "2019-03-26T19:50:56.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -12829,6 +13534,14 @@
   "title": "The Road to Knowledge: The ServiceNow Brand",
   "link": "https://omny.fm/shows/servicenow-cloudcast/the-road-to-knowledge-the-servicenow-brand",
   "author": "Miscellaneous"
+ },
+ {
+  "date": "2019-03-26T02:26:59.001Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "The Road to Knowledge: The ServiceNow Brand",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/d7d10000-50e4-42aa-96ae-a84701459fc6/ef35d7fe-ec5a-4875-ae75-aa1c00fb4ec6/audio.mp3?utm_source=Podcast&in_playlist=c27942bc-1e3d-412a-a004-a9fa0168417c&t=1553613379",
+  "author": "Miscellaneous."
  },
  {
   "date": "2019-03-25T15:21:16.000Z",
@@ -13015,6 +13728,14 @@
   "author": "Miscellaneous"
  },
  {
+  "date": "2019-03-20T00:49:53.001Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "The Road to Knowledge: CreatorCon",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/d7d10000-50e4-42aa-96ae-a84701459fc6/4eafd0b3-759c-4f0a-875d-aa1600fd6ed0/audio.mp3?utm_source=Podcast&in_playlist=c27942bc-1e3d-412a-a004-a9fa0168417c&t=1553095443",
+  "author": "Miscellaneous."
+ },
+ {
   "date": "2019-03-19T13:59:14.001Z",
   "site": "Pathway",
   "category": "Blog",
@@ -13127,6 +13848,14 @@
   "author": "Steve Miller"
  },
  {
+  "date": "2019-03-15T15:48:21.001Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 48: Mobile Platform and Mobile Studio",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/739ec4be-e3b0-402c-939b-a8470155f108/29e4178c-2297-4251-94f1-aa110101a40d/audio.mp3?utm_source=Podcast&in_playlist=1874ae4a-a5d0-4e62-8a98-a8470155f111&t=1552664903",
+  "author": "Steve Miller"
+ },
+ {
   "date": "2019-03-15T14:02:13.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -13157,6 +13886,14 @@
   "title": "The Road to Knowledge: Customer & Employee Workflows and the Now Platform, Part 2",
   "link": "https://omny.fm/shows/servicenow-cloudcast/the-road-to-knowledge-customer-employee-workflows",
   "author": "Miscellaneous"
+ },
+ {
+  "date": "2019-03-14T01:46:06.001Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "The Road to Knowledge: Customer & Employee Workflows and the Now Platform, Part 2",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/d7d10000-50e4-42aa-96ae-a84701459fc6/3214cc7d-9af7-4a09-92c7-aa1000fff3bf/audio.mp3?utm_source=Podcast&in_playlist=c27942bc-1e3d-412a-a004-a9fa0168417c&t=1552577534",
+  "author": "Miscellaneous."
  },
  {
   "date": "2019-03-13T18:36:41.000Z",
@@ -13327,6 +14064,14 @@
   "author": "Miscellaneous"
  },
  {
+  "date": "2019-03-07T23:30:05.001Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "The Road to Knowledge: Six Conversations - IT Workflows, Part 1",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/d7d10000-50e4-42aa-96ae-a84701459fc6/21c88ba1-70cf-4c92-924c-aa0a0047a9ad/audio.mp3?utm_source=Podcast&in_playlist=c27942bc-1e3d-412a-a004-a9fa0168417c&t=1552018882",
+  "author": "Miscellaneous."
+ },
+ {
   "date": "2019-03-07T23:03:00.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -13348,6 +14093,14 @@
   "category": "Podcast",
   "title": "Episode 47: Flow Designer",
   "link": "https://omny.fm/shows/servicenow-techbytes/episode-47-flow-designer",
+  "author": "Steve Miller"
+ },
+ {
+  "date": "2019-03-07T19:06:41.001Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 47: Flow Designer",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/739ec4be-e3b0-402c-939b-a8470155f108/6e077072-7419-4a09-8dce-aa09011b6a54/audio.mp3?utm_source=Podcast&in_playlist=1874ae4a-a5d0-4e62-8a98-a8470155f111&t=1551985603",
   "author": "Steve Miller"
  },
  {
@@ -13853,6 +14606,14 @@
   "title": "What is Knowledge? A chat with Scott Schenker",
   "link": "https://omny.fm/shows/servicenow-cloudcast/what-is-knowledge-a-chat-with-scott-schenker",
   "author": "Miscellaneous"
+ },
+ {
+  "date": "2019-02-21T21:04:41.001Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "What is Knowledge? A chat with Scott Schenker",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/d7d10000-50e4-42aa-96ae-a84701459fc6/3d4a6e79-dce6-47f9-85a2-a9fc00fd454e/audio.mp3?utm_source=Podcast&in_playlist=c27942bc-1e3d-412a-a004-a9fa0168417c&t=1550848952",
+  "author": "Miscellaneous."
  },
  {
   "date": "2019-02-21T12:23:29.000Z",
@@ -15151,6 +15912,14 @@
   "author": "Steve Miller"
  },
  {
+  "date": "2018-12-17T22:15:08.001Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 46: IBM Watson on the Now Platform",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/739ec4be-e3b0-402c-939b-a8470155f108/24f18c29-8e6c-4cdd-86bc-a9b9016c913b/audio.mp3?utm_source=Podcast&in_playlist=1874ae4a-a5d0-4e62-8a98-a8470155f111&t=1545084910",
+  "author": "Steve Miller"
+ },
+ {
   "date": "2018-12-17T20:38:45.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -15980,6 +16749,14 @@
   "category": "Blog",
   "title": "Building Multilingual Service Portals",
   "link": "https://www.dylanlindgren.com/2018/11/07/building-multilingual-service-portals/",
+  "author": "Dylan Lindgren"
+ },
+ {
+  "date": "2018-11-07T01:13:40.001Z",
+  "site": "www.dylanlindgren.com",
+  "category": "Blog",
+  "title": "Building Multilingual Service Portals",
+  "link": "https://www.dylanlindgren.com/wp-content/uploads/2018/11/test.mp4",
   "author": "Dylan Lindgren"
  },
  {
@@ -16903,6 +17680,14 @@
   "author": "Steve Miller"
  },
  {
+  "date": "2018-09-28T17:47:49.001Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 45: The Walk-Up experience",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/739ec4be-e3b0-402c-939b-a8470155f108/3fa7b0d8-1c98-4dd4-8a29-a96901109813/audio.mp3?utm_source=Podcast&in_playlist=1874ae4a-a5d0-4e62-8a98-a8470155f111&t=1538156873",
+  "author": "Steve Miller"
+ },
+ {
   "date": "2018-09-28T15:47:11.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -17319,6 +18104,14 @@
   "author": "Steve Miller"
  },
  {
+  "date": "2018-09-11T16:16:55.001Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 44: New content for Discovery",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/739ec4be-e3b0-402c-939b-a8470155f108/110beaed-d654-4349-bb0d-a958010ac385/audio.mp3?utm_source=Podcast&in_playlist=1874ae4a-a5d0-4e62-8a98-a8470155f111&t=1536682618",
+  "author": "Steve Miller"
+ },
+ {
   "date": "2018-09-11T14:28:40.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -17644,6 +18437,14 @@
   "category": "Podcast",
   "title": "Episode 43: ITSM Virtual Agent",
   "link": "https://omny.fm/shows/servicenow-techbytes/episode-43-virtual-agent",
+  "author": "Steve Miller"
+ },
+ {
+  "date": "2018-08-28T19:26:30.001Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 43: ITSM Virtual Agent",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/739ec4be-e3b0-402c-939b-a8470155f108/29d6738d-a894-44b5-b0a1-a94a013eb55b/audio.mp3?utm_source=Podcast&in_playlist=1874ae4a-a5d0-4e62-8a98-a8470155f111&t=1535484395",
   "author": "Steve Miller"
  },
  {
@@ -18167,6 +18968,14 @@
   "author": "Steve Miller"
  },
  {
+  "date": "2018-08-13T17:48:35.001Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 42: Continual Improvement Management",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/739ec4be-e3b0-402c-939b-a8470155f108/a949b76a-3074-40b5-b3f0-a93b0114dcfe/audio.mp3?utm_source=Podcast&in_playlist=1874ae4a-a5d0-4e62-8a98-a8470155f111&t=1534182539",
+  "author": "Steve Miller"
+ },
+ {
   "date": "2018-08-13T15:44:05.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -18541,6 +19350,14 @@
   "title": "PartnerNow Podcast: How to Build your Brand on the ServiceNow Community",
   "link": "https://omny.fm/shows/servicenow-cloudcast/partnernow-podcast-how-to-build-your-brand-on-the",
   "author": "Miscellaneous"
+ },
+ {
+  "date": "2018-07-31T22:30:36.001Z",
+  "site": "ServiceNow Community Podcasts",
+  "category": "Podcast",
+  "title": "PartnerNow Podcast: How to Build your Brand on the ServiceNow Community",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/d7d10000-50e4-42aa-96ae-a84701459fc6/cc69e4ef-1254-45fe-a85d-a92e0172715e/audio.mp3?utm_source=Podcast&in_playlist=c27942bc-1e3d-412a-a004-a9fa0168417c&t=1533076244",
+  "author": "Miscellaneous."
  },
  {
   "date": "2018-07-31T20:25:12.000Z",
@@ -19071,6 +19888,14 @@
   "author": "Steve Miller"
  },
  {
+  "date": "2018-06-25T21:42:14.001Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 41: Embedded Help and Guided Tours",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/739ec4be-e3b0-402c-939b-a8470155f108/0c5d12a1-aea9-4667-8473-a90a015c41ac/audio.mp3?utm_source=Podcast&in_playlist=1874ae4a-a5d0-4e62-8a98-a8470155f111&t=1529962939",
+  "author": "Steve Miller"
+ },
+ {
   "date": "2018-06-25T20:07:00.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -19316,6 +20141,14 @@
   "category": "Blog",
   "title": "Displaying Service Portal Widgets Outside ServiceNow",
   "link": "https://www.dylanlindgren.com/2018/06/06/service-portal-widgets-outside-sn/",
+  "author": "Dylan Lindgren"
+ },
+ {
+  "date": "2018-06-06T12:57:20.001Z",
+  "site": "www.dylanlindgren.com",
+  "category": "Blog",
+  "title": "Displaying Service Portal Widgets Outside ServiceNow",
+  "link": "https://www.dylanlindgren.com/wp-content/uploads/2018/06/postMessageWidget.mp4",
   "author": "Dylan Lindgren"
  },
  {
@@ -21103,6 +21936,14 @@
   "author": "Steve Miller"
  },
  {
+  "date": "2018-03-16T17:32:53.001Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 40: Upgrades",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/739ec4be-e3b0-402c-939b-a8470155f108/f228c151-d03d-433d-bcab-a8a5011e47c7/audio.mp3?utm_source=Podcast&in_playlist=1874ae4a-a5d0-4e62-8a98-a8470155f111&t=1521221651",
+  "author": "Steve Miller"
+ },
+ {
   "date": "2018-03-16T15:55:28.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -22343,6 +23184,14 @@
   "author": "Steve Miller"
  },
  {
+  "date": "2018-01-16T18:37:05.001Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 39: Activating Plugins",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/739ec4be-e3b0-402c-939b-a8470155f108/1a4c0957-4e09-4046-bafb-a86a011ff717/audio.mp3?utm_source=Podcast&in_playlist=1874ae4a-a5d0-4e62-8a98-a8470155f111&t=1516129198",
+  "author": "Steve Miller"
+ },
+ {
   "date": "2018-01-16T17:00:21.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -23111,6 +23960,14 @@
   "author": "Steve Miller"
  },
  {
+  "date": "2017-12-18T20:01:21.001Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "ITSM Cast: Service Catalog on the Kingston Service Portal",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/739ec4be-e3b0-402c-939b-a8470155f108/551e29f1-7b30-49c4-9fca-a8650176472d/audio.mp3?utm_source=Podcast&in_playlist=1874ae4a-a5d0-4e62-8a98-a8470155f111&t=1515710637",
+  "author": "Steve Miller"
+ },
+ {
   "date": "2017-12-18T15:54:43.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -23556,6 +24413,14 @@
   "category": "Podcast",
   "title": "Episode 38: ServiceNow's New Information Experience",
   "link": "https://omny.fm/shows/servicenow-techbytes/episode-38-servicenows-new-information-experience",
+  "author": "Steve Miller"
+ },
+ {
+  "date": "2017-12-06T21:54:59.001Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 38: ServiceNow's New Information Experience",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/739ec4be-e3b0-402c-939b-a8470155f108/c965e1e1-ee75-464a-be0e-a8470155fa65/audio.mp3?utm_source=Podcast&in_playlist=1874ae4a-a5d0-4e62-8a98-a8470155f111&t=1513704903",
   "author": "Steve Miller"
  },
  {
@@ -25359,6 +26224,14 @@
   "author": "Steve Miller"
  },
  {
+  "date": "2017-09-26T20:53:23.001Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 37: Benchmarks in Jakarta",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/739ec4be-e3b0-402c-939b-a8470155f108/35608e41-b6c9-4cb6-bd6a-a84701560fd9/audio.mp3?utm_source=Podcast&in_playlist=1874ae4a-a5d0-4e62-8a98-a8470155f111&t=1513111590",
+  "author": "Steve Miller"
+ },
+ {
   "date": "2017-09-26T18:54:30.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -26335,6 +27208,14 @@
   "author": "Steve Miller"
  },
  {
+  "date": "2017-08-16T16:07:21.001Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 36: Developing Apps in ServiceNow",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/739ec4be-e3b0-402c-939b-a8470155f108/9b0c1c79-1d41-41bb-9499-a84701562988/audio.mp3?utm_source=Podcast&in_playlist=1874ae4a-a5d0-4e62-8a98-a8470155f111&t=1513111601",
+  "author": "Steve Miller"
+ },
+ {
   "date": "2017-08-16T14:09:13.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -27015,6 +27896,14 @@
   "author": "Steve Miller"
  },
  {
+  "date": "2017-07-18T17:41:51.001Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 35: Reporting Tips and Tricks",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/739ec4be-e3b0-402c-939b-a8470155f108/bd8d65ad-24f1-4b05-874b-a8470156370c/audio.mp3?utm_source=Podcast&in_playlist=1874ae4a-a5d0-4e62-8a98-a8470155f111&t=1513111591",
+  "author": "Steve Miller"
+ },
+ {
   "date": "2017-07-18T16:11:52.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -27204,6 +28093,14 @@
   "category": "Podcast",
   "title": "Episode 34: Web Services",
   "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-34-web-services",
+  "author": "Steve Miller"
+ },
+ {
+  "date": "2017-07-05T19:41:35.001Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 34: Web Services",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/739ec4be-e3b0-402c-939b-a8470155f108/7352bff3-a5d8-4ee7-bc6d-a847015643d9/audio.mp3?utm_source=Podcast&in_playlist=1874ae4a-a5d0-4e62-8a98-a8470155f111&t=1513111662",
   "author": "Steve Miller"
  },
  {
@@ -29879,6 +30776,14 @@
   "author": "Steve Miller"
  },
  {
+  "date": "2017-03-21T16:07:28.001Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 33: Service Portal in Istanbul",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/739ec4be-e3b0-402c-939b-a8470155f108/7526a020-8834-4d56-8bbf-a84701568ba5/audio.mp3?utm_source=Podcast&in_playlist=1874ae4a-a5d0-4e62-8a98-a8470155f111&t=1513111715",
+  "author": "Steve Miller"
+ },
+ {
   "date": "2017-03-21T14:09:16.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -30991,6 +31896,14 @@
   "author": "Steve Miller"
  },
  {
+  "date": "2017-01-31T16:53:52.001Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 32: Improving Performance",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/739ec4be-e3b0-402c-939b-a8470155f108/4207d6be-7eca-4d5a-ab1f-a84701569dae/audio.mp3?utm_source=Podcast&in_playlist=1874ae4a-a5d0-4e62-8a98-a8470155f111&t=1513111695",
+  "author": "Steve Miller"
+ },
+ {
   "date": "2017-01-31T16:42:53.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -31252,6 +32165,14 @@
   "category": "Podcast",
   "title": "Episode 31: Getting up to speed with Start Here content in Express",
   "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-31-getting-up-to-speed-with-start-here-con",
+  "author": "Steve Miller"
+ },
+ {
+  "date": "2017-01-16T20:58:18.001Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 31: Getting up to speed with Start Here content in Express",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/739ec4be-e3b0-402c-939b-a8470155f108/0fa69161-f31a-4cf8-85ee-a8470156a5a9/audio.mp3?utm_source=Podcast&in_playlist=1874ae4a-a5d0-4e62-8a98-a8470155f111&t=1513111720",
   "author": "Steve Miller"
  },
  {
@@ -32423,6 +33344,14 @@
   "author": "Steve Miller"
  },
  {
+  "date": "2016-11-07T18:39:18.001Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 30: Quarterly Patching Program",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/739ec4be-e3b0-402c-939b-a8470155f108/64347ebf-4e72-4e46-b8e3-a8470156ca8f/audio.mp3?utm_source=Podcast&in_playlist=1874ae4a-a5d0-4e62-8a98-a8470155f111&t=1513111761",
+  "author": "Steve Miller"
+ },
+ {
   "date": "2016-11-07T16:36:57.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -32732,6 +33661,14 @@
   "category": "Podcast",
   "title": "Episode 29: Integrations",
   "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-29-integrations",
+  "author": "Steve Miller"
+ },
+ {
+  "date": "2016-10-24T19:05:05.001Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 29: Integrations",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/739ec4be-e3b0-402c-939b-a8470155f108/5821f7f0-aff7-403d-b729-a8470156dd75/audio.mp3?utm_source=Podcast&in_playlist=1874ae4a-a5d0-4e62-8a98-a8470155f111&t=1513111808",
   "author": "Steve Miller"
  },
  {
@@ -33228,6 +34165,14 @@
   "category": "Podcast",
   "title": "Episode 28: Edge Encryption",
   "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-28-edge-encryption",
+  "author": "Steve Miller"
+ },
+ {
+  "date": "2016-10-03T19:06:23.001Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 28: Edge Encryption",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/739ec4be-e3b0-402c-939b-a8470155f108/9ace0f0a-0f2d-49d9-a468-a8470156e5fd/audio.mp3?utm_source=Podcast&in_playlist=1874ae4a-a5d0-4e62-8a98-a8470155f111&t=1513111813",
   "author": "Steve Miller"
  },
  {
@@ -34247,6 +35192,14 @@
   "author": "Steve Miller"
  },
  {
+  "date": "2016-08-30T22:39:22.001Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 27: Service Portal",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/739ec4be-e3b0-402c-939b-a8470155f108/fa7a7d3c-14ad-4c7d-92a1-a8470156f7eb/audio.mp3?utm_source=Podcast&in_playlist=1874ae4a-a5d0-4e62-8a98-a8470155f111&t=1513111823",
+  "author": "Steve Miller"
+ },
+ {
   "date": "2016-08-30T20:41:05.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -34575,6 +35528,14 @@
   "author": "Steve Miller"
  },
  {
+  "date": "2016-08-15T17:14:39.001Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 26: Knowledge Management Version 3",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/739ec4be-e3b0-402c-939b-a8470155f108/11b8adb0-8925-42a1-b425-a84701570616/audio.mp3?utm_source=Podcast&in_playlist=1874ae4a-a5d0-4e62-8a98-a8470155f111&t=1513111833",
+  "author": "Steve Miller"
+ },
+ {
   "date": "2016-08-15T15:01:26.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -34852,6 +35813,14 @@
   "category": "Podcast",
   "title": "Episode 25: Hibernation of Personal Developer Instances",
   "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-25-hibernation-of-personal-developer-insta",
+  "author": "Steve Miller"
+ },
+ {
+  "date": "2016-08-01T22:14:19.001Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 25: Hibernation of Personal Developer Instances",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/739ec4be-e3b0-402c-939b-a8470155f108/dc18e77e-46ba-4f91-a835-a847015710be/audio.mp3?utm_source=Podcast&in_playlist=1874ae4a-a5d0-4e62-8a98-a8470155f111&t=1513111819",
   "author": "Steve Miller"
  },
  {
@@ -35399,6 +36368,14 @@
   "author": "Steve Miller"
  },
  {
+  "date": "2016-06-30T22:25:39.001Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 24: ServiceNow Store partner Workato – The Cure For Your App Integration Blues",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/739ec4be-e3b0-402c-939b-a8470155f108/f6bc2876-9bfe-4348-b124-a84701575783/audio.mp3?utm_source=Podcast&in_playlist=1874ae4a-a5d0-4e62-8a98-a8470155f111&t=1513111866",
+  "author": "Steve Miller"
+ },
+ {
   "date": "2016-06-30T19:08:55.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -35508,6 +36485,14 @@
   "category": "Podcast",
   "title": "Episode 23: Reporting in Helsinki",
   "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-23-reporting-in-helsinki",
+  "author": "Steve Miller"
+ },
+ {
+  "date": "2016-06-27T19:00:13.001Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 23: Reporting in Helsinki",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/739ec4be-e3b0-402c-939b-a8470155f108/66139dc4-af54-456d-974b-a84701576434/audio.mp3?utm_source=Podcast&in_playlist=1874ae4a-a5d0-4e62-8a98-a8470155f111&t=1513111896",
   "author": "Steve Miller"
  },
  {
@@ -35780,6 +36765,14 @@
   "category": "Podcast",
   "title": "Episode 22: Security Operations",
   "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-22-security-operations",
+  "author": "Steve Miller"
+ },
+ {
+  "date": "2016-06-13T21:07:24.001Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 22: Security Operations",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/739ec4be-e3b0-402c-939b-a8470155f108/e047cb8c-9b79-443a-a512-a8470157748c/audio.mp3?utm_source=Podcast&in_playlist=1874ae4a-a5d0-4e62-8a98-a8470155f111&t=1513111883",
   "author": "Steve Miller"
  },
  {
@@ -36092,6 +37085,14 @@
   "category": "Podcast",
   "title": "Episode 21: What's New in Express—Helsinki Release",
   "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-21-whats-new-in-express-helsinki-release",
+  "author": "Steve Miller"
+ },
+ {
+  "date": "2016-05-27T23:04:45.001Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 21: What's New in Express—Helsinki Release",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/739ec4be-e3b0-402c-939b-a8470155f108/aa69f609-ce64-48b3-9d47-a84701578180/audio.mp3?utm_source=Podcast&in_playlist=1874ae4a-a5d0-4e62-8a98-a8470155f111&t=1513111925",
   "author": "Steve Miller"
  },
  {
@@ -36700,6 +37701,14 @@
   "category": "Podcast",
   "title": "Episode 20: HI Service Portal",
   "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-20-hi-service-portal",
+  "author": "Steve Miller"
+ },
+ {
+  "date": "2016-05-09T16:45:41.001Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 20: HI Service Portal",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/739ec4be-e3b0-402c-939b-a8470155f108/773ae14c-55e2-41e4-8534-a84701579220/audio.mp3?utm_source=Podcast&in_playlist=1874ae4a-a5d0-4e62-8a98-a8470155f111&t=1513111894",
   "author": "Steve Miller"
  },
  {
@@ -37327,6 +38336,14 @@
   "author": "Steve Miller"
  },
  {
+  "date": "2016-04-26T20:55:28.001Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 19: Automated Testing: Q&A with Roger Enriquez, Cerna Solutions",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/739ec4be-e3b0-402c-939b-a8470155f108/e5666fbb-1992-4c57-9d89-a8470157a84a/audio.mp3?utm_source=Podcast&in_playlist=1874ae4a-a5d0-4e62-8a98-a8470155f111&t=1513111929",
+  "author": "Steve Miller"
+ },
+ {
   "date": "2016-04-26T19:07:26.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -37639,6 +38656,14 @@
   "author": "Steve Miller"
  },
  {
+  "date": "2016-04-06T22:52:23.001Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 18: SDLC in the Project Portfolio Suite",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/739ec4be-e3b0-402c-939b-a8470155f108/4e6ae769-9408-4a05-8b90-a8470157ce11/audio.mp3?utm_source=Podcast&in_playlist=1874ae4a-a5d0-4e62-8a98-a8470155f111&t=1513111958",
+  "author": "Steve Miller"
+ },
+ {
   "date": "2016-04-06T20:49:53.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -37911,6 +38936,14 @@
   "author": "Steve Miller"
  },
  {
+  "date": "2016-03-21T18:06:17.001Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 17: Getting Started with the ServiceNow Documentation Site",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/739ec4be-e3b0-402c-939b-a8470155f108/d3a4068d-0fac-4154-a3a8-a8470157e5ea/audio.mp3?utm_source=Podcast&in_playlist=1874ae4a-a5d0-4e62-8a98-a8470155f111&t=1513111970",
+  "author": "Steve Miller"
+ },
+ {
   "date": "2016-03-21T16:38:56.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -38116,6 +39149,14 @@
   "category": "Podcast",
   "title": "Episode 16: ServiceNow Performance Analytics",
   "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-16-servicenow-performance-analytics",
+  "author": "Steve Miller"
+ },
+ {
+  "date": "2016-03-08T17:01:32.001Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 16: ServiceNow Performance Analytics",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/739ec4be-e3b0-402c-939b-a8470155f108/5b4ae1c4-9515-4472-9f13-a8470157f94a/audio.mp3?utm_source=Podcast&in_playlist=1874ae4a-a5d0-4e62-8a98-a8470155f111&t=1513112007",
   "author": "Steve Miller"
  },
  {
@@ -38407,6 +39448,14 @@
   "author": "Steve Miller"
  },
  {
+  "date": "2016-02-23T00:07:31.001Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 15: Reporting in ServiceNow",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/739ec4be-e3b0-402c-939b-a8470155f108/5ea62f51-8071-4508-bf9d-a84701580703/audio.mp3?utm_source=Podcast&in_playlist=1874ae4a-a5d0-4e62-8a98-a8470155f111&t=1513112025",
+  "author": "Steve Miller"
+ },
+ {
   "date": "2016-02-22T20:15:47.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -38583,6 +39632,14 @@
   "author": "Steve Miller"
  },
  {
+  "date": "2016-02-09T23:42:08.001Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 14: ServiceNow Store Update and Interview with MobiChord Co-Founder & CEO",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/739ec4be-e3b0-402c-939b-a8470155f108/8f2f062b-03d9-4d70-bc69-a847015812f8/audio.mp3?utm_source=Podcast&in_playlist=1874ae4a-a5d0-4e62-8a98-a8470155f111&t=1513112019",
+  "author": "Steve Miller"
+ },
+ {
   "date": "2016-02-09T18:36:20.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -38596,6 +39653,14 @@
   "category": "Podcast",
   "title": "Episode 13: Participating in the ServiceNow Online Community",
   "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-13-participating-in-the-servicenow-online",
+  "author": "Steve Miller"
+ },
+ {
+  "date": "2016-02-08T23:49:38.001Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 13: Participating in the ServiceNow Online Community",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/739ec4be-e3b0-402c-939b-a8470155f108/fc9543cb-60b8-47d9-81ce-a847015827ac/audio.mp3?utm_source=Podcast&in_playlist=1874ae4a-a5d0-4e62-8a98-a8470155f111&t=1513112063",
   "author": "Steve Miller"
  },
  {
@@ -38820,6 +39885,14 @@
   "category": "Podcast",
   "title": "Episode 12: Using the ServiceNow Knowledge Base Application",
   "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-12-using-the-servicenow-knowledge-base-app",
+  "author": "Steve Miller"
+ },
+ {
+  "date": "2016-01-25T23:09:06.001Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 12: Using the ServiceNow Knowledge Base Application",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/739ec4be-e3b0-402c-939b-a8470155f108/3f2ac4d4-fe65-423f-a3e8-a8470158367a/audio.mp3?utm_source=Podcast&in_playlist=1874ae4a-a5d0-4e62-8a98-a8470155f111&t=1513112055",
   "author": "Steve Miller"
  },
  {
@@ -39052,6 +40125,14 @@
   "category": "Podcast",
   "title": "Episode 11: New in the Geneva Release - Scripted REST APIs",
   "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-11-new-in-the-geneva-release-scripted-rest",
+  "author": "Steve Miller"
+ },
+ {
+  "date": "2016-01-11T20:23:46.001Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 11: New in the Geneva Release - Scripted REST APIs",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/739ec4be-e3b0-402c-939b-a8470155f108/d0e9639b-48ad-4528-b7de-a84701584344/audio.mp3?utm_source=Podcast&in_playlist=1874ae4a-a5d0-4e62-8a98-a8470155f111&t=1513112097",
   "author": "Steve Miller"
  },
  {
@@ -39391,6 +40472,14 @@
   "author": "Steve Miller"
  },
  {
+  "date": "2015-12-17T01:07:44.001Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 10: ServiceNow Store Updates and Evergreen CEO",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/739ec4be-e3b0-402c-939b-a8470155f108/ea531fdf-6f22-4408-a147-a847015850ed/audio.mp3?utm_source=Podcast&in_playlist=1874ae4a-a5d0-4e62-8a98-a8470155f111&t=1513112054",
+  "author": "Steve Miller"
+ },
+ {
   "date": "2015-12-17T00:53:37.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -39636,6 +40725,14 @@
   "category": "Podcast",
   "title": "Episode 9: ServiceNow Developers Site",
   "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-9-servicenow-developers-site",
+  "author": "Steve Miller"
+ },
+ {
+  "date": "2015-12-07T23:22:10.001Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 9: ServiceNow Developers Site",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/739ec4be-e3b0-402c-939b-a8470155f108/07b580a7-40eb-42ee-9e63-a84701585b24/audio.mp3?utm_source=Podcast&in_playlist=1874ae4a-a5d0-4e62-8a98-a8470155f111&t=1513112121",
   "author": "Steve Miller"
  },
  {
@@ -40180,6 +41277,14 @@
   "category": "Podcast",
   "title": "Episode 8: ServiceNow Security Incident Response",
   "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-8-servicenow-security-incident-response",
+  "author": "Steve Miller"
+ },
+ {
+  "date": "2015-11-10T16:39:09.001Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 8: ServiceNow Security Incident Response",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/739ec4be-e3b0-402c-939b-a8470155f108/1d766fa0-a340-4942-b96a-a84701586e50/audio.mp3?utm_source=Podcast&in_playlist=1874ae4a-a5d0-4e62-8a98-a8470155f111&t=1513112146",
   "author": "Steve Miller"
  },
  {
@@ -40767,6 +41872,14 @@
   "author": "Steve Miller"
  },
  {
+  "date": "2015-10-22T23:45:46.001Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 7: ServiceNow Knowledge Management",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/739ec4be-e3b0-402c-939b-a8470155f108/e0497500-8ae6-4189-8334-a84701587e22/audio.mp3?utm_source=Podcast&in_playlist=1874ae4a-a5d0-4e62-8a98-a8470155f111&t=1513112147",
+  "author": "Steve Miller"
+ },
+ {
   "date": "2015-10-22T21:14:07.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -40988,6 +42101,14 @@
   "category": "Podcast",
   "title": "Episode 6: ServiceNow Field Service Management and Geolocation",
   "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-6-servicenow-field-service-management-and",
+  "author": "Steve Miller"
+ },
+ {
+  "date": "2015-10-12T18:17:46.001Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 6: ServiceNow Field Service Management and Geolocation",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/739ec4be-e3b0-402c-939b-a8470155f108/207a8a6d-beb0-491b-923b-a84701588ba6/audio.mp3?utm_source=Podcast&in_playlist=1874ae4a-a5d0-4e62-8a98-a8470155f111&t=1513112122",
   "author": "Steve Miller"
  },
  {
@@ -41260,6 +42381,14 @@
   "category": "Podcast",
   "title": "Episode 5: Discovery - Tips, Tricks, and Best Practices",
   "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-5-discovery-tips-tricks-and-best-practices",
+  "author": "Steve Miller"
+ },
+ {
+  "date": "2015-09-29T16:52:54.001Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 5: Discovery - Tips, Tricks, and Best Practices",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/739ec4be-e3b0-402c-939b-a8470155f108/69bbbe63-9722-4be0-ac14-a8470158988f/audio.mp3?utm_source=Podcast&in_playlist=1874ae4a-a5d0-4e62-8a98-a8470155f111&t=1513112204",
   "author": "Steve Miller"
  },
  {
@@ -41647,6 +42776,14 @@
   "author": "Steve Miller"
  },
  {
+  "date": "2015-09-10T20:35:54.001Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 4: ServiceNow Visual Task Boards",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/739ec4be-e3b0-402c-939b-a8470155f108/a21ea6c5-05d8-4708-9f14-a8470158a841/audio.mp3?utm_source=Podcast&in_playlist=1874ae4a-a5d0-4e62-8a98-a8470155f111&t=1513112173",
+  "author": "Steve Miller"
+ },
+ {
   "date": "2015-09-10T18:56:07.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -41767,6 +42904,14 @@
   "author": "Steve Miller"
  },
  {
+  "date": "2015-09-04T21:33:57.001Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 3: Developing Apps For The ServiceNow Store",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/739ec4be-e3b0-402c-939b-a8470155f108/743e5380-82fd-49a4-bf68-a8470158b9ca/audio.mp3?utm_source=Podcast&in_playlist=1874ae4a-a5d0-4e62-8a98-a8470155f111&t=1513112216",
+  "author": "Steve Miller"
+ },
+ {
   "date": "2015-09-04T21:29:29.001Z",
   "site": "ServiceNow TechBytes Podcast",
   "category": "Podcast",
@@ -41775,11 +42920,27 @@
   "author": "Steve Miller"
  },
  {
+  "date": "2015-09-04T21:29:29.001Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 2: ServiceNow Express Implementation Tips To Automate Business Processes",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/739ec4be-e3b0-402c-939b-a8470155f108/411e4838-71e3-45a0-b6ef-a8470158dc16/audio.mp3?utm_source=Podcast&in_playlist=1874ae4a-a5d0-4e62-8a98-a8470155f111&t=1513112208",
+  "author": "Steve Miller"
+ },
+ {
   "date": "2015-09-04T19:50:27.001Z",
   "site": "ServiceNow TechBytes Podcast",
   "category": "Podcast",
   "title": "Episode 1: ServiceNow Store Updates & Event Management Integrations App By Evanios",
   "link": "https://omny.fm/shows/servicenow-techbytes-1/episode-1-servicenow-store-updates-event-managemen",
+  "author": "Steve Miller"
+ },
+ {
+  "date": "2015-09-04T19:50:27.001Z",
+  "site": "ServiceNow TechBytes Podcast",
+  "category": "Podcast",
+  "title": "Episode 1: ServiceNow Store Updates & Event Management Integrations App By Evanios",
+  "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/739ec4be-e3b0-402c-939b-a8470155f108/483f4ad8-414f-42be-aacc-a8470158e9c3/audio.mp3?utm_source=Podcast&in_playlist=1874ae4a-a5d0-4e62-8a98-a8470155f111&t=1513112274",
   "author": "Steve Miller"
  },
  {

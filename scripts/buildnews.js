@@ -275,12 +275,16 @@ module.exports = {
                 //console.log(feed.items.length>0);
                 feed.items.forEach(function (item) {
                     var forceUpdateDate = item.isoDate.replace('0Z', '1Z');
+                    var link = item.link;
+                    if(item.enclosure){
+                        link = item.enclosure.url;
+                    }
                     outputObj.news.push({
                         date: forceUpdateDate,//item.isoDate,
                         site: rssFeed.title,
                         category: rssFeed.type,
                         title: item.title,
-                        link: item.link,
+                        link: link,
                         author: rssFeed.author//item.author || 
                     });
                     //console.log(item);
