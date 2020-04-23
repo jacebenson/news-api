@@ -8,14 +8,6 @@
   "author": "Randy Haas and Jason Gibson"
  },
  {
-  "date": "2020-04-23T17:25:08.001Z",
-  "site": "ServiceSharp",
-  "category": "Podcast",
-  "title": "2x8 CMDB Part 1",
-  "link": "https://anchor.fm/s/a71217c/podcast/play/12819769/sponsor/at4tct/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-04-23%2F83ff249cb96620e4f4f1d11d3f458d02.m4a",
-  "author": "Randy Haas and Jason Gibson"
- },
- {
   "date": "2020-04-23T12:41:24.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -4848,14 +4840,6 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=27521d19db1c549c5129a851ca9619fa"
  },
  {
-  "date": "2020-04-17T15:36:12.001Z",
-  "site": "ServiceSharp",
-  "category": "Podcast",
-  "title": "2x7 API Integrations",
-  "link": "https://anchor.fm/s/a71217c/podcast/play/12531062/sponsor/at4tct/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-04-17%2F992d9fb11d068b0987eb2d7c39bf083d.m4a",
-  "author": "Randy Haas and Jason Gibson"
- },
- {
   "date": "2020-04-16T13:00:00.001Z",
   "site": "CJ & The Duke",
   "category": "Podcast",
@@ -4878,24 +4862,7 @@
   "title": "Knowledge is Going Digital: What's coming!",
   "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/d7d10000-50e4-42aa-96ae-a84701459fc6/fba43132-af45-4ead-bbb5-ab97016d58fb/audio.mp3?utm_source=Podcast&in_playlist=c27942bc-1e3d-412a-a004-a9fa0168417c&t=1586383830",
   "author": "Miscellaneous."
- },
- {
-  "date": "2020-04-06T17:57:57.001Z",
-  "site": "ServiceSharp",
-  "category": "Podcast",
-  "title": "2X6 Special Guest Avery Williamson",
-  "link": "https://anchor.fm/s/a71217c/podcast/play/12080494/sponsor/at4tct/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-04-06%2F77aaecb7c81072a531b3dfa08c50acdc.m4a",
-  "author": "Randy Haas and Jason Gibson"
- },
- {
-  "date": "2020-03-31T19:14:21.001Z",
-  "site": "ServiceSharp",
-  "category": "Podcast",
-  "title": "2x5 working from home",
-  "link": "https://anchor.fm/s/a71217c/podcast/play/11821612/sponsor/at4tct/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-03-31%2F1063d3c449882c9632ba1286030c54d1.m4a",
-  "author": "Randy Haas and Jason Gibson"
- },
- {
+ },{
   "date": "2020-03-30T09:11:49.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -4904,28 +4871,12 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=cd11903adbf7485823f4a345ca961922"
  },
  {
-  "date": "2020-03-09T14:53:49.001Z",
-  "site": "ServiceSharp",
-  "category": "Podcast",
-  "title": "2x4 Portals",
-  "link": "https://anchor.fm/s/a71217c/podcast/play/10936337/sponsor/at4tct/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-03-09%2F758823ae9379e494e9cb774b0df0c0f6.m4a",
-  "author": "Randy Haas and Jason Gibson"
- },
- {
   "date": "2020-02-21T14:52:00.001Z",
   "site": "ServiceNow Community Podcasts",
   "category": "Podcast",
   "title": "EMEA Episode 12 - Digital Literacy with Faez Ahmed",
   "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/d7d10000-50e4-42aa-96ae-a84701459fc6/c5c8327b-caf3-48ae-96b1-ab6800f425d5/audio.mp3?utm_source=Podcast&in_playlist=c27942bc-1e3d-412a-a004-a9fa0168417c&t=1583520546",
   "author": "Miscellaneous."
- },
- {
-  "date": "2020-02-12T04:50:09.001Z",
-  "site": "ServiceSharp",
-  "category": "Podcast",
-  "title": "2x3 The new mobile apps and some listener questions:",
-  "link": "https://anchor.fm/s/a71217c/podcast/play/10219635/sponsor/at4tct/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-02-12%2F8511114980fbb1a8ab4b0a6850d87524.m4a",
-  "author": "Randy Haas and Jason Gibson"
  },
  {
   "date": "2020-02-11T13:46:00.001Z",
@@ -4942,22 +4893,6 @@
   "title": "The Road To Knowledge: The value of Knowledge",
   "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/d7d10000-50e4-42aa-96ae-a84701459fc6/2f74dffe-fe30-4d8b-acc7-ab580139f214/audio.mp3?utm_source=Podcast&in_playlist=c27942bc-1e3d-412a-a004-a9fa0168417c&t=1580929548",
   "author": "Miscellaneous."
- },
- {
-  "date": "2020-02-03T21:44:30.001Z",
-  "site": "ServiceSharp",
-  "category": "Podcast",
-  "title": "2x2 Admin and Buy In",
-  "link": "https://anchor.fm/s/a71217c/podcast/play/10147681/sponsor/at4tct/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-02-03%2F58da5602334e6a3fdbda5e7ab1a2ff4c.m4a",
-  "author": "Randy Haas and Jason Gibson"
- },
- {
-  "date": "2020-01-28T18:02:52.001Z",
-  "site": "ServiceSharp",
-  "category": "Podcast",
-  "title": "2x1 Upgrades",
-  "link": "https://anchor.fm/s/a71217c/podcast/play/10019891/sponsor/at4tct/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-03-10%2F14bc8c6cf5ccbf367600dc3234e75377.m4a",
-  "author": "Randy Haas and Jason Gibson"
  },
  {
   "date": "2020-01-28T01:14:05.001Z",
@@ -5669,14 +5604,6 @@
   "category": "Podcast",
   "title": "1x13. 99 Problems but ServiceNow aint one",
   "link": "https://anchor.fm/servicesharp/episodes/1x13--99-Problems-but-ServiceNow-aint-one-e9io28",
-  "author": "Randy Haas and Jason Gibson"
- },
- {
-  "date": "2019-12-17T23:52:51.001Z",
-  "site": "ServiceSharp",
-  "category": "Podcast",
-  "title": "1x13. 99 Problems but ServiceNow aint one",
-  "link": "https://anchor.fm/s/a71217c/podcast/play/9051656/sponsor/at4tct/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-03-04%2F9d6d78d1abfdae2ba6e7b8979b2eb5b6.m4a",
   "author": "Randy Haas and Jason Gibson"
  },
  {
@@ -6880,14 +6807,6 @@
   "author": "Randy Haas and Jason Gibson"
  },
  {
-  "date": "2019-11-06T17:25:53.001Z",
-  "site": "ServiceSharp",
-  "category": "Podcast",
-  "title": "12. ServiceNow Questions and Answers part 2",
-  "link": "https://anchor.fm/s/a71217c/podcast/play/8288533/sponsor/at4tct/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-02-28%2Fbb6a170ed104892af6be8dadab8d2260.m4a",
-  "author": "Randy Haas and Jason Gibson"
- },
- {
   "date": "2019-11-06T12:54:32.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -7432,14 +7351,6 @@
   "author": "Randy Haas and Jason Gibson"
  },
  {
-  "date": "2019-10-18T00:46:58.001Z",
-  "site": "ServiceSharp",
-  "category": "Podcast",
-  "title": "11 Questions and Answers Pt 1",
-  "link": "https://anchor.fm/s/a71217c/podcast/play/7176583/sponsor/at4tct/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-02-25%2F3a593e9f59e412e93ab82cea2e015c80.m4a",
-  "author": "Randy Haas and Jason Gibson"
- },
- {
   "date": "2019-10-17T23:42:14.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -7789,14 +7700,6 @@
   "category": "Podcast",
   "title": "10 - Incidents and Requests in ServiceNow",
   "link": "https://anchor.fm/servicesharp/episodes/10---Incidents-and-Requests-in-ServiceNow-e6e5e3",
-  "author": "Randy Haas and Jason Gibson"
- },
- {
-  "date": "2019-10-08T21:27:13.001Z",
-  "site": "ServiceSharp",
-  "category": "Podcast",
-  "title": "10 - Incidents and Requests in ServiceNow",
-  "link": "https://anchor.fm/s/a71217c/podcast/play/5755779/sponsor/at4tct/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-02-24%2F64f5104074d0e3a3a13b35f0822a5e03.m4a",
   "author": "Randy Haas and Jason Gibson"
  },
  {
@@ -10624,14 +10527,6 @@
   "author": "Randy Haas and Jason Gibson"
  },
  {
-  "date": "2019-07-04T03:11:46.001Z",
-  "site": "ServiceSharp",
-  "category": "Podcast",
-  "title": "Roadmaps and Strategy",
-  "link": "https://anchor.fm/s/a71217c/podcast/play/3758886/sponsor/at4tct/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-02-17%2F0a6a51225dec72430e5c6d6d266ab59c.m4a",
-  "author": "Randy Haas and Jason Gibson"
- },
- {
   "date": "2019-07-03T23:22:10.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -10789,14 +10684,6 @@
   "category": "Podcast",
   "title": "Required elements for success part 3",
   "link": "https://anchor.fm/servicesharp/episodes/Required-elements-for-success-part-3-e4d0uc",
-  "author": "Randy Haas and Jason Gibson"
- },
- {
-  "date": "2019-06-25T15:43:17.001Z",
-  "site": "ServiceSharp",
-  "category": "Podcast",
-  "title": "Required elements for success part 3",
-  "link": "https://anchor.fm/s/a71217c/podcast/play/3621260/sponsor/at4tct/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-02-17%2F31e24de7a41241c11e4bf0a77ae9a26f.m4a",
   "author": "Randy Haas and Jason Gibson"
  },
  {
@@ -11144,14 +11031,6 @@
   "author": "Randy Haas and Jason Gibson"
  },
  {
-  "date": "2019-06-11T05:31:02.001Z",
-  "site": "ServiceSharp",
-  "category": "Podcast",
-  "title": "Required elements for success in ServiceNow Part 2",
-  "link": "https://anchor.fm/s/a71217c/podcast/play/3530798/sponsor/at4tct/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-02-17%2F4dec2301c178645f0e3d650a21ca4cfd.m4a",
-  "author": "Randy Haas and Jason Gibson"
- },
- {
   "date": "2019-06-10T20:29:10.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -11333,14 +11212,6 @@
   "category": "Podcast",
   "title": "Required Elements for Success in ServiceNow Part 1",
   "link": "https://anchor.fm/servicesharp/episodes/Required-Elements-for-Success-in-ServiceNow-Part-1-e45ot1",
-  "author": "Randy Haas and Jason Gibson"
- },
- {
-  "date": "2019-05-28T04:30:23.001Z",
-  "site": "ServiceSharp",
-  "category": "Podcast",
-  "title": "Required Elements for Success in ServiceNow Part 1",
-  "link": "https://anchor.fm/s/a71217c/podcast/play/3383649/sponsor/at4tct/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-02-16%2Fb9bdf8969980e3baafaab14b47c82d8b.m4a",
   "author": "Randy Haas and Jason Gibson"
  },
  {
@@ -11888,14 +11759,6 @@
   "author": "Randy Haas and Jason Gibson"
  },
  {
-  "date": "2019-05-09T04:08:29.001Z",
-  "site": "ServiceSharp",
-  "category": "Podcast",
-  "title": "Knowledge 2019 ",
-  "link": "https://anchor.fm/s/a71217c/podcast/play/3186375/sponsor/at4tct/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-02-16%2Faa622f29a898204cf24cee3e000fce3c.m4a",
-  "author": "Randy Haas and Jason Gibson"
- },
- {
   "date": "2019-05-08T23:20:00.001Z",
   "site": "CloudMinus89",
   "category": "Blog",
@@ -12045,14 +11908,6 @@
   "category": "Podcast",
   "title": "Upgrades and Clones",
   "link": "https://anchor.fm/servicesharp/episodes/Upgrades-and-Clones-e3uq7m",
-  "author": "Randy Haas and Jason Gibson"
- },
- {
-  "date": "2019-05-06T20:30:59.001Z",
-  "site": "ServiceSharp",
-  "category": "Podcast",
-  "title": "Upgrades and Clones",
-  "link": "https://anchor.fm/s/a71217c/podcast/play/3155638/sponsor/at4tct/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-02-16%2Fdfa9914278f2b6687916deb2f8eb57ea.m4a",
   "author": "Randy Haas and Jason Gibson"
  },
  {
@@ -12368,14 +12223,6 @@
   "author": "Randy Haas and Jason Gibson"
  },
  {
-  "date": "2019-04-29T20:52:02.001Z",
-  "site": "ServiceSharp",
-  "category": "Podcast",
-  "title": "Change Management",
-  "link": "https://anchor.fm/s/a71217c/podcast/play/3082948/sponsor/at4tct/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-02-16%2Fc78bac0718260a8326cc4ae6d77e2d77.m4a",
-  "author": "Randy Haas and Jason Gibson"
- },
- {
   "date": "2019-04-29T20:42:04.001Z",
   "site": "ServiceNow TechBytes Podcast",
   "category": "Podcast",
@@ -12656,14 +12503,6 @@
   "author": "Randy Haas and Jason Gibson"
  },
  {
-  "date": "2019-04-22T05:07:09.001Z",
-  "site": "ServiceSharp",
-  "category": "Podcast",
-  "title": "Configurations vs Customizations",
-  "link": "https://anchor.fm/s/a71217c/podcast/play/3006373/sponsor/at4tct/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-02-15%2Fb800f994f671a5bca7028e90145a9253.m4a",
-  "author": "Randy Haas and Jason Gibson"
- },
- {
   "date": "2019-04-22T00:00:00.001Z",
   "site": "jace.pro",
   "category": "Blog",
@@ -12909,14 +12748,6 @@
   "category": "Podcast",
   "title": "Starting off.. ",
   "link": "https://anchor.fm/servicesharp/episodes/Starting-off-e3nksa",
-  "author": "Randy Haas and Jason Gibson"
- },
- {
-  "date": "2019-04-16T22:36:55.001Z",
-  "site": "ServiceSharp",
-  "category": "Podcast",
-  "title": "Starting off.. ",
-  "link": "https://anchor.fm/s/a71217c/podcast/play/2920778/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-02-15%2Ff168184c842426f8c2bddbac05f04876.m4a",
   "author": "Randy Haas and Jason Gibson"
  },
  {

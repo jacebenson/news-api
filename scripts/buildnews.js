@@ -276,7 +276,7 @@ module.exports = {
                 feed.items.forEach(function (item) {
                     var forceUpdateDate = item.isoDate.replace('0Z', '1Z');
                     var link = item.link;
-                    if(item.enclosure){
+                    if(!item.link && item.enclosure){
                         link = item.enclosure.url;
                     }
                     outputObj.news.push({
