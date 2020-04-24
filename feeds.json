@@ -4952,14 +4952,6 @@
   "author": "snhackery"
  },
  {
-  "date": "2020-01-25T04:25:00.001Z",
-  "site": "CJ & The Duke",
-  "category": "Podcast",
-  "title": "Ep004 - Adventures at ServiceNow Sales Kickoff",
-  "link": "https://media.transistor.fm/17cb9d81.mp3",
-  "author": "Robert Fedoruk, and Corey Wesley"
- },
- {
   "date": "2020-01-13T22:49:14.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -5013,14 +5005,6 @@
   "category": "Podcast",
   "title": "Ep003 - Learning ServiceNow the Hard Way",
   "link": "https://share.transistor.fm/s/70cc4478",
-  "author": "Robert Fedoruk, and Corey Wesley"
- },
- {
-  "date": "2020-01-12T00:30:00.001Z",
-  "site": "CJ & The Duke",
-  "category": "Podcast",
-  "title": "Ep003 - Learning ServiceNow the Hard Way",
-  "link": "https://media.transistor.fm/8e36ced2.mp3",
   "author": "Robert Fedoruk, and Corey Wesley"
  },
  {
@@ -5416,14 +5400,6 @@
   "author": "Robert Fedoruk, and Corey Wesley"
  },
  {
-  "date": "2019-12-30T18:00:00.001Z",
-  "site": "CJ & The Duke",
-  "category": "Podcast",
-  "title": "Ep002 - Origins",
-  "link": "https://media.transistor.fm/d8e52619.mp3",
-  "author": "Robert Fedoruk, and Corey Wesley"
- },
- {
   "date": "2019-12-28T02:51:11.001Z",
   "site": "Andrew Albury-Dor",
   "category": "YouTube",
@@ -5518,14 +5494,6 @@
   "title": "Titans of #ServiceNow - Hichem Guemiri",
   "link": "https://www.youtube.com/watch?v=rQyaOEd1M-8",
   "author": "Robert Fedoruk"
- },
- {
-  "title": "Titans of #ServiceNow - Hichem Guemiri",
-  "author": "Robert Fedoruk",
-  "category": "YouTube",
-  "date": "2019-12-19T23:59:59.999Z",
-  "link": "https://www.youtube.com/watch?v=rQyaOEd1M-8&t=16s",
-  "site": "Robert, The Duke, Fedoruk"
  },
  {
   "date": "2019-12-19T22:49:01.000Z",
@@ -5733,14 +5701,6 @@
   "category": "Podcast",
   "title": "Ep001 - What is a ServiceNow Architect?",
   "link": "https://share.transistor.fm/s/3c3c9140",
-  "author": "Robert Fedoruk, and Corey Wesley"
- },
- {
-  "date": "2019-12-12T04:00:00.001Z",
-  "site": "CJ & The Duke",
-  "category": "Podcast",
-  "title": "Ep001 - What is a ServiceNow Architect?",
-  "link": "https://media.transistor.fm/419cf329.mp3",
   "author": "Robert Fedoruk, and Corey Wesley"
  },
  {
@@ -6830,6 +6790,14 @@
   "title": "Add expand and collapse functionality to any Knowledge article",
   "author": "Lokenath Chakraborty",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=5faa87a3db3cc8d0190dfb2439961904"
+ },
+ {
+  "date": "2019-11-05T00:00:00.001Z",
+  "site": "earlduque.com",
+  "category": "Blog",
+  "title": "Copy Field Name, Value, and Display Value on Lists",
+  "link": "https://earlduque.com/2019/11/05/copy-field-stuff-on-list.html",
+  "author": "Earl Duque"
  },
  {
   "date": "2019-11-04T23:38:19.001Z",
@@ -9240,6 +9208,14 @@
   "author": " - "
  },
  {
+  "date": "2019-08-21T00:00:00.001Z",
+  "site": "earlduque.com",
+  "category": "Blog",
+  "title": "D&D Podcast",
+  "link": "https://earlduque.com/2019/08/21/dnd-podcast.html",
+  "author": "Earl Duque"
+ },
+ {
   "date": "2019-08-20T10:00:00.001Z",
   "site": "Acorio - Candid Podcast",
   "category": "Podcast",
@@ -9734,6 +9710,14 @@
   "title": "Video: Community Live Stream - 2019-07-31",
   "author": "Chuck Tomasi",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=0463eda4dbc37bc06064eeb5ca961982"
+ },
+ {
+  "date": "2019-07-31T00:00:00.001Z",
+  "site": "earlduque.com",
+  "category": "Blog",
+  "title": "Client Callable and Server Callable Script Includes",
+  "link": "https://earlduque.com/2019/07/31/Client-Callable-and-Server-Callable-Script-Includes.html",
+  "author": "Earl Duque"
  },
  {
   "date": "2019-07-30T20:10:53.000Z",
@@ -10278,6 +10262,14 @@
   "title": "Combine humans and bots for a winning customer service experience",
   "author": "paulselby",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=b6dddb09db6efbc0e0e80b55ca96190b"
+ },
+ {
+  "date": "2019-07-08T00:00:00.001Z",
+  "site": "earlduque.com",
+  "category": "Blog",
+  "title": "Strong Password Generator (inspired by XKCD)",
+  "link": "https://earlduque.com/2019/07/08/Strong-Password_Generator-(inspired-by-XKCD).html",
+  "author": "Earl Duque"
  },
  {
   "title": "#ServiceNow Reporting: Using the Relative Operator",
@@ -10872,6 +10864,14 @@
   "link": "https://community.servicenow.com/community?id=community_article&sys_id=af47939edb317780a39a0b55ca9619d0"
  },
  {
+  "date": "2019-06-05T00:00:00.001Z",
+  "site": "earlduque.com",
+  "category": "Blog",
+  "title": "Custom Notifications for non-admins",
+  "link": "https://earlduque.com/2019/06/05/custom-notifications-for-non-admins.html",
+  "author": "Earl Duque"
+ },
+ {
   "date": "2019-06-04T19:23:55.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -10966,6 +10966,30 @@
   "title": "500 applications on the ServiceNow Store!",
   "author": "David.Gatley",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=b504f0fcdbbdb7801cd8a345ca961972"
+ },
+ {
+  "date": "2019-05-31T00:00:00.001Z",
+  "site": "earlduque.com",
+  "category": "Blog",
+  "title": "ServiceNow and Dicebear Avatars Integration",
+  "link": "https://earlduque.com/2019/05/31/ServiceNow-User-Avatars.html",
+  "author": "Earl Duque"
+ },
+ {
+  "date": "2019-05-30T00:00:00.001Z",
+  "site": "earlduque.com",
+  "category": "Blog",
+  "title": "Random User Agent",
+  "link": "https://earlduque.com/2019/05/30/random-user-agent.html",
+  "author": "Earl Duque"
+ },
+ {
+  "date": "2019-05-29T00:00:00.001Z",
+  "site": "earlduque.com",
+  "category": "Blog",
+  "title": "Contributions to SNDevs Points Thing",
+  "link": "https://earlduque.com/2019/05/29/contributions-to-sndevs-points-thing.html",
+  "author": "Earl Duque"
  },
  {
   "date": "2019-05-28T23:53:37.001Z",
@@ -11094,6 +11118,14 @@
   "title": "Using cyber exposure to objectively measure cyber risk",
   "author": "teresalaw",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=50bee8aadbe1ff04fece0b55ca96197d"
+ },
+ {
+  "date": "2019-05-24T00:00:00.001Z",
+  "site": "earlduque.com",
+  "category": "Blog",
+  "title": "The start of this",
+  "link": "https://earlduque.com/2019/05/24/the-start-of-this.html",
+  "author": "Earl Duque"
  },
  {
   "title": "#ServiceNow Reporting: Using Trend Condition",
@@ -12080,6 +12112,14 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=77746a62db457bc4a39a0b55ca961998"
  },
  {
+  "date": "2019-04-29T00:00:00.001Z",
+  "site": "earlduque.com",
+  "category": "Blog",
+  "title": "Copy Table",
+  "link": "https://earlduque.com/2019/04/29/copy-table.html",
+  "author": "Earl Duque"
+ },
+ {
   "date": "2019-04-28T22:23:35.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -12752,6 +12792,14 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=ed3372f3db2cbb04e0e80b55ca961941"
  },
  {
+  "date": "2019-04-08T00:00:00.001Z",
+  "site": "earlduque.com",
+  "category": "Blog",
+  "title": "Copy Field Name, Value, and Display Value on Forms",
+  "link": "https://earlduque.com/2019/04/08/copy-field-stuff-on-form.html",
+  "author": "Earl Duque"
+ },
+ {
   "date": "2019-04-07T12:23:57.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -13008,6 +13056,22 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=438544ccdba0b78823f4a345ca9619eb"
  },
  {
+  "date": "2019-03-27T00:00:00.001Z",
+  "site": "earlduque.com",
+  "category": "Blog",
+  "title": "Service Portal Favorites",
+  "link": "https://earlduque.com/2019/03/27/service-portal-favorites.html",
+  "author": "Earl Duque"
+ },
+ {
+  "date": "2019-03-27T00:00:00.001Z",
+  "site": "earlduque.com",
+  "category": "Blog",
+  "title": "Cross Instance User Management",
+  "link": "https://earlduque.com/2019/03/27/cross-instance-user-management.html",
+  "author": "Earl Duque"
+ },
+ {
   "title": "Exploring UI16 Dev Patch by Whitespace Studios",
   "author": "Robert Fedoruk",
   "category": "YouTube",
@@ -13070,6 +13134,14 @@
   "title": "The Road to Knowledge: The ServiceNow Brand",
   "link": "https://omny.fm/shows/servicenow-cloudcast/the-road-to-knowledge-the-servicenow-brand",
   "author": "Miscellaneous"
+ },
+ {
+  "date": "2019-03-26T00:00:00.001Z",
+  "site": "earlduque.com",
+  "category": "Blog",
+  "title": "ServiceNow Web Scraper",
+  "link": "https://earlduque.com/2019/03/26/servicenow-web-scraper.html",
+  "author": "Earl Duque"
  },
  {
   "date": "2019-03-25T15:21:16.000Z",
@@ -13278,6 +13350,14 @@
   "title": "Advanced Reporting",
   "link": "https://jace.pro/post/2019-03-19-reporting-/",
   "author": "Jace Benson"
+ },
+ {
+  "date": "2019-03-19T00:00:00.001Z",
+  "site": "earlduque.com",
+  "category": "Blog",
+  "title": "Discord Bot Stat Tracker",
+  "link": "https://earlduque.com/2019/03/19/discord-bot-stat-tracker.html",
+  "author": "Earl Duque"
  },
  {
   "date": "2019-03-18T20:08:30.000Z",

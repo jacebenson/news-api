@@ -256,8 +256,12 @@ module.exports = {
                 "type": "Blog",
                 "url": "https://snhackery.com/feed/",
                 "author": "snhackery"
+            }, {
+                "title": "earlduque.com",
+                "type": "Blog",
+                "url": "https://earlduque.com/feed.xml",
+                "author": "Earl Duque"
             }
-
             //{ "title": "ServiceNow Vimeo", "type": "Vimeo", "url": "https://vimeo.com/servicenow/videos/rss" },
             //{ "title": "Fruition Partners Vimeo", "type": "Vimeo", "url": "https://vimeo.com/user4353238/videos/rss" },
             //{ "title": "Linium Blog", "type": "Blog", "url": "https://www.linium.com/blog/rss.xml" },
