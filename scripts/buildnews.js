@@ -251,6 +251,11 @@ module.exports = {
                 "type": "Blog",
                 "url": "https://www.snc-blog.com/feed",
                 "author": "Miscellaneous"
+            }, {
+                "title": "snhackery.com",
+                "type": "Blog",
+                "url": "https://snhackery.com/feed/",
+                "author": "snhackery"
             }
 
             //{ "title": "ServiceNow Vimeo", "type": "Vimeo", "url": "https://vimeo.com/servicenow/videos/rss" },

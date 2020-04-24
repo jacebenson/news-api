@@ -1,5 +1,21 @@
 [
  {
+  "date": "2020-04-24T05:07:48.001Z",
+  "site": "jace.pro",
+  "category": "Blog",
+  "title": "How Virtual Task Boards Broke Labels / Tags",
+  "link": "https://jace.pro/post/2020-04-23-how-vtb-broke-labels-tags/",
+  "author": "Jace Benson"
+ },
+ {
+  "date": "2020-04-24T01:58:45.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "【リコージャパン株式会社】Microsoft Teamsとの通知連携",
+  "author": "Toru Inoue",
+  "link": "https://community.servicenow.com/community?id=community_blog&sys_id=85bd97a6db1c14901cd8a345ca9619ca"
+ },
+ {
   "date": "2020-04-23T17:25:08.001Z",
   "site": "ServiceSharp",
   "category": "Podcast",
@@ -4632,6 +4648,30 @@
   "site": "Robert, The Duke, Fedoruk"
  },
  {
+  "date": "2020-04-24T04:24:10.001Z",
+  "site": "jace.pro",
+  "category": "Blog",
+  "title": "Fix Scripts Can Rollback Now",
+  "link": "https://jace.pro/post/2020-04-23-fix-scripts-can-rollback-now/",
+  "author": "Jace Benson"
+ },
+ {
+  "date": "2020-04-24T03:00:00.001Z",
+  "site": "andrew.alburydor.com",
+  "category": "Blog",
+  "title": "Knowledge 2020 CreatorCon Virtual Hackathon",
+  "link": "https://andrew.alburydor.com/posts/2020-04-24-k20-hackathon/",
+  "author": "Andrew Albury-Dor"
+ },
+ {
+  "date": "2020-04-24T02:29:43.001Z",
+  "site": "jace.pro",
+  "category": "Blog",
+  "title": "K20's Hackathon",
+  "link": "https://jace.pro/post/2020-04-23-k20-hackathon-see-you-there/",
+  "author": "Jace Benson"
+ },
+ {
   "date": "2020-04-23T15:44:06.001Z",
   "site": "finite-partners.com",
   "category": "Blog",
@@ -4792,6 +4832,14 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=ac39f6fddb545810d82ffb24399619da"
  },
  {
+  "date": "2020-04-21T13:53:48.001Z",
+  "site": "snhackery.com",
+  "category": "Blog",
+  "title": "My Delegates Widget, Enhanced",
+  "link": "https://snhackery.com/2020/04/21/my-delegates-widget-enhanced/",
+  "author": "snhackery"
+ },
+ {
   "date": "2020-04-21T13:36:13.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -4862,13 +4910,86 @@
   "title": "Knowledge is Going Digital: What's coming!",
   "link": "https://traffic.omny.fm/d/clips/922e0f19-2d84-4485-835c-a83f00036b00/d7d10000-50e4-42aa-96ae-a84701459fc6/fba43132-af45-4ead-bbb5-ab97016d58fb/audio.mp3?utm_source=Podcast&in_playlist=c27942bc-1e3d-412a-a004-a9fa0168417c&t=1586383830",
   "author": "Miscellaneous."
- },{
+ },
+ {
+  "date": "2020-04-07T13:57:37.001Z",
+  "site": "snhackery.com",
+  "category": "Blog",
+  "title": "More Fun with Form Fields",
+  "link": "https://snhackery.com/2020/04/07/more-fun-with-form-fields/",
+  "author": "snhackery"
+ },
+ {
+  "date": "2020-04-01T13:57:24.001Z",
+  "site": "snhackery.com",
+  "category": "Blog",
+  "title": "Formatted Script Search Results, Corrected",
+  "link": "https://snhackery.com/2020/04/01/formatted-script-search-results-corrected/",
+  "author": "snhackery"
+ },
+ {
   "date": "2020-03-30T09:11:49.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
   "title": "[New] Now Support (HI) Service Catalog Item - Database Footprint",
   "author": "Vikas",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=cd11903adbf7485823f4a345ca961922"
+ },
+ {
+  "date": "2020-03-26T19:24:58.001Z",
+  "site": "snhackery.com",
+  "category": "Blog",
+  "title": "Formatted Script Search Results",
+  "link": "https://snhackery.com/2020/03/26/formatted-script-search-results/",
+  "author": "snhackery"
+ },
+ {
+  "date": "2020-03-26T14:00:37.001Z",
+  "site": "snhackery.com",
+  "category": "Blog",
+  "title": "I know it’s in here somewhere …",
+  "link": "https://snhackery.com/2020/03/26/i-know-its-in-here-somewhere/",
+  "author": "snhackery"
+ },
+ {
+  "date": "2020-03-19T19:01:46.001Z",
+  "site": "snhackery.com",
+  "category": "Blog",
+  "title": "Yet Even More Service Portal Form Fields",
+  "link": "https://snhackery.com/2020/03/19/yet-even-more-service-portal-form-fields/",
+  "author": "snhackery"
+ },
+ {
+  "date": "2020-03-16T19:46:25.001Z",
+  "site": "snhackery.com",
+  "category": "Blog",
+  "title": "sn-record-picker Helper, Part II",
+  "link": "https://snhackery.com/2020/03/16/sn-record-picker-helper-part-ii/",
+  "author": "snhackery"
+ },
+ {
+  "date": "2020-03-13T14:01:30.001Z",
+  "site": "snhackery.com",
+  "category": "Blog",
+  "title": "sn-record-picker Helper",
+  "link": "https://snhackery.com/2020/03/13/sn-record-picker-helper/",
+  "author": "snhackery"
+ },
+ {
+  "date": "2020-03-04T20:09:53.001Z",
+  "site": "snhackery.com",
+  "category": "Blog",
+  "title": "User Rating Scorecard, Part IV",
+  "link": "https://snhackery.com/2020/03/04/user-rating-scorecard-part-iv/",
+  "author": "snhackery"
+ },
+ {
+  "date": "2020-02-21T14:59:33.001Z",
+  "site": "snhackery.com",
+  "category": "Blog",
+  "title": "User Rating Scorecard, Part III",
+  "link": "https://snhackery.com/2020/02/21/user-rating-scorecard-part-iii/",
+  "author": "snhackery"
  },
  {
   "date": "2020-02-21T14:52:00.001Z",
