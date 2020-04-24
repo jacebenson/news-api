@@ -261,7 +261,13 @@ module.exports = {
                 "type": "Blog",
                 "url": "https://earlduque.com/feed.xml",
                 "author": "Earl Duque"
-            }
+            }, {
+                "title": "Live Hack Streams",
+                "type": "YouTube",
+                "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEHp2B6z09rIW4EunspIL5g",
+                "author": "Anders Figenschow"
+            },
+            //Y9hSWKYjwQU
             //{ "title": "ServiceNow Vimeo", "type": "Vimeo", "url": "https://vimeo.com/servicenow/videos/rss" },
             //{ "title": "Fruition Partners Vimeo", "type": "Vimeo", "url": "https://vimeo.com/user4353238/videos/rss" },
             //{ "title": "Linium Blog", "type": "Blog", "url": "https://www.linium.com/blog/rss.xml" },

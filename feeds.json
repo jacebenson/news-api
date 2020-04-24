@@ -1,5 +1,13 @@
 [
  {
+  "date": "2020-04-24T12:46:51.001Z",
+  "site": "ServiceNow Dev Program",
+  "category": "YouTube",
+  "title": "YouTube Automation - Live Coding Happy Hour for 2020-04-24",
+  "link": "https://www.youtube.com/watch?v=XR_Uv2OYhqs",
+  "author": "Andrew Barnes, Brad Tilton, and Chuck Tomasi"
+ },
+ {
   "date": "2020-04-24T05:07:48.001Z",
   "site": "jace.pro",
   "category": "Blog",
@@ -4648,6 +4656,14 @@
   "site": "Robert, The Duke, Fedoruk"
  },
  {
+  "date": "2020-04-24T09:34:36.001Z",
+  "site": "Live Hack Steams",
+  "category": "YouTube",
+  "title": "Fuzzy Search in ServiceNow using the Jaro-Winkler distance metric",
+  "link": "https://www.youtube.com/watch?v=_vU6toofPqU",
+  "author": "Anders Figenschow"
+ },
+ {
   "date": "2020-04-24T04:24:10.001Z",
   "site": "jace.pro",
   "category": "Blog",
@@ -4880,6 +4896,14 @@
   "author": "snhackery"
  },
  {
+  "date": "2020-04-02T18:38:54.001Z",
+  "site": "Live Hack Steams",
+  "category": "YouTube",
+  "title": "ServiceNow - create and modify tables, fields, forms and more with script",
+  "link": "https://www.youtube.com/watch?v=Y9hSWKYjwQU",
+  "author": "Anders Figenschow"
+ },
+ {
   "date": "2020-04-01T13:57:24.001Z",
   "site": "snhackery.com",
   "category": "Blog",
@@ -4950,6 +4974,14 @@
   "title": "User Rating Scorecard, Part III",
   "link": "https://snhackery.com/2020/02/21/user-rating-scorecard-part-iii/",
   "author": "snhackery"
+ },
+ {
+  "date": "2020-02-14T12:38:11.001Z",
+  "site": "Live Hack Steams",
+  "category": "YouTube",
+  "title": "Making a ServiceNow Spoke part 1",
+  "link": "https://www.youtube.com/watch?v=Dho4lTSSXIU",
+  "author": "Anders Figenschow"
  },
  {
   "date": "2020-01-13T22:49:14.000Z",
