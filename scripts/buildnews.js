@@ -266,7 +266,12 @@ module.exports = {
                 "type": "YouTube",
                 "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEHp2B6z09rIW4EunspIL5g",
                 "author": "Anders Figenschow"
-            },
+            },{
+                "title": "cavucode.com",
+                "type": "Blog",
+                "url": "http://feeds.feedburner.com/CAVUCode-Blog",
+                "author": "John Roberts"
+            }
             //Y9hSWKYjwQU
             //{ "title": "ServiceNow Vimeo", "type": "Vimeo", "url": "https://vimeo.com/servicenow/videos/rss" },
             //{ "title": "Fruition Partners Vimeo", "type": "Vimeo", "url": "https://vimeo.com/user4353238/videos/rss" },

@@ -1,5 +1,21 @@
 [
  {
+  "date": "2020-04-24T20:20:14.001Z",
+  "site": "ServiceNow Community",
+  "category": "YouTube",
+  "title": "Are you headed for GRC success? Principles, recommended practices and scorecard - By Jagan Rao.",
+  "link": "https://www.youtube.com/watch?v=hlKwdiBb8TI",
+  "author": "Miscellaneous"
+ },
+ {
+  "date": "2020-04-24T12:56:26.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Help ServiceNow design a new in-product help solution!",
+  "author": "Brian Holdsworth",
+  "link": "https://community.servicenow.com/community?id=community_blog&sys_id=fa34317edb1c54504819fb243996194a"
+ },
+ {
   "date": "2020-04-24T12:46:51.001Z",
   "site": "ServiceNow Dev Program",
   "category": "YouTube",
@@ -4656,6 +4672,30 @@
   "site": "Robert, The Duke, Fedoruk"
  },
  {
+  "date": "2020-04-24T18:45:17.001Z",
+  "site": "workflow.servicenow.com",
+  "category": "Newsletter",
+  "title": "How Covid-19 offers a glimpse into the future of AI",
+  "link": "https://workflow.servicenow.com/employee-engagement/covid-19-glimpse-future-ai-machine-learning/",
+  "author": "Miscellaneous"
+ },
+ {
+  "date": "2020-04-24T12:55:05.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Help ServiceNow design a new in-product help solution!",
+  "author": "Brian Holdsworth",
+  "link": "https://community.servicenow.com/community?id=community_blog&sys_id=0be335badb1c54504819fb24399619ee"
+ },
+ {
+  "date": "2020-04-24T12:52:29.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Help ServiceNow design a new in-product help solution!",
+  "author": "Brian Holdsworth",
+  "link": "https://community.servicenow.com/community?id=community_blog&sys_id=c153b1b6db1c54504819fb24399619cd"
+ },
+ {
   "date": "2020-04-24T09:34:36.001Z",
   "site": "Live Hack Steams",
   "category": "YouTube",
@@ -4686,6 +4726,14 @@
   "title": "K20's Hackathon",
   "link": "https://jace.pro/post/2020-04-23-k20-hackathon-see-you-there/",
   "author": "Jace Benson"
+ },
+ {
+  "date": "2020-04-23T19:27:52.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "Customers are Replacing Legacy Intranets with ServiceNow’s Employee Experience & Engagement Platform",
+  "author": "eric.hemmer",
+  "link": "https://community.servicenow.com/community?id=community_blog&sys_id=4334c6e21b509898ada243f6fe4bcbf5"
  },
  {
   "date": "2020-04-23T15:44:06.001Z",
@@ -33896,6 +33944,14 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=c5ed2ee9dbd0dbc01dcaf3231f961969"
  },
  {
+  "date": "2016-09-23T02:51:47.001Z",
+  "site": "cavucode.com",
+  "category": "Blog",
+  "title": "HelsinkiHint - My First ServicePortal Widget",
+  "link": "http://feedproxy.google.com/~r/CAVUCode-Blog/~3/UPqNSLytem4/helsinkihint-my-first-serviceportal-widget",
+  "author": "John Roberts"
+ },
+ {
   "date": "2016-09-23T00:00:56.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -34278,6 +34334,14 @@
   "title": "Variables with a write role clashing with catalog UI policies & client scripts",
   "author": "suzanne.smith",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=ccbda6a9dbd0dbc01dcaf3231f9619a8"
+ },
+ {
+  "date": "2016-09-13T15:35:04.001Z",
+  "site": "cavucode.com",
+  "category": "Blog",
+  "title": "42 Ways to Access Workflow Variables",
+  "link": "http://feedproxy.google.com/~r/CAVUCode-Blog/~3/yRni3T0molM/42-ways-to-access-workflow-variables",
+  "author": "John Roberts"
  },
  {
   "date": "2016-09-13T10:51:12.000Z",
@@ -35054,6 +35118,14 @@
   "title": "Real-time CMDB: Identification and Reconciliation API",
   "author": "ben.yukich",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=3cbc6a25dbd0dbc01dcaf3231f961977"
+ },
+ {
+  "date": "2016-08-10T14:28:14.001Z",
+  "site": "cavucode.com",
+  "category": "Blog",
+  "title": "HelsinkiHint - API Stats",
+  "link": "http://feedproxy.google.com/~r/CAVUCode-Blog/~3/j7oxJ83Io_s/helsinkihint-api-stats",
+  "author": "John Roberts"
  },
  {
   "date": "2016-08-10T14:26:21.000Z",
@@ -36728,6 +36800,14 @@
   "author": "James Naphen"
  },
  {
+  "date": "2016-05-16T15:59:14.001Z",
+  "site": "cavucode.com",
+  "category": "Blog",
+  "title": "HelsinkiHint - Source Control",
+  "link": "http://feedproxy.google.com/~r/CAVUCode-Blog/~3/P4xr_ezEkNk/helsinkihint-source-control",
+  "author": "John Roberts"
+ },
+ {
   "date": "2016-05-15T21:21:04.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -36944,6 +37024,14 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=e51e226ddbd0dbc01dcaf3231f96190d"
  },
  {
+  "date": "2016-05-11T13:36:41.001Z",
+  "site": "cavucode.com",
+  "category": "Blog",
+  "title": "GenevaGem - Inspecting Orchestration REST",
+  "link": "http://feedproxy.google.com/~r/CAVUCode-Blog/~3/ejVqDTaSKWc/genevagem-rest-inspection",
+  "author": "John Roberts"
+ },
+ {
   "date": "2016-05-10T23:06:20.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -36982,6 +37070,14 @@
   "title": "Human Resources Service Management (HRSM) — Helsinki Updates Overview",
   "author": "juliegardiner",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=67ec22a5dbd0dbc01dcaf3231f96191d"
+ },
+ {
+  "date": "2016-05-10T16:21:00.001Z",
+  "site": "cavucode.com",
+  "category": "Blog",
+  "title": "GenevaGem - Business Rule Evolution",
+  "link": "http://feedproxy.google.com/~r/CAVUCode-Blog/~3/CqLi3eqcj7U/genevagems-business-rule-evolution",
+  "author": "John Roberts"
  },
  {
   "date": "2016-05-10T15:12:29.000Z",
@@ -37240,6 +37336,14 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=139ceee1dbd0dbc01dcaf3231f961954"
  },
  {
+  "date": "2016-05-05T14:50:16.001Z",
+  "site": "cavucode.com",
+  "category": "Blog",
+  "title": "GenevaGem - Scripted REST Services",
+  "link": "http://feedproxy.google.com/~r/CAVUCode-Blog/~3/7Xh6PS4anyA/genevagem-scripted-rest-services",
+  "author": "John Roberts"
+ },
+ {
   "date": "2016-05-05T13:39:22.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -37494,6 +37598,14 @@
   "title": "Perfectionism is Procrastination: Code Creative Relaunch",
   "author": "tltoulson",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=b56c2ea1dbd0dbc01dcaf3231f9619b1"
+ },
+ {
+  "date": "2016-05-02T20:33:23.001Z",
+  "site": "cavucode.com",
+  "category": "Blog",
+  "title": "GenevaGem - Role Inheritance Map",
+  "link": "http://feedproxy.google.com/~r/CAVUCode-Blog/~3/wQQyp0dByZU/genevagem-role-inheritancemap",
+  "author": "John Roberts"
  },
  {
   "date": "2016-05-02T16:23:44.000Z",
@@ -38030,6 +38142,14 @@
   "title": "SNUG 2016-03-30 Summering",
   "author": "Mikael at Advania",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=6bdc6a65dbd0dbc01dcaf3231f9619f6"
+ },
+ {
+  "date": "2016-04-05T01:45:16.001Z",
+  "site": "cavucode.com",
+  "category": "Blog",
+  "title": "GenevaGem - ACL Execution Plan",
+  "link": "http://feedproxy.google.com/~r/CAVUCode-Blog/~3/P-LnnYupgAM/genevagem-acl-execution-plan",
+  "author": "John Roberts"
  },
  {
   "date": "2016-04-04T19:58:33.000Z",
@@ -39280,6 +39400,14 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=346d6a29dbd0dbc01dcaf3231f9619dc"
  },
  {
+  "date": "2016-01-21T18:43:39.001Z",
+  "site": "cavucode.com",
+  "category": "Blog",
+  "title": "Filter Edit List Reference List Results (m2m lists)",
+  "link": "http://feedproxy.google.com/~r/CAVUCode-Blog/~3/_a9vXhn3eG4/filter-edit-list-reference-list-results",
+  "author": "John Roberts"
+ },
+ {
   "date": "2016-01-21T15:15:13.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -39318,6 +39446,14 @@
   "title": "HR Case Management with ServiceNow. Webinar, the 28th of January at 10.00am",
   "author": "davidvincent",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=bc3e2e6ddbd0dbc01dcaf3231f96192e"
+ },
+ {
+  "date": "2016-01-19T16:42:30.001Z",
+  "site": "cavucode.com",
+  "category": "Blog",
+  "title": "GenevaGem - Navigation Favorites",
+  "link": "http://feedproxy.google.com/~r/CAVUCode-Blog/~3/BU3wor7QNGU/genevagem-navigation-favorites",
+  "author": "John Roberts"
  },
  {
   "date": "2016-01-18T19:13:36.000Z",
@@ -40014,6 +40150,14 @@
   "title": "The Geneva Release is Now Available",
   "author": "craig.mcdonogh",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=49edeae9dbd0dbc01dcaf3231f9619b3"
+ },
+ {
+  "date": "2015-12-07T19:07:51.001Z",
+  "site": "cavucode.com",
+  "category": "Blog",
+  "title": "FujiForty - 8 Success Factors for ServiceNow Store Vendors",
+  "link": "http://feedproxy.google.com/~r/CAVUCode-Blog/~3/gYZjSmUMgU0/fujiforty-8-success-factors-for-servicenow-store-vendors",
+  "author": "John Roberts"
  },
  {
   "date": "2015-12-07T18:18:15.000Z",
@@ -40896,6 +41040,14 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=51cdeea9dbd0dbc01dcaf3231f9619a4"
  },
  {
+  "date": "2015-10-30T18:23:47.001Z",
+  "site": "cavucode.com",
+  "category": "Blog",
+  "title": "Stop the Module Madness",
+  "link": "http://feedproxy.google.com/~r/CAVUCode-Blog/~3/Bx_cVxYXlgk/stop-the-module-madness",
+  "author": "John Roberts"
+ },
+ {
   "date": "2015-10-30T16:52:35.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -41334,6 +41486,14 @@
   "title": "Developer Day Debut",
   "author": "Martin Barclay",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=96bdaaa9dbd0dbc01dcaf3231f9619d0"
+ },
+ {
+  "date": "2015-10-13T22:24:00.001Z",
+  "site": "cavucode.com",
+  "category": "Blog",
+  "title": "FujiForty - Must Have App Publishing Checklist",
+  "link": "http://feedproxy.google.com/~r/CAVUCode-Blog/~3/AwF_DgZTFJs/fujiforty-must-have-app-publishing-checklist",
+  "author": "John Roberts"
  },
  {
   "date": "2015-10-13T11:02:33.000Z",
@@ -41982,6 +42142,14 @@
   "title": "Email Notification dependencies to their 'Sys version' and 'Content type' fields",
   "author": "jonnyseymour",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=1bdd6ae9dbd0dbc01dcaf3231f961949"
+ },
+ {
+  "date": "2015-09-12T18:35:08.001Z",
+  "site": "cavucode.com",
+  "category": "Blog",
+  "title": "FujiForty - Form Charts (advanced conditions)",
+  "link": "http://feedproxy.google.com/~r/CAVUCode-Blog/~3/6JyIfgZJWk4/fujiforty-form-charts-advanced-conditions",
+  "author": "John Roberts"
  },
  {
   "date": "2015-09-11T20:19:27.000Z",
@@ -42640,6 +42808,14 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=eaad26a9dbd0dbc01dcaf3231f96194b"
  },
  {
+  "date": "2015-08-13T13:01:29.001Z",
+  "site": "cavucode.com",
+  "category": "Blog",
+  "title": "FujiForty - Release Upgrade Trends",
+  "link": "http://feedproxy.google.com/~r/CAVUCode-Blog/~3/g0rJWhoegJA/fujiforty-release-upgrade-trends",
+  "author": "John Roberts"
+ },
+ {
   "date": "2015-08-12T19:26:37.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -42870,6 +43046,14 @@
   "title": "Setting your system Time Zone to correct the \"Time Ago\" reported in related lists",
   "author": "april.mcgehee",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=299dea69dbd0dbc01dcaf3231f9619ff"
+ },
+ {
+  "date": "2015-07-30T15:36:24.001Z",
+  "site": "cavucode.com",
+  "category": "Blog",
+  "title": "FujiForty - JSON Processor API Shortcut",
+  "link": "http://feedproxy.google.com/~r/CAVUCode-Blog/~3/FoW9v5rkFn8/fujiforty-json-processor-api-shortcut",
+  "author": "John Roberts"
  },
  {
   "date": "2015-07-29T19:11:16.000Z",
@@ -43928,6 +44112,14 @@
   "author": "Travis Toulson"
  },
  {
+  "date": "2015-05-18T13:34:58.001Z",
+  "site": "cavucode.com",
+  "category": "Blog",
+  "title": "Creating Global Apps",
+  "link": "http://feedproxy.google.com/~r/CAVUCode-Blog/~3/OYLm7aJyAyk/creating-global-apps",
+  "author": "John Roberts"
+ },
+ {
   "date": "2015-05-18T11:00:31.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -44456,6 +44648,14 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=d40e2a2ddbd0dbc01dcaf3231f961949"
  },
  {
+  "date": "2015-04-22T20:38:08.001Z",
+  "site": "cavucode.com",
+  "category": "Blog",
+  "title": "FujiForty - Getting in the ServiceNow Store",
+  "link": "http://feedproxy.google.com/~r/CAVUCode-Blog/~3/-vRXeKgoHVo/fujiforty-getting-in-the-servicenow-store",
+  "author": "John Roberts"
+ },
+ {
   "date": "2015-04-22T20:27:30.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -44694,6 +44894,14 @@
   "title": "Your Journey To Process Improvement With Performance Analytics",
   "author": "Heath Ramsey",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=eadce665dbd0dbc01dcaf3231f9619f9"
+ },
+ {
+  "date": "2015-04-19T16:15:14.001Z",
+  "site": "cavucode.com",
+  "category": "Blog",
+  "title": "FujiForty - Test Management",
+  "link": "http://feedproxy.google.com/~r/CAVUCode-Blog/~3/SGT4u_ALHVY/fujiforty-test-management",
+  "author": "John Roberts"
  },
  {
   "date": "2015-04-19T12:42:01.000Z",
