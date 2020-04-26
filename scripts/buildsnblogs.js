@@ -4,13 +4,12 @@ module.exports = {
         var fs = require("fs");
         var outputArr = [];
         let feedPath = "./feeds.json"
-
         // get count to start...
         var getNowBlogs = function (start, callback) {
             if (!start) {
                 start = 0;
             }
-            var end = parseInt(start, 10) + 1000;
+            var end = parseInt(start, 10) + 100;
             var options = {
                 method: "GET",
                 hostname: "community.servicenow.com",
@@ -54,7 +53,11 @@ module.exports = {
                         });
                     });
 
-                    if (responseObj.result.hasMoreRecords) {
+                    //if (responseObj.result.hasMoreRecords) {
+                    var aWeekAgo = new Date();
+                    aWeekAgo.setDate(aWeekAgo.getDate()-7);
+                    var firstResultPostDate = new Date(responseObj.result.contents[0].published_date);
+                    if(firstResultPostDate < aWeekAgo){
                         getNowBlogs(parseInt(responseObj.result.nextRecord, 10), function () {
                             console.log('outputArr.length', outputArr.length)
                         });

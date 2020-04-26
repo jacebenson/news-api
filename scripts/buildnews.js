@@ -340,7 +340,7 @@ module.exports = {
             {
               "title": "jnic13",
               "type": "YouTube",
-              "url": "https://www.youtube.com/feeds/videos.xml?channel_id=jnic13",
+              "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3fSmSXzImsRxfMXOt-MgfQ",
               "author": "jnic13"
             },
             {
@@ -352,14 +352,8 @@ module.exports = {
             {
               "title": "ServiceNow",
               "type": "YouTube",
-              "url": "https://www.youtube.com/feeds/videos.xml?channel_id=servicenowinc",
+              "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLukrOQYSgsHUR_NSiVZndQ",
               "author": "ServiceNow"
-            },
-            {
-              "title": "ServiceNow Support",
-              "type": "YouTube",
-              "url": "https://www.youtube.com/feeds/videos.xml?channel_id=servicenowdemo",
-              "author": "ServiceNow Support"
             },
             {
               "title": "Nuvolo",
