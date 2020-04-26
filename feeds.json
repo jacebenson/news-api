@@ -1,5 +1,13 @@
 [
  {
+  "date": "2020-04-25T11:21:15.000Z",
+  "site": "ServiceNow Blogs",
+  "category": "Blog",
+  "title": "OAuth 2.0 with Inbound REST",
+  "author": "Ankur Bawiskar",
+  "link": "https://community.servicenow.com/community?id=community_blog&sys_id=56086e4fdb9014146064eeb5ca961957"
+ },
+ {
   "date": "2020-04-24T20:20:14.001Z",
   "site": "ServiceNow Community",
   "category": "YouTube",
@@ -4672,6 +4680,126 @@
   "site": "Robert, The Duke, Fedoruk"
  },
  {
+  "date": "2020-04-26T18:22:03.001Z",
+  "site": "medium.com/@pishchulin",
+  "category": "Blog",
+  "title": "common React routing won’t work with ServiceNow, because we don’t have a full control of the…",
+  "link": "https://medium.com/@pishchulin/common-react-routing-wont-work-with-servicenow-because-we-don-t-have-a-full-control-of-the-d679c0d59391?source=rss-4b2609af2935------2",
+  "author": "Andrew Pishchulin"
+ },
+ {
+  "date": "2020-04-26T18:11:03.001Z",
+  "site": "SNow Knowledge",
+  "category": "YouTube",
+  "title": "20. ServiceNow - Scripting Part 4",
+  "link": "https://www.youtube.com/watch?v=Bxxj4-r699Q",
+  "author": " — "
+ },
+ {
+  "date": "2020-04-26T17:30:51.001Z",
+  "site": "SNow Knowledge",
+  "category": "YouTube",
+  "title": "18. ServiceNow - Scripting Part 2",
+  "link": "https://www.youtube.com/watch?v=CF_EwdUF60I",
+  "author": " — "
+ },
+ {
+  "date": "2020-04-26T17:30:32.001Z",
+  "site": "SNow Knowledge",
+  "category": "YouTube",
+  "title": "19. ServiceNow - Scripting Part 3",
+  "link": "https://www.youtube.com/watch?v=8taAP3v7rDM",
+  "author": " — "
+ },
+ {
+  "date": "2020-04-25T13:27:13.001Z",
+  "site": "Karthik Parthasarathy",
+  "category": "YouTube",
+  "title": "#Part1 Lingua - Creating Tables, Fields,  Form Views & Roles.",
+  "link": "https://www.youtube.com/watch?v=6HumGaB4hCM",
+  "author": "Karthik Parthasarathy"
+ },
+ {
+  "date": "2020-04-25T05:32:00.001Z",
+  "site": "www.saaswithservicenow.in",
+  "category": "Blog",
+  "title": "How to get Work Notes and Comments via ServiceNow API",
+  "link": "https://www.saaswithservicenow.in/2020/04/how-to-get-work-notes-and-comments-via.html",
+  "author": "Gaurav Tripathi"
+ },
+ {
+  "date": "2020-04-24T21:23:36.001Z",
+  "site": "SNow Knowledge",
+  "category": "YouTube",
+  "title": "16. ServiceNow - Service Portal",
+  "link": "https://www.youtube.com/watch?v=w6jECpDberQ",
+  "author": " — "
+ },
+ {
+  "date": "2020-04-24T21:23:21.001Z",
+  "site": "SNow Knowledge",
+  "category": "YouTube",
+  "title": "15. ServiceNow - Reports Home Page Dashboard Database Vews",
+  "link": "https://www.youtube.com/watch?v=0CT7SQ-fgvw",
+  "author": " — "
+ },
+ {
+  "date": "2020-04-24T21:23:06.001Z",
+  "site": "SNow Knowledge",
+  "category": "YouTube",
+  "title": "14. ServiceNow- SLA & Update Set",
+  "link": "https://www.youtube.com/watch?v=o0e7qCXxs9Q",
+  "author": " — "
+ },
+ {
+  "date": "2020-04-24T21:22:50.001Z",
+  "site": "SNow Knowledge",
+  "category": "YouTube",
+  "title": "13. ServiceNow - Service Catalog - Part 4 & Workflow Designing",
+  "link": "https://www.youtube.com/watch?v=Y0fi927steg",
+  "author": " — "
+ },
+ {
+  "date": "2020-04-24T21:22:35.001Z",
+  "site": "SNow Knowledge",
+  "category": "YouTube",
+  "title": "12. ServiceNow - Service Catalog - Part 3",
+  "link": "https://www.youtube.com/watch?v=5PXlLK2Io1E",
+  "author": " — "
+ },
+ {
+  "date": "2020-04-24T21:22:17.001Z",
+  "site": "SNow Knowledge",
+  "category": "YouTube",
+  "title": "11. ServiceNow - Service Catalog - Part 2",
+  "link": "https://www.youtube.com/watch?v=OSAK6WDgP0s",
+  "author": " — "
+ },
+ {
+  "date": "2020-04-24T21:21:37.001Z",
+  "site": "SNow Knowledge",
+  "category": "YouTube",
+  "title": "9. ServceNow - Notfication - Properties, Email Script, Event parm1, parm2",
+  "link": "https://www.youtube.com/watch?v=RyrxAu8sZCI",
+  "author": " — "
+ },
+ {
+  "date": "2020-04-24T21:21:10.001Z",
+  "site": "SNow Knowledge",
+  "category": "YouTube",
+  "title": "10. ServiceNow - Service Catalog - Part 1",
+  "link": "https://www.youtube.com/watch?v=pkZ2v3JHGNo",
+  "author": " — "
+ },
+ {
+  "date": "2020-04-24T21:20:48.001Z",
+  "site": "SNow Knowledge",
+  "category": "YouTube",
+  "title": "8. ServiceNow - Notification Triggers & Other Concepts",
+  "link": "https://www.youtube.com/watch?v=cPqrrwg9tHo",
+  "author": " — "
+ },
+ {
   "date": "2020-04-24T18:45:17.001Z",
   "site": "workflow.servicenow.com",
   "category": "Newsletter",
@@ -4736,6 +4864,14 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=4334c6e21b509898ada243f6fe4bcbf5"
  },
  {
+  "date": "2020-04-23T18:21:42.001Z",
+  "site": "ServiceSharp",
+  "category": "YouTube",
+  "title": "2x8 CMDB Part 1",
+  "link": "https://www.youtube.com/watch?v=Ln0ZNKLnSR4",
+  "author": " — "
+ },
+ {
   "date": "2020-04-23T15:44:06.001Z",
   "site": "finite-partners.com",
   "category": "Blog",
@@ -4750,6 +4886,14 @@
   "title": "How to Find your ServiceNow Certification Information",
   "link": "https://finite-partners.com/how-to-find-your-servicenow-certification-information/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-find-your-servicenow-certification-information",
   "author": "Garrett Griffin-Morales"
+ },
+ {
+  "date": "2020-04-23T15:01:39.001Z",
+  "site": "Cerna Solutions",
+  "category": "YouTube",
+  "title": "ServiceNow Vulnerability Response: Vulnerability Groups (Version 10.0)",
+  "link": "https://www.youtube.com/watch?v=VoTCzt2VX8o",
+  "author": " — "
  },
  {
   "date": "2020-04-23T15:00:11.001Z",
@@ -4798,6 +4942,14 @@
   "title": "Knowledge is Going Digital: Thought Leadership",
   "link": "https://omny.fm/shows/servicenow-cloudcast/knowledge-is-going-digital-thought-leadership",
   "author": "Miscellaneous."
+ },
+ {
+  "date": "2020-04-22T17:15:00.001Z",
+  "site": "Pharicode",
+  "category": "YouTube",
+  "title": "Mobile Applications - ServiceNow Orlando Feature | Overview",
+  "link": "https://www.youtube.com/watch?v=QzO9j2FjyWg",
+  "author": " — "
  },
  {
   "date": "2020-04-22T17:08:54.001Z",
@@ -4880,6 +5032,14 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=0bb167b1db981c906064eeb5ca9619b3"
  },
  {
+  "date": "2020-04-21T17:15:01.001Z",
+  "site": "ServiceNow Kida",
+  "category": "YouTube",
+  "title": "servicenow business rules | servicenow business rule tutorial in hindi | Introduction",
+  "link": "https://www.youtube.com/watch?v=vi8wMq-3S0A",
+  "author": " — "
+ },
+ {
   "date": "2020-04-21T15:23:48.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -4936,12 +5096,212 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=27521d19db1c549c5129a851ca9619fa"
  },
  {
+  "date": "2020-04-19T15:09:54.001Z",
+  "site": "AAspenNow Solutions",
+  "category": "YouTube",
+  "title": "ServiceNow - 3 useful UI Actions every developer needs in New York",
+  "link": "https://www.youtube.com/watch?v=8KfDsTdU5aE",
+  "author": " — "
+ },
+ {
+  "date": "2020-04-18T08:41:14.001Z",
+  "site": "Karthik Parthasarathy",
+  "category": "YouTube",
+  "title": "#Intro Lingua - Custom Application Development- #ServiceNow",
+  "link": "https://www.youtube.com/watch?v=zmFFJYLk-gg",
+  "author": "Karthik Parthasarathy"
+ },
+ {
+  "date": "2020-04-17T16:54:39.001Z",
+  "site": "ServiceSharp",
+  "category": "YouTube",
+  "title": "2x7 API Integrations",
+  "link": "https://www.youtube.com/watch?v=Qk9JnL3Xj0c",
+  "author": " — "
+ },
+ {
+  "date": "2020-04-17T15:31:23.001Z",
+  "site": "ServiceSharp",
+  "category": "YouTube",
+  "title": "ServiceSharp 2x7 API Integrations",
+  "link": "https://www.youtube.com/watch?v=nx69uJmZ3og",
+  "author": " — "
+ },
+ {
+  "date": "2020-04-15T17:00:08.001Z",
+  "site": "ServiceNow Kida",
+  "category": "YouTube",
+  "title": "ui action in servicenow| ui action scenario in hindi | servicenow kida",
+  "link": "https://www.youtube.com/watch?v=6lHsvFbAXUI",
+  "author": " — "
+ },
+ {
+  "date": "2020-04-13T20:05:42.001Z",
+  "site": "Arnoud Kooi",
+  "category": "YouTube",
+  "title": "Slashcommands 2020",
+  "link": "https://www.youtube.com/watch?v=CqZ2xXLeeks",
+  "author": " — "
+ },
+ {
+  "date": "2020-04-13T13:01:23.001Z",
+  "site": "Arnoud Kooi",
+  "category": "YouTube",
+  "title": "ServiceNow SAM SaaS License integration with Google Cloud G-Suite",
+  "link": "https://www.youtube.com/watch?v=o3I4pEUz9Dk",
+  "author": " — "
+ },
+ {
+  "date": "2020-04-13T09:28:32.001Z",
+  "site": "SAASWITHSERVICENOW",
+  "category": "YouTube",
+  "title": "#ServiceNow Update Sets | What are Update Sets and How to Manage Update Sets",
+  "link": "https://www.youtube.com/watch?v=IIZShnQ8vM0",
+  "author": "Gaurav Tripathi"
+ },
+ {
+  "date": "2020-04-12T14:50:11.001Z",
+  "site": "AAspenNow Solutions",
+  "category": "YouTube",
+  "title": "ServiceNow - Eliminate notifications with these 2 Flow Designer solutions in New York",
+  "link": "https://www.youtube.com/watch?v=e3R8SRL-3Nw",
+  "author": " — "
+ },
+ {
+  "date": "2020-04-12T13:25:21.001Z",
+  "site": "SAASWITHSERVICENOW",
+  "category": "YouTube",
+  "title": "ServiceNow Import Set | How to import data in ServiceNow from Excel and XML",
+  "link": "https://www.youtube.com/watch?v=MZlqauVaAzg",
+  "author": "Gaurav Tripathi"
+ },
+ {
+  "date": "2020-04-11T17:30:06.001Z",
+  "site": "ServiceNow Kida",
+  "category": "YouTube",
+  "title": "gsftsubmit in ui action servicenow | calling one UI action from another UI action",
+  "link": "https://www.youtube.com/watch?v=yyVnpbidwmE",
+  "author": " — "
+ },
+ {
+  "date": "2020-04-11T09:47:12.001Z",
+  "site": "Iqra Islam",
+  "category": "YouTube",
+  "title": "Servicenow Portal (Part 15b) - Horizontal Bar High Chart - Part 2",
+  "link": "https://www.youtube.com/watch?v=-nx57zlhcas",
+  "author": "Iqra Islam"
+ },
+ {
+  "date": "2020-04-10T22:19:35.001Z",
+  "site": "Cerna Solutions",
+  "category": "YouTube",
+  "title": "ServiceNow Vulnerability Response Automated Rescan with Qualys (Version 10.0)",
+  "link": "https://www.youtube.com/watch?v=uAaF9o-gylg",
+  "author": " — "
+ },
+ {
+  "date": "2020-04-10T00:10:03.001Z",
+  "site": "Nuvolo",
+  "category": "YouTube",
+  "title": "Why You Need a Connected Workplace, Now More Than Ever",
+  "link": "https://www.youtube.com/watch?v=KjIr31JHwc4",
+  "author": " — "
+ },
+ {
+  "date": "2020-04-08T18:45:00.001Z",
+  "site": "Pharicode",
+  "category": "YouTube",
+  "title": "Emergency Exposure Management Application | Overview",
+  "link": "https://www.youtube.com/watch?v=Z0QDc4Thlm0",
+  "author": " — "
+ },
+ {
+  "date": "2020-04-08T18:30:04.001Z",
+  "site": "Pharicode",
+  "category": "YouTube",
+  "title": "Emergency Response Operations Application | Overview",
+  "link": "https://www.youtube.com/watch?v=dNc4NHx-PD8",
+  "author": " — "
+ },
+ {
+  "date": "2020-04-08T18:15:02.001Z",
+  "site": "Pharicode",
+  "category": "YouTube",
+  "title": "Emergency Self Report Application | Overview",
+  "link": "https://www.youtube.com/watch?v=mTo81f7gYDE",
+  "author": " — "
+ },
+ {
+  "date": "2020-04-08T18:00:20.001Z",
+  "site": "Pharicode",
+  "category": "YouTube",
+  "title": "Emergency Outreach Application | Overview",
+  "link": "https://www.youtube.com/watch?v=idr8bD7F6Rs",
+  "author": " — "
+ },
+ {
   "date": "2020-04-07T13:57:37.001Z",
   "site": "snhackery.com",
   "category": "Blog",
   "title": "More Fun with Form Fields",
   "link": "https://snhackery.com/2020/04/07/more-fun-with-form-fields/",
   "author": "snhackery"
+ },
+ {
+  "date": "2020-04-07T08:10:56.001Z",
+  "site": "Basico ServiceNow Learning",
+  "category": "YouTube",
+  "title": "Scheduled Jobs in ServiceNow | How to Schedule and Write Scripts in ServiceNow Scheduled Jobs",
+  "link": "https://www.youtube.com/watch?v=bVS73hX4WCg",
+  "author": " — "
+ },
+ {
+  "date": "2020-04-07T05:51:40.001Z",
+  "site": "IT Canvass",
+  "category": "YouTube",
+  "title": "Servicenow Admin & Dev | WEBINAR | IT Canvass",
+  "link": "https://www.youtube.com/watch?v=H4qbi1kD-CE",
+  "author": " — "
+ },
+ {
+  "date": "2020-04-06T18:53:59.001Z",
+  "site": "ServiceSharp",
+  "category": "YouTube",
+  "title": "2X6 Special Guest Avery Williamson",
+  "link": "https://www.youtube.com/watch?v=0BPw9s-V3nQ",
+  "author": " — "
+ },
+ {
+  "date": "2020-04-06T17:11:57.001Z",
+  "site": "ServiceNow Kida",
+  "category": "YouTube",
+  "title": "client script vs ui policy | similarities & difference between client script & ui policy in hindi",
+  "link": "https://www.youtube.com/watch?v=mlyFb3hGC5M",
+  "author": " — "
+ },
+ {
+  "date": "2020-04-05T17:52:37.001Z",
+  "site": "AAspenNow Solutions",
+  "category": "YouTube",
+  "title": "ServiceNow - Create a database view for SLA Reporting in New York",
+  "link": "https://www.youtube.com/watch?v=67IEVXQH57I",
+  "author": " — "
+ },
+ {
+  "date": "2020-04-04T07:51:23.001Z",
+  "site": "IT Canvass",
+  "category": "YouTube",
+  "title": "Servicenow ITOM Training | DEMO | IT Canvass",
+  "link": "https://www.youtube.com/watch?v=oz8Jvq9-L34",
+  "author": " — "
+ },
+ {
+  "date": "2020-04-03T14:37:16.001Z",
+  "site": "SAASWITHSERVICENOW",
+  "category": "YouTube",
+  "title": "ServiceNow Live Learning | Flow Designer Fundamentals",
+  "link": "https://www.youtube.com/watch?v=TPIZT-nzCvs",
+  "author": "Gaurav Tripathi"
  },
  {
   "date": "2020-04-02T18:38:54.001Z",
@@ -4952,6 +5312,30 @@
   "author": "Anders Figenschow"
  },
  {
+  "date": "2020-04-02T16:44:33.001Z",
+  "site": "SAASWITHSERVICENOW",
+  "category": "YouTube",
+  "title": "How to create incident in another instance without coding | ServiceNow Ebonding with IntegrationHub",
+  "link": "https://www.youtube.com/watch?v=4hBpkX5XJcA",
+  "author": "Gaurav Tripathi"
+ },
+ {
+  "date": "2020-04-02T11:05:45.001Z",
+  "site": "SAASWITHSERVICENOW",
+  "category": "YouTube",
+  "title": "ServiceNow Free App to Respond to CoronaVirus Crisis Faster | Emergency Response Management",
+  "link": "https://www.youtube.com/watch?v=oq5-To5UJBk",
+  "author": "Gaurav Tripathi"
+ },
+ {
+  "date": "2020-04-01T15:30:05.001Z",
+  "site": "Pharicode",
+  "category": "YouTube",
+  "title": "DoD Skillbridge Program Interview with Boris Kun",
+  "link": "https://www.youtube.com/watch?v=YEiS3zyGr8o",
+  "author": " — "
+ },
+ {
   "date": "2020-04-01T13:57:24.001Z",
   "site": "snhackery.com",
   "category": "Blog",
@@ -4960,12 +5344,52 @@
   "author": "snhackery"
  },
  {
+  "date": "2020-03-31T22:06:46.001Z",
+  "site": "ServiceSharp",
+  "category": "YouTube",
+  "title": "2x5 working from home",
+  "link": "https://www.youtube.com/watch?v=ug5r7rqDceM",
+  "author": " — "
+ },
+ {
+  "date": "2020-03-30T20:10:07.001Z",
+  "site": "Cerna Solutions",
+  "category": "YouTube",
+  "title": "ServiceNow Vulnerability Response Exception Process Walkthrough (New York)",
+  "link": "https://www.youtube.com/watch?v=RSClMt-XDy8",
+  "author": " — "
+ },
+ {
+  "date": "2020-03-30T15:27:42.001Z",
+  "site": "IT Canvass",
+  "category": "YouTube",
+  "title": "Servicenow ITOM Training | DEMO | IT Canvass",
+  "link": "https://www.youtube.com/watch?v=YdrOIZopS8k",
+  "author": " — "
+ },
+ {
   "date": "2020-03-30T09:11:49.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
   "title": "[New] Now Support (HI) Service Catalog Item - Database Footprint",
   "author": "Vikas",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=cd11903adbf7485823f4a345ca961922"
+ },
+ {
+  "date": "2020-03-28T13:27:42.001Z",
+  "site": "Iqra Islam",
+  "category": "YouTube",
+  "title": "Servicenow Portal (Part 15a) - Horizontal Bar High Chart  -  Part 1",
+  "link": "https://www.youtube.com/watch?v=KZ8DSvOE7tM",
+  "author": "Iqra Islam"
+ },
+ {
+  "date": "2020-03-27T23:08:53.001Z",
+  "site": "Cerna Solutions",
+  "category": "YouTube",
+  "title": "Mastering the ServiceNow Upgrade: From N-1 to Early Adopter",
+  "link": "https://www.youtube.com/watch?v=zyqde5TtOI0",
+  "author": " — "
  },
  {
   "date": "2020-03-26T19:24:58.001Z",
@@ -4984,12 +5408,100 @@
   "author": "snhackery"
  },
  {
+  "date": "2020-03-23T19:03:21.001Z",
+  "site": "Pharicode",
+  "category": "YouTube",
+  "title": "VPNs- Virtual Private Networks | Overview",
+  "link": "https://www.youtube.com/watch?v=ph-g0N1rzlQ",
+  "author": " — "
+ },
+ {
+  "date": "2020-03-23T18:32:05.001Z",
+  "site": "Pharicode",
+  "category": "YouTube",
+  "title": "Event Management in ServiceNow | Overview",
+  "link": "https://www.youtube.com/watch?v=OCj32vk_cUQ",
+  "author": " — "
+ },
+ {
+  "date": "2020-03-23T18:01:10.001Z",
+  "site": "Pharicode",
+  "category": "YouTube",
+  "title": "ITOM & Service Mapping in ServiceNow with GlideFast",
+  "link": "https://www.youtube.com/watch?v=5AyLvQsbxaM",
+  "author": " — "
+ },
+ {
+  "date": "2020-03-23T17:00:04.001Z",
+  "site": "Pharicode",
+  "category": "YouTube",
+  "title": "Performance Analytics (PA) Interactive Filters in ServiceNow | Overview",
+  "link": "https://www.youtube.com/watch?v=3Zi8wqw3pNk",
+  "author": " — "
+ },
+ {
+  "date": "2020-03-23T16:30:00.001Z",
+  "site": "Pharicode",
+  "category": "YouTube",
+  "title": "Performance Analytics (PA) Interactive Filters in ServiceNow | DEMO",
+  "link": "https://www.youtube.com/watch?v=74CgWQj-8ok",
+  "author": " — "
+ },
+ {
+  "date": "2020-03-22T16:00:00.001Z",
+  "site": "ServiceNow Kida",
+  "category": "YouTube",
+  "title": "ui action in servicenow | UI Action at Server Side with demo in hindi | series part-3",
+  "link": "https://www.youtube.com/watch?v=3QFzVAueXsU",
+  "author": " — "
+ },
+ {
+  "date": "2020-03-21T16:00:07.001Z",
+  "site": "ServiceNow Kida",
+  "category": "YouTube",
+  "title": "ui action in servicenow | ui action at client side with demo in hindi | servicenow kida",
+  "link": "https://www.youtube.com/watch?v=QAdr63ARnK8",
+  "author": " — "
+ },
+ {
+  "date": "2020-03-20T20:26:11.001Z",
+  "site": "Cerna Solutions",
+  "category": "YouTube",
+  "title": "Automated Testing for ServiceNow: CapIO's Case Creator and Test Designer",
+  "link": "https://www.youtube.com/watch?v=wARuE-I6e38",
+  "author": " — "
+ },
+ {
+  "date": "2020-03-20T16:00:12.001Z",
+  "site": "ServiceNow Kida",
+  "category": "YouTube",
+  "title": "UI Action in servicenow | UI Action series part 1 - Introduction | ServiceNow Kida",
+  "link": "https://www.youtube.com/watch?v=_eOKTJo7_xc",
+  "author": " — "
+ },
+ {
   "date": "2020-03-19T19:01:46.001Z",
   "site": "snhackery.com",
   "category": "Blog",
   "title": "Yet Even More Service Portal Form Fields",
   "link": "https://snhackery.com/2020/03/19/yet-even-more-service-portal-form-fields/",
   "author": "snhackery"
+ },
+ {
+  "date": "2020-03-19T12:37:50.001Z",
+  "site": "IT Canvass",
+  "category": "YouTube",
+  "title": "Servicenow Tutorial on Servicenow Modules | ITSM, ITOM, ITBM, ITIL Tutorials | IT Canvass",
+  "link": "https://www.youtube.com/watch?v=YOuhT0ZTrWc",
+  "author": " — "
+ },
+ {
+  "date": "2020-03-17T16:00:16.001Z",
+  "site": "ServiceNow Kida",
+  "category": "YouTube",
+  "title": "ui policy in servicenow | ui policy in servicenow examples part 2 | ui policy vs client script",
+  "link": "https://www.youtube.com/watch?v=wgz7wMv5ZGI",
+  "author": " — "
  },
  {
   "date": "2020-03-16T19:46:25.001Z",
@@ -5000,12 +5512,100 @@
   "author": "snhackery"
  },
  {
+  "date": "2020-03-16T16:00:13.001Z",
+  "site": "ServiceNow Kida",
+  "category": "YouTube",
+  "title": "ui policy in servicenow | ui policy in servicenow examples part 1 | with demo in hindi",
+  "link": "https://www.youtube.com/watch?v=dJIgKdZtkBo",
+  "author": " — "
+ },
+ {
+  "date": "2020-03-15T16:00:13.001Z",
+  "site": "ServiceNow Kida",
+  "category": "YouTube",
+  "title": "oncelledit client script servicenow |oncelledit client script example with demo in Hindi",
+  "link": "https://www.youtube.com/watch?v=u7wnUS5uOqA",
+  "author": " — "
+ },
+ {
+  "date": "2020-03-15T08:35:33.001Z",
+  "site": "SAASWITHSERVICENOW",
+  "category": "YouTube",
+  "title": "#1 #ServiceNow #Change #Management | A Complete Tutorial for #ServiceNow Admins and IT Users",
+  "link": "https://www.youtube.com/watch?v=fSncN53K054",
+  "author": "Gaurav Tripathi"
+ },
+ {
+  "date": "2020-03-13T16:00:10.001Z",
+  "site": "ServiceNow Kida",
+  "category": "YouTube",
+  "title": "What is ServiceNow | Steps to create Personal Development Instance | Servicenow Kida",
+  "link": "https://www.youtube.com/watch?v=FSe8Pp7avvk",
+  "author": " — "
+ },
+ {
   "date": "2020-03-13T14:01:30.001Z",
   "site": "snhackery.com",
   "category": "Blog",
   "title": "sn-record-picker Helper",
   "link": "https://snhackery.com/2020/03/13/sn-record-picker-helper/",
   "author": "snhackery"
+ },
+ {
+  "date": "2020-03-13T09:30:04.001Z",
+  "site": "ServiceNow Kida",
+  "category": "YouTube",
+  "title": "onchange client script servicenow|ServiceNow OnChange Client Script Tutorial with Demo in Hindi",
+  "link": "https://www.youtube.com/watch?v=KjTFCKU5MVM",
+  "author": " — "
+ },
+ {
+  "date": "2020-03-12T18:14:37.001Z",
+  "site": "ServiceNow Kida",
+  "category": "YouTube",
+  "title": "servicenow onsubmit client script | ServiceNow OnSubmit Client Script Tutorial with Demo in Hindi",
+  "link": "https://www.youtube.com/watch?v=tA3vSyunn08",
+  "author": " — "
+ },
+ {
+  "date": "2020-03-11T08:58:51.001Z",
+  "site": "ServiceNow Kida",
+  "category": "YouTube",
+  "title": "servicenow client script |Onload client script| with Demo in Hindi 2020",
+  "link": "https://www.youtube.com/watch?v=XKhThhwnWWw",
+  "author": " — "
+ },
+ {
+  "date": "2020-03-11T05:23:40.001Z",
+  "site": "IT Canvass",
+  "category": "YouTube",
+  "title": "Servicenow Tutorial For Beginners | Servicenow Demo on Admin, Development, Scripting | IT Canvass",
+  "link": "https://www.youtube.com/watch?v=vwnD0vJmL3s",
+  "author": " — "
+ },
+ {
+  "date": "2020-03-09T16:52:03.001Z",
+  "site": "ServiceSharp",
+  "category": "YouTube",
+  "title": "2x4 Portals",
+  "link": "https://www.youtube.com/watch?v=xn1B-bj6y0o",
+  "author": " — "
+ },
+ {
+  "date": "2020-03-09T16:51:24.001Z",
+  "site": "ServiceSharp",
+  "category": "YouTube",
+  "title": "2x4 Portals",
+  "link": "https://www.youtube.com/watch?v=ZJHiKnrMftg",
+  "author": " — "
+ },
+ {
+  "date": "2020-03-07T07:32:49.001Z",
+  "site": "IT Canvass",
+  "category": "YouTube",
+  "title": "Servicenow Tutorial For Beginners | Servicenow Training | IT Canvass",
+  "link": "https://www.youtube.com/watch?v=odMBwR2dNoE",
+  "author": " — "
  },
  {
   "date": "2020-03-04T20:09:53.001Z",
@@ -5016,6 +5616,78 @@
   "author": "snhackery"
  },
  {
+  "date": "2020-03-04T19:08:11.001Z",
+  "site": "ServiceNow Events",
+  "category": "YouTube",
+  "title": "Get ready for Knowledge 2020!",
+  "link": "https://www.youtube.com/watch?v=E4NYyamwUJk",
+  "author": " — "
+ },
+ {
+  "date": "2020-03-04T05:50:05.001Z",
+  "site": "IT Canvass",
+  "category": "YouTube",
+  "title": "Servicenow ITOM Demo |  Servicenow Discovery, Service Mapping, CMDB , Event Management | IT Canvass",
+  "link": "https://www.youtube.com/watch?v=Uot8F4-WGLE",
+  "author": " — "
+ },
+ {
+  "date": "2020-03-01T08:36:10.001Z",
+  "site": "Karthik Parthasarathy",
+  "category": "YouTube",
+  "title": "Automate Record Creation in #Salesforce from #ServiceNow",
+  "link": "https://www.youtube.com/watch?v=85RvEcQGnXI",
+  "author": "Karthik Parthasarathy"
+ },
+ {
+  "date": "2020-02-29T13:32:28.001Z",
+  "site": "SAASWITHSERVICENOW",
+  "category": "YouTube",
+  "title": "#7 ServiceNow Service Catalog Training | Additional configuration of Variables",
+  "link": "https://www.youtube.com/watch?v=0MmLuWsq6gA",
+  "author": "Gaurav Tripathi"
+ },
+ {
+  "date": "2020-02-26T15:07:17.001Z",
+  "site": "Basico ServiceNow Learning",
+  "category": "YouTube",
+  "title": "Create ServiceNow Order Guide  | Tutorial to Create an Order Guide in ServiceNow | Service Catalog",
+  "link": "https://www.youtube.com/watch?v=8MdjpofVaf8",
+  "author": " — "
+ },
+ {
+  "date": "2020-02-24T12:04:32.001Z",
+  "site": "Kloves Inc.",
+  "category": "YouTube",
+  "title": "Maintaining Now Instance Performance",
+  "link": "https://www.youtube.com/watch?v=VYzdUyy7fYM",
+  "author": " — "
+ },
+ {
+  "date": "2020-02-23T18:15:37.001Z",
+  "site": "SAASWITHSERVICENOW",
+  "category": "YouTube",
+  "title": "ServiceNow and APIGEE | Overview and Create API Proxy for ServiceNow API",
+  "link": "https://www.youtube.com/watch?v=HnbqQLWK4BE",
+  "author": "Gaurav Tripathi"
+ },
+ {
+  "date": "2020-02-23T08:25:33.001Z",
+  "site": "Basico ServiceNow Learning",
+  "category": "YouTube",
+  "title": "Dynamic Approval Configuration in ServiceNow | Dynamic Approval Workflow ServiceNow",
+  "link": "https://www.youtube.com/watch?v=honIwnuiJ7I",
+  "author": " — "
+ },
+ {
+  "date": "2020-02-22T03:59:48.001Z",
+  "site": "SAASWITHSERVICENOW",
+  "category": "YouTube",
+  "title": "ServiceNow and JIRA Integration | How to integrate ServiceNow and JIRA",
+  "link": "https://www.youtube.com/watch?v=vv_oHjywUxg",
+  "author": "Gaurav Tripathi"
+ },
+ {
   "date": "2020-02-21T14:59:33.001Z",
   "site": "snhackery.com",
   "category": "Blog",
@@ -5024,12 +5696,300 @@
   "author": "snhackery"
  },
  {
+  "date": "2020-02-19T11:22:52.001Z",
+  "site": "Karthik Parthasarathy",
+  "category": "YouTube",
+  "title": "Salesforce Integration With ServiceNow",
+  "link": "https://www.youtube.com/watch?v=hcYof845-dQ",
+  "author": "Karthik Parthasarathy"
+ },
+ {
+  "date": "2020-02-18T19:03:53.001Z",
+  "site": "SAASWITHSERVICENOW",
+  "category": "YouTube",
+  "title": "ServiceNow 4MV4D | Build a Scripted REST API | S01L08",
+  "link": "https://www.youtube.com/watch?v=48aBJqdC6xI",
+  "author": "Gaurav Tripathi"
+ },
+ {
+  "date": "2020-02-18T17:29:39.001Z",
+  "site": "ServicePortal.io",
+  "category": "YouTube",
+  "title": "Top 5 Features of the ServiceNow Orlando Release!",
+  "link": "https://www.youtube.com/watch?v=lMz4sNxUT2g",
+  "author": " — "
+ },
+ {
+  "date": "2020-02-15T06:55:32.001Z",
+  "site": "SAASWITHSERVICENOW",
+  "category": "YouTube",
+  "title": "ServiceNow 4MV4D - Scripted REST API - S01L07",
+  "link": "https://www.youtube.com/watch?v=cwz8fWTWbBY",
+  "author": "Gaurav Tripathi"
+ },
+ {
+  "date": "2020-02-15T06:48:12.001Z",
+  "site": "SAASWITHSERVICENOW",
+  "category": "YouTube",
+  "title": "#2 ServiceNow Vulnerability Response Implementation Training | VR Application and Modules",
+  "link": "https://www.youtube.com/watch?v=ChsKzIJYY7Y",
+  "author": "Gaurav Tripathi"
+ },
+ {
+  "date": "2020-02-15T06:43:35.001Z",
+  "site": "SAASWITHSERVICENOW",
+  "category": "YouTube",
+  "title": "#1 ServiceNow Vulnerability Response Implementation Training | Overview of Security Operations & VR",
+  "link": "https://www.youtube.com/watch?v=3A6ISVsSQic",
+  "author": "Gaurav Tripathi"
+ },
+ {
   "date": "2020-02-14T12:38:11.001Z",
   "site": "Live Hack Steams",
   "category": "YouTube",
   "title": "Making a ServiceNow Spoke part 1",
   "link": "https://www.youtube.com/watch?v=Dho4lTSSXIU",
   "author": "Anders Figenschow"
+ },
+ {
+  "date": "2020-02-13T19:06:46.001Z",
+  "site": "SAASWITHSERVICENOW",
+  "category": "YouTube",
+  "title": "#8 ServiceNow Automated Test Framework | REST Integration Testing | Part VIII",
+  "link": "https://www.youtube.com/watch?v=mEKLhtceDhM",
+  "author": "Gaurav Tripathi"
+ },
+ {
+  "date": "2020-02-12T09:24:13.001Z",
+  "site": "ServiceSharp",
+  "category": "YouTube",
+  "title": "2x3 The new mobile apps and some listener questions:",
+  "link": "https://www.youtube.com/watch?v=Bq5BXjcLslE",
+  "author": " — "
+ },
+ {
+  "date": "2020-02-11T18:04:00.001Z",
+  "site": "www.saaswithservicenow.in",
+  "category": "Blog",
+  "title": "How to create Incident with Python and Webpage in ServiceNow",
+  "link": "https://www.saaswithservicenow.in/2020/02/how-to-create-incident-with-python-and.html",
+  "author": "Gaurav Tripathi"
+ },
+ {
+  "date": "2020-02-11T18:03:00.001Z",
+  "site": "www.saaswithservicenow.in",
+  "category": "Blog",
+  "title": "How to use REST to insert record from external webpage in ServiceNow",
+  "link": "https://www.saaswithservicenow.in/2020/02/how-to-use-rest-to-insert-record-from.html",
+  "author": "Gaurav Tripathi"
+ },
+ {
+  "date": "2020-02-11T18:00:00.001Z",
+  "site": "www.saaswithservicenow.in",
+  "category": "Blog",
+  "title": "How to create incident in ServiceNow",
+  "link": "https://www.saaswithservicenow.in/2020/02/how-to-create-incident-in-servicenow.html",
+  "author": "Gaurav Tripathi"
+ },
+ {
+  "date": "2020-02-11T17:59:00.001Z",
+  "site": "www.saaswithservicenow.in",
+  "category": "Blog",
+  "title": "How to use GlideAggregate",
+  "link": "https://www.saaswithservicenow.in/2020/02/how-to-use-glideaggregate.html",
+  "author": "Gaurav Tripathi"
+ },
+ {
+  "date": "2020-02-11T13:36:00.001Z",
+  "site": "www.saaswithservicenow.in",
+  "category": "Blog",
+  "title": "How to configure LDAP Server",
+  "link": "https://www.saaswithservicenow.in/2020/02/how-to-configure-ldap-server.html",
+  "author": "Gaurav Tripathi"
+ },
+ {
+  "date": "2020-02-11T13:32:00.001Z",
+  "site": "www.saaswithservicenow.in",
+  "category": "Blog",
+  "title": "How to create incident from another ServiceNow instance with rest",
+  "link": "https://www.saaswithservicenow.in/2020/02/how-to-create-incident-from-another.html",
+  "author": "Gaurav Tripathi"
+ },
+ {
+  "date": "2020-02-11T13:28:00.001Z",
+  "site": "www.saaswithservicenow.in",
+  "category": "Blog",
+  "title": "How to hide a section on a form",
+  "link": "https://www.saaswithservicenow.in/2020/02/how-to-hide-section-on-form.html",
+  "author": "Gaurav Tripathi"
+ },
+ {
+  "date": "2020-02-11T13:22:00.001Z",
+  "site": "www.saaswithservicenow.in",
+  "category": "Blog",
+  "title": "How to add contextual knowledge search in catalog item",
+  "link": "https://www.saaswithservicenow.in/2020/02/how-to-add-contextual-knowledge-search.html",
+  "author": "Gaurav Tripathi"
+ },
+ {
+  "date": "2020-02-10T18:08:00.001Z",
+  "site": "www.saaswithservicenow.in",
+  "category": "Blog",
+  "title": "How to create custom popup alert box?",
+  "link": "https://www.saaswithservicenow.in/2020/02/how-to-create-custom-popup-alert-box.html",
+  "author": "Gaurav Tripathi"
+ },
+ {
+  "date": "2020-02-10T15:40:00.001Z",
+  "site": "www.saaswithservicenow.in",
+  "category": "Blog",
+  "title": "ServiceNow Incident Management Tutorial",
+  "link": "https://www.saaswithservicenow.in/2020/02/servicenow-incident-management-tutorial.html",
+  "author": "Gaurav Tripathi"
+ },
+ {
+  "date": "2020-02-10T15:12:00.001Z",
+  "site": "www.saaswithservicenow.in",
+  "category": "Blog",
+  "title": "Service Catalog Training",
+  "link": "https://www.saaswithservicenow.in/2020/02/service-catalog-training.html",
+  "author": "Gaurav Tripathi"
+ },
+ {
+  "date": "2020-02-10T06:54:32.001Z",
+  "site": "IT Canvass",
+  "category": "YouTube",
+  "title": "Servicenow Demo | ServiceNow Administrator, Developer Training | servicenow for beginners",
+  "link": "https://www.youtube.com/watch?v=oJA9ep6h63k",
+  "author": " — "
+ },
+ {
+  "date": "2020-02-09T17:03:00.001Z",
+  "site": "www.saaswithservicenow.in",
+  "category": "Blog",
+  "title": "Service Portal Training",
+  "link": "https://www.saaswithservicenow.in/2020/02/service-portal-training.html",
+  "author": "Gaurav Tripathi"
+ },
+ {
+  "date": "2020-02-09T17:02:00.001Z",
+  "site": "www.saaswithservicenow.in",
+  "category": "Blog",
+  "title": "Automated Test Framework",
+  "link": "https://www.saaswithservicenow.in/2020/02/automated-test-framework.html",
+  "author": "Gaurav Tripathi"
+ },
+ {
+  "date": "2020-02-09T17:02:00.001Z",
+  "site": "www.saaswithservicenow.in",
+  "category": "Blog",
+  "title": "ServiceNow Developer Training",
+  "link": "https://www.saaswithservicenow.in/2020/02/servicenow-developer-training.html",
+  "author": "Gaurav Tripathi"
+ },
+ {
+  "date": "2020-02-04T02:51:49.001Z",
+  "site": "ServiceSharp",
+  "category": "YouTube",
+  "title": "2x2 Admin and Buy In",
+  "link": "https://www.youtube.com/watch?v=TfXFBn6vggI",
+  "author": " — "
+ },
+ {
+  "date": "2020-02-03T06:08:28.001Z",
+  "site": "IT Canvass",
+  "category": "YouTube",
+  "title": "Basic Servicenow Integration | Servicenow Demo | Servicenow Integration Training | IT Canvass",
+  "link": "https://www.youtube.com/watch?v=AG0DiUXk7-Q",
+  "author": " — "
+ },
+ {
+  "date": "2020-02-02T16:49:44.001Z",
+  "site": "Iqra Islam",
+  "category": "YouTube",
+  "title": "Servicenow Portal (Part 14) - Read Only Filter",
+  "link": "https://www.youtube.com/watch?v=8QiWkRMs6rY",
+  "author": "Iqra Islam"
+ },
+ {
+  "date": "2020-01-31T11:32:07.001Z",
+  "site": "IT Canvass",
+  "category": "YouTube",
+  "title": "Servicenow HRSD Training Demo | Introduction of Service Now HRSD to Beginners | Servicenow Tutorial",
+  "link": "https://www.youtube.com/watch?v=zx5u1RFJ3IM",
+  "author": " — "
+ },
+ {
+  "date": "2020-01-31T07:26:57.001Z",
+  "site": "IT Canvass",
+  "category": "YouTube",
+  "title": "ServiceNow Discovery, Servicenow CMDB Training | First Class of Servicenow ITOM Training",
+  "link": "https://www.youtube.com/watch?v=zxvrGZOeIrQ",
+  "author": " — "
+ },
+ {
+  "date": "2020-01-30T17:13:30.001Z",
+  "site": "SAASWITHSERVICENOW",
+  "category": "YouTube",
+  "title": "#7 ServiceNow Automated Test Framework | Service Catalog in Portal Testing | Part VII",
+  "link": "https://www.youtube.com/watch?v=5F8Oszs38a4",
+  "author": "Gaurav Tripathi"
+ },
+ {
+  "date": "2020-01-30T11:12:45.001Z",
+  "site": "Basico ServiceNow Learning",
+  "category": "YouTube",
+  "title": "Post ServiceNow Jobs Here | Find ServiceNow Jobs Here",
+  "link": "https://www.youtube.com/watch?v=GXCT1fDFBQA",
+  "author": " — "
+ },
+ {
+  "date": "2020-01-29T18:18:46.001Z",
+  "site": "Cerna Solutions",
+  "category": "YouTube",
+  "title": "Reusable Custom Display Styles for Service Portal Announcements",
+  "link": "https://www.youtube.com/watch?v=_o8f8R-x5Sk",
+  "author": " — "
+ },
+ {
+  "date": "2020-01-29T09:39:14.001Z",
+  "site": "Basico ServiceNow Learning",
+  "category": "YouTube",
+  "title": "#1 ServiceNow Training - Users, Group and Role | ServiceNow Administration",
+  "link": "https://www.youtube.com/watch?v=oL1uem6-3m4",
+  "author": " — "
+ },
+ {
+  "date": "2020-01-28T20:05:34.001Z",
+  "site": "ServiceSharp",
+  "category": "YouTube",
+  "title": "2x1 Upgrades",
+  "link": "https://www.youtube.com/watch?v=A3ZzN8ANHy4",
+  "author": " — "
+ },
+ {
+  "date": "2020-01-28T07:57:18.001Z",
+  "site": "Basico ServiceNow Learning",
+  "category": "YouTube",
+  "title": "Servicenow Transform Map Script Example | Data Source & Import Data into ServiceNow Instance",
+  "link": "https://www.youtube.com/watch?v=lVww0gw0kLM",
+  "author": " — "
+ },
+ {
+  "date": "2020-01-20T13:05:19.001Z",
+  "site": "Kloves Inc.",
+  "category": "YouTube",
+  "title": "Getting started with Service Portal - providing top-notch end user experience",
+  "link": "https://www.youtube.com/watch?v=KHdNeLdcMR0",
+  "author": " — "
+ },
+ {
+  "date": "2020-01-16T22:45:51.001Z",
+  "site": "Covestic",
+  "category": "YouTube",
+  "title": "Achieving CCPA Compliance with ServiceNow and Covestic",
+  "link": "https://www.youtube.com/watch?v=aLmmErLd2bw",
+  "author": " — "
  },
  {
   "date": "2020-01-13T22:49:14.000Z",
@@ -5182,6 +6142,14 @@
   "title": "Train Manager",
   "link": "https://mavembry.info/project/train-manager/",
   "author": "Maverick Embry"
+ },
+ {
+  "date": "2020-01-08T21:21:14.001Z",
+  "site": "NewRocket, Inc.",
+  "category": "YouTube",
+  "title": "Custom Native Mobile Apps on ServiceNow by NewRocket",
+  "link": "https://www.youtube.com/watch?v=XVcccQll07c",
+  "author": " — "
  },
  {
   "date": "2020-01-08T19:51:26.001Z",
@@ -5456,6 +6424,14 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=8373b535db0a44145ed4a851ca961995"
  },
  {
+  "date": "2019-12-31T09:14:45.001Z",
+  "site": "Iqra Islam",
+  "category": "YouTube",
+  "title": "ServiceNow Portal(Part 13b) - Download in XLS with/without filters (Customized Button)",
+  "link": "https://www.youtube.com/watch?v=QO0vHc1IhHk",
+  "author": "Iqra Islam"
+ },
+ {
   "date": "2019-12-31T00:00:00.001Z",
   "site": "Andrew Albury-Dor",
   "category": "Blog",
@@ -5510,6 +6486,14 @@
   "title": "TLS Certificate Management",
   "author": "Sree",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=9733b4481b0acc10a59033f2cd4bcb05"
+ },
+ {
+  "date": "2019-12-24T08:20:59.001Z",
+  "site": "Karthik Parthasarathy",
+  "category": "YouTube",
+  "title": "Outbound Integration. Code365- ServiceNow",
+  "link": "https://www.youtube.com/watch?v=Had0CnAHJ74",
+  "author": "Karthik Parthasarathy"
  },
  {
   "date": "2019-12-22T06:28:44.000Z",
@@ -5648,6 +6632,14 @@
   "author": "— "
  },
  {
+  "date": "2019-12-18T13:28:58.001Z",
+  "site": "Basico ServiceNow Learning",
+  "category": "YouTube",
+  "title": "ServiceNow Training Course Syllabus | Free ServiceNow Online Training | ServiceNow Course Content",
+  "link": "https://www.youtube.com/watch?v=1genWi2Xg3A",
+  "author": " — "
+ },
+ {
   "date": "2019-12-17T23:52:51.001Z",
   "site": "ServiceSharp",
   "category": "Podcast",
@@ -5718,6 +6710,22 @@
   "title": "Sea parte de los speakers de Knowledge 2020!",
   "author": "jonathanmunozabrin",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=5381a04d1b718810a59033f2cd4bcbaf"
+ },
+ {
+  "date": "2019-12-16T06:18:28.001Z",
+  "site": "Basico ServiceNow Learning",
+  "category": "YouTube",
+  "title": "Free ServiceNow Training - Practice Assignment #1",
+  "link": "https://www.youtube.com/watch?v=qfpdciNknFg",
+  "author": " — "
+ },
+ {
+  "date": "2019-12-15T11:37:38.001Z",
+  "site": "Iqra Islam",
+  "category": "YouTube",
+  "title": "Servicenow Portal(Part 13a) : Removing PDF , Excel and CSV from data table hamburger",
+  "link": "https://www.youtube.com/watch?v=EePiioRJME0",
+  "author": "Iqra Islam"
  },
  {
   "date": "2019-12-13T20:04:09.001Z",
@@ -5880,6 +6888,14 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=110099cbdba9445013b5fb24399619df"
  },
  {
+  "date": "2019-12-10T09:04:29.001Z",
+  "site": "IT Canvass",
+  "category": "YouTube",
+  "title": "Servicenow for beginners | Servicenow Training on Administratior and Developer | IT Canvass",
+  "link": "https://www.youtube.com/watch?v=WEsnPHzEff0",
+  "author": " — "
+ },
+ {
   "date": "2019-12-10T00:00:00.001Z",
   "site": "Andrew Albury-Dor",
   "category": "Blog",
@@ -5984,6 +7000,22 @@
   "author": "Aleksas Kucinskas"
  },
  {
+  "date": "2019-12-06T23:43:03.001Z",
+  "site": "Cerna Solutions",
+  "category": "YouTube",
+  "title": "Insight Live: Healthy CMDB, Happy CMDB",
+  "link": "https://www.youtube.com/watch?v=haoybRDCt0w",
+  "author": " — "
+ },
+ {
+  "date": "2019-12-06T07:31:10.001Z",
+  "site": "Karthik Parthasarathy",
+  "category": "YouTube",
+  "title": "#REST API explorer- Use of code Samples- Inbound Request",
+  "link": "https://www.youtube.com/watch?v=NEml6md4A8U",
+  "author": "Karthik Parthasarathy"
+ },
+ {
   "date": "2019-12-05T23:01:25.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -6054,6 +7086,14 @@
   "title": "Getting started as a ServiceNow System Administrator",
   "author": "Jeff Currier",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=2b3b1ac5db21c89cfeb1a851ca9619dc"
+ },
+ {
+  "date": "2019-12-04T07:39:40.001Z",
+  "site": "Basico ServiceNow Learning",
+  "category": "YouTube",
+  "title": "ServiceNow Training - Create Table in ServiceNow, Types of Tables  and Table Schema",
+  "link": "https://www.youtube.com/watch?v=KVrQYN9Y0T8",
+  "author": " — "
  },
  {
   "date": "2019-12-03T12:53:16.000Z",
@@ -6136,6 +7176,14 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=3b8094e4db69cc5c14d6fb243996198f"
  },
  {
+  "date": "2019-12-01T14:21:33.001Z",
+  "site": "Servicenow/UI Tutorials By Pranav",
+  "category": "YouTube",
+  "title": "ServiceNow Google Chrome Extension",
+  "link": "https://www.youtube.com/watch?v=56YziCZYg7s",
+  "author": " — "
+ },
+ {
   "date": "2019-12-01T04:02:52.001Z",
   "site": "jace.pro",
   "category": "Blog",
@@ -6174,6 +7222,14 @@
   "title": "Utilizing external image recognition API's: Live Coding Happy Hour for 2019-11-29",
   "link": "https://www.youtube.com/watch?v=UHm2xeqqnnc",
   "author": ""
+ },
+ {
+  "date": "2019-11-29T08:05:58.001Z",
+  "site": "Basico ServiceNow Learning",
+  "category": "YouTube",
+  "title": "How To Create CI Relationship in ServiceNow and CI Relationship Editor",
+  "link": "https://www.youtube.com/watch?v=krBmaMXuAuU",
+  "author": " — "
  },
  {
   "date": "2019-11-28T07:55:00.000Z",
@@ -6262,6 +7318,86 @@
   "title": "【コムチュア株式会社】要求アイテムに関する承認依頼通知",
   "author": "Toru Inoue",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=1943d54edb154c94feb1a851ca961997"
+ },
+ {
+  "date": "2019-11-24T21:58:17.001Z",
+  "site": "AAspenNow Solutions",
+  "category": "YouTube",
+  "title": "ServiceNow - 5 useful onSubmit Client Scripts (for Service Catalog) in New York",
+  "link": "https://www.youtube.com/watch?v=kJ79uGMHg7o",
+  "author": " — "
+ },
+ {
+  "date": "2019-11-23T05:01:20.001Z",
+  "site": "Karthik Parthasarathy",
+  "category": "YouTube",
+  "title": "8# Use Materializecss to design the UI page",
+  "link": "https://www.youtube.com/watch?v=RzMEePqISCI",
+  "author": "Karthik Parthasarathy"
+ },
+ {
+  "date": "2019-11-23T04:42:58.001Z",
+  "site": "Iqra Islam",
+  "category": "YouTube",
+  "title": "Servicenow Portal (Part 12b) - Ticket Conversation",
+  "link": "https://www.youtube.com/watch?v=uYKP14RGmLY",
+  "author": "Iqra Islam"
+ },
+ {
+  "date": "2019-11-23T04:19:59.001Z",
+  "site": "Karthik Parthasarathy",
+  "category": "YouTube",
+  "title": "7# Bind data with Angular JS",
+  "link": "https://www.youtube.com/watch?v=Fj3vcSur0KQ",
+  "author": "Karthik Parthasarathy"
+ },
+ {
+  "date": "2019-11-23T03:13:17.001Z",
+  "site": "Karthik Parthasarathy",
+  "category": "YouTube",
+  "title": "6# Create a UI script to call the script include and alert the result with UI page",
+  "link": "https://www.youtube.com/watch?v=Rjxjm6SzbXA",
+  "author": "Karthik Parthasarathy"
+ },
+ {
+  "date": "2019-11-22T18:17:59.001Z",
+  "site": "Karthik Parthasarathy",
+  "category": "YouTube",
+  "title": "#5 Using the code snippet - create a script include",
+  "link": "https://www.youtube.com/watch?v=R1CURt5jxYI",
+  "author": "Karthik Parthasarathy"
+ },
+ {
+  "date": "2019-11-22T18:03:46.001Z",
+  "site": "Karthik Parthasarathy",
+  "category": "YouTube",
+  "title": "#4 Parse the second response body and create action outputs",
+  "link": "https://www.youtube.com/watch?v=0is-QTXjwy8",
+  "author": "Karthik Parthasarathy"
+ },
+ {
+  "date": "2019-11-22T17:31:22.001Z",
+  "site": "Karthik Parthasarathy",
+  "category": "YouTube",
+  "title": "#3 Script to parse the response body",
+  "link": "https://www.youtube.com/watch?v=IZySof4ETHA",
+  "author": "Karthik Parthasarathy"
+ },
+ {
+  "date": "2019-11-22T17:10:04.001Z",
+  "site": "Karthik Parthasarathy",
+  "category": "YouTube",
+  "title": "#2 Get Latitude and Longitude with an action step -Flow designer",
+  "link": "https://www.youtube.com/watch?v=qbqfQSYTHKY",
+  "author": "Karthik Parthasarathy"
+ },
+ {
+  "date": "2019-11-22T16:43:09.001Z",
+  "site": "Karthik Parthasarathy",
+  "category": "YouTube",
+  "title": "#1 Introduction Create a single webpage weather app",
+  "link": "https://www.youtube.com/watch?v=fz4aauDPq5A",
+  "author": "Karthik Parthasarathy"
  },
  {
   "date": "2019-11-22T15:04:46.000Z",
@@ -6464,6 +7600,14 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=4dbced40db5d80901cd8a345ca96194f"
  },
  {
+  "date": "2019-11-18T18:47:59.001Z",
+  "site": "Cerna Solutions",
+  "category": "YouTube",
+  "title": "7 Ways to Upgrade ServiceNow® with CapIO® Automated Testing",
+  "link": "https://www.youtube.com/watch?v=YlU9QPJsgQE",
+  "author": " — "
+ },
+ {
   "date": "2019-11-18T16:54:39.001Z",
   "site": "Pathway",
   "category": "Blog",
@@ -6542,6 +7686,14 @@
   "title": "Attaching an Excel attachment via email in ServiceNow",
   "link": "https://pathwayscg.com/attaching-an-excel-attachment-via-email-in-servicenow/",
   "author": " - "
+ },
+ {
+  "date": "2019-11-15T12:43:40.001Z",
+  "site": "Kloves Inc.",
+  "category": "YouTube",
+  "title": "Getting Started with ServiceNow Event Management",
+  "link": "https://www.youtube.com/watch?v=QwBYq-6x2cE",
+  "author": " — "
  },
  {
   "date": "2019-11-14T18:20:34.000Z",
@@ -6680,6 +7832,14 @@
   "author": "Nathan Firth"
  },
  {
+  "date": "2019-11-11T18:59:50.001Z",
+  "site": "Basico ServiceNow Learning",
+  "category": "YouTube",
+  "title": "What is CMDB in ServiceNow, CMDB Basics and Introduction of Discovery",
+  "link": "https://www.youtube.com/watch?v=F58yTbDKaCo",
+  "author": " — "
+ },
+ {
   "date": "2019-11-11T16:44:41.001Z",
   "site": "Pathway",
   "category": "Blog",
@@ -6710,6 +7870,14 @@
   "title": "Episode 25 - Complex Objects in ServiceNow Flow Designer",
   "link": "https://www.youtube.com/watch?v=Hta-b1bMO7Q",
   "author": "Göran Lundqvist"
+ },
+ {
+  "date": "2019-11-11T08:55:57.001Z",
+  "site": "ServiceNow Domain Separations",
+  "category": "YouTube",
+  "title": "MIM Workbench Setup and MIM communications",
+  "link": "https://www.youtube.com/watch?v=jxTfj_yGgk4",
+  "author": " — "
  },
  {
   "date": "2019-11-11T06:19:30.000Z",
@@ -6750,6 +7918,14 @@
   "date": "2019-11-09T23:59:59.999Z",
   "link": "https://www.youtube.com/watch?v=6HSt4E5TTWM",
   "site": "Robert, The Duke, Fedoruk"
+ },
+ {
+  "date": "2019-11-09T12:27:36.001Z",
+  "site": "Iqra Islam",
+  "category": "YouTube",
+  "title": "Servicenow Portal (Part 12a) - Ticket Conversation",
+  "link": "https://www.youtube.com/watch?v=pyaP77yO-2w",
+  "author": "Iqra Islam"
  },
  {
   "date": "2019-11-08T16:24:07.000Z",
@@ -6808,12 +7984,60 @@
   "author": " - "
  },
  {
+  "date": "2019-11-07T01:06:50.001Z",
+  "site": "ServiceSharp",
+  "category": "YouTube",
+  "title": "Change Management",
+  "link": "https://www.youtube.com/watch?v=vX94duLDPw4",
+  "author": " — "
+ },
+ {
+  "date": "2019-11-07T01:06:45.001Z",
+  "site": "ServiceSharp",
+  "category": "YouTube",
+  "title": "Configurations vs Customizations",
+  "link": "https://www.youtube.com/watch?v=idj2wRFR6hY",
+  "author": " — "
+ },
+ {
+  "date": "2019-11-07T01:03:26.001Z",
+  "site": "ServiceSharp",
+  "category": "YouTube",
+  "title": "Starting off..",
+  "link": "https://www.youtube.com/watch?v=mkoe-fOvCs4",
+  "author": " — "
+ },
+ {
+  "date": "2019-11-07T01:02:38.001Z",
+  "site": "ServiceSharp",
+  "category": "YouTube",
+  "title": "Upgrades and Clones",
+  "link": "https://www.youtube.com/watch?v=DK_9uC4Lm04",
+  "author": " — "
+ },
+ {
+  "date": "2019-11-07T00:52:38.001Z",
+  "site": "ServiceSharp",
+  "category": "YouTube",
+  "title": "Required Elements for Success in ServiceNow Part 1",
+  "link": "https://www.youtube.com/watch?v=a_6ruYtG5ek",
+  "author": " — "
+ },
+ {
   "date": "2019-11-06T22:44:54.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
   "title": "ServiceNow Managed Documents App - When to use and not use.",
   "author": "Manjeet Singh",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=a1acd094db8988d4f7fca851ca961954"
+ },
+ {
+  "date": "2019-11-06T18:34:01.001Z",
+  "site": "Basico ServiceNow Learning",
+  "category": "YouTube",
+  "title": "Servicenow Integration - LDAP Integration in ServiceNow (Step by Step Demonstration)",
+  "link": "https://www.youtube.com/watch?v=abEcWfY3kPw",
+  "author": " — "
  },
  {
   "date": "2019-11-06T17:25:53.001Z",
@@ -6854,6 +8078,14 @@
   "title": "We Care: Our proceeds to the Catherine McAuley Center",
   "link": "https://pathwayscg.com/we-care-our-proceeds-to-the-catherine-mcauley-center/",
   "author": " - "
+ },
+ {
+  "date": "2019-11-05T11:10:43.001Z",
+  "site": "Basico ServiceNow Learning",
+  "category": "YouTube",
+  "title": "What is Problem Management in ServiceNow |  ServiceNow Problem Management Process",
+  "link": "https://www.youtube.com/watch?v=gLR8Twqsgfg",
+  "author": " — "
  },
  {
   "date": "2019-11-05T05:00:51.000Z",
@@ -6936,6 +8168,118 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=d9f6ba9f1bb0c010fff162c4bd4bcb97"
  },
  {
+  "date": "2019-11-01T19:46:15.001Z",
+  "site": "ServiceNow Events",
+  "category": "YouTube",
+  "title": "Veolia's digital transformation across 48 countries, driven by Application Portfolio Management",
+  "link": "https://www.youtube.com/watch?v=d61ORgNmwwo",
+  "author": " — "
+ },
+ {
+  "date": "2019-11-01T19:44:33.001Z",
+  "site": "ServiceNow Events",
+  "category": "YouTube",
+  "title": "Now on Now: Transforming the walk-up experience and agent workspace",
+  "link": "https://www.youtube.com/watch?v=PZ1RSLvH1lc",
+  "author": " — "
+ },
+ {
+  "date": "2019-11-01T19:42:51.001Z",
+  "site": "ServiceNow Events",
+  "category": "YouTube",
+  "title": "Now on Now: How ServiceNow achieves industry-leading NPS using Case Management out-of-the-box",
+  "link": "https://www.youtube.com/watch?v=oQEvh4Jrm54",
+  "author": " — "
+ },
+ {
+  "date": "2019-11-01T19:41:14.001Z",
+  "site": "ServiceNow Events",
+  "category": "YouTube",
+  "title": "Now on Now: Crossing the chasm with Agent Intelligence",
+  "link": "https://www.youtube.com/watch?v=gAZ191NAc5A",
+  "author": " — "
+ },
+ {
+  "date": "2019-11-01T19:39:56.001Z",
+  "site": "ServiceNow Events",
+  "category": "YouTube",
+  "title": "DevOps patch automation end to end",
+  "link": "https://www.youtube.com/watch?v=TTctTRomkHQ",
+  "author": " — "
+ },
+ {
+  "date": "2019-11-01T19:36:51.001Z",
+  "site": "ServiceNow Events",
+  "category": "YouTube",
+  "title": "Portfolio Management 101: Getting your ducks in the same pond",
+  "link": "https://www.youtube.com/watch?v=GiFm4Pv13t0",
+  "author": " — "
+ },
+ {
+  "date": "2019-11-01T19:35:41.001Z",
+  "site": "ServiceNow Events",
+  "category": "YouTube",
+  "title": "Better HR through better IT: Automating the HR recruitment process",
+  "link": "https://www.youtube.com/watch?v=hwEYqOvPdpA",
+  "author": " — "
+ },
+ {
+  "date": "2019-11-01T19:33:19.001Z",
+  "site": "ServiceNow Events",
+  "category": "YouTube",
+  "title": "Now on Now: Using Application Portfolio Management to align IT projects with business priorities",
+  "link": "https://www.youtube.com/watch?v=shylVIo-TaY",
+  "author": " — "
+ },
+ {
+  "date": "2019-11-01T19:32:11.001Z",
+  "site": "ServiceNow Events",
+  "category": "YouTube",
+  "title": "How to turn off IT help desk phones with Service Portal, Virtual Agent, and Live Chat",
+  "link": "https://www.youtube.com/watch?v=prMggQ-Toes",
+  "author": " — "
+ },
+ {
+  "date": "2019-11-01T19:08:41.001Z",
+  "site": "ServiceNow Events",
+  "category": "YouTube",
+  "title": "Providing an “At your service” experience to support healthcare IT transformation",
+  "link": "https://www.youtube.com/watch?v=giW0yK1-l3Y",
+  "author": " — "
+ },
+ {
+  "date": "2019-11-01T19:06:40.001Z",
+  "site": "ServiceNow Events",
+  "category": "YouTube",
+  "title": "Now on Now: Using the Now Platform® to power developer.servicenow.com",
+  "link": "https://www.youtube.com/watch?v=ZBI1LKkX5eU",
+  "author": " — "
+ },
+ {
+  "date": "2019-11-01T18:52:59.001Z",
+  "site": "ServiceNow Events",
+  "category": "YouTube",
+  "title": "REST-based attachment retrieval",
+  "link": "https://www.youtube.com/watch?v=79I0LeKGZ1o",
+  "author": " — "
+ },
+ {
+  "date": "2019-11-01T18:07:02.001Z",
+  "site": "ServiceNow Events",
+  "category": "YouTube",
+  "title": "Let developers fly! Enabling cloud deployments from development to production",
+  "link": "https://www.youtube.com/watch?v=U2NaW2jB2rA",
+  "author": " — "
+ },
+ {
+  "date": "2019-11-01T18:04:19.001Z",
+  "site": "ServiceNow Events",
+  "category": "YouTube",
+  "title": "Mobile inventory scanner: Building a no-code phone application",
+  "link": "https://www.youtube.com/watch?v=DYGv1I8Z8k8",
+  "author": " — "
+ },
+ {
   "date": "2019-11-01T09:45:40.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -6998,6 +8342,14 @@
   "title": "New in New York: Innovation Management",
   "link": "https://pathwayscg.com/new-in-new-york-innovation-management/",
   "author": " - "
+ },
+ {
+  "date": "2019-10-30T13:05:24.001Z",
+  "site": "Basico ServiceNow Learning",
+  "category": "YouTube",
+  "title": "What is Incident Management in ServiceNow | ServiceNow Incident Management Process",
+  "link": "https://www.youtube.com/watch?v=YRnB5W48svw",
+  "author": " — "
  },
  {
   "date": "2019-10-30T08:53:47.000Z",
@@ -7080,12 +8432,28 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=b33514cddbb04810feb1a851ca9619f5"
  },
  {
+  "date": "2019-10-27T11:15:12.001Z",
+  "site": "Iqra Islam",
+  "category": "YouTube",
+  "title": "Servicenow Portal (Part 11c) - Question and Answer Modal Widget Part3",
+  "link": "https://www.youtube.com/watch?v=r1Yk0uLSgYY",
+  "author": "Iqra Islam"
+ },
+ {
   "date": "2019-10-27T07:13:58.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
   "title": "Read-only Multi-Row Variable Set",
   "author": "Mark Roethof",
   "link": "https://community.servicenow.com/community?id=community_article&sys_id=a3a7a578dbbc0410190dfb2439961941"
+ },
+ {
+  "date": "2019-10-26T06:27:21.001Z",
+  "site": "IT Canvass",
+  "category": "YouTube",
+  "title": "Servicenow tutorial on Servicenow discovery and service mapping | Servicenow Demo ITOM | IT Canvass",
+  "link": "https://www.youtube.com/watch?v=mDwF0z5ykj0",
+  "author": " — "
  },
  {
   "date": "2019-10-24T22:39:20.001Z",
@@ -7118,6 +8486,14 @@
   "title": "ServiceNow DevOps Podcast Episode 3 – Jessica Constantinidis",
   "author": "ericledyard",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=bb509fbbdbacc450190dfb2439961933"
+ },
+ {
+  "date": "2019-10-24T02:33:42.001Z",
+  "site": "AAspenNow Solutions",
+  "category": "YouTube",
+  "title": "5 ServiceNow Scripted Business Rules you should have in your arsenal in New York",
+  "link": "https://www.youtube.com/watch?v=x5CQbejB9eA",
+  "author": " — "
  },
  {
   "title": "Titans of #ServiceNow - Travis Toulson",
@@ -7166,6 +8542,14 @@
   "title": "From Idea to Innovation - How app publishers can use the new Idea Portal",
   "author": "Pradeep Sharma",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=fb78fad7db6044d06064eeb5ca961996"
+ },
+ {
+  "date": "2019-10-22T19:27:04.001Z",
+  "site": "Arnoud Kooi",
+  "category": "YouTube",
+  "title": "ServiceNow Virtual Agent Dependend Choice List",
+  "link": "https://www.youtube.com/watch?v=maEQhc1iZWc",
+  "author": " — "
  },
  {
   "date": "2019-10-22T18:10:22.000Z",
@@ -7262,6 +8646,14 @@
   "title": "Call Script Include from Client Script in ServiceNow using GlideAjax",
   "link": "https://www.youtube.com/watch?v=DVivsjacyOQ",
   "author": "Harshad Chawra"
+ },
+ {
+  "date": "2019-10-19T09:40:48.001Z",
+  "site": "Basico ServiceNow Learning",
+  "category": "YouTube",
+  "title": "Service Portal Widget ServiceNow | ServiceNow Portal Widget Example | Service Portal #2",
+  "link": "https://www.youtube.com/watch?v=s9vX4lTz06Q",
+  "author": " — "
  },
  {
   "date": "2019-10-18T16:30:35.001Z",
@@ -7560,6 +8952,22 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=4d47d4a8db24c854feb1a851ca961952"
  },
  {
+  "date": "2019-10-13T20:20:52.001Z",
+  "site": "AAspenNow Solutions",
+  "category": "YouTube",
+  "title": "ServiceNow - 10 things you can dot walk in New York - Warsaw Edition",
+  "link": "https://www.youtube.com/watch?v=m40GAnU9Kk8",
+  "author": " — "
+ },
+ {
+  "date": "2019-10-13T09:33:54.001Z",
+  "site": "Iqra Islam",
+  "category": "YouTube",
+  "title": "Servicenow Portal  (Part 11b) - Question and Answer Modal Widget Part2",
+  "link": "https://www.youtube.com/watch?v=M8frpFba2eo",
+  "author": "Iqra Islam"
+ },
+ {
   "title": "Titans of #ServiceNow - Jared Laethem",
   "author": "Robert Fedoruk",
   "category": "YouTube",
@@ -7582,6 +8990,30 @@
   "title": "Adding Performance Analytics to a Service Portal - Office Hours - Oct 9 Recap",
   "author": "Adam Stout",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=3773dab3db1080d45129a851ca9619fa"
+ },
+ {
+  "date": "2019-10-11T18:12:37.001Z",
+  "site": "Cerna Solutions",
+  "category": "YouTube",
+  "title": "Announcing CapIO® - Automated Testing for Workday®",
+  "link": "https://www.youtube.com/watch?v=JSFQpWHpGw0",
+  "author": " — "
+ },
+ {
+  "date": "2019-10-11T12:59:11.001Z",
+  "site": "Covestic",
+  "category": "YouTube",
+  "title": "ServiceNow Security Operations and the CMDB -  Better Together",
+  "link": "https://www.youtube.com/watch?v=rEhITEBeYH0",
+  "author": " — "
+ },
+ {
+  "date": "2019-10-11T12:57:12.001Z",
+  "site": "Kloves Inc.",
+  "category": "YouTube",
+  "title": "Delivering an innovative and game changing Employee Experience at Autodesk",
+  "link": "https://www.youtube.com/watch?v=ywnzFh34gjY",
+  "author": " — "
  },
  {
   "date": "2019-10-11T06:30:31.000Z",
@@ -7766,6 +9198,22 @@
   "title": "Going Fast in ServiceNow",
   "link": "https://jace.pro/post/2019-10-06-faster-with-servicenow/",
   "author": "Jace Benson"
+ },
+ {
+  "date": "2019-10-06T08:19:05.001Z",
+  "site": "AAspenNow Solutions",
+  "category": "YouTube",
+  "title": "ServiceNow - Getting Started with Domain Separation - now with music",
+  "link": "https://www.youtube.com/watch?v=OFMjNS9kbLs",
+  "author": " — "
+ },
+ {
+  "date": "2019-10-05T07:43:52.001Z",
+  "site": "Iqra Islam",
+  "category": "YouTube",
+  "title": "Servicenow Portal (Part 11a) - Question and Answer Modal Widget Part1",
+  "link": "https://www.youtube.com/watch?v=K3wRVpqgkLc",
+  "author": "Iqra Islam"
  },
  {
   "date": "2019-10-05T05:24:27.001Z",
@@ -8080,6 +9528,14 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=92965548db1c485023f4a345ca9619d9"
  },
  {
+  "date": "2019-09-29T12:55:09.001Z",
+  "site": "AAspenNow Solutions",
+  "category": "YouTube",
+  "title": "ServiceNow Dashboards and Performance Analytics in London - with music",
+  "link": "https://www.youtube.com/watch?v=Pje5dGE-WmQ",
+  "author": " — "
+ },
+ {
   "date": "2019-09-29T12:22:13.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -8110,6 +9566,14 @@
   "title": "Projects are better than Certificates",
   "link": "https://jace.pro/post/2019-09-28-projects-are-better-than-certs/",
   "author": "Jace Benson"
+ },
+ {
+  "date": "2019-09-28T06:06:42.001Z",
+  "site": "Iqra Islam",
+  "category": "YouTube",
+  "title": "Servicenow Portal (Part 10c) - Displaying Widget Using Option Part3",
+  "link": "https://www.youtube.com/watch?v=EyZZwhjDm6E",
+  "author": "Iqra Islam"
  },
  {
   "date": "2019-09-27T20:12:25.000Z",
@@ -8296,6 +9760,14 @@
   "author": " - "
  },
  {
+  "date": "2019-09-23T19:36:06.001Z",
+  "site": "Cerna Solutions",
+  "category": "YouTube",
+  "title": "CapIO Recorder Update 2.8.5 | Automated Testing for ServiceNow",
+  "link": "https://www.youtube.com/watch?v=llQKMew2o7U",
+  "author": " — "
+ },
+ {
   "date": "2019-09-23T17:47:38.001Z",
   "site": "Pathway",
   "category": "Blog",
@@ -8310,6 +9782,14 @@
   "title": "Mitigating the wait frustration in customer service",
   "author": "paulselby",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=28320406db88c4546064eeb5ca96192a"
+ },
+ {
+  "date": "2019-09-23T12:07:13.001Z",
+  "site": "AAspenNow Solutions",
+  "category": "YouTube",
+  "title": "Create a ServiceNow record producer with a couple of clicks in Madrid - Enhanced version",
+  "link": "https://www.youtube.com/watch?v=Qq60fH9GiBM",
+  "author": " — "
  },
  {
   "date": "2019-09-23T09:32:54.000Z",
@@ -8342,6 +9822,14 @@
   "title": "Approval Summarizer for Group Approvals",
   "author": "Ankur Bawiskar",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=fbd102d9db0c881414d6fb24399619aa"
+ },
+ {
+  "date": "2019-09-21T05:30:51.001Z",
+  "site": "Iqra Islam",
+  "category": "YouTube",
+  "title": "Servicenow Portal (Part 10b) - Displaying Widget Using Option Part2",
+  "link": "https://www.youtube.com/watch?v=2nMTrJmyR6E",
+  "author": "Iqra Islam"
  },
  {
   "title": "What this #ServiceNow channel is about",
@@ -8414,6 +9902,22 @@
   "title": "ServiceNow SMEs will share how we use our own products to run our business at the Now@Work global events this fall",
   "author": "Mary Hain",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=35cd1a44dbccc01023f4a345ca961964"
+ },
+ {
+  "date": "2019-09-17T14:47:06.001Z",
+  "site": "Kloves Inc.",
+  "category": "YouTube",
+  "title": "Scripting Best Practices on ServiceNow",
+  "link": "https://www.youtube.com/watch?v=LdkhRBgNebE",
+  "author": " — "
+ },
+ {
+  "date": "2019-09-17T11:16:43.001Z",
+  "site": "AAspenNow Solutions",
+  "category": "YouTube",
+  "title": "Create a ServiceNow record producer with a couple of clicks in Madrid",
+  "link": "https://www.youtube.com/watch?v=0F0a-7HFF5I",
+  "author": " — "
  },
  {
   "date": "2019-09-17T05:55:37.000Z",
@@ -8534,6 +10038,14 @@
   "title": "Recordless Rest Is Great",
   "link": "https://jace.pro/post/2019-09-14-recordless-rest-is-great/",
   "author": "Jace Benson"
+ },
+ {
+  "date": "2019-09-14T09:28:55.001Z",
+  "site": "Iqra Islam",
+  "category": "YouTube",
+  "title": "Servicenow Portal(Part 10a) - Displaying Widget Using Option Part1",
+  "link": "https://www.youtube.com/watch?v=s-vqZTHVZGI",
+  "author": "Iqra Islam"
  },
  {
   "title": "Titans of #ServiceNow - Jace Benson",
@@ -8728,6 +10240,14 @@
   "link": "https://community.servicenow.com/community?id=community_article&sys_id=5c93ecd1dbbf7f885129a851ca961988"
  },
  {
+  "date": "2019-09-08T05:29:14.001Z",
+  "site": "Iqra Islam",
+  "category": "YouTube",
+  "title": "Servicenow Portal (Part 9)- Dynamic header using Option Schema (String Field). Use Of Option Schema.",
+  "link": "https://www.youtube.com/watch?v=huHKHuk_wwI",
+  "author": "Iqra Islam"
+ },
+ {
   "date": "2019-09-08T04:25:56.001Z",
   "site": "jace.pro",
   "category": "Blog",
@@ -8776,6 +10296,14 @@
   "site": "Robert, The Duke, Fedoruk"
  },
  {
+  "date": "2019-09-06T20:31:25.001Z",
+  "site": "Cerna Solutions",
+  "category": "YouTube",
+  "title": "Automated Testing for ServiceNow® - Product Overview for CapIO®",
+  "link": "https://www.youtube.com/watch?v=eRx82JLDZZo",
+  "author": " — "
+ },
+ {
   "date": "2019-09-06T18:37:17.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -8822,6 +10350,14 @@
   "title": "Visual Task Board unlimited labels [New York]",
   "author": "Mark Roethof",
   "link": "https://community.servicenow.com/community?id=community_article&sys_id=3a323a581b7fb348d01143f6fe4bcb70"
+ },
+ {
+  "date": "2019-09-06T01:12:06.001Z",
+  "site": "ServicePortal.io",
+  "category": "YouTube",
+  "title": "Drag & Drop Attachments Widget for Service Portal",
+  "link": "https://www.youtube.com/watch?v=RIk_Ck0B4dU",
+  "author": " — "
  },
  {
   "title": "#ServiceNow New York Minute - Related Items & Articles",
@@ -8968,6 +10504,14 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=99556523dba37f08f7fca851ca961926"
  },
  {
+  "date": "2019-09-02T21:04:02.001Z",
+  "site": "AAspenNow Solutions",
+  "category": "YouTube",
+  "title": "ServiceNow - Add User Self Registration to the Service Portal Landing Page in Madrid",
+  "link": "https://www.youtube.com/watch?v=ehLXVOG9_TU",
+  "author": " — "
+ },
+ {
   "date": "2019-09-02T15:56:22.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -8990,6 +10534,14 @@
   "title": "Hiding topics from the Virtual Agent Topic Picker",
   "author": "Mark Roethof",
   "link": "https://community.servicenow.com/community?id=community_article&sys_id=563785fadb27b7c423f4a345ca9619f6"
+ },
+ {
+  "date": "2019-09-01T06:37:52.001Z",
+  "site": "Iqra Islam",
+  "category": "YouTube",
+  "title": "Servicenow Portal(Part 8) -All about Increasing and Decreasing of Window Size in Portal Data tables.",
+  "link": "https://www.youtube.com/watch?v=UmIrYRJ4npM",
+  "author": "Iqra Islam"
  },
  {
   "date": "2019-09-01T04:54:03.001Z",
@@ -9054,6 +10606,14 @@
   "title": "K11 Adv. Scripting and Debugging",
   "link": "https://jace.pro/post/2019-08-31-j_roberts-blast-from-k11/",
   "author": "Jace Benson"
+ },
+ {
+  "date": "2019-08-31T19:41:47.001Z",
+  "site": "Arnoud Kooi",
+  "category": "YouTube",
+  "title": "SN Utils Slashcommands everywhere!",
+  "link": "https://www.youtube.com/watch?v=j4PkpvZKPhY",
+  "author": " — "
  },
  {
   "date": "2019-08-31T17:07:17.000Z",
@@ -9158,6 +10718,14 @@
   "title": "Episode 23 - Import CSV file in ServiceNow (New York release)",
   "link": "https://www.youtube.com/watch?v=dkgE48EuYZY",
   "author": "Göran Lundqvist"
+ },
+ {
+  "date": "2019-08-27T10:23:48.001Z",
+  "site": "AAspenNow Solutions",
+  "category": "YouTube",
+  "title": "ServiceNow - Create and Delete Form Overrides in a Domain Separated Environment",
+  "link": "https://www.youtube.com/watch?v=Iiu_MnWiFKk",
+  "author": " — "
  },
  {
   "date": "2019-08-27T09:56:08.000Z",
@@ -9328,6 +10896,14 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=984cbb22db5b3f004819fb243996192f"
  },
  {
+  "date": "2019-08-19T10:26:48.001Z",
+  "site": "AAspenNow Solutions",
+  "category": "YouTube",
+  "title": "ServiceNow - Create and Add Interactive Filters to Dashboards in Madrid",
+  "link": "https://www.youtube.com/watch?v=OirwryvgCrM",
+  "author": " — "
+ },
+ {
   "date": "2019-08-19T06:24:15.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -9480,12 +11056,44 @@
   "author": "Mike Kaufman"
  },
  {
+  "date": "2019-08-13T15:12:20.001Z",
+  "site": "Nuvolo",
+  "category": "YouTube",
+  "title": "Nuvolo/ServiceNow HR Connection",
+  "link": "https://www.youtube.com/watch?v=-fFNja9cULo",
+  "author": " — "
+ },
+ {
+  "date": "2019-08-13T13:32:44.001Z",
+  "site": "Kloves Inc.",
+  "category": "YouTube",
+  "title": "Automated Test Framework in ServiceNow - Setting Up for Success",
+  "link": "https://www.youtube.com/watch?v=sJP82mrOqYw",
+  "author": " — "
+ },
+ {
   "date": "2019-08-13T12:25:18.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
   "title": "New York release - Enable context menu for script includes, Glide APIs via JavaScript Editor",
   "author": "Deepak Ingale",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=78bf5474dbd773805ed4a851ca96191d"
+ },
+ {
+  "date": "2019-08-13T06:51:34.001Z",
+  "site": "ServiceNow Domain Separations",
+  "category": "YouTube",
+  "title": "REST Basics - REST API with demo",
+  "link": "https://www.youtube.com/watch?v=ghGrqC1rEuc",
+  "author": " — "
+ },
+ {
+  "date": "2019-08-13T01:38:34.001Z",
+  "site": "AAspenNow Solutions",
+  "category": "YouTube",
+  "title": "ServiceNow Application Review - How to Disable All Mandatory Form Fields Simultaneously in Madrid",
+  "link": "https://www.youtube.com/watch?v=CwUpHh9Y4_Q",
+  "author": " — "
  },
  {
   "date": "2019-08-12T16:09:14.001Z",
@@ -9600,6 +11208,14 @@
   "author": "Jace Benson"
  },
  {
+  "date": "2019-08-06T23:27:58.001Z",
+  "site": "Arnoud Kooi",
+  "category": "YouTube",
+  "title": "SN Utils Slashcommands to open and search for tables",
+  "link": "https://www.youtube.com/watch?v=6Q8-JUUW2Jw",
+  "author": " — "
+ },
+ {
   "date": "2019-08-06T16:22:11.001Z",
   "site": "Code Creative",
   "category": "Blog",
@@ -9614,6 +11230,14 @@
   "title": "No Code date validations through (Catalog) UI Policies",
   "author": "Mark Roethof",
   "link": "https://community.servicenow.com/community?id=community_article&sys_id=f61964aadbcb3fc85129a851ca9619eb"
+ },
+ {
+  "date": "2019-08-05T16:36:54.001Z",
+  "site": "AAspenNow Solutions",
+  "category": "YouTube",
+  "title": "ServiceNow - Getting Started with Custom Applications in New York - Part 1 - ACLs",
+  "link": "https://www.youtube.com/watch?v=skeIX8BLB9Q",
+  "author": " — "
  },
  {
   "date": "2019-08-05T15:47:37.001Z",
@@ -9888,6 +11512,22 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=2471f3f6db72b3445129a851ca96192a"
  },
  {
+  "date": "2019-07-26T11:50:28.001Z",
+  "site": "Arnoud Kooi",
+  "category": "YouTube",
+  "title": "ServiceNow Mobile Store Runner",
+  "link": "https://www.youtube.com/watch?v=K2dMZq0G5Mw",
+  "author": " — "
+ },
+ {
+  "date": "2019-07-26T11:48:09.001Z",
+  "site": "Arnoud Kooi",
+  "category": "YouTube",
+  "title": "Loan Request ServiceNow Demo App",
+  "link": "https://www.youtube.com/watch?v=YXy6Gi0QaIQ",
+  "author": " — "
+ },
+ {
   "date": "2019-07-26T03:53:06.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -9926,6 +11566,14 @@
   "title": "We have great ITSM updates for you in New York",
   "author": "archanapenukonda",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=e6cfdb22dbbaf380414eeeb5ca961970"
+ },
+ {
+  "date": "2019-07-25T10:53:05.001Z",
+  "site": "Covestic",
+  "category": "YouTube",
+  "title": "CMDB Health Check – Leveraging the CMDB for ServiceNow Success",
+  "link": "https://www.youtube.com/watch?v=fCH8plg3HAQ",
+  "author": " — "
  },
  {
   "date": "2019-07-25T00:00:00.001Z",
@@ -10152,6 +11800,14 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=21e9d584dbfeb3404819fb2439961928"
  },
  {
+  "date": "2019-07-16T23:52:16.001Z",
+  "site": "Arnoud Kooi",
+  "category": "YouTube",
+  "title": "SN Utils Slash Commands",
+  "link": "https://www.youtube.com/watch?v=X6HLCV_ptQM",
+  "author": " — "
+ },
+ {
   "date": "2019-07-16T19:59:43.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -10224,6 +11880,14 @@
   "author": "Göran Lundqvist"
  },
  {
+  "date": "2019-07-12T23:29:50.001Z",
+  "site": "Kloves Inc.",
+  "category": "YouTube",
+  "title": "ServiceNow at the University of San Francisco: A Story of Revival and Success July 2019",
+  "link": "https://www.youtube.com/watch?v=1Wwn-9BHzgU",
+  "author": " — "
+ },
+ {
   "date": "2019-07-12T17:53:57.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -10262,6 +11926,14 @@
   "title": "Help teach the next generation of ServiceNow developers",
   "author": "Chris McQueen",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=61cc36b9db22f30423f4a345ca9619a3"
+ },
+ {
+  "date": "2019-07-10T00:31:41.001Z",
+  "site": "ServicePortal.io",
+  "category": "YouTube",
+  "title": "Catalog Item Wizard Widget for ServiceNow Service Portal",
+  "link": "https://www.youtube.com/watch?v=tfjl70vBPSY",
+  "author": " — "
  },
  {
   "date": "2019-07-10T00:00:00.001Z",
@@ -10344,6 +12016,14 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=b6dddb09db6efbc0e0e80b55ca96190b"
  },
  {
+  "date": "2019-07-08T13:58:16.001Z",
+  "site": "Arnoud Kooi",
+  "category": "YouTube",
+  "title": "Parking Reservation ServiceNow demo",
+  "link": "https://www.youtube.com/watch?v=9sHHhrCOKwo",
+  "author": " — "
+ },
+ {
   "date": "2019-07-08T00:00:00.001Z",
   "site": "earlduque.com",
   "category": "Blog",
@@ -10384,6 +12064,22 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=dc4f305cdbea7b401cd8a345ca961917"
  },
  {
+  "date": "2019-07-05T18:24:47.001Z",
+  "site": "Kloves Inc.",
+  "category": "YouTube",
+  "title": "Enhance your Employee Experience using ServiceNow Lifecycle Events May 2019",
+  "link": "https://www.youtube.com/watch?v=K483v4EhndY",
+  "author": " — "
+ },
+ {
+  "date": "2019-07-05T17:41:45.001Z",
+  "site": "Kloves Inc.",
+  "category": "YouTube",
+  "title": "UI/UX Design for ServiceNow Service Portals - Process and Use Cases June 2019",
+  "link": "https://www.youtube.com/watch?v=yBkdkQm0IzU",
+  "author": " — "
+ },
+ {
   "date": "2019-07-05T17:28:04.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -10414,6 +12110,38 @@
   "title": "We Care: Supporting West Scranton Community Development",
   "link": "https://pathwayscg.com/we-care-supporting-west-scranton-community-development-2/",
   "author": " - "
+ },
+ {
+  "date": "2019-07-02T20:19:19.001Z",
+  "site": "Nuvolo",
+  "category": "YouTube",
+  "title": "ServiceNow + Nuvolo",
+  "link": "https://www.youtube.com/watch?v=JL_-x9TMq6g",
+  "author": " — "
+ },
+ {
+  "date": "2019-07-02T20:05:48.001Z",
+  "site": "Nuvolo",
+  "category": "YouTube",
+  "title": "Space & Move",
+  "link": "https://www.youtube.com/watch?v=yN2qAEd8d2A",
+  "author": " — "
+ },
+ {
+  "date": "2019-07-02T20:02:19.001Z",
+  "site": "Nuvolo",
+  "category": "YouTube",
+  "title": "Self-Service Portal",
+  "link": "https://www.youtube.com/watch?v=OZ3pSEU6z3o",
+  "author": " — "
+ },
+ {
+  "date": "2019-07-02T19:56:10.001Z",
+  "site": "Nuvolo",
+  "category": "YouTube",
+  "title": "Capital Projects Management",
+  "link": "https://www.youtube.com/watch?v=Hchf_52j4Tc",
+  "author": " — "
  },
  {
   "date": "2019-07-02T17:15:35.001Z",
@@ -10454,6 +12182,22 @@
   "title": "Delivering effortless customer service doesn't need to be difficult",
   "author": "paulselby",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=43c027fadb5a3fc0e0e80b55ca9619ec"
+ },
+ {
+  "date": "2019-07-01T13:37:35.001Z",
+  "site": "Cerna Solutions",
+  "category": "YouTube",
+  "title": "Cerna Podcast Live - Ep. 7: Understanding CapIO and ATF",
+  "link": "https://www.youtube.com/watch?v=AYM2uYwzYJ8",
+  "author": " — "
+ },
+ {
+  "date": "2019-07-01T13:28:47.001Z",
+  "site": "Cerna Solutions",
+  "category": "YouTube",
+  "title": "Cerna Podcast Live - Ep. 6: Road to Madrid",
+  "link": "https://www.youtube.com/watch?v=n7MmkyCkFrY",
+  "author": " — "
  },
  {
   "date": "2019-07-01T12:06:14.000Z",
@@ -10510,6 +12254,14 @@
   "title": "DIY NPS KPI Part 2 - PA Content Build Out",
   "author": "ChrisSteinke",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=d7b90775db9ebf80a39a0b55ca9619d5"
+ },
+ {
+  "date": "2019-06-27T11:10:39.001Z",
+  "site": "IT Canvass",
+  "category": "YouTube",
+  "title": "Servicenow Training | Servicenow Consulting | Servicenow On Job support - IT Canvass",
+  "link": "https://www.youtube.com/watch?v=SJP__T2Zp94",
+  "author": " — "
  },
  {
   "date": "2019-06-26T20:16:29.000Z",
@@ -10608,6 +12360,22 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=65f14e20db123f00fff8a345ca961978"
  },
  {
+  "date": "2019-06-23T20:57:04.001Z",
+  "site": "Arnoud Kooi",
+  "category": "YouTube",
+  "title": "SN Utils / sn-scriptsync Update",
+  "link": "https://www.youtube.com/watch?v=2sVKFDKlmgw",
+  "author": " — "
+ },
+ {
+  "date": "2019-06-22T12:39:00.001Z",
+  "site": "IT Canvass",
+  "category": "YouTube",
+  "title": "Servicenow Demo on Servicenow administrator  & Servicenow developement | Servicenow Training",
+  "link": "https://www.youtube.com/watch?v=lXtoRJ7-fH0",
+  "author": " — "
+ },
+ {
   "date": "2019-06-22T10:45:00.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -10704,12 +12472,28 @@
   "author": " - "
  },
  {
+  "date": "2019-06-19T13:01:42.001Z",
+  "site": "Covestic",
+  "category": "YouTube",
+  "title": "The Project & Portfolio Management Journey – Surrendering the Spreadsheet",
+  "link": "https://www.youtube.com/watch?v=g8NsqzSuUqA",
+  "author": " — "
+ },
+ {
   "date": "2019-06-19T12:13:24.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
   "title": "Video: Community Live Stream - 2019-06-19",
   "author": "Chuck Tomasi",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=ca8dc10bdb8effc0656a5583ca961960"
+ },
+ {
+  "date": "2019-06-18T23:03:51.001Z",
+  "site": "Kloves Inc.",
+  "category": "YouTube",
+  "title": "Getting Started with ServiceNow Discovery - First step towards better ITOM April 2019",
+  "link": "https://www.youtube.com/watch?v=IwwqSkguQHw",
+  "author": " — "
  },
  {
   "date": "2019-06-18T16:58:25.000Z",
@@ -10734,6 +12518,14 @@
   "title": "ServiceNow Store - How to Try, Buy, and Install Apps",
   "author": "Dawn Jurek",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=4baaa02edb86ff005d782183ca961934"
+ },
+ {
+  "date": "2019-06-17T17:36:17.001Z",
+  "site": "Nuvolo",
+  "category": "YouTube",
+  "title": "The Microsoft BlueKeep Vulnerability",
+  "link": "https://www.youtube.com/watch?v=-IjcLfiDbcU",
+  "author": " — "
  },
  {
   "date": "2019-06-17T14:45:49.000Z",
@@ -10814,6 +12606,14 @@
   "title": "ServiceNow Podcast EMEA ep1 - K19 Highlights (Chris Pope & Rhiannon Prothero)",
   "author": "levcribb",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=b79ceb55db4ab3c014d6fb2439961994"
+ },
+ {
+  "date": "2019-06-13T21:49:32.001Z",
+  "site": "Arnoud Kooi",
+  "category": "YouTube",
+  "title": "ServiceNow Flow Designer GlideFlow and FlowAPI",
+  "link": "https://www.youtube.com/watch?v=HaRjNZh2JQI",
+  "author": " — "
  },
  {
   "date": "2019-06-13T14:30:14.000Z",
@@ -10920,12 +12720,36 @@
   "author": " - "
  },
  {
+  "date": "2019-06-05T18:50:55.001Z",
+  "site": "Nuvolo",
+  "category": "YouTube",
+  "title": "Nuvolo at Knoweldge 2019",
+  "link": "https://www.youtube.com/watch?v=mo2jaR7Hm-4",
+  "author": " — "
+ },
+ {
   "date": "2019-06-05T18:24:59.001Z",
   "site": "Pathway",
   "category": "Blog",
   "title": "We Care: Our proceeds to United Neighborhood Centers of Northeastern Pennsylvania",
   "link": "https://pathwayscg.com/we-care-our-proceeds-to-united-neighborhood-centers-of-northeastern-pennsylvania-2/",
   "author": " - "
+ },
+ {
+  "date": "2019-06-05T17:05:36.001Z",
+  "site": "Nuvolo",
+  "category": "YouTube",
+  "title": "Tom Stanford Interview: Knowledge 2019",
+  "link": "https://www.youtube.com/watch?v=XW9SLdw0mzg",
+  "author": " — "
+ },
+ {
+  "date": "2019-06-05T17:05:24.001Z",
+  "site": "Nuvolo",
+  "category": "YouTube",
+  "title": "Bridging The Gap between HR & Facilities",
+  "link": "https://www.youtube.com/watch?v=HJb7nDUtZhg",
+  "author": " — "
  },
  {
   "date": "2019-06-05T10:34:54.000Z",
@@ -11054,6 +12878,14 @@
   "title": "ServiceNow and Dicebear Avatars Integration",
   "link": "https://earlduque.com/2019/05/31/ServiceNow-User-Avatars.html",
   "author": "Earl Duque"
+ },
+ {
+  "date": "2019-05-30T18:30:13.001Z",
+  "site": "Servicenow/UI Tutorials By Pranav",
+  "category": "YouTube",
+  "title": "Getting started with ServiceNow Discovery   First step towards better ITOM",
+  "link": "https://www.youtube.com/watch?v=cnxpBikMd90",
+  "author": " — "
  },
  {
   "date": "2019-05-30T00:00:00.001Z",
@@ -11464,6 +13296,14 @@
   "author": " - "
  },
  {
+  "date": "2019-05-15T15:46:34.001Z",
+  "site": "Nuvolo",
+  "category": "YouTube",
+  "title": "Nuvolo - PartsSource Integration Webinar",
+  "link": "https://www.youtube.com/watch?v=Zmsd6g_1qXU",
+  "author": " — "
+ },
+ {
   "date": "2019-05-15T00:48:22.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -11512,12 +13352,28 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=96110957dbd5fb4cf7fca851ca96196a"
  },
  {
+  "date": "2019-05-13T17:50:50.001Z",
+  "site": "Arnoud Kooi",
+  "category": "YouTube",
+  "title": "SN Utils Highlights CreatorCon",
+  "link": "https://www.youtube.com/watch?v=qFLFW9IbfD0",
+  "author": " — "
+ },
+ {
   "date": "2019-05-13T16:17:22.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
   "title": "ServiceNow SAM Entitlement Import User Guide",
   "author": "Bryan Blackburn",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=c3826f07db193f4cfff8a345ca961980"
+ },
+ {
+  "date": "2019-05-13T15:45:35.001Z",
+  "site": "Arnoud Kooi",
+  "category": "YouTube",
+  "title": "Request For Service Catalog",
+  "link": "https://www.youtube.com/watch?v=WO-ppj5nKaE",
+  "author": " — "
  },
  {
   "date": "2019-05-13T15:06:59.000Z",
@@ -11904,6 +13760,14 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=a8aeb084db9dff840be6a345ca9619c1"
  },
  {
+  "date": "2019-05-03T19:16:11.001Z",
+  "site": "NewRocket, Inc.",
+  "category": "YouTube",
+  "title": "NewRocket - Creating Extraordinary Service Portals on ServiceNow",
+  "link": "https://www.youtube.com/watch?v=cnCMp19IuRs",
+  "author": " — "
+ },
+ {
   "date": "2019-05-03T18:49:47.001Z",
   "site": "Pathway",
   "category": "Blog",
@@ -12216,6 +14080,14 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=8e898e52db4df7045129a851ca96192c"
  },
  {
+  "date": "2019-04-26T19:20:30.001Z",
+  "site": "Cerna Solutions",
+  "category": "YouTube",
+  "title": "CapIO Case Creator Promo",
+  "link": "https://www.youtube.com/watch?v=Ds6wfvZZjb0",
+  "author": " — "
+ },
+ {
   "date": "2019-04-26T17:05:09.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -12296,6 +14168,14 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=c2ff4219db41bb04a39a0b55ca9619a4"
  },
  {
+  "date": "2019-04-25T10:23:28.001Z",
+  "site": "Covestic",
+  "category": "YouTube",
+  "title": "Why Customer Experience Leaders are Choosing ServiceNow for Customer Support",
+  "link": "https://www.youtube.com/watch?v=0NJEqrCwAW0",
+  "author": " — "
+ },
+ {
   "date": "2019-04-25T03:17:27.001Z",
   "site": "ServiceNow Community Podcasts",
   "category": "Podcast",
@@ -12326,6 +14206,22 @@
   "title": "All 2018 Customer Success Best Practice webinars are now ON DEMAND",
   "author": "Eric Gerstein",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=a26f81b4db89f7000be6a345ca9619fb"
+ },
+ {
+  "date": "2019-04-23T15:31:19.001Z",
+  "site": "Nuvolo",
+  "category": "YouTube",
+  "title": "Meet Nuvolo at Knowledge 2019",
+  "link": "https://www.youtube.com/watch?v=Ei89e4ski6I",
+  "author": " — "
+ },
+ {
+  "date": "2019-04-23T15:11:39.001Z",
+  "site": "Nuvolo",
+  "category": "YouTube",
+  "title": "OT Cyber Security",
+  "link": "https://www.youtube.com/watch?v=u_-NQQZJ8j0",
+  "author": " — "
  },
  {
   "date": "2019-04-23T15:03:57.000Z",
@@ -12584,6 +14480,14 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=9396bd07db7c330cfece0b55ca961906"
  },
  {
+  "date": "2019-04-18T06:56:40.001Z",
+  "site": "Arnoud Kooi",
+  "category": "YouTube",
+  "title": "ServiceNow Major Incident demo",
+  "link": "https://www.youtube.com/watch?v=To9wZsWqODs",
+  "author": " — "
+ },
+ {
   "date": "2019-04-18T02:37:15.001Z",
   "site": "ServiceNow Community Podcasts",
   "category": "Podcast",
@@ -12646,6 +14550,14 @@
   "title": "What to expect from SAM at Knowledge 19",
   "author": "Bryan Blackburn",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=2c6b482edbbc3340a39a0b55ca961955"
+ },
+ {
+  "date": "2019-04-16T14:24:12.001Z",
+  "site": "Nuvolo",
+  "category": "YouTube",
+  "title": "Nuvolo's Facilities Management in 90 Seconds",
+  "link": "https://www.youtube.com/watch?v=kYjCG6GP1y4",
+  "author": " — "
  },
  {
   "date": "2019-04-16T14:00:45.000Z",
@@ -12736,6 +14648,14 @@
   "author": "Tim Woodruff"
  },
  {
+  "date": "2019-04-11T00:11:44.001Z",
+  "site": "SN Guys",
+  "category": "YouTube",
+  "title": "Using Custom Search Engines to Get Around Your ServiceNow Instance Lightning-Quick!",
+  "link": "https://www.youtube.com/watch?v=qVVAiW4yfVM",
+  "author": " — "
+ },
+ {
   "date": "2019-04-10T22:47:19.001Z",
   "site": "ServiceNow Community Podcasts",
   "category": "Podcast",
@@ -12798,6 +14718,14 @@
   "title": "SNUG Presentations from March 27th",
   "author": "carolinecampbell",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=22881d5cdb74b308feb1a851ca961940"
+ },
+ {
+  "date": "2019-04-09T20:16:27.001Z",
+  "site": "Nuvolo",
+  "category": "YouTube",
+  "title": "Vendor Management",
+  "link": "https://www.youtube.com/watch?v=d7_rO6QE0ck",
+  "author": " — "
  },
  {
   "date": "2019-04-09T16:59:53.001Z",
@@ -13112,6 +15040,14 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=50b8b660dba47bc84819fb2439961913"
  },
  {
+  "date": "2019-03-28T11:08:02.001Z",
+  "site": "Arnoud Kooi",
+  "category": "YouTube",
+  "title": "ServiceNow Madrid Mobile App - CI Mass Update by QR Code scanning",
+  "link": "https://www.youtube.com/watch?v=896Lx0giDWY",
+  "author": " — "
+ },
+ {
   "date": "2019-03-27T16:10:16.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -13134,6 +15070,14 @@
   "title": "Leveraging Servicenow to transition AudioVisual to Unified Communications",
   "author": "Matthew Fearnley",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=438544ccdba0b78823f4a345ca9619eb"
+ },
+ {
+  "date": "2019-03-27T00:18:32.001Z",
+  "site": "NewRocket, Inc.",
+  "category": "YouTube",
+  "title": "RocketFuel for Service Portal - My Tickets Widget",
+  "link": "https://www.youtube.com/watch?v=2GScwn-22jc",
+  "author": " — "
  },
  {
   "date": "2019-03-27T00:00:00.001Z",
@@ -13912,6 +15856,14 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=ee8519acdb00bfc42be0a851ca961921"
  },
  {
+  "date": "2019-03-03T05:15:12.001Z",
+  "site": "ServiceNow Domain Separations",
+  "category": "YouTube",
+  "title": "Domain Separation in ServiceNow Tutorial5 Incident and Problem Management",
+  "link": "https://www.youtube.com/watch?v=iEo19LAJDRw",
+  "author": " — "
+ },
+ {
   "date": "2019-03-03T02:03:44.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -14046,6 +15998,14 @@
   "date": "2019-02-25T23:59:59.998Z",
   "link": "https://www.youtube.com/watch?v=ivJ7TSCfgtM",
   "site": "Robert, The Duke, Fedoruk"
+ },
+ {
+  "date": "2019-02-25T22:15:11.001Z",
+  "site": "Cerna Solutions",
+  "category": "YouTube",
+  "title": "Product Demo - CapIO Triggers and Notifiers",
+  "link": "https://www.youtube.com/watch?v=YsS2rXwIIJw",
+  "author": " — "
  },
  {
   "date": "2019-02-25T21:46:01.000Z",
@@ -14326,6 +16286,22 @@
   "title": "Join the 2/21 Webinar: How upgrading consistently can save millions a year",
   "author": "Lisa Latour",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=4bc5a5e8dbb76380a39a0b55ca9619a9"
+ },
+ {
+  "date": "2019-02-19T20:18:53.001Z",
+  "site": "Kloves Inc.",
+  "category": "YouTube",
+  "title": "Rethinking the Digital Employee Experience: Dolby's HRSD Case Study Feb 2019",
+  "link": "https://www.youtube.com/watch?v=km-At5ZR154",
+  "author": " — "
+ },
+ {
+  "date": "2019-02-19T20:00:43.001Z",
+  "site": "Kloves Inc.",
+  "category": "YouTube",
+  "title": "Best Practices for Upgrading your ServiceNow Instance Jan 2019",
+  "link": "https://www.youtube.com/watch?v=mjYXI2piHHg",
+  "author": " — "
  },
  {
   "date": "2019-02-19T19:12:02.000Z",
@@ -14678,6 +16654,14 @@
   "title": "We Care: Our contributions to the Children's Advocacy Center",
   "link": "https://pathwayscg.com/we-care-our-contributions-to-the-childrens-advocacy-center/",
   "author": " - "
+ },
+ {
+  "date": "2019-02-05T09:13:33.001Z",
+  "site": "Servicenow/UI Tutorials By Pranav",
+  "category": "YouTube",
+  "title": "Integeration of Servicenow CSM and Augumented Reality",
+  "link": "https://www.youtube.com/watch?v=Y-HNKzpBnSs",
+  "author": " — "
  },
  {
   "date": "2019-02-05T00:00:00.001Z",
@@ -15072,6 +17056,14 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=62c7a68bdbcbab006c1c02d5ca961998"
  },
  {
+  "date": "2019-01-19T04:54:50.001Z",
+  "site": "ServiceNow Domain Separations",
+  "category": "YouTube",
+  "title": "Domain Separation in ServiceNow Tutorial4 Business rules and scripts support",
+  "link": "https://www.youtube.com/watch?v=o-g5iBd5Iyc",
+  "author": " — "
+ },
+ {
   "date": "2019-01-18T19:11:42.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -15264,6 +17256,134 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=5fdc3377db72e304107d5583ca96198c"
  },
  {
+  "date": "2019-01-11T05:05:21.001Z",
+  "site": "Kloves Inc.",
+  "category": "YouTube",
+  "title": "Simplify Employee Experience using Walk up/Tech Lounge Kiosk Dec 2018",
+  "link": "https://www.youtube.com/watch?v=_O-f3GVDSSU",
+  "author": " — "
+ },
+ {
+  "date": "2019-01-09T23:16:01.001Z",
+  "site": "Fruition Forever",
+  "category": "YouTube",
+  "title": "SLA monitoring 87301396",
+  "link": "https://www.youtube.com/watch?v=ed8XDcR3wKg",
+  "author": " — "
+ },
+ {
+  "date": "2019-01-09T23:16:01.001Z",
+  "site": "Fruition Forever",
+  "category": "YouTube",
+  "title": "Software Asset Management SAM Webinar November 2017 245746151",
+  "link": "https://www.youtube.com/watch?v=jkoitMFTtcs",
+  "author": " — "
+ },
+ {
+  "date": "2019-01-09T22:31:57.001Z",
+  "site": "Fruition Forever",
+  "category": "YouTube",
+  "title": "Modernizing Healthcare Technology Management 11 20 14, 11 01 AM 112507899",
+  "link": "https://www.youtube.com/watch?v=3C_sFUTPMyg",
+  "author": " — "
+ },
+ {
+  "date": "2019-01-09T22:31:31.001Z",
+  "site": "Fruition Forever",
+  "category": "YouTube",
+  "title": "Millennium Pharmaceuticals   FDA Validation 6 27 13 11 01 AM 69270823",
+  "link": "https://www.youtube.com/watch?v=9bIoY-O00jM",
+  "author": " — "
+ },
+ {
+  "date": "2019-01-09T22:30:41.001Z",
+  "site": "Fruition Forever",
+  "category": "YouTube",
+  "title": "Platform Analytics for the Entire Enterprise 10 30 14, 11 02 AM 110604349",
+  "link": "https://www.youtube.com/watch?v=HagSo99fpKg",
+  "author": " — "
+ },
+ {
+  "date": "2019-01-09T22:29:58.001Z",
+  "site": "Fruition Forever",
+  "category": "YouTube",
+  "title": "LDAP Integration 16434916",
+  "link": "https://www.youtube.com/watch?v=lCZDrjeXwzg",
+  "author": " — "
+ },
+ {
+  "date": "2019-01-09T22:29:35.001Z",
+  "site": "Fruition Forever",
+  "category": "YouTube",
+  "title": "Nexthink Analytics Webinar March 2015 122027726",
+  "link": "https://www.youtube.com/watch?v=_crnPgi9JM4",
+  "author": " — "
+ },
+ {
+  "date": "2019-01-09T22:29:33.001Z",
+  "site": "Fruition Forever",
+  "category": "YouTube",
+  "title": "Runbook Automation & ServiceNow 29855340",
+  "link": "https://www.youtube.com/watch?v=yWIZ7loh8HE",
+  "author": " — "
+ },
+ {
+  "date": "2019-01-09T22:29:33.001Z",
+  "site": "Fruition Forever",
+  "category": "YouTube",
+  "title": "Performance Analytics with ServiceNow 8 29 13 11 32 AM 73404455",
+  "link": "https://www.youtube.com/watch?v=1ff26ow9j7o",
+  "author": " — "
+ },
+ {
+  "date": "2019-01-09T22:29:33.001Z",
+  "site": "Fruition Forever",
+  "category": "YouTube",
+  "title": "Purchase Order Management 91960686",
+  "link": "https://www.youtube.com/watch?v=4QIus-Vi3Fg",
+  "author": " — "
+ },
+ {
+  "date": "2019-01-09T22:29:33.001Z",
+  "site": "Fruition Forever",
+  "category": "YouTube",
+  "title": "Managed Services Video 116267949",
+  "link": "https://www.youtube.com/watch?v=azQ2BarS7zc",
+  "author": " — "
+ },
+ {
+  "date": "2019-01-09T22:29:33.001Z",
+  "site": "Fruition Forever",
+  "category": "YouTube",
+  "title": "Lift Pre built CMS Demo 125505486",
+  "link": "https://www.youtube.com/watch?v=uk5XNWQ5DGw",
+  "author": " — "
+ },
+ {
+  "date": "2019-01-09T22:29:33.001Z",
+  "site": "Fruition Forever",
+  "category": "YouTube",
+  "title": "Research Request Management 95880368",
+  "link": "https://www.youtube.com/watch?v=dkmG15NkD8A",
+  "author": " — "
+ },
+ {
+  "date": "2019-01-09T22:29:33.001Z",
+  "site": "Fruition Forever",
+  "category": "YouTube",
+  "title": "Native Agent Based Monitoring in ServiceNow 35523941",
+  "link": "https://www.youtube.com/watch?v=vwQYmHYdIr4",
+  "author": " — "
+ },
+ {
+  "date": "2019-01-09T22:29:33.001Z",
+  "site": "Fruition Forever",
+  "category": "YouTube",
+  "title": "Order Guide Webinar 15882052",
+  "link": "https://www.youtube.com/watch?v=uvuSpNJbXj0",
+  "author": " — "
+ },
+ {
   "date": "2019-01-09T22:06:56.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -15344,6 +17464,38 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=10b81ea2db7a6b80656a5583ca9619ce"
  },
  {
+  "date": "2019-01-07T12:57:49.001Z",
+  "site": "Covestic",
+  "category": "YouTube",
+  "title": "Part 1: Tips for Cracking the CMDB Code and Solving Business Problems",
+  "link": "https://www.youtube.com/watch?v=_eeHYzxzodc",
+  "author": " — "
+ },
+ {
+  "date": "2019-01-07T12:57:46.001Z",
+  "site": "Covestic",
+  "category": "YouTube",
+  "title": "Part 2 -  Tips for Cracking the CMDB Code and Solving Business Problems",
+  "link": "https://www.youtube.com/watch?v=ZgYq6istbh4",
+  "author": " — "
+ },
+ {
+  "date": "2019-01-07T12:57:38.001Z",
+  "site": "Covestic",
+  "category": "YouTube",
+  "title": "On-Demand Webinar: Best Practices for the Project & Portfolio Management Journey",
+  "link": "https://www.youtube.com/watch?v=Ti3JyU1YP3o",
+  "author": " — "
+ },
+ {
+  "date": "2019-01-07T12:56:59.001Z",
+  "site": "Covestic",
+  "category": "YouTube",
+  "title": "5 Steps to Align Your Teams to Optimize Customer Experience",
+  "link": "https://www.youtube.com/watch?v=8xqvLaFL3CU",
+  "author": " — "
+ },
+ {
   "date": "2019-01-04T23:15:56.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -15366,6 +17518,14 @@
   "title": "Tips for setting goals and keeping them aligned in 2019",
   "link": "https://pathwayscg.com/tips-for-setting-goals-and-keeping-them-aligned-in-2019/",
   "author": " - "
+ },
+ {
+  "date": "2019-01-04T02:54:02.001Z",
+  "site": "ServiceNow Domain Separations",
+  "category": "YouTube",
+  "title": "Domain Separation in ServiceNow Tutorial3 Branding",
+  "link": "https://www.youtube.com/watch?v=ARvidjkbOHA",
+  "author": " — "
  },
  {
   "date": "2019-01-04T00:00:00.001Z",
@@ -15398,6 +17558,22 @@
   "title": "Call to Sponsor | Toronto SNUG March 5th, 2019",
   "author": "Lexie Kuikman",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=80c2da95db72a740656a5583ca9619e7"
+ },
+ {
+  "date": "2019-01-03T12:09:42.001Z",
+  "site": "ServiceNow Domain Separations",
+  "category": "YouTube",
+  "title": "Domain Separation in ServiceNow Tutorial2",
+  "link": "https://www.youtube.com/watch?v=umLVsMQYZwo",
+  "author": " — "
+ },
+ {
+  "date": "2019-01-03T12:02:43.001Z",
+  "site": "ServiceNow Domain Separations",
+  "category": "YouTube",
+  "title": "Domain Separation in ServiceNow Tutorial1 by Rajesh Jain",
+  "link": "https://www.youtube.com/watch?v=v2eCIgNtvPo",
+  "author": " — "
  },
  {
   "date": "2019-01-02T17:16:24.000Z",
@@ -16360,6 +18536,14 @@
   "author": " - "
  },
  {
+  "date": "2018-11-07T23:17:43.001Z",
+  "site": "Kloves Inc.",
+  "category": "YouTube",
+  "title": "HRSD : What's new in London Oct 2018",
+  "link": "https://www.youtube.com/watch?v=0XZY3_OefIU",
+  "author": " — "
+ },
+ {
   "date": "2018-11-07T17:47:35.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -16624,6 +18808,14 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=3b0a80e3db196fc01089e15b8a961937"
  },
  {
+  "date": "2018-10-26T13:41:18.001Z",
+  "site": "Covestic",
+  "category": "YouTube",
+  "title": "We Implemented and Stalled. NOW What? Kick-start Your ServiceNow Program",
+  "link": "https://www.youtube.com/watch?v=oasUdMkn_Cw",
+  "author": " — "
+ },
+ {
   "date": "2018-10-25T15:11:17.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -16750,6 +18942,14 @@
   "title": "\"View Data to Preserve\" Tool",
   "author": "Jim Coyne",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=c2a96241db99a340a39a0b55ca96194e"
+ },
+ {
+  "date": "2018-10-19T19:47:48.001Z",
+  "site": "ServicePortal.io",
+  "category": "YouTube",
+  "title": "The GlideForm (g_form) API in Embedded Service Portal Widgets",
+  "link": "https://www.youtube.com/watch?v=hf2v_Zg5Vss",
+  "author": " — "
  },
  {
   "date": "2018-10-19T16:34:50.001Z",
@@ -17088,6 +19288,14 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=d54a4deddb412b08feb1a851ca961907"
  },
  {
+  "date": "2018-10-08T15:59:39.001Z",
+  "site": "ServicePortal.io",
+  "category": "YouTube",
+  "title": "Secrets of the Simple List Widget in ServiceNow Service Portal",
+  "link": "https://www.youtube.com/watch?v=UKpSc-67YOo",
+  "author": " — "
+ },
+ {
   "date": "2018-10-08T15:55:52.001Z",
   "site": "Pathway",
   "category": "Blog",
@@ -17230,6 +19438,14 @@
   "title": "Video: Community Live Stream - 2018-10-03",
   "author": "Chuck Tomasi",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=eae0b3a7db7ce3c8f7fca851ca9619e8"
+ },
+ {
+  "date": "2018-10-02T18:32:53.001Z",
+  "site": "Kloves Inc.",
+  "category": "YouTube",
+  "title": "A ServiceNow solution to a costly business problem: Software Asset Management Sep 2018",
+  "link": "https://www.youtube.com/watch?v=3fYr6adTp_Q",
+  "author": " — "
  },
  {
   "date": "2018-10-02T17:46:18.000Z",
@@ -17640,6 +19856,14 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=162d25badba827c0fece0b55ca96195a"
  },
  {
+  "date": "2018-09-18T08:33:00.001Z",
+  "site": "Servicenow/UI Tutorials By Pranav",
+  "category": "YouTube",
+  "title": "Integration of ServiceNow Instance with Telegram application",
+  "link": "https://www.youtube.com/watch?v=USCIlRgi9W0",
+  "author": " — "
+ },
+ {
   "date": "2018-09-18T04:54:21.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -17790,6 +20014,14 @@
   "title": "ITFM Cost Allocations: The Basics",
   "author": "Bryan Blackburn",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=6b00fd5cdb60a70ca39a0b55ca961926"
+ },
+ {
+  "date": "2018-09-10T15:40:06.001Z",
+  "site": "ServicePortal.io",
+  "category": "YouTube",
+  "title": "Tutorial: Learn how to use SCSS Variables in ServiceNow Service Portal",
+  "link": "https://www.youtube.com/watch?v=3rZMsd8WPoo",
+  "author": " — "
  },
  {
   "date": "2018-09-10T14:42:22.000Z",
@@ -18022,6 +20254,14 @@
   "title": "Agradecimento - 8.o SNUG São Paulo",
   "author": "ccook",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=ad4d70b4dbd4e7c4e0e80b55ca9619a1"
+ },
+ {
+  "date": "2018-08-30T13:48:03.001Z",
+  "site": "Covestic",
+  "category": "YouTube",
+  "title": "What to Expect When You’re Upgrading ServiceNow",
+  "link": "https://www.youtube.com/watch?v=kn970t5nie4",
+  "author": " — "
  },
  {
   "date": "2018-08-29T17:08:36.000Z",
@@ -18872,6 +21112,14 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=df609af8dbbbdb405ed4a851ca961928"
  },
  {
+  "date": "2018-08-03T20:20:06.001Z",
+  "site": "SN Guys",
+  "category": "YouTube",
+  "title": "How to get Catalog Variables via REST Table API (ServiceNow)",
+  "link": "https://www.youtube.com/watch?v=WpMkIQfQ7I4",
+  "author": " — "
+ },
+ {
   "date": "2018-08-03T13:52:04.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -19512,6 +21760,14 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=e300ac23dbf69bc09d612926ca961977"
  },
  {
+  "date": "2018-06-21T10:09:06.001Z",
+  "site": "Servicenow/UI Tutorials By Pranav",
+  "category": "YouTube",
+  "title": "Facial recognition with Servicenow",
+  "link": "https://www.youtube.com/watch?v=4MWrT6vwd5s",
+  "author": " — "
+ },
+ {
   "date": "2018-06-20T16:27:52.001Z",
   "site": "servicenowgems.com",
   "category": "Blog",
@@ -19670,6 +21926,14 @@
   "title": "Getting Started Building a Store App",
   "author": "Brad Tilton",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=1a473dc2dbee53c08e7c2926ca961934"
+ },
+ {
+  "date": "2018-06-08T15:06:45.001Z",
+  "site": "Covestic",
+  "category": "YouTube",
+  "title": "I’m implemented, NOW What? Best practices for maintaining ServiceNow and Staffing",
+  "link": "https://www.youtube.com/watch?v=3ajXegI9_Co",
+  "author": " — "
  },
  {
   "date": "2018-06-08T05:32:58.000Z",
@@ -19872,6 +22136,14 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=24eba4eadbda17c04fc2f4621f961986"
  },
  {
+  "date": "2018-05-27T23:12:57.001Z",
+  "site": "ServicePortal.io",
+  "category": "YouTube",
+  "title": "Widgets and Demo Portal from our K18 Service Portal Sessions",
+  "link": "https://www.youtube.com/watch?v=n52r7a1r9UM",
+  "author": " — "
+ },
+ {
   "date": "2018-05-25T13:55:42.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -19902,6 +22174,14 @@
   "title": "Don’t be so one-dimensional — use Spotlight for effective focus",
   "author": "Tom Pacyk",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=1ff858dddb9edf400e3dfb651f9619a5"
+ },
+ {
+  "date": "2018-05-24T15:00:39.001Z",
+  "site": "Covestic",
+  "category": "YouTube",
+  "title": "An Introduction to Automated Testing in ServiceNow",
+  "link": "https://www.youtube.com/watch?v=dxtXB6Zc4XU",
+  "author": " — "
  },
  {
   "date": "2018-05-24T00:04:33.000Z",
@@ -21576,6 +23856,14 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=cc7ebd56db385f402e247a9e0f961945"
  },
  {
+  "date": "2018-03-13T14:54:59.001Z",
+  "site": "SN Guys",
+  "category": "YouTube",
+  "title": "ServiceNow: Custom Output Transition Conditions From a Single Workflow (Script) Activity",
+  "link": "https://www.youtube.com/watch?v=xASTCgmSueI",
+  "author": " — "
+ },
+ {
   "date": "2018-03-13T11:03:46.001Z",
   "site": "snc-blog.com",
   "category": "Blog",
@@ -21702,6 +23990,14 @@
   "title": "Relationships in ServiceNow Explained",
   "author": "Anurag Tripathi",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=ead5f346dbac5f402d1efb651f961938"
+ },
+ {
+  "date": "2018-02-28T16:50:26.001Z",
+  "site": "ServicePortal.io",
+  "category": "YouTube",
+  "title": "Featured Service Portal: Scripps Networks Interactive",
+  "link": "https://www.youtube.com/watch?v=K-j7qqSB2yc",
+  "author": " — "
  },
  {
   "date": "2018-02-27T21:06:43.000Z",
@@ -21944,6 +24240,14 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=12fc26a5dbd0dbc01dcaf3231f96191c"
  },
  {
+  "date": "2018-02-12T19:05:42.001Z",
+  "site": "ServicePortal.io",
+  "category": "YouTube",
+  "title": "Order Guide Service Portal Widget in Kingston release of ServiceNow",
+  "link": "https://www.youtube.com/watch?v=tTXdD-iyPQw",
+  "author": " — "
+ },
+ {
   "date": "2018-02-12T12:36:04.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -22054,6 +24358,14 @@
   "title": "Live Events Archive",
   "author": "runemehlum",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=154deee5dbd0dbc01dcaf3231f9619ba"
+ },
+ {
+  "date": "2018-02-09T06:39:35.001Z",
+  "site": "ServicePortal.io",
+  "category": "YouTube",
+  "title": "Order Guide Service Portal Widget in Kingston release of ServiceNow.",
+  "link": "https://www.youtube.com/watch?v=9WOp1TELXxs",
+  "author": " — "
  },
  {
   "date": "2018-02-09T00:00:00.001Z",
@@ -23478,6 +25790,14 @@
   "title": "Enabling Service Excellence Through ServiceNow's Agent Intelligence (Accenture report)",
   "author": "runemehlum",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=ecfda22ddbd0dbc01dcaf3231f961961"
+ },
+ {
+  "date": "2017-12-19T21:05:28.001Z",
+  "site": "ServicePortal.io",
+  "category": "YouTube",
+  "title": "Featured Service Portal: Fairfax Intranet Portal",
+  "link": "https://www.youtube.com/watch?v=F9YRHsz8DxE",
+  "author": " — "
  },
  {
   "date": "2017-12-19T19:13:06.000Z",
@@ -25352,6 +27672,14 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=3aedeee9dbd0dbc01dcaf3231f961938"
  },
  {
+  "date": "2017-10-12T10:21:46.001Z",
+  "site": "Covestic",
+  "category": "YouTube",
+  "title": "Agile Development in ServiceNow  Master Your Scrum Skills",
+  "link": "https://www.youtube.com/watch?v=APZAU2QAr1g",
+  "author": " — "
+ },
+ {
   "date": "2017-10-11T21:05:17.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -25430,6 +27758,14 @@
   "title": "3 changes to the SLA engine for domain-separated instances",
   "author": "rohantyagi",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=816daa29dbd0dbc01dcaf3231f9619c2"
+ },
+ {
+  "date": "2017-10-08T20:10:19.001Z",
+  "site": "ServicePortal.io",
+  "category": "YouTube",
+  "title": "SpaceRocket 404 Page for Service Portal",
+  "link": "https://www.youtube.com/watch?v=dLVBNO9TK7w",
+  "author": " — "
  },
  {
   "date": "2017-10-08T19:18:10.000Z",
@@ -27568,6 +29904,14 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=e61e626ddbd0dbc01dcaf3231f961920"
  },
  {
+  "date": "2017-07-06T17:07:14.001Z",
+  "site": "Covestic",
+  "category": "YouTube",
+  "title": "On Demand Webinar: A New Generation of Customer Service with ServiceNow",
+  "link": "https://www.youtube.com/watch?v=06nKb2gCFdE",
+  "author": " — "
+ },
+ {
   "date": "2017-07-06T17:00:54.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -27750,6 +30094,14 @@
   "title": "TechBytes Episode 34: Web Services",
   "author": "marystromberg",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=ee6d2e29dbd0dbc01dcaf3231f96195b"
+ },
+ {
+  "date": "2017-06-28T19:11:05.001Z",
+  "site": "ServicePortal.io",
+  "category": "YouTube",
+  "title": "Opening Headers in the Widget Editor on Helsinki",
+  "link": "https://www.youtube.com/watch?v=CV2KxFVcoQk",
+  "author": " — "
  },
  {
   "date": "2017-06-28T18:53:40.000Z",
@@ -28414,6 +30766,14 @@
   "title": "URL Navigation Tips",
   "author": "Shahed Shah",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=274ea6addbd0dbc01dcaf3231f96196c"
+ },
+ {
+  "date": "2017-05-23T23:24:40.001Z",
+  "site": "NewRocket, Inc.",
+  "category": "YouTube",
+  "title": "NewRocket Promo Video",
+  "link": "https://www.youtube.com/watch?v=RzG5Fo3f-ic",
+  "author": " — "
  },
  {
   "date": "2017-05-23T18:56:08.000Z",
@@ -30312,6 +32672,14 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=dc9caae1dbd0dbc01dcaf3231f9619f4"
  },
  {
+  "date": "2017-03-20T18:58:27.001Z",
+  "site": "ServicePortal.io",
+  "category": "YouTube",
+  "title": "The Importance of a Great User Experience in Enterprise Software",
+  "link": "https://www.youtube.com/watch?v=-QxlUi_hidQ",
+  "author": " — "
+ },
+ {
   "date": "2017-03-20T16:25:47.000Z",
   "site": "ServiceNow Blogs",
   "category": "Blog",
@@ -31358,6 +33726,14 @@
   "title": "Utilizing variable information in notifications",
   "author": "darius.koohmarey",
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=53bd2ea9dbd0dbc01dcaf3231f96198d"
+ },
+ {
+  "date": "2017-02-02T23:26:28.001Z",
+  "site": "ServicePortal.io",
+  "category": "YouTube",
+  "title": "Service Portal: Communicating between the Client Script and the Server Script of a widget",
+  "link": "https://www.youtube.com/watch?v=sr_gqqxllRM",
+  "author": " — "
  },
  {
   "date": "2017-02-02T08:02:08.001Z",
