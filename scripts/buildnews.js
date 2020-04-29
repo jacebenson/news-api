@@ -462,6 +462,11 @@ module.exports = {
               "type": "YouTube",
               "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVY9uPWd9wVvzrex2lrRH8Q",
               "author": " — "
+            },{
+              "title":"valueflow.com.au",
+              "type": "Blog",
+              "url":"https://www.valueflow.com.au/blog-feed.xml",
+              "author": " — "
             }
           ];
         /* {
