@@ -467,6 +467,11 @@ module.exports = {
               "type": "Blog",
               "url":"https://www.valueflow.com.au/blog-feed.xml",
               "author": " — "
+            },
+            { "title": "ServiceNow Vimeo", 
+              "type": "Vimeo", 
+              "url": "https://vimeo.com/servicenow/videos/rss",
+              "author": " — "
             }
           ];
         /* {
@@ -475,7 +480,7 @@ module.exports = {
                 "url": "http://john-james-andersen.com/feed",
                 "author": "John Andersen",
             },*/ 
-            //{ "title": "ServiceNow Vimeo", "type": "Vimeo", "url": "https://vimeo.com/servicenow/videos/rss" },
+            
             //{ "title": "Fruition Partners Vimeo", "type": "Vimeo", "url": "https://vimeo.com/user4353238/videos/rss" },
             //{ "title": "Linium Blog", "type": "Blog", "url": "https://www.linium.com/blog/rss.xml" },
             //{ "title": "Plat4mation Blog", "type": "Blog", "url": "https://www.plat4mation.com/feed/" },
