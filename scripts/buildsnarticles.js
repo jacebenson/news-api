@@ -50,7 +50,7 @@ module.exports = {
                         var dateObj = new Date(post.published_date);
                         outputArr.push({
                             date: dateObj.toISOString(),
-                            site: "ServiceNow Blogs",
+                            site: "ServiceNow Articles",
                             category: "Blog",
                             title: post.title,
                             author: post.userAvatarObject.name,
