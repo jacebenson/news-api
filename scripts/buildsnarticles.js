@@ -6,7 +6,12 @@ module.exports = {
         var outputArr = [];
         let feedPath = "./feeds.json"
         // get count to start...
-        var getNowBlogs = function (start, callback) {
+        var users = [
+            {"sys_id": "3c8256e9dbd81fc09c9ffb651f96199d", "name": "Jenny Hu"},
+            {"sys_id": "e5cf8aeddb181fc09c9ffb651f961930", "name": "Mark R"},
+            {"sys_id": "5c101a25db581fc09c9ffb651f961978", "name": "Javier"}
+        ];
+        var getNowArticles = function (start, callback) {
             if (!start) {
                 start = 0;
             }
@@ -14,7 +19,8 @@ module.exports = {
             var options = {
                 method: "GET",
                 hostname: "community.servicenow.com",
-                path: "/api/sn_communities/v1/community/contents?last=" + end + "&stFrom=" + start + "&before=" + new Date().toISOString() + "&forum=&type=5eaa334a5f10030069c587dc3f73130b&user=5c101a25db581fc09c9ffb651f961978&state=all&filters=undefined",
+                //path: "/api/sn_communities/v1/community/contents?last=" + end + "&stFrom=" + start + "&before=" + new Date().toISOString() + "&forum=&type=5eaa334a5f10030069c587dc3f73130b&user=" + user + "&state=all&filters=undefined",
+                path: "/api/sn_communities/v1/community/contents?last=" + end + "&stFrom=" + start + "&before=" + new Date().toISOString() + "&forum=&type=5eaa334a5f10030069c587dc3f73130b&state=all&filters=undefined",
                 headers: {
                     "Accept": "*/*",
                     "Cache-Control": "no-cache",
@@ -39,7 +45,7 @@ module.exports = {
                     //console.log(body.toString());
                     var responseObj = JSON.parse(body);
 
-                    console.log(responseObj.result.nextRecord, 'ServiceNow Community - Javiera')
+                    //console.log(responseObj.result.nextRecord, 'ServiceNow Community Articles - ' + user)
                     responseObj.result.contents.forEach(function (post) {
                         var dateObj = new Date(post.published_date);
                         outputArr.push({
@@ -53,7 +59,7 @@ module.exports = {
                     });
 
                     if (responseObj.result.hasMoreRecords) {
-                        getNowBlogs(parseInt(responseObj.result.nextRecord, 10), function () {
+                        getNowArticles(parseInt(responseObj.result.nextRecord, 10), function () {
                             console.log('outputArr.length', outputArr.length)
                         });
                     } else {
@@ -93,7 +99,10 @@ module.exports = {
             });
             req.end();
         }
-        getNowBlogs(null, null);
+        //users.forEach(function(user){
+            getNowArticles(null, null);
+        //})
+        
     }
 }
 
