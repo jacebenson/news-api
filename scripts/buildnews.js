@@ -92,6 +92,13 @@ module.exports = {
               "author": "Robert Fedoruk"
             },
             {
+              "title": "Robert, The Duke, Fedoruk",
+              "type": "Podcast",
+              "url": "https://anchor.fm/s/203322f8/podcast/rss",
+              "author": "Robert Fedoruk"
+            },
+            //
+            {
               "title": "CJ & The Duke",
               "type": "Podcast",
               "url": "https://feeds.transistor.fm/cj-the-duke",
