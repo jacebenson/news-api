@@ -6,11 +6,6 @@ module.exports = {
         var outputArr = [];
         let feedPath = "./feeds.json"
         // get count to start...
-        var users = [
-            {"sys_id": "3c8256e9dbd81fc09c9ffb651f96199d", "name": "Jenny Hu"},
-            {"sys_id": "e5cf8aeddb181fc09c9ffb651f961930", "name": "Mark R"},
-            {"sys_id": "5c101a25db581fc09c9ffb651f961978", "name": "Javier"}
-        ];
         var getNowArticles = function (start, callback) {
             if (!start) {
                 start = 0;
