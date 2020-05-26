@@ -33,6 +33,7 @@ module.exports = {
       return unique;
     })();
     var now = new Date();
+    now.setDate(now.getDate() + 5);
     var notFuture = uniqueArray.filter(function (result) {
       var resultDate = new Date(result.date);
       if (resultDate < now) {
