@@ -479,6 +479,12 @@ module.exports = {
               "type": "Vimeo", 
               "url": "https://vimeo.com/servicenow/videos/rss",
               "author": " — "
+            },
+            {
+              "title": "Crossfuze",
+              "type": "YouTube",
+              "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpLZhZNVnXhmNUlKBMgiJIA",
+              "author": " — "
             }
           ];
         /* {
