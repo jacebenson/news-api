@@ -490,7 +490,7 @@ module.exports = {
               "title": "",
               "type": "YouTube",
               "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCv4FOEe0MZkANapsqhDVRBw",
-              "author": "Dhruvii Gupta"
+              "author": "Dhruv Gupta"
             }
           ];
         /* {
