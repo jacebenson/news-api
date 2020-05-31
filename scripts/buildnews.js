@@ -485,6 +485,12 @@ module.exports = {
               "type": "YouTube",
               "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpLZhZNVnXhmNUlKBMgiJIA",
               "author": " — "
+            },
+            {
+              "title": "",
+              "type": "YouTube",
+              "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCv4FOEe0MZkANapsqhDVRBw",
+              "author": "Dhruvii Gupta"
             }
           ];
         /* {
