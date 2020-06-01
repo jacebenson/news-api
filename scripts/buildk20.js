@@ -32,18 +32,7 @@ module.exports = {
         .filter(e => arr[e]).map(e => arr[e]);
       return unique;
     })();
-    var now = new Date();
-    now.setDate(now.getDate() + 5);
-    var notFuture = uniqueArray.filter(function (result) {
-      var resultDate = new Date(result.date);
-      if (resultDate < now) {
-        return true;
-      } else {
-        return false;
-      }
-    });
-    console.log('notFuture.length', notFuture.length)
-    fs.writeFileSync(feedPath, JSON.stringify(notFuture, '', ' '));
+    fs.writeFileSync(feedPath, JSON.stringify(uniqueArray, '', ' '));
     callbackFinal();
     //});
   }
