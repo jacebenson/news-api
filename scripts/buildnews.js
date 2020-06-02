@@ -491,6 +491,12 @@ module.exports = {
               "type": "YouTube",
               "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCv4FOEe0MZkANapsqhDVRBw",
               "author": "Dhruv Gupta"
+            },
+            {
+              "title": "Semaphore Partners Blog",
+              "type": "Blog",
+              "url": "https://semaphorepartners.com/rss.xml",
+              "author": "Jonathan Jacob and Toby Comer"
             }
           ];
         /* {
