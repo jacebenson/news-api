@@ -17,9 +17,6 @@ rssFeeds.build(function () {
         console.log('community articles built');
         communityBlogs.build(function () {
             console.log('community blogs built');
-            buildk20.build(function(){
-                console.log('k20 links built');
-            });
         });
     });
     
