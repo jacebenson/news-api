@@ -487,7 +487,7 @@ module.exports = {
               "author": " — "
             },
             {
-              "title": "",
+              "title": "Dhruv Gupta",
               "type": "YouTube",
               "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCv4FOEe0MZkANapsqhDVRBw",
               "author": "Dhruv Gupta"
@@ -508,7 +508,6 @@ module.exports = {
             
             //{ "title": "Fruition Partners Vimeo", "type": "Vimeo", "url": "https://vimeo.com/user4353238/videos/rss" },
             //{ "title": "Linium Blog", "type": "Blog", "url": "https://www.linium.com/blog/rss.xml" },
-            //{ "title": "Plat4mation Blog", "type": "Blog", "url": "https://www.plat4mation.com/feed/" },
             //{ "title": "Reddit", "type": "Questions", "url": "http://reddit.com/r/servicenow/.rss" },
             //{ "title": "StackOverflow", "type": "Questions", "url": "https://stackoverflow.com/feeds/tag?tagnames=servicenow&amp;sort=newest" },
 
@@ -563,9 +562,9 @@ module.exports = {
                                     return newArr.indexOf(item) == pos;
                                 })
                                 uniqueArray.sort(function (a, b) {
-                                    var adate = new Date(a.date);
-                                    var bdate = new Date(b.date);
-                                    return bdate - adate;
+                                    var aDate = new Date(a.date);
+                                    var bDate = new Date(b.date);
+                                    return bDate - aDate;
                                 })
                                 uniqueArray = (function () {
                                     var arr = uniqueArray;
