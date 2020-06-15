@@ -9,7 +9,6 @@ fs.writeFile(feedPath, '[]', { flag: 'w' }, function (err) {
 var rssFeeds = require('./buildnews');
 var communityBlogs = require('./buildsnblogs');
 var communityArticles = require('./buildsnarticles');
-var buildk20 = require('./buildk20');
 
 rssFeeds.build(function () {
     console.log('rss feeds built');
