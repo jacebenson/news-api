@@ -23,7 +23,9 @@
     "url": "https://github.com/jacebenson/news-api/issues"
   },
   "homepage": "https://github.com/jacebenson/news-api#readme",
-  "dependencies": {},
+  "dependencies": {
+    "mongodb": "^3.5.9"
+  },
   "devDependencies": {
     "body-parser": "^1.18.3",
     "express": "^4.16.3",

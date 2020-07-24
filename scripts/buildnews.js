@@ -99,6 +99,12 @@ module.exports = {
             },
             //
             {
+              "title": "Break Point",
+              "type": "Podcast",
+              "url": "https://www.omnycontent.com/d/playlist/922e0f19-2d84-4485-835c-a83f00036b00/482f14e7-034f-4f55-a28a-abff01781da7/62c03853-0d6b-45ed-88ea-abff01797007/podcast.rss",
+              "author": "Chuck Tomasi"
+            },
+            {
               "title": "CJ & The Duke",
               "type": "Podcast",
               "url": "https://feeds.transistor.fm/cj-the-duke",
