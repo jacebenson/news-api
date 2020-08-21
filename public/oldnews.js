@@ -94,10 +94,10 @@ document.addEventListener("DOMContentLoaded", function (event) {
   } else {
     url += '?unique=' + new Date().toISOString();
   }
-  if(url.indexOf('&start=')===-1){
+  if((url.indexOf('&start=')===-1)||(url.indexOf('?start=')===-1)){
   url += '&start=' + document.getElementById('start').value;
   }
-  if(url.indexOf('&end=')===-1){
+  if((url.indexOf('&end=')===-1)||(url.indexOf('?end=')===-1)){
   url += '&end=' + document.getElementById('end').value;
   }
   
