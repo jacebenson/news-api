@@ -9,7 +9,7 @@ fs.writeFile(feedPath, '[]', { flag: 'w' }, function (err) {
 var rssFeeds = require('./buildnews');
 var communityBlogs = require('./buildsnblogs');
 var communityArticles = require('./buildsnarticles');
-/*
+
 rssFeeds.build(function () {
     console.log('rss feeds built');
     communityArticles.build(function(){
@@ -20,5 +20,5 @@ rssFeeds.build(function () {
     });
     
 });
-*/
+
 module.exports = {};
