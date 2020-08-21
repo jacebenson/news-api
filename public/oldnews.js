@@ -92,11 +92,11 @@ document.addEventListener("DOMContentLoaded", function (event) {
   if (pageUrl.search) {
     pageUrl.set('unique', new Date().toISOString());
   }
-  if(pageUrl.get('start')) {
-    pageUrl.set('start', document.getElementById('start').value);
+  if(pageUrl.searchParams.get('start')) {
+    pageUrl.searchParams.set('start', document.getElementById('start').value);
   }
-  if(pageUrl.get('end')) {
-    pageUrl.set('end', document.getElementById('end').value);
+  if(pageUrl.searchParams.get('end')) {
+    pageUrl.searchParams.set('end', document.getElementById('end').value);
   }
   
   var settings = {
