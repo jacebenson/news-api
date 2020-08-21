@@ -86,8 +86,8 @@ document.addEventListener("DOMContentLoaded", function (event) {
     .addEventListener('click', function () {
       submitForm();
     });
-  //var url = "https://news.jace.pro/.netlify/functions/server";
-  var url = "https://zen-jones-6f4442.netlify.com/.netlify/functions/server";
+  var url = "https://news.jace.pro/.netlify/functions/server";
+  //var url = "https://zen-jones-6f4442.netlify.com/.netlify/functions/server";
   var pageUrl = new URL(document.URL);
   url += pageUrl.search;
   if (pageUrl.search) {
