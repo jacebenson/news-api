@@ -88,21 +88,22 @@ document.addEventListener("DOMContentLoaded", function (event) {
   var url = "https://news.jace.pro/.netlify/functions/server";
   //var url = "https://zen-jones-6f4442.netlify.com/.netlify/functions/server";
   var pageUrl = new URL(document.URL);
+  var queryUrl = new URL(url);
   url += pageUrl.search;
   if (pageUrl.search) {
-    pageUrl.searchParams.set('unique', new Date().toISOString());
+    queryUrl.searchParams.set('unique', new Date().toISOString());
   }
   if(pageUrl.searchParams.get('start')) {
-    pageUrl.searchParams.set('start', document.getElementById('start').value);
+    queryUrl.searchParams.set('start', document.getElementById('start').value);
   }
   if(pageUrl.searchParams.get('end')) {
-    pageUrl.searchParams.set('end', document.getElementById('end').value);
+    queryUrl.searchParams.set('end', document.getElementById('end').value);
   }
   
   var settings = {
     "async": true,
     "crossDomain": true,
-    "url": pageUrl.toString(),
+    "url": queryUrl.toString(),
     "method": "GET",
     "headers": {}
   }
