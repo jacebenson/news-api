@@ -90,21 +90,19 @@ document.addEventListener("DOMContentLoaded", function (event) {
   var pageUrl = new URL(document.URL);
   url += pageUrl.search;
   if (pageUrl.search) {
-    url += '&unique=' + new Date().toISOString();
-  } else {
-    url += '?unique=' + new Date().toISOString();
+    pageUrl.set('unique', new Date().toISOString());
   }
-  if((url.indexOf('&start=')===-1)||(url.indexOf('?start=')===-1)){
-  url += '&start=' + document.getElementById('start').value;
+  if(pageUrl.get('start')) {
+    pageUrl.set('start', document.getElementById('start').value);
   }
-  if((url.indexOf('&end=')===-1)||(url.indexOf('?end=')===-1)){
-  url += '&end=' + document.getElementById('end').value;
+  if(pageUrl.get('end')) {
+    pageUrl.set('end', document.getElementById('end').value);
   }
   
   var settings = {
     "async": true,
     "crossDomain": true,
-    "url": url,
+    "url": pageUrl.toString(),
     "method": "GET",
     "headers": {}
   }

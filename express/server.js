@@ -36,7 +36,7 @@ router.get('/', (req, res) => {
         var feedDate = new Date(feed.date);
         var feedDateBeforeEnd = feedDate <= endDate;
         var feedDateAfterStart = feedDate >= startDate;
-        console.log('feed', feed.site, feed.title.substring(0,10), 'feedDate', feedDate, 'afterStart', feedDateAfterStart, 'beforeEnd', feedDateBeforeEnd);
+        //console.log('feed', feed.site, feed.title.substring(0,10), 'feedDate', feedDate, 'afterStart', feedDateAfterStart, 'beforeEnd', feedDateBeforeEnd);
         if (feedDateBeforeEnd && feedDateAfterStart) {
             return true;
         } else {
