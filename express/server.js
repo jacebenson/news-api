@@ -21,7 +21,7 @@ router.get('/', (req, res) => {
     //console.log(JSON.stringify(req.query));
     var startDate = new Date(new Date().getFullYear() + '-01-01');
     if (req.query.start) {
-        //console.log('start defined');
+        console.log('start defined', req.query.start);
         startDate = new Date(req.query.start);
     }
     var endDate = new Date(new Date().getFullYear() + '-12-31');
@@ -36,7 +36,7 @@ router.get('/', (req, res) => {
         var feedDate = new Date(feed.date);
         var feedDateBeforeEnd = feedDate <= endDate;
         var feedDateAfterStart = feedDate >= startDate;
-        //console.log('feed', feed.site, feed.title.substring(0,10), 'feedDate', feedDate, 'afterStart', feedDateAfterStart, 'beforeEnd', feedDateBeforeEnd);
+        console.log('feed', feed.site, feed.title.substring(0,10), 'feedDate', feedDate, 'afterStart', feedDateAfterStart, 'beforeEnd', feedDateBeforeEnd);
         if (feedDateBeforeEnd && feedDateAfterStart) {
             return true;
         } else {
