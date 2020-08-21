@@ -93,13 +93,13 @@ document.addEventListener("DOMContentLoaded", function (event) {
   if (pageUrl.search) {
     queryUrl.searchParams.set('unique', new Date().toISOString());
   }
-  if(pageUrl.searchParams.get('start')) {
+  if(document.getElementById('start').value) {
     queryUrl.searchParams.set('start', document.getElementById('start').value);
   }
-  if(pageUrl.searchParams.get('end')) {
+  if(document.getElementById('end').value) {
     queryUrl.searchParams.set('end', document.getElementById('end').value);
   }
-  if(pageUrl.searchParams.get('text')) {
+  if(document.getElementById('searchtext').value) {
     queryUrl.searchParams.set('text', document.getElementById('searchtext').value);
   }
   
