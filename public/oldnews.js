@@ -90,7 +90,7 @@ document.addEventListener("DOMContentLoaded", function (event) {
   var pageUrl = new URL(document.URL);
   url += pageUrl.search;
   if (pageUrl.search) {
-    pageUrl.set('unique', new Date().toISOString());
+    pageUrl.searchParams.set('unique', new Date().toISOString());
   }
   if(pageUrl.searchParams.get('start')) {
     pageUrl.searchParams.set('start', document.getElementById('start').value);
