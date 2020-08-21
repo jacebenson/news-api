@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/jacebenson/news-api#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "mongodb": "^3.5.9"
   },
   "devDependencies": {

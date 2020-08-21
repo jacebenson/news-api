@@ -1,4 +1,4 @@
-const MongoClient = require('mongodb').MongoClient;
+/*const MongoClient = require('mongodb').MongoClient;
 const mongoURI = process.env.MONGODB_URI;
 
 // Database Name
@@ -29,3 +29,4 @@ client.connect(function(err, client) {
     });
   });
 });
+*/
