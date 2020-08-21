@@ -22,7 +22,6 @@ document.addEventListener("DOMContentLoaded", function (event) {
     start = start.toISOString().split('T')[0];
     var end = new Date().toISOString().split('T')[0];
     setValue('start', start);
-    
   }
   if (urlParam.has('end')){
     setValue('end', urlParam.get('end'));  
@@ -95,6 +94,8 @@ document.addEventListener("DOMContentLoaded", function (event) {
   } else {
     url += '?unique=' + new Date().toISOString();
   }
+  url += '&start=' + document.getElementById('start').value;
+  url += '&end=' + document.getElementById('end').value;
   
   var settings = {
     "async": true,
