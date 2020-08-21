@@ -99,6 +99,9 @@ document.addEventListener("DOMContentLoaded", function (event) {
   if(pageUrl.searchParams.get('end')) {
     queryUrl.searchParams.set('end', document.getElementById('end').value);
   }
+  if(pageUrl.searchParams.get('text')) {
+    queryUrl.searchParams.set('text', document.getElementById('searchtext').value);
+  }
   
   var settings = {
     "async": true,
