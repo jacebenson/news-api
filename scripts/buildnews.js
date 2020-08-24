@@ -503,6 +503,12 @@ module.exports = {
               "type": "Blog",
               "url": "https://semaphorepartners.com/rss.xml",
               "author": "Jonathan Jacob and Toby Comer"
+            },
+            {
+              "title": "Dhruven",
+              "type": "Blog",
+              "url": "https://dhruvsn.wordpress.com/feed/",
+              "author": "Dhruv Gupta"
             }
           ];
         /* {
