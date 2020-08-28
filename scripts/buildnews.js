@@ -509,6 +509,12 @@ module.exports = {
               "type": "Blog",
               "url": "https://dhruvsn.wordpress.com/feed/",
               "author": "Dhruv Gupta"
+            },
+            {
+              "title": "Portalorem",
+              "type": "Blog",
+              "url": "https://portalorem.com/blog?format=rss",
+              "author": "Sarah Toulson"
             }
           ];
         /* {
