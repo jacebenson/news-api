@@ -251,7 +251,7 @@ module.exports = {
             {
               "title": "womennow.dev",
               "type": "Blog",
-              "url": "https://womennow.dev/?feed=rss2",
+              "url": "https://womennow.dev/feed.xml",
               "author": "Paige"
             },
             {
