@@ -515,6 +515,12 @@ module.exports = {
               "type": "Blog",
               "url": "https://portalorem.com/blog?format=rss",
               "author": "Sarah Toulson"
+            },
+            {
+              "title": "The Verbose Log",
+              "type": "Blog",
+              "url": "https://verboselog.com/rss.xml",
+              "author": "James Freund"
             }
           ];
         /* {
