@@ -34,7 +34,7 @@ var arr = [];
 var feed = arr.map(function(video){
     return {
         date: new Date().toISOString(),
-        site: "ServiceNow HI Videos",
+        site: "ServiceNow Events",
         category: "YouTube",
         title: video.title,
         author: video.author_name,
