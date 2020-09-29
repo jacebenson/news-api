@@ -181,92 +181,114 @@ function parseResponse(responseObj) {
     var author = document.createElement('td');
     var groups = {
       patron: "🌟",
-      devmvp2020: "🔥"
+      devmvp2020: "🔥",
+      employee: "🎉"
     }
     var people = [{
       name: "Andrew Albury-Dor",
       aliases: [],
       hoverText: "Andrew thank you for being a patron of this work!",
-      groups: [groups.devmvp2020, groups.patron]
+      groups: ["devmvp2020", "patron"]
     }, {
       name: "Kevin Clark",
       aliases: ["kevclark"],
       hoverText: "Kevin thank you for being a patron of this work!",
-      groups: [groups.patron]
+      groups: ["patron"]
     }, {
       name: "Alex Darby",
       aliases: ["amullendarby"],
       hoverText: "Alex thank you for being a patron of this work!",
-      groups: [groups.patron]
+      groups: ["patron"]
     }, {
       name: "Earl Duque",
       aliases: ["eduque"],
       hoverText: "Earl thank you for doing you're awesome stuff with Slackbot, your blog and inspiring us.",
-      groups: [groups.devmvp2020]
+      groups: ["devmvp2020"]
     },{
       name: "gauravchoudhury",
       aliases: [],
       hoverText: "",
-      groups: [groups.devmvp2020]
+      groups: ["devmvp2020"]
     },{
       name: "Jarod Mundt",
       aliases: ["jarodm"],
       hoverText: "Jarod thank you!",
-      groups: [groups.devmvp2020]
+      groups: ["devmvp2020"]
     },{
       name: "Jim Coyne",
       aliases: [],
       hoverText: "Jim Coyne thank you!",
-      groups: [groups.devmvp2020]
+      groups: ["devmvp2020"]
     },{
       name: "Kalaiarasan Pushpanathan",
       aliases: [],
       hoverText: "Thank you Kalai!  TIL is great!",
-      groups: [groups.devmvp2020]
+      groups: ["devmvp2020"]
     },{
       name: "Mark Roethof",
       aliases: [],
       hoverText: "Mark Roethof, your content is amazing!",
-      groups: [groups.devmvp2020]
+      groups: ["devmvp2020"]
     },{
       name: "Mark Scott",
       aliases: [],
-      hoverText: "Mark Scott, you are now with SN, but you're contributions are loved!",
-      groups: [groups.devmvp2020]
+      hoverText: "Mark, your contributions are loved!  Works at ServiceNow.",
+      groups: ["devmvp2020", "employee"]
     },{
       name: "Nathan Firth",
       aliases: ["nathanfirth"],
       hoverText: "Founder of New Rocket, you are great!",
-      groups: [groups.devmvp2020]
+      groups: ["devmvp2020"]
     },{
       name: "Robert Fedoruk",
       aliases: [],
       hoverText: "Robert Fedoruk, you're content drives action.  It's so refreshing!",
-      groups: [groups.devmvp2020]
+      groups: ["devmvp2020"]
     },{
       name: "Travis Toulson",
       aliases: ["tltoulson"],
       hoverText: "How did you learn to write like that!  Amazing!",
-      groups: [groups.devmvp2020]
+      groups: ["devmvp2020"]
+    },{
+      name: "Andrew Pishchulin",
+      aliases: [],
+      hoverText: "Andrew P, he's sharp!",
+      groups: ["devmvp2020"]
     },{
       name: "Jace Benson",
       aliases: [],
       hoverText: "I mean, Thanks self!",
-      groups: [groups.devmvp2020]
+      groups: ["devmvp2020"]
+    },{
+      name: "Chuck Tomasi",
+      aliases: ["ctomasi"],
+      hoverText: "This man is non-stop!  Works at ServiceNow.",
+      groups: ["employee"]
+    },{
+      name: "Andrew Barnes",
+      aliases: ["ajb"],
+      hoverText: "Advocating for the Deveopers.  Works at ServiceNow.",
+      groups: ["employee"]
+    },{
+      name: "Brad Tilton",
+      aliases: ["btilton"],
+      hoverText: "He makes grilled goods.  Works at ServiceNow.",
+      groups: ["employee"]
     }];
     if (item.author) {
       people.forEach(function (personObj) {
         if (item.author == personObj.name || personObj.aliases.includes(item.author)) {
-          author.classList.add('bg-primary'); // text-white');
-          author.classList.add('text-white'); // text-white');
-          author.classList.add('rounded'); // text-white');
+          if(personObj.groups.includes("patron")){
+            author.classList.add('bg-primary'); // text-white');
+            author.classList.add('text-white'); // text-white');
+            author.classList.add('rounded'); // text-white');
+          } 
           author.setAttribute("data-toggle", "popover");
           author.setAttribute("data-trigger", "hover");
           author.setAttribute("title", personObj.hoverText);
           author.setAttribute("data-content", personObj.hoverText);
-          console.log('.... building new authorname');
           var flair = personObj.groups.map(function (flair) {
-            return flair;
+            return groups[flair];
           }).join('');
           item.author = flair + item.author + flair
         }
