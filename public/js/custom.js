@@ -51,7 +51,8 @@ function setValuesFromURL(url) {
   if (urlParam.has('end')) {
     setValue('end', urlParam.get('end'));
   } else {
-    var end = new Date().toISOString().split('T')[0];
+    var end = new Date().addDays(1);
+    end = end.toISOString().split('T')[0];
     setValue('end', end);
   }
 }
