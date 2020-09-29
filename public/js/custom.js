@@ -256,7 +256,7 @@ function parseResponse(responseObj) {
       groups: ["devmvp2020"]
     },{
       name: "Jace Benson",
-      aliases: [],
+      aliases: ["jacebenson"],
       hoverText: "I mean, Thanks self!",
       groups: ["devmvp2020"]
     },{
@@ -273,6 +273,11 @@ function parseResponse(responseObj) {
       name: "Brad Tilton",
       aliases: ["btilton"],
       hoverText: "He makes grilled goods.  Works at ServiceNow.",
+      groups: ["employee"]
+    },{
+      name: "SlightlyLoony",
+      aliases: [],
+      hoverText: "One of the original.  Thank you!",
       groups: ["employee"]
     }];
     if (item.author) {
@@ -293,12 +298,6 @@ function parseResponse(responseObj) {
           item.author = flair + item.author + flair
         }
       });
-      if (item.author == "Jace Benson") {
-        author.classList.add('bg-secondary'); // text-white');
-        author.classList.add('text-white'); // text-white');
-        author.classList.add('rounded'); // text-white');
-        item.author = '🌟' + item.author + '🌟';
-      }
       author.innerText = item.author;
     } else {
       author.innerText = "Unknown";
