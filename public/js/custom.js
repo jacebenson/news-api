@@ -160,7 +160,9 @@ function executeSearch() {
       parseResponse(response);
     });
 }
-
+$(function () {
+  $('[data-toggle="popover"]').popover();
+});
 
 function parseResponse(responseObj) {
   console.log(responseObj);
@@ -177,23 +179,98 @@ function parseResponse(responseObj) {
     var site = document.createElement('td');
     site.innerText = item.site;
     var author = document.createElement('td');
+    var groups = {
+      patron: "🌟",
+      devmvp2020: "🔥"
+    }
+    var people = [{
+      name: "Andrew Albury-Dor",
+      aliases: [],
+      hoverText: "Andrew thank you for being a patron of this work!",
+      groups: [groups.devmvp2020, groups.patron]
+    }, {
+      name: "Kevin Clark",
+      aliases: ["kevclark"],
+      hoverText: "Kevin thank you for being a patron of this work!",
+      groups: [groups.patron]
+    }, {
+      name: "Alex Darby",
+      aliases: ["amullendarby"],
+      hoverText: "Alex thank you for being a patron of this work!",
+      groups: [groups.patron]
+    }, {
+      name: "Earl Duque",
+      aliases: ["eduque"],
+      hoverText: "Earl thank you for doing you're awesome stuff with Slackbot, your blog and inspiring us.",
+      groups: [groups.devmvp2020]
+    },{
+      name: "gauravchoudhury",
+      aliases: [],
+      hoverText: "",
+      groups: [groups.devmvp2020]
+    },{
+      name: "Jarod Mundt",
+      aliases: ["jarodm"],
+      hoverText: "Jarod thank you!",
+      groups: [groups.devmvp2020]
+    },{
+      name: "Jim Coyne",
+      aliases: [],
+      hoverText: "Jim Coyne thank you!",
+      groups: [groups.devmvp2020]
+    },{
+      name: "Kalaiarasan Pushpanathan",
+      aliases: [],
+      hoverText: "Thank you Kalai!  TIL is great!",
+      groups: [groups.devmvp2020]
+    },{
+      name: "Mark Roethof",
+      aliases: [],
+      hoverText: "Mark Roethof, your content is amazing!",
+      groups: [groups.devmvp2020]
+    },{
+      name: "Mark Scott",
+      aliases: [],
+      hoverText: "Mark Scott, you are now with SN, but you're contributions are loved!",
+      groups: [groups.devmvp2020]
+    },{
+      name: "Nathan Firth",
+      aliases: ["nathanfirth"],
+      hoverText: "Founder of New Rocket, you are great!",
+      groups: [groups.devmvp2020]
+    },{
+      name: "Robert Fedoruk",
+      aliases: [],
+      hoverText: "Robert Fedoruk, you're content drives action.  It's so refreshing!",
+      groups: [groups.devmvp2020]
+    },{
+      name: "Travis Toulson",
+      aliases: ["tltoulson"],
+      hoverText: "How did you learn to write like that!  Amazing!",
+      groups: [groups.devmvp2020]
+    },{
+      name: "Jace Benson",
+      aliases: [],
+      hoverText: "I mean, Thanks self!",
+      groups: [groups.devmvp2020]
+    }];
     if (item.author) {
-      var patrons = [
-        "Andrew Albury-Dor",
-        "Kevin Clark",
-        "kevclark",
-        "Alex Darby",
-        "amullendarby"
-      ]
-      patrons.forEach(function (name) {
-        if (item.author == name) {
+      people.forEach(function (personObj) {
+        if (item.author == personObj.name || personObj.aliases.includes(item.author)) {
           author.classList.add('bg-primary'); // text-white');
           author.classList.add('text-white'); // text-white');
           author.classList.add('rounded'); // text-white');
-          item.author = '🌟' + item.author + '🌟';
+          author.setAttribute("data-toggle", "popover");
+          author.setAttribute("data-trigger", "hover");
+          author.setAttribute("title", personObj.hoverText);
+          author.setAttribute("data-content", personObj.hoverText);
+          console.log('.... building new authorname');
+          var flair = personObj.groups.map(function (flair) {
+            return flair;
+          }).join('');
+          item.author = flair + item.author + flair
         }
       });
-
       if (item.author == "Jace Benson") {
         author.classList.add('bg-secondary'); // text-white');
         author.classList.add('text-white'); // text-white');
