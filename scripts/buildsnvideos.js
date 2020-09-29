@@ -5,7 +5,7 @@ module.exports = {
         var outputArr = [];
         let feedPath = "./feeds.json"
         // get count to start...
-        var getNowBlogs = function (start, callback) {
+        var getNowVideos = function (start, callback) {
             if (!start) {
                 start = 0;
             }
@@ -15,7 +15,7 @@ module.exports = {
                 hostname: "community.servicenow.com",
                 //path: "/api/sn_communities/v1/community/contents?last=80&stFrom=60&before=&forum=a6299a2ddbd897c068c1fb651f961926&type=cc3fcaa0dbd26600b1f6f78eaf96192e&sort=publish&filters=undefined",
                 // https://community.servicenow.com/api/sn_communities/v1/community/contents?all=true&type=cc3fcaa0dbd26600b1f6f78eaf96192e&forum=a6299a2ddbd897c068c1fb651f961926&last=10000
-                path: "/api/sn_communities/v1/community/contents?last=" + end + "&stFrom=" + start + "&before=" + new Date().toISOString() + "&type=cc3fcaa0dbd26600b1f6f78eaf96192e&sort=publish&filters=undefined",
+                path: "/api/sn_communities/v1/community/contents?last=" + end + "&stFrom=" + start + "&before=" + new Date().toISOString() + "&type=57f785863b2b220085f76b4ee3efc449&sort=created&filters=undefined",
                 headers: {
                     "Accept": "*/*",
                     "Cache-Control": "no-cache",
@@ -40,25 +40,25 @@ module.exports = {
                     //console.log(body.toString());
                     var responseObj = JSON.parse(body);
 
-                    console.log((start, '/', responseObj.result.nextRecord), 'ServiceNow Blogs')
+                    console.log((start, '/', responseObj.result.nextRecord), 'ServiceNow Video')
                     responseObj.result.contents.forEach(function (post) {
                         var dateObj = new Date(post.published_date);
                         outputArr.push({
                             date: dateObj.toISOString(),
-                            site: "ServiceNow Blogs",
-                            category: "Blog",
+                            site: "ServiceNow Videos",
+                            category: "Video",
                             title: post.title,
                             author: post.userAvatarObject.name,
-                            link: "https://community.servicenow.com/community?id=community_blog&sys_id=" + post.sys_id
+                            link: "https://community.servicenow.com/community?id=community_video&sys_id=" + post.sys_id
                         });
                     });
 
-                    if (responseObj.result.hasMoreRecords) {
+                    //if (responseObj.result.hasMoreRecords) {
                     //if(firstResultPostDate < twoDaysAgo){
-                        getNowBlogs(parseInt(responseObj.result.nextRecord, 10), function () {
-                            console.log('outputArr.length', outputArr.length)
-                        });
-                    } else {
+                    //    getNowVideos(parseInt(responseObj.result.nextRecord, 10), function () {
+                    //        console.log('outputArr.length', outputArr.length)
+                    //    });
+                    //} else {
                         callback();
                         //function(){
                         fs.readFile(feedPath, (err, data) => {
@@ -91,12 +91,11 @@ module.exports = {
                             callback();
                         });
                         //}
-                    }
+                    //}
                 });
             });
             req.end();
         }
-        getNowBlogs(null, callback);
-        
+        getNowVideos(null, callback);
     }
 };

@@ -15,7 +15,7 @@ module.exports = {
                 method: "GET",
                 hostname: "community.servicenow.com",
                 //path: "/api/sn_communities/v1/community/contents?last=" + end + "&stFrom=" + start + "&before=" + new Date().toISOString() + "&forum=&type=5eaa334a5f10030069c587dc3f73130b&user=" + user + "&state=all&filters=undefined",
-                path: "/api/sn_communities/v1/community/contents?last=" + end + "&stFrom=" + start + "&before=" + new Date().toISOString() + "&forum=&type=5eaa334a5f10030069c587dc3f73130b&state=all&filters=undefined",
+                path: "/api/sn_communities/v1/community/contents?last=" + end + "&stFrom=" + start + "&before=" + new Date().toISOString() + "&forum=&type=5eaa334a5f10030069c587dc3f73130b&sort=created&filters=undefined",
                 headers: {
                     "Accept": "*/*",
                     "Cache-Control": "no-cache",
@@ -41,6 +41,8 @@ module.exports = {
                     var responseObj = JSON.parse(body);
 
                     //console.log(responseObj.result.nextRecord, 'ServiceNow Community Articles - ' + user)
+
+                    console.log((start, '/', responseObj.result.nextRecord), 'ServiceNow Articles')
                     responseObj.result.contents.forEach(function (post) {
                         var dateObj = new Date(post.published_date);
                         outputArr.push({
@@ -53,11 +55,11 @@ module.exports = {
                         });
                     });
 
-                    if (responseObj.result.hasMoreRecords) {
-                        getNowArticles(parseInt(responseObj.result.nextRecord, 10), function () {
+                    //if (responseObj.result.hasMoreRecords) {
+                        /*getNowArticles(parseInt(responseObj.result.nextRecord, 10), function () {
                             console.log('outputArr.length', outputArr.length)
-                        });
-                    } else {
+                        });*/
+                    //} else {
 
                         fs.readFile(feedPath, (err, data) => {
                             if (err) {
@@ -89,7 +91,7 @@ module.exports = {
                             fs.writeFileSync(feedPath, JSON.stringify(uniqueArray, '', ' '));
                             callbackFinal();
                         });
-                    }
+                    //}
                 });
             });
             req.end();

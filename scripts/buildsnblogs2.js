@@ -1,11 +1,12 @@
 module.exports = {
-    build: function (callback) {
+    build: function (callbackFinal) {
+
         var http = require("https");
         var fs = require("fs");
         var outputArr = [];
         let feedPath = "./feeds.json"
         // get count to start...
-        var getNowBlogs = function (start, callback) {
+        var getNowArticles = function (start, callback) {
             if (!start) {
                 start = 0;
             }
@@ -13,9 +14,8 @@ module.exports = {
             var options = {
                 method: "GET",
                 hostname: "community.servicenow.com",
-                //path: "/api/sn_communities/v1/community/contents?last=80&stFrom=60&before=&forum=a6299a2ddbd897c068c1fb651f961926&type=cc3fcaa0dbd26600b1f6f78eaf96192e&sort=publish&filters=undefined",
-                // https://community.servicenow.com/api/sn_communities/v1/community/contents?all=true&type=cc3fcaa0dbd26600b1f6f78eaf96192e&forum=a6299a2ddbd897c068c1fb651f961926&last=10000
-                path: "/api/sn_communities/v1/community/contents?last=" + end + "&stFrom=" + start + "&before=" + new Date().toISOString() + "&type=cc3fcaa0dbd26600b1f6f78eaf96192e&sort=publish&filters=undefined",
+                //path: "/api/sn_communities/v1/community/contents?last=" + end + "&stFrom=" + start + "&before=" + new Date().toISOString() + "&forum=&type=5eaa334a5f10030069c587dc3f73130b&user=" + user + "&state=all&filters=undefined",
+                path: "/api/sn_communities/v1/community/contents?last=" + end + "&stFrom=" + start + "&before=" + new Date().toISOString() + "&forum=&type=cc3fcaa0dbd26600b1f6f78eaf96192e&sort=created&filters=undefined",
                 headers: {
                     "Accept": "*/*",
                     "Cache-Control": "no-cache",
@@ -40,7 +40,9 @@ module.exports = {
                     //console.log(body.toString());
                     var responseObj = JSON.parse(body);
 
-                    console.log((start, '/', responseObj.result.nextRecord), 'ServiceNow Blogs')
+                    //console.log(responseObj.result.nextRecord, 'ServiceNow Community Articles - ' + user)
+
+                    console.log((start, '/', responseObj.result.nextRecord), 'ServiceNow Blogs2')
                     responseObj.result.contents.forEach(function (post) {
                         var dateObj = new Date(post.published_date);
                         outputArr.push({
@@ -53,14 +55,12 @@ module.exports = {
                         });
                     });
 
-                    if (responseObj.result.hasMoreRecords) {
-                    //if(firstResultPostDate < twoDaysAgo){
-                        getNowBlogs(parseInt(responseObj.result.nextRecord, 10), function () {
-                            console.log('outputArr.length', outputArr.length)
-                        });
-                    } else {
-                        callback();
-                        //function(){
+                    //if (responseObj.result.hasMoreRecords) {
+                    //    getNowArticles(parseInt(responseObj.result.nextRecord, 10), function () {
+                    //        console.log('outputArr.length', outputArr.length)
+                    //    });
+                    //} else {
+
                         fs.readFile(feedPath, (err, data) => {
                             if (err) {
                                 throw err;
@@ -75,7 +75,8 @@ module.exports = {
                                 var adate = new Date(a.date);
                                 var bdate = new Date(b.date);
                                 return bdate - adate;
-                            })
+                            });
+
                             uniqueArray = (function () {
                                 var arr = uniqueArray;
                                 var comp = 'link';
@@ -88,15 +89,17 @@ module.exports = {
                                 return unique;
                             })();
                             fs.writeFileSync(feedPath, JSON.stringify(uniqueArray, '', ' '));
-                            callback();
+                            callbackFinal();
                         });
-                        //}
-                    }
+                    //}
                 });
             });
             req.end();
         }
-        getNowBlogs(null, callback);
+        //users.forEach(function(user){
+            getNowArticles(null, null);
+        //})
         
     }
-};
+}
+
