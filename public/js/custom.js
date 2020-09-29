@@ -44,7 +44,8 @@ function setValuesFromURL(url) {
   } else {
     var start = new Date().addDays(-14);
     start = start.toISOString().split('T')[0];
-    var end = new Date().toISOString().split('T')[0];
+    var end = new Date().addDays(1);
+    end = end.toISOString().split('T')[0];
     setValue('start', start);
   }
   if (urlParam.has('end')) {
