@@ -266,7 +266,7 @@ function parseResponse(responseObj) {
       groups: ["employee"]
     },{
       name: "Andrew Barnes",
-      aliases: ["ajb"],
+      aliases: ["Andrew Barnes - AJB"],
       hoverText: "Advocating for the Deveopers.  Works at ServiceNow.",
       groups: ["employee"]
     },{
