@@ -521,7 +521,13 @@ module.exports = {
               "type": "Blog",
               "url": "https://verboselog.com/rss.xml",
               "author": "James Freund"
-            }
+            },
+            /*{
+              "title":"PhxDev",
+              What "type":"Blog",
+              "url": "",//waiting for a rss feed
+              "author": "Mark Scott"
+            }*/
           ];
         /* {
                 "title": "john-james-andersen.com",
