@@ -22,13 +22,20 @@ router.get('/', (req, res) => {
     var startDate = new Date(new Date().getFullYear() + '-01-01');
     if (req.query.start) {
         console.log('start defined', req.query.start);
-        startDate = new Date(req.query.start);
+        //startDate = new Date(req.query.start);
+        var testStartDate = new Date(req.query.start);
+        if(testStartDate!=NaN){
+            startDate = testStartDate;
+        }
     }
     var endDate = new Date(new Date().getFullYear() + '-12-31');
     endDate.setDate(startDate.getDate() + 30);
     if (req.query.end) {
         //console.log('end defined');
-        endDate = new Date(req.query.end);
+        var testEndDate = new Date(req.query.end);
+        if(testEndDate!=NaN){
+            endDate = testEndDate;
+        }
     }
     //console.log('startDate', startDate);
     //console.log('endDate', endDate)
