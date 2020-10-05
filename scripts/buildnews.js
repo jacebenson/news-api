@@ -11,529 +11,529 @@ module.exports = {
               "title": "anerrantprogrammer.com",
               "type": "Blog",
               "url": "http://anerrantprogrammer.com/?feed=rss2",
-              "author": "Sal Costa"
+              "authors": ["Sal Costa"]
             },
             {
               "title": "An Errant Programmer",
               "type": "YouTube",
               "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2ey_HG743-CrxOTPU_ft7g",
-              "author": "Sal Costa"
+              "authors": ["Sal Costa"]
             },
             {
               "title": "andrew.alburydor.com",
               "type": "Blog",
               "url": "https://andrew.alburydor.com/posts/index.xml",
-              "author": "Andrew Albury-Dor"
+              "authors": ["Andrew Albury-Dor"]
             },
             {
               "title": "Andrew Albury-Dor",
               "type": "YouTube",
               "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCH1byb2cbzlFrYndyKic_Lg",
-              "author": "Andrew Albury-Dor"
+              "authors": ["Andrew Albury-Dor"]
             },
             {
               "title": "Ben Hollifield",
               "type": "YouTube",
               "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpXBKCVchJqXo08OyD0i2eQ",
-              "author": "Ben Hollifield"
+              "authors": ["Ben Hollifield"]
             },
             {
               "title": "www.servicenowelite.com",
               "type": "Blog",
               "url": "http://www.servicenowelite.com/blog?format=rss",
-              "author": "Mike Kaufman"
+              "authors": ["Mike Kaufman"]
             },
             {
               "title": "www.cloudminus89.com",
               "type": "Blog",
               "url": "http://www.cloudminus89.com/feeds/posts/default?alt=rss",
-              "author": "Ruen Smith"
+              "authors": ["Ruen Smith"]
             },
             {
               "title": "Code Creative",
               "type": "YouTube",
               "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCmwKZdMYyUD4AWnAIrx5JVw",
-              "author": "Travis Toulson"
+              "authors": ["Travis Toulson"]
             },
             {
               "title": "codecreative.io",
               "type": "Blog",
               "url": "https://codecreative.io/index.xml",
-              "author": "Travis Toulson"
+              "authors": ["Travis Toulson"]
             },
             {
               "title": "servicenow.implementation.blog",
               "type": "Blog",
               "url": "https://servicenow.implementation.blog/feed/",
-              "author": "Shiva Thomas"
+              "authors": ["Shiva Thomas"]
             },
             {
               "title": "Göran Lundqvist",
               "type": "YouTube",
               "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUJK90r6dnu-YXHyDOVIRww",
-              "author": "Göran Lundqvist"
+              "authors": ["Göran Lundqvist"]
             },
             {
               "title": "Mark Scott",
               "type": "YouTube",
               "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCysyuAe0q31GOOedkJja67Q",
-              "author": "Mark Scott"
+              "authors": ["Mark Scott"]
             },
             {
               "title": "mavembry.info",
               "type": "Blog",
               "url": "https://mavembry.info/index.xml",
-              "author": "Maverick Embry"
+              "authors": ["Maverick Embry"]
             },
             {
               "title": "Robert, The Duke, Fedoruk",
               "type": "YouTube",
               "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfhKNeCYiaJQaaKuACKt0Sg",
-              "author": "Robert Fedoruk"
+              "authors": ["Robert Fedoruk"]
             },
             {
               "title": "Robert, The Duke, Fedoruk",
               "type": "Podcast",
               "url": "https://anchor.fm/s/203322f8/podcast/rss",
-              "author": "Robert Fedoruk"
+              "authors": ["Robert Fedoruk"]
             },
             //
             {
               "title": "Break Point",
               "type": "Podcast",
               "url": "https://www.omnycontent.com/d/playlist/922e0f19-2d84-4485-835c-a83f00036b00/482f14e7-034f-4f55-a28a-abff01781da7/62c03853-0d6b-45ed-88ea-abff01797007/podcast.rss",
-              "author": "Chuck Tomasi"
+              "authors": ["Chuck Tomasi"]
             },
             {
               "title": "CJ & The Duke",
               "type": "Podcast",
               "url": "https://feeds.transistor.fm/cj-the-duke",
-              "author": "Robert Fedoruk, and Corey Wesley"
+              "authors": ["Robert Fedoruk","Corey Wesley"]
             },
             {
               "title": "jace.pro",
               "type": "Blog",
               "url": "https://jace.pro/index.xml",
-              "author": "Jace Benson"
+              "authors": ["Jace Benson"]
             },
             {
               "title": "ServiceNow Dev Program",
               "type": "YouTube",
               "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCdXorgCT87YlFRN9n8oJ7_A",
-              "author": "Andrew Barnes, Brad Tilton, and Chuck Tomasi"
+              "authors": ["Andrew Barnes","Brad Tilton","Chuck Tomasi"]
             },
             {
               "title": "developer.servicenow.com/blog.do",
               "type": "Blog",
               "url": "https://developer.servicenow.com/blog.do?p=/index.xml",
-              "author": "Andrew Barnes, and Brad Tilton"
+              "authors": ["Andrew Barnes","Brad Tilton"]
             },
             {
               "title": "servicenowgems.com",
               "type": "Blog",
               "url": "http://servicenowgems.com/feed",
-              "author": "Ahmed Hmeid"
+              "authors": ["Ahmed Hmeid"]
             },
             {
               "title": "ServiceNow Community",
               "type": "YouTube",
               "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCBQU8mlFrElxQNR2mo-gLg",
-              "author": " — "
+              "authors": [""]
             },
             {
               "title": "ServiceNow Support",
               "type": "YouTube",
               "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQjE37R-Y4DTq7kUWPO83Wg",
-              "author": "—"
+              "authors": ["ServiceNow"]
             },
             {
               "title": "ServiceNow TechBytes Podcast",
               "type": "Podcast",
               "url": "https://omny.fm/shows/servicenow-techbytes/playlists/podcast.rss",
-              "author": "Steve Miller"
+              "authors": ["Steve Miller"]
             },
             {
               "title": "ServiceNow Community Podcasts",
               "type": "Podcast",
               "url": "https://omny.fm/shows/servicenow-cloudcast/playlists/servicenow-podcasts.rss",
-              "author": " — "
+              "authors": [""]
             },
             {
               "title": "servicenowthink.wordpress.com",
               "type": "Blog",
               "url": "https://servicenowthink.wordpress.com/feed",
-              "author": "Aleksas Kucinskas"
+              "authors": ["Aleksas Kucinskas"]
             },
             {
               "title": "Acorio - Candid Podcast",
               "type": "Podcast",
               "url": "https://feeds.buzzsprout.com/457558.rss",
-              "author": "Devon Clarke"
+              "authors": ["Devon Clarke"]
             },
             {
               "title": "finite-partners.com",
               "type": "Blog",
               "url": "https://finite-partners.com/feed",
-              "author": "Garrett Griffin-Morales"
+              "authors": ["Garrett Griffin-Morales"]
             },
             {
               "title": "hiresumo.com/home",
               "type": "Blog",
               "url": "https://hiresumo.com/home?format=rss",
-              "author": " — "
+              "authors": [""]
             },
             {
               "title": "servicenowguru.com",
               "type": "Blog",
               "url": "https://www.servicenowguru.com/feed/",
-              "author": "Mark Stanger"
+              "authors": ["Mark Stanger"]
             },
             {
               "title": "www.covestic.com",
               "type": "Blog",
               "url": "https://www.covestic.com/feed/",
-              "author": " — "
+              "authors": [""]
             },
             {
               "title": "www.thinkahead.com/",
               "type": "Blog",
               "url": "https://www.thinkahead.com/feed",
-              "author": " — "
+              "authors": [""]
             },
             {
               "title": "aeritae.com",
               "type": "Blog",
               "url": "https://aeritae.com/blog/feed",
-              "author": " — "
+              "authors": [""]
             },
             {
               "title": "serviceportal.io",
               "type": "Blog",
               "url": "https://serviceportal.io/feed",
-              "author": "Nathan Firth"
+              "authors": ["Nathan Firth"]
             },
             {
               "title": "GlideFast",
               "type": "YouTube",
               "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZNM56LyLhmba73FtDsyaAw",
-              "author": " — "
+              "authors": [""]
             },
             {
               "title": "ServiceSharp",
               "type": "Podcast",
               "url": "https://anchor.fm/s/a71217c/podcast/rss",
-              "author": "Randy Haas and Jason Gibson"
+              "authors": ["Randy Haas","Jason Gibson"]
             },
             {
               "title": "workflow.servicenow.com",
               "type": "Newsletter",
               "url": "https://workflow.servicenow.com/feed/",
-              "author": " — "
+              "authors": [""]
             },
             {
               "title": "snprotips.com",
               "type": "Blog",
               "url": "https://snprotips.com/?format=rss",
-              "author": "Tim Woodruff"
+              "authors": ["Tim Woodruff"]
             },
             {
               "title": "www.snc-blog.com",
               "type": "Blog",
               "url": "http://www.snc-blog.com/feed",
-              "author": " — "
+              "authors": [""]
             },
             {
               "title": "sncdevelopment.com",
               "type": "Blog",
               "url": "https://sncdevelopment.com/feed",
-              "author": "James Naphen"
+              "authors": ["James Naphen"]
             },
             {
               "title": "womennow.dev",
               "type": "Blog",
               "url": "https://womennow.dev/feed.xml",
-              "author": "Paige"
+              "authors": ["Paige"]
             },
             {
               "title": "pathwayscg.com",
               "type": "Blog",
               "url": "https://pathwayscg.com/feed/",
-              "author": "Kaitlyn Giovinazzo"
+              "authors": ["Kaitlyn Giovinazzo"]
             },
             {
               "title": "Man Myth and Legend",
               "type": "YouTube",
               "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCT3ONLZwnTIfmVqRiDsRMVA",
-              "author": "Lord Ryan Gillespie"
+              "authors": ["Lord Ryan Gillespie"]
             },
             {
               "title": "PhilGoesDeep",
               "type": "YouTube",
               "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCTmjY6H5roYkGQmwAQAcgQ",
-              "author": "Phil Swann"
+              "authors": ["Phil Swann"]
             },
             {
               "title": "www.dylanlindgren.com",
               "type": "Blog",
               "url": "https://www.dylanlindgren.com/feed/",
-              "author": "Dylan Lindgren"
+              "authors": ["Dylan Lindgren"]
             },
             {
               "title": "ServiceNow Geek",
               "type": "YouTube",
               "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCKMW-HaQjgHvSG5CBCLHPA",
-              "author": "Jeremy Duncan"
+              "authors": ["Jeremy Duncan"]
             },
             {
               "title": "helpfultechblog.com",
               "type": "Blog",
               "url": "http://helpfultechblog.com/feed/",
-              "author": "Phuong Nguyen"
+              "authors": ["Phuong Nguyen"]
             },
             {
               "title": "medium.com/@pishchulin",
               "type": "Blog",
               "url": "https://medium.com/feed/@pishchulin",
-              "author": "Andrew Pishchulin"
+              "authors": ["Andrew Pishchulin"]
             },
             {
               "title": "Harshad Chawra",
               "type": "YouTube",
               "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxbveNIN8WJWmioo42HdQSA",
-              "author": "Harshad Chawra"
+              "authors": ["Harshad Chawra"]
             },
             {
               "title": "snhackery.com",
               "type": "Blog",
               "url": "https://snhackery.com/feed/",
-              "author": "snhackery"
+              "authors": ["snhackery"]
             },
             {
               "title": "earlduque.com",
               "type": "Blog",
               "url": "https://earlduque.com/feed.xml",
-              "author": "Earl Duque"
+              "authors": ["Earl Duque"]
             },
             {
               "title": "Live Hack Streams",
               "type": "YouTube",
               "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEHp2B6z09rIW4EunspIL5g",
-              "author": "Anders Figenschow"
+              "authors": ["Anders Figenschow"]
             },
             {
               "title": "cavucode.com",
               "type": "Blog",
               "url": "http://feeds.feedburner.com/CAVUCode-Blog",
-              "author": "John Roberts"
+              "authors": ["John Roberts"]
             },
             {
               "title": "ServiceNow Domain Separations",
               "type": "YouTube",
               "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCgEwvq-suY_-cm68jYG9Exw",
-              "author": " — "
+              "authors": [""]
             },
             {
               "title": "SAASWITHSERVICENOW",
               "type": "YouTube",
               "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCdwco2h46H6tDEDLzolusRQ",
-              "author": "Gaurav Tripathi"
+              "authors": ["Gaurav Tripathi"]
             },
             {
               "title": "www.saaswithservicenow.in",
               "type": "Blog",
               "url": "https://www.saaswithservicenow.in/feeds/posts/default?alt=rss",
-              "author": "Gaurav Tripathi"
+              "authors": ["Gaurav Tripathi"]
             },
             {
               "title": "Karthik Parthasarathy",
               "type": "YouTube",
               "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHWoqQC99iPx6YBD_hKqPcw",
-              "author": "Karthik Parthasarathy"
+              "authors": ["Karthik Parthasarathy"]
             },
             {
               "title": "jnic13",
               "type": "YouTube",
               "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3fSmSXzImsRxfMXOt-MgfQ",
-              "author": "jnic13"
+              "authors": ["jnic13"]
             },
             {
               "title": "Cerna Solutions",
               "type": "YouTube",
               "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7IZJa42yQtRIzPE8-TaA7Q",
-              "author": " — "
+              "authors": [""]
             },
             {
               "title": "ServiceNow",
               "type": "YouTube",
               "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLukrOQYSgsHUR_NSiVZndQ",
-              "author": "ServiceNow"
+              "authors": ["ServiceNow"]
             },
             {
               "title": "Nuvolo",
               "type": "YouTube",
               "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCx4mkwlpBEs8p3mzp2eawAA ",
-              "author": " — "
+              "authors": [""]
             },
             {
               "title": "Pharicode",
               "type": "YouTube",
               "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCuBReW5IcnqvVseMmq5Izbw",
-              "author": " — "
+              "authors": [""]
             },
             {
               "title": "Iqra Islam",
               "type": "YouTube",
               "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXprymPF0O3H0BvgzNYHudg",
-              "author": "Iqra Islam"
+              "authors": ["Iqra Islam"]
             },
             {
               "title": "Covestic",
               "type": "YouTube",
               "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYgguaozhKps93zFKUQjuMQ",
-              "author": " — "
+              "authors": [""]
             },
             {
               "title": "Fruition Forever",
               "type": "YouTube",
               "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3SmMjBuTH91y2i9hfx2JTw",
-              "author": " — "
+              "authors": [""]
             },
             {
               "title": "SN Guys",
               "type": "YouTube",
               "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCG0pvj1MJd0mzTrimw96ZOg",
-              "author": " — "
+              "authors": [""]
             },
             {
               "title": "Arnoud Kooi",
               "type": "YouTube",
               "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtr-9_HAEAPmcDRQSyKNzxg",
-              "author": " — "
+              "authors": [""]
             },
             {
               "title": "SNow Knowledge",
               "type": "YouTube",
               "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCO7RWBYoD_4RUWWf5DfKa0w",
-              "author": " — "
+              "authors": [""]
             },
             {
               "title": "AAspenNow Solutions",
               "type": "YouTube",
               "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8Be7Fgt2AM5LjSvFblOZlA",
-              "author": " — "
+              "authors": [""]
             },
             {
               "title": "NewRocket, Inc.",
               "type": "YouTube",
               "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYp0cbqtyeqJCQbPrQyeevw",
-              "author": " — "
+              "authors": [""]
             },
             {
               "title": "ServiceNow Events",
               "type": "YouTube",
               "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDTdlx80nh1DG6s4G4H-sFg",
-              "author": " — "
+              "authors": [""]
             },
             {
               "title": "Basico ServiceNow Learning",
               "type": "YouTube",
               "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBJIhKeKrS5_uMOX0hYDBUw",
-              "author": " — "
+              "authors": [""]
             },
             {
               "title": "Kloves Inc.",
               "type": "YouTube",
               "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIDFmldcU9tVOtlG0tdZY8Q",
-              "author": " — "
+              "authors": [""]
             },
             {
               "title": "Servicenow/UI Tutorials By Pranav",
               "type": "YouTube",
               "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAiJSYm6VQvtbcI4BeMFehg",
-              "author": " — "
+              "authors": [""]
             },
             {
               "title": "IT Canvass",
               "type": "YouTube",
               "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcOeQSl0plQg04_U8Qfry0w",
-              "author": " — "
+              "authors": [""]
             },
             {
               "title": "ServiceSharp",
               "type": "YouTube",
               "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSeeJVj_21nAieANwbLq0yA",
-              "author": " — "
+              "authors": [""]
             },
             {
               "title": "ServicePortal.io",
               "type": "YouTube",
               "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0-B_pnLpYx8syFEsqo1X4A",
-              "author": " — "
+              "authors": [""]
             },
             {
               "title": "ServiceNow Kida",
               "type": "YouTube",
               "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVY9uPWd9wVvzrex2lrRH8Q",
-              "author": " — "
+              "authors": [""]
             },{
               "title":"valueflow.com.au",
               "type": "Blog",
               "url":"https://www.valueflow.com.au/blog-feed.xml",
-              "author": " — "
+              "authors": [""]
             },
             { "title": "ServiceNow Vimeo", 
               "type": "Vimeo", 
               "url": "https://vimeo.com/servicenow/videos/rss",
-              "author": " — "
+              "authors": [""]
             },
             {
               "title": "Crossfuze",
               "type": "YouTube",
               "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpLZhZNVnXhmNUlKBMgiJIA",
-              "author": " — "
+              "authors": [""]
             },
             {
               "title": "Dhruv Gupta",
               "type": "YouTube",
               "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCv4FOEe0MZkANapsqhDVRBw",
-              "author": "Dhruv Gupta"
+              "authors": ["Dhruv Gupta"]
             },
             {
               "title": "Semaphore Partners Blog",
               "type": "Blog",
               "url": "https://semaphorepartners.com/rss.xml",
-              "author": "Jonathan Jacob and Toby Comer"
+              "authors": ["Jonathan Jacob","Toby Comer"]
             },
             {
               "title": "Dhruven",
               "type": "Blog",
               "url": "https://dhruvsn.wordpress.com/feed/",
-              "author": "Dhruv Gupta"
+              "authors": ["Dhruv Gupta"]
             },
             {
               "title": "Portalorem",
               "type": "Blog",
               "url": "https://portalorem.com/blog?format=rss",
-              "author": "Sarah Toulson"
+              "authors": ["Sarah Toulson"]
             },
             {
               "title": "The Verbose Log",
               "type": "Blog",
               "url": "https://verboselog.com/rss.xml",
-              "author": "James Freund"
+              "authors": ["James Freund"]
             },
             /*{
               "title":"PhxDev",
               What "type":"Blog",
               "url": "",//waiting for a rss feed
-              "author": "Mark Scott"
+              "authors": "Mark Scott"
             }*/
           ];
         /* {
                 "title": "john-james-andersen.com",
                 "type": "Blog",
                 "url": "http://john-james-andersen.com/feed",
-                "author": "John Andersen",
+                "authors": "John Andersen",
             },*/ 
             
             //{ "title": "Fruition Partners Vimeo", "type": "Vimeo", "url": "https://vimeo.com/user4353238/videos/rss" },
@@ -566,7 +566,7 @@ module.exports = {
                         category: rssFeed.type,
                         title: item.title,
                         link: link,
-                        author: rssFeed.author//item.author || 
+                        author: rssFeed.authors.join(',')//item.author || 
                     });
                     //console.log(item);
                     //console.log(item.title + ':' + item.link);

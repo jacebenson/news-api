@@ -170,7 +170,7 @@ function parseResponse(responseObj) {
   console.log(responseObj);
   var table = document.getElementById('newsTable');
   var news = responseObj.filteredFeeds;
-  if (news.length === 0) {}
+  if (news.length === 0) { }
   news.forEach(function (item) {
     var tr = document.createElement('tr');
     var date = document.createElement('td');
@@ -206,100 +206,140 @@ function parseResponse(responseObj) {
       aliases: ["eduque"],
       hoverText: "Earl thank you for doing you're awesome stuff with Slackbot, your blog and inspiring us.",
       groups: ["devmvp2020"]
-    },{
+    }, {
       name: "gauravchoudhury",
       aliases: [],
       hoverText: "",
       groups: ["devmvp2020"]
-    },{
+    }, {
       name: "Jarod Mundt",
       aliases: ["jarodm"],
       hoverText: "Jarod thank you!",
       groups: ["devmvp2020"]
-    },{
+    }, {
       name: "Jim Coyne",
       aliases: [],
       hoverText: "Jim Coyne thank you!",
       groups: ["devmvp2020"]
-    },{
+    }, {
       name: "Kalaiarasan Pushpanathan",
       aliases: [],
       hoverText: "Thank you Kalai!  TIL is great!",
       groups: ["devmvp2020"]
-    },{
+    }, {
       name: "Mark Roethof",
       aliases: [],
       hoverText: "Mark Roethof, your content is amazing!",
       groups: ["devmvp2020"]
-    },{
+    }, {
       name: "Mark Scott",
       aliases: [],
       hoverText: "Mark, your contributions are loved!  Works at ServiceNow.",
       groups: ["devmvp2020", "employee"]
-    },{
+    }, {
       name: "Nathan Firth",
       aliases: ["nathanfirth"],
       hoverText: "Founder of New Rocket, you are great!",
       groups: ["devmvp2020"]
-    },{
+    }, {
       name: "Robert Fedoruk",
       aliases: [],
       hoverText: "Robert Fedoruk, you're content drives action.  It's so refreshing!",
       groups: ["devmvp2020"]
-    },{
+    }, {
       name: "Travis Toulson",
       aliases: ["tltoulson"],
       hoverText: "How did you learn to write like that!  Amazing!",
       groups: ["devmvp2020"]
-    },{
+    }, {
       name: "Andrew Pishchulin",
       aliases: [],
       hoverText: "Andrew P, he's sharp!",
       groups: ["devmvp2020"]
-    },{
+    }, {
       name: "Jace Benson",
       aliases: ["jacebenson"],
       hoverText: "I mean, Thanks self!",
       groups: ["devmvp2020"]
-    },{
+    }, {
       name: "Chuck Tomasi",
       aliases: ["ctomasi"],
       hoverText: "This man is non-stop!  Works at ServiceNow.",
       groups: ["employee"]
-    },{
+    }, {
       name: "Andrew Barnes",
       aliases: ["Andrew Barnes - AJB"],
       hoverText: "Advocating for the Deveopers.  Works at ServiceNow.",
       groups: ["employee"]
-    },{
+    }, {
       name: "Brad Tilton",
       aliases: ["btilton"],
       hoverText: "He makes grilled goods.  Works at ServiceNow.",
       groups: ["employee"]
-    },{
+    }, {
       name: "SlightlyLoony",
       aliases: [],
       hoverText: "One of the original.  Thank you!",
       groups: ["employee"]
     }];
+
     if (item.author) {
-      people.forEach(function (personObj) {
-        if (item.author == personObj.name || personObj.aliases.includes(item.author)) {
-          if(personObj.groups.includes("patron")){
-            author.classList.add('bg-primary'); // text-white');
-            author.classList.add('text-white'); // text-white');
-            author.classList.add('rounded'); // text-white');
-          } 
-          author.setAttribute("data-toggle", "popover");
-          author.setAttribute("data-trigger", "hover");
-          author.setAttribute("title", personObj.hoverText);
-          author.setAttribute("data-content", personObj.hoverText);
-          var flair = personObj.groups.map(function (flair) {
-            return groups[flair];
-          }).join('');
-          item.author = flair + item.author + flair
-        }
-      });
+      if (item.author.indexOf(',') >= 0) {//multiple authors...
+        people.forEach(function (personObj) {
+          var authorsArr = item.author.split(',');
+          authorsArr.forEach(function(coauthor){
+            if(coauthor == personObj.name || personObj.aliases.includes(coauthor)){
+              if (personObj.groups.includes("patron")) {
+              author.classList.add('bg-primary'); // text-white');
+              author.classList.add('text-white'); // text-white');
+              author.classList.add('rounded'); // text-white');
+              }  
+              author.setAttribute("data-toggle", "popover");
+            author.setAttribute("data-trigger", "hover");
+            author.setAttribute("title", personObj.hoverText);
+            author.setAttribute("data-content", personObj.hoverText);
+            var flair = personObj.groups.map(function (flair) {
+              return groups[flair];
+            }).join('');
+            item.author = flair + item.author + flair
+            }
+          });
+
+          if (item.author == personObj.name || personObj.aliases.includes(item.author)) {
+            if (personObj.groups.includes("patron")) {
+              author.classList.add('bg-primary'); // text-white');
+              author.classList.add('text-white'); // text-white');
+              author.classList.add('rounded'); // text-white');
+            }
+            author.setAttribute("data-toggle", "popover");
+            author.setAttribute("data-trigger", "hover");
+            author.setAttribute("title", personObj.hoverText);
+            author.setAttribute("data-content", personObj.hoverText);
+            var flair = personObj.groups.map(function (flair) {
+              return groups[flair];
+            }).join('');
+            item.author = flair + item.author + flair
+          }
+        });
+      } else {
+        people.forEach(function (personObj) {
+          if (item.author == personObj.name || personObj.aliases.includes(item.author)) {
+            if (personObj.groups.includes("patron")) {
+              author.classList.add('bg-primary'); // text-white');
+              author.classList.add('text-white'); // text-white');
+              author.classList.add('rounded'); // text-white');
+            }
+            author.setAttribute("data-toggle", "popover");
+            author.setAttribute("data-trigger", "hover");
+            author.setAttribute("title", personObj.hoverText);
+            author.setAttribute("data-content", personObj.hoverText);
+            var flair = personObj.groups.map(function (flair) {
+              return groups[flair];
+            }).join('');
+            item.author = flair + item.author + flair
+          }
+        });
+      }
       author.innerText = item.author;
     } else {
       author.innerText = "Unknown";
