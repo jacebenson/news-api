@@ -521,7 +521,12 @@ module.exports = {
               "type": "Blog",
               "url": "https://verboselog.com/rss.xml",
               "authors": ["James Freund"]
-            },
+            },{
+              "title": "TechiMonster",
+              "type": "Blog",
+              "url": "https://techimonster.com/feed/",
+              "authors": ["Praveen Karthi"]
+            }//}
             /*{
               "title":"PhxDev",
               What "type":"Blog",
