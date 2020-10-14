@@ -526,6 +526,12 @@ module.exports = {
               "type": "Blog",
               "url": "https://techimonster.com/feed/",
               "authors": ["Praveen Karthi"]
+            },
+            {
+              "title": "Moodycoda",
+              "type": "YouTube",
+              "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UUCZNVaVzp9VOTf-O_RZu2bGw",
+              "authors": ["Mike Moody"]
             }//}
             /*{
               "title":"PhxDev",
