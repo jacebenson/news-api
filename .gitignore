@@ -4,6 +4,7 @@
 
 ### Node ###
 # Logs
+_site
 logs
 *.log
 npm-debug.log*

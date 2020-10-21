@@ -4,10 +4,14 @@
   "description": "Aggregator of news for ServicNow",
   "main": "functions/server.js",
   "scripts": {
-    "buildold": "node ./scripts/build.js",
-    "build": "node ./scripts/build.js && netlify-lambda build express",
+    "oldbuildold": "node ./scripts/build.js",
+    "oldstart": "node ./server-local.js",
     "rebuild": "netlify-lambda build express",
-    "start": "node ./server-local.js"
+    "start": "npx @11ty/eleventy --serve",
+    "build": "npx @11ty/eleventy && node ./scripts/build.js && netlify-lambda build express",
+    "serve": "npx @11ty/eleventy --serve",
+    "debug": "DEBUG=Eleventy* npx @11ty/eleventy",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -33,6 +37,10 @@
     "netlify-lambda": "^0.4.0",
     "serverless-http": "^1.6.0",
     "rss-parser": "^3.7.6",
-    "yargs": "^13.3.0"
+    "yargs": "^13.3.0",
+    "@11ty/eleventy": "^0.10.0",
+    "@11ty/eleventy-plugin-rss": "^1.0.7",
+    "@11ty/eleventy-plugin-syntaxhighlight": "^3.0.1",
+    "@11ty/eleventy-img": "^0.3.0"
   }
 }

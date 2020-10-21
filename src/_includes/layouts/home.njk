@@ -1,0 +1,43 @@
+{% extends "base.njk" %}
+{% block content %}
+{% if backgroundImage !="" %}
+<div class="page-title sp" style="background-color: #222538">
+    <div class="container text-center">
+        <h1 class="text-white">{{ title }}</h1>
+        <p class="text-white">{{ description }}</p>
+    </div>
+</div>
+{% endif %}
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="./assets/js/custom.js"></script>
+<div class="container-fluid">
+<hr/>
+   <form id="news-search" class="form-inline">
+    <label class="sr-only" for="date">Year</label>
+    <!--<input type="text" class="form-control mb-2 mr-sm-2 col-md-4" id="date" placeholder="2020 or 2019-2020">-->
+            <input type="date" id="start" name="start" class="form-control mb-1 mr-sm-1 col-md-3">
+        <input type="date" id="end" name="end" class="form-control mb-1 mr-sm-1 col-md-3">
+
+    <label class="sr-only" for="searchtext">Search</label>
+    <div class="input-group mb-2 mr-sm-2 col-md-4">
+      <input type="text" class="form-control" id="searchtext" placeholder="Search (looks for type, site, author, or title containing this)">
+    </div>
+
+    <button type="button" id="submitquery" class="btn btn-primary mb-2">Submit</button>
+  </form>
+  <table class="table table-light table-striped" id="newsTable">
+    <thead>
+        <tr>
+            <th>Date</th>
+            <th>Type</th>
+            <th>Site</th>
+            <th>Author</th>
+            <th>Title</th>
+          </tr>
+    </thead>
+    <tbody id="newRows">
+      
+    </tbody>
+  </table>
+</div>
+{% endblock content %}
