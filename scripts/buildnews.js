@@ -532,6 +532,11 @@ module.exports = {
               "type": "YouTube",
               "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UUCZNVaVzp9VOTf-O_RZu2bGw",
               "authors": ["Mike Moody"]
+            },{
+              "title": "Cookdown",
+              "type": "Blog",
+              "url": "https://www.cookdown.com/blog?format=rss",
+              "authors": ["Cookdown"]
             }//}
             /*{
               "title":"PhxDev",
