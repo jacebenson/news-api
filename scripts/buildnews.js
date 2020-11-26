@@ -577,12 +577,12 @@ module.exports = {
               "url": "https://mavennext.com/blog-feed.xml",
               "authors": [""]
             },
-            /*{
-              "title":"PhxDev",
-              What "type":"Blog",
-              "url": "",//waiting for a rss feed
-              "authors": "Mark Scott"
-            }*/
+            {
+              "title":"Vivek Verma",
+              "type":"Blog",
+              "url": "https://medium.com/feed/@",//waiting for a rss feed
+              "authors": "Vivek Verma"
+            }
           ];
         /* {
                 "title": "john-james-andersen.com",
