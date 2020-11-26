@@ -537,7 +537,46 @@ module.exports = {
               "type": "Blog",
               "url": "https://www.cookdown.com/blog?format=rss",
               "authors": ["Cookdown"]
-            }//}
+            },{
+              "title": "AshleySN",
+              "type": "Blog",
+              "url": "https://www.ashleysn.com/blog-feed.xml",
+              "authors": ["Ashley"]
+            },{
+              "title": "ChecksumFailed",
+              "type":"Blog",
+              "url": "https://checksumfailed.com/index.xml",
+              "authors": ["bscherer"]
+            },{
+              "title": "Kofko Blog",
+              "type":"Blog",
+              "url": "https://blog.kofko.xyz/feed.xml",
+              "authors": ["Alberto Colombo"]
+            },
+            {
+              "title": "Glass 'putan with Service-Now'",
+              "type": "Blog",
+              "url": "https://glassputan.wordpress.com/feed/",
+              "authors": ["Scott Glass"]
+            },
+            {
+              "title": "medium.com/@neerajs296",
+              "type": "Blog",
+              "url": "https://medium.com/feed/@neerajs296",
+              "authors": ["Neeraj sharma"]
+            },
+            {
+              "title": "ServiceNow Tipps",
+              "type": "Blog",
+              "url": "https://servicenowtipps.wordpress.com/feed",
+              "authors": ["Natascia Heil"]
+            },
+            {
+              "title": "Mavennext.com",
+              "type": "Blog",
+              "url": "https://mavennext.com/blog-feed.xml",
+              "authors": [""]
+            },
             /*{
               "title":"PhxDev",
               What "type":"Blog",
