@@ -584,25 +584,14 @@ module.exports = {
               "authors": "Vivek Verma"
             }
           ];
-        /* {
-                "title": "john-james-andersen.com",
-                "type": "Blog",
-                "url": "http://john-james-andersen.com/feed",
-                "authors": "John Andersen",
-            },*/ 
-            
-            //{ "title": "Fruition Partners Vimeo", "type": "Vimeo", "url": "https://vimeo.com/user4353238/videos/rss" },
-            //{ "title": "Linium Blog", "type": "Blog", "url": "https://www.linium.com/blog/rss.xml" },
-            //{ "title": "Reddit", "type": "Questions", "url": "http://reddit.com/r/servicenow/.rss" },
-            //{ "title": "StackOverflow", "type": "Questions", "url": "https://stackoverflow.com/feeds/tag?tagnames=servicenow&amp;sort=newest" },
-
-        //(async () => {
+        
         var outputObj = {
             feeds: [],
             news: []
         };
         var promises = [];
         feeds.forEach(function (rssFeed) {
+          try{
             //let promise = await parser.parseURL('https://www.reddit.com/.rss');
             var promise = parser.parseURL(rssFeed.url, (error, feed) => {
                 outputObj.feeds.push(rssFeed.title);
@@ -677,12 +666,10 @@ module.exports = {
                 }
             });
             promises.push(promise);
+          }catch(e){
+              console.error("Error", e)
+            }
         });
-
-
-
-        //})();
-
     }
 
 };

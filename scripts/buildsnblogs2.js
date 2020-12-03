@@ -1,6 +1,7 @@
 module.exports = {
     build: function (callbackFinal) {
 
+        console.log('starting buildsnblogs2');
         var http = require("https");
         var fs = require("fs");
         var outputArr = [];

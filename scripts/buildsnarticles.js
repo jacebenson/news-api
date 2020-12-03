@@ -1,7 +1,8 @@
 module.exports = {
     build: function (callbackFinal) {
-
+console.log('in buildsnarticles');
         var http = require("https");
+        process.env['NODE_TLS_REJECT_UNAUTHORIZED'] = 0
         var fs = require("fs");
         var outputArr = [];
         let feedPath = "./feeds.json"
