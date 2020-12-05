@@ -582,6 +582,13 @@ module.exports = {
               "type":"Blog",
               "url": "https://medium.com/feed/@",//waiting for a rss feed
               "authors": "Vivek Verma"
+            },
+            
+            {
+              "title": "Pranav Bhagat",
+              "type": "YouTube",
+              "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAiJSYm6VQvtbcI4BeMFehg",
+              "authors": ["Pranav Bhagat"]
             }
           ];
         
