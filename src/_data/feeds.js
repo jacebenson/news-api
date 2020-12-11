@@ -4,7 +4,8 @@ module.exports = {
         {
             "title": "anerrantprogrammer.com",
             "type": "Blog",
-            "url": "http://anerrantprogrammer.com/?feed=rss2",
+            "url": "https://anerrantprogrammer.com/?feed=rss2",
+            "speedlifyUrl" : "https://anerrantprogrammer.com/",
             "authors": ["Sal Costa"]
         },
         {
@@ -17,6 +18,7 @@ module.exports = {
             "title": "andrew.alburydor.com",
             "type": "Blog",
             "url": "https://andrew.alburydor.com/posts/index.xml",
+            "speedlifyUrl" : "https://andrew.alburydor.com/",
             "authors": ["Andrew Albury-Dor"]
         },
         {
@@ -35,12 +37,14 @@ module.exports = {
             "title": "www.servicenowelite.com",
             "type": "Blog",
             "url": "http://www.servicenowelite.com/blog?format=rss",
+            "speedlifyUrl" : "https://www.servicenowelite.com/",
             "authors": ["Mike Kaufman"]
         },
         {
             "title": "www.cloudminus89.com",
             "type": "Blog",
             "url": "http://www.cloudminus89.com/feeds/posts/default?alt=rss",
+            "speedlifyUrl" : "http://www.cloudminus89.com/",
             "authors": ["Ruen Smith"]
         },
         {
@@ -53,12 +57,14 @@ module.exports = {
             "title": "codecreative.io",
             "type": "Blog",
             "url": "https://codecreative.io/index.xml",
+            "speedlifyUrl" : "https://codecreateive.io/",
             "authors": ["Travis Toulson"]
         },
         {
             "title": "servicenow.implementation.blog",
             "type": "Blog",
             "url": "https://servicenow.implementation.blog/feed/",
+            "speedlifyUrl": "https://servicenow.implementation.blog/",
             "authors": ["Shiva Thomas"]
         },
         {
@@ -77,6 +83,7 @@ module.exports = {
             "title": "mavembry.info",
             "type": "Blog",
             "url": "https://mavembry.info/index.xml",
+            "speedlifyUrl": "https://mavembry.info/",
             "authors": ["Maverick Embry"]
         },
         {
@@ -91,7 +98,6 @@ module.exports = {
             "url": "https://anchor.fm/s/203322f8/podcast/rss",
             "authors": ["Robert Fedoruk"]
         },
-        //
         {
             "title": "Break Point",
             "type": "Podcast",
@@ -108,6 +114,7 @@ module.exports = {
             "title": "jace.pro",
             "type": "Blog",
             "url": "https://jace.pro/index.xml",
+            "speedlifyUrl": "https://jace.pro/",
             "authors": ["Jace Benson"]
         },
         {
@@ -120,13 +127,8 @@ module.exports = {
             "title": "developer.servicenow.com/blog.do",
             "type": "Blog",
             "url": "https://developer.servicenow.com/blog.do?p=/index.xml",
+            "speedlifyUrl": "https://developer.servicenow.com/blog.do",
             "authors": ["Andrew Barnes", "Brad Tilton"]
-        },
-        {
-            "title": "servicenowgems.com",
-            "type": "Blog",
-            "url": "http://servicenowgems.com/feed",
-            "authors": ["Ahmed Hmeid"]
         },
         {
             "title": "ServiceNow Community",
@@ -156,6 +158,7 @@ module.exports = {
             "title": "servicenowthink.wordpress.com",
             "type": "Blog",
             "url": "https://servicenowthink.wordpress.com/feed",
+            "speedlifyUrl": "https://servicenowthink.wordpress.com/",
             "authors": ["Aleksas Kucinskas"]
         },
         {
@@ -168,42 +171,49 @@ module.exports = {
             "title": "finite-partners.com",
             "type": "Blog",
             "url": "https://finite-partners.com/feed",
+            "speedlifyUrl": "https://finite-partners.com/blog/",
             "authors": ["Garrett Griffin-Morales"]
         },
         {
             "title": "hiresumo.com/home",
             "type": "Blog",
             "url": "https://hiresumo.com/home?format=rss",
+            "speedlifyUrl": "https://hiresumo.com/",
             "authors": [""]
         },
         {
             "title": "servicenowguru.com",
             "type": "Blog",
-            "url": "https://www.servicenowguru.com/feed/",
+            "url": "https://servicenowguru.com/feed/",
+            "speedlifyUrl": "https://servicenowguru.com/blog/",
             "authors": ["Mark Stanger"]
         },
         {
             "title": "www.covestic.com",
             "type": "Blog",
             "url": "https://www.covestic.com/feed/",
+            "speedlifyUrl" : "https://www.covestic.com/blog/",
             "authors": [""]
         },
         {
             "title": "www.thinkahead.com/",
             "type": "Blog",
             "url": "https://www.thinkahead.com/feed",
+            "speedlifyUrl" : "https://www.thinkahead.com/",
             "authors": [""]
         },
         {
             "title": "aeritae.com",
             "type": "Blog",
             "url": "https://aeritae.com/blog/feed",
+            "speedlifyUrl": "https://aeritae.com/blog/",
             "authors": [""]
         },
         {
             "title": "serviceportal.io",
             "type": "Blog",
             "url": "https://serviceportal.io/feed",
+            "speedlifyUrl": "https://serviceportal.io/",
             "authors": ["Nathan Firth"]
         },
         {
@@ -222,36 +232,42 @@ module.exports = {
             "title": "workflow.servicenow.com",
             "type": "Newsletter",
             "url": "https://workflow.servicenow.com/feed/",
+            "speedlifyUrl": "https://workflow.servicenow.com/",
             "authors": [""]
         },
         {
             "title": "snprotips.com",
             "type": "Blog",
             "url": "https://snprotips.com/?format=rss",
+            "speedlifyUrl":"https://snprotips.com",
             "authors": ["Tim Woodruff"]
         },
         {
             "title": "www.snc-blog.com",
             "type": "Blog",
-            "url": "http://www.snc-blog.com/feed",
+            "url": "https://www.snc-blog.com/feed",
+            "speedlifyUrl": "https://www.snc-blog.com/",
             "authors": [""]
         },
         {
             "title": "sncdevelopment.com",
             "type": "Blog",
             "url": "https://sncdevelopment.com/feed",
+            "speedlifyUrl":"https://sncdevelopment.com/",
             "authors": ["James Naphen"]
         },
         {
             "title": "womennow.dev",
             "type": "Blog",
             "url": "https://womennow.dev/feed.xml",
+            "speedlifyUrl": "https://womennow.dev/",
             "authors": ["Paige"]
         },
         {
             "title": "pathwayscg.com",
             "type": "Blog",
             "url": "https://pathwayscg.com/feed/",
+            "speedlifyUrl": "https://pathwayscg.com/nowyouknow/",
             "authors": ["Kaitlyn Giovinazzo"]
         },
         {
@@ -270,6 +286,7 @@ module.exports = {
             "title": "www.dylanlindgren.com",
             "type": "Blog",
             "url": "https://www.dylanlindgren.com/feed/",
+            "speedlifyUrl":"https://www.dylanlindgren.com/category/servicenow/",
             "authors": ["Dylan Lindgren"]
         },
         {
@@ -281,13 +298,15 @@ module.exports = {
         {
             "title": "helpfultechblog.com",
             "type": "Blog",
-            "url": "http://helpfultechblog.com/feed/",
+            "url": "https://helpfultechblog.com/feed/",
+            "speedlifyUrl": "https://helpfultechblog.com/",
             "authors": ["Phuong Nguyen"]
         },
         {
             "title": "medium.com/@pishchulin",
             "type": "Blog",
             "url": "https://medium.com/feed/@pishchulin",
+            "speedlifyUrl": "https://pishchulin.medium.com/",
             "authors": ["Andrew Pishchulin"]
         },
         {
@@ -300,12 +319,14 @@ module.exports = {
             "title": "snhackery.com",
             "type": "Blog",
             "url": "https://snhackery.com/feed/",
+            "speedlifyUrl": "https://snhackery.com/",
             "authors": ["snhackery"]
         },
         {
             "title": "earlduque.com",
             "type": "Blog",
             "url": "https://earlduque.com/feed.xml",
+            "speedlifyUrl": "https://earlduque.com/",
             "authors": ["Earl Duque"]
         },
         {
@@ -317,7 +338,8 @@ module.exports = {
         {
             "title": "cavucode.com",
             "type": "Blog",
-            "url": "http://feeds.feedburner.com/CAVUCode-Blog",
+            "url": "https://feeds.feedburner.com/CAVUCode-Blog",
+            "speedlifyUrl": "https://feeds.feedburner.com/CAVUCode-Blog",
             "authors": ["John Roberts"]
         },
         {
@@ -336,6 +358,7 @@ module.exports = {
             "title": "www.saaswithservicenow.in",
             "type": "Blog",
             "url": "https://www.saaswithservicenow.in/feeds/posts/default?alt=rss",
+            "speedlifyUrl": "https://www.saaswithservicenow.in/",
             "authors": ["Gaurav Tripathi"]
         },
         {
@@ -473,7 +496,8 @@ module.exports = {
             "title": "valueflow.com.au",
             "type": "Blog",
             "url": "https://www.valueflow.com.au/blog-feed.xml",
-            "authors": [""]
+            "speedlifyUrl": "https://www.valueflow.com.au/blog-1",
+            "authors": ["Luke Sorensen"]
         },
         {
             "title": "ServiceNow Vimeo",
@@ -497,29 +521,34 @@ module.exports = {
             "title": "Semaphore Partners Blog",
             "type": "Blog",
             "url": "https://semaphorepartners.com/rss.xml",
+            "speedlifyUrl": "https://semaphorepartners.com/blog/",
             "authors": ["Jonathan Jacob", "Toby Comer"]
         },
         {
             "title": "Dhruven",
             "type": "Blog",
             "url": "https://dhruvsn.wordpress.com/feed/",
+            "speedlifyUrl": "https://dhruvsn.wordpress.com/",
             "authors": ["Dhruv Gupta"]
         },
         {
             "title": "Portalorem",
             "type": "Blog",
             "url": "https://portalorem.com/blog?format=rss",
+            "speedlifyUrl": "https://portalorem.com/",
             "authors": ["Sarah Toulson"]
         },
         {
             "title": "The Verbose Log",
             "type": "Blog",
             "url": "https://verboselog.com/rss.xml",
+            "speedlifyUrl": "https://verboselog.com/",
             "authors": ["James Freund"]
         }, {
             "title": "TechiMonster",
             "type": "Blog",
             "url": "https://techimonster.com/feed/",
+            "speedlifyUrl": "https://techimonster.com/",
             "authors": ["Praveen Karthi"]
         },
         {
@@ -531,51 +560,60 @@ module.exports = {
             "title": "Cookdown",
             "type": "Blog",
             "url": "https://www.cookdown.com/blog?format=rss",
+            "speedlifyUrl": "https://www.cookdown.com/blog",
             "authors": ["Cookdown"]
         }, {
             "title": "AshleySN",
             "type": "Blog",
             "url": "https://www.ashleysn.com/blog-feed.xml",
+            "speedlifyUrl": "https://www.ashleysn.com/",
             "authors": ["Ashley"]
         }, {
             "title": "ChecksumFailed",
             "type": "Blog",
             "url": "https://checksumfailed.com/index.xml",
+            "speedlifyUrl": "https://checksumfailed.com/",
             "authors": ["bscherer"]
         }, {
             "title": "Kofko Blog",
             "type": "Blog",
             "url": "https://blog.kofko.xyz/feed.xml",
+            "speedlifyUrl":"https://blog.kofko.xyz/",
             "authors": ["Alberto Colombo"]
         },
         {
             "title": "Glass 'putan with Service-Now'",
             "type": "Blog",
             "url": "https://glassputan.wordpress.com/feed/",
+            "speedlifyUrl":"https://glassputan.wordpress.com/",
             "authors": ["Scott Glass"]
         },
         {
             "title": "medium.com/@neerajs296",
             "type": "Blog",
             "url": "https://medium.com/feed/@neerajs296",
+            "speedlifyUrl":"https://medium.com/@neerajs296",
             "authors": ["Neeraj sharma"]
         },
         {
             "title": "ServiceNow Tipps",
             "type": "Blog",
             "url": "https://servicenowtipps.wordpress.com/feed",
+            "speedlifyUrl":"https://servicenowtipps.wordpress.com",
             "authors": ["Natascia Heil"]
         },
         {
             "title": "Mavennext.com",
             "type": "Blog",
             "url": "https://mavennext.com/blog-feed.xml",
+            "speedlifyUrl":"https://www.mavennext.com/blog/",
             "authors": [""]
         },
         {
             "title": "Vivek Verma",
             "type": "Blog",
-            "url": "https://medium.com/feed/@",//waiting for a rss feed
+            "url": "https://medium.com/feed/@vik180292",
+            "speedlifyUrl": "https://medium.com/@vik180292",
             "authors": "Vivek Verma"
         },
 

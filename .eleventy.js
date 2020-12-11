@@ -23,12 +23,19 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addShortcode("getURLsFromSources", function(sourceObjs) {
         //console.log(sourceObjs);
         let justUrls = sourceObjs.sources.map((source)=>{
-            let url = new URL(source.url);
-            return url.origin;
-        })
+            if(typeof source.speedlifyUrl === "string"){
+            return source.speedlifyUrl;
+            }
+        });
         justUrls = justUrls.sort().filter(function(item, pos, ary) {
             return !pos || item != ary[pos - 1];
         });
+        justUrls = justUrls.filter((url)=>{
+            if(url){
+                return true;
+            }
+        });
+        justUrls.push("https://community.servicenow.com/");
         return JSON.stringify(justUrls);
     });
 
