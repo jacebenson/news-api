@@ -616,7 +616,6 @@ module.exports = {
             "speedlifyUrl": "https://medium.com/@vik180292",
             "authors": "Vivek Verma"
         },
-
         {
             "title": "Pranav Bhagat",
             "type": "YouTube",

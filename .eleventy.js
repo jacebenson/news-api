@@ -35,7 +35,7 @@ module.exports = function (eleventyConfig) {
                 return true;
             }
         });
-        justUrls.push("https://community.servicenow.com/");
+        justUrls.push("https://community.servicenow.com/"); 
         return JSON.stringify(justUrls);
     });
 
