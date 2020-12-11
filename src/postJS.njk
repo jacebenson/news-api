@@ -1,0 +1,16 @@
+---json
+{
+  "permalink": "feeds.json",
+  "eleventyExcludeFromCollections": true
+}
+---
+[
+{%- for source in feeds.sources %}
+    {
+      "title": "{{ source.title }}",
+      "url":"{{ source.url }}",
+      "type": "{{ source.type }}",
+      "authors": "{{ source.authors }}"
+    }{% if not loop.last %},{% endif %}
+{%- endfor %}
+]

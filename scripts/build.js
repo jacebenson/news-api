@@ -22,7 +22,7 @@ rssFeeds.build(function () {
             });
         });
     });
-    
 });
+
 
 module.exports = {};
