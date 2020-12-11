@@ -20,6 +20,17 @@ module.exports = function (eleventyConfig) {
     // add support for syntax highlighting
     eleventyConfig.addPlugin(syntaxHighlight);
 
+    eleventyConfig.addShortcode("getURLsFromSources", function(sourceObjs) {
+        //console.log(sourceObjs);
+        let justUrls = sourceObjs.sources.map((source)=>{
+            let url = new URL(source.url);
+            return url.origin;
+        })
+        justUrls = justUrls.sort().filter(function(item, pos, ary) {
+            return !pos || item != ary[pos - 1];
+        });
+        return JSON.stringify(justUrls);
+    });
 
     const Image = require("@11ty/eleventy-img");
 
