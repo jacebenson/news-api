@@ -232,7 +232,6 @@ module.exports = {
             "title": "workflow.servicenow.com",
             "type": "Newsletter",
             "url": "https://workflow.servicenow.com/feed/",
-            "speedlifyUrl": "https://workflow.servicenow.com/",
             "authors": [""]
         },
         {
