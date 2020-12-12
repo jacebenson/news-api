@@ -32,7 +32,7 @@ module.exports = function (eleventyConfig) {
         });
         justUrls = justUrls.filter((url)=>{
             if(url){
-                return true;
+                return true;//
             }
         });
         justUrls.push("https://community.servicenow.com/"); 
