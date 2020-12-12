@@ -305,7 +305,6 @@ module.exports = {
             "title": "medium.com/@pishchulin",
             "type": "Blog",
             "url": "https://medium.com/feed/@pishchulin",
-            "speedlifyUrl": "https://pishchulin.medium.com/",
             "authors": ["Andrew Pishchulin"]
         },
         {
@@ -591,7 +590,6 @@ module.exports = {
             "title": "medium.com/@neerajs296",
             "type": "Blog",
             "url": "https://medium.com/feed/@neerajs296",
-            "speedlifyUrl":"https://medium.com/@neerajs296",
             "authors": ["Neeraj sharma"]
         },
         {
@@ -612,7 +610,6 @@ module.exports = {
             "title": "Vivek Verma",
             "type": "Blog",
             "url": "https://medium.com/feed/@vik180292",
-            "speedlifyUrl": "https://medium.com/@vik180292",
             "authors": ["Vivek Verma"]
         },
         {
