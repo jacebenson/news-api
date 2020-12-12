@@ -614,7 +614,7 @@ module.exports = {
             "type": "Blog",
             "url": "https://medium.com/feed/@vik180292",
             "speedlifyUrl": "https://medium.com/@vik180292",
-            "authors": "Vivek Verma"
+            "authors": ["Vivek Verma"]
         },
         {
             "title": "Pranav Bhagat",

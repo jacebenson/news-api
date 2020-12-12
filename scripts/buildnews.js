@@ -28,6 +28,7 @@ module.exports = {
                     if(!item.link && item.enclosure){
                         link = item.enclosure.url;
                     }
+                    console.log(rssFeed);
                     outputObj.news.push({
                         date: forceUpdateDate,//item.isoDate,
                         site: rssFeed.title,
