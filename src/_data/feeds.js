@@ -360,6 +360,12 @@ module.exports = {
             "authors": ["Gaurav Tripathi"]
         },
         {
+            "title": "Between Two Functions",
+            "type": "Podcast",
+            "url": "https://feed.pod.space/betweentwofunctions",
+            "authors": ["Andrew Albury-Dor"]
+        },
+        {
             "title": "Karthik Parthasarathy",
             "type": "YouTube",
             "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHWoqQC99iPx6YBD_hKqPcw",
