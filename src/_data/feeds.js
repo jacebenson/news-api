@@ -44,7 +44,7 @@ module.exports = {
             "title": "www.cloudminus89.com",
             "type": "Blog",
             "url": "http://www.cloudminus89.com/feeds/posts/default?alt=rss",
-            "speedlifyUrl" : "http://www.cloudminus89.com/",
+            "speedlifyUrl" : "http://www.cloudminus89.com/?m=1",
             "authors": ["Ruen Smith"]
         },
         {
@@ -356,7 +356,7 @@ module.exports = {
             "title": "www.saaswithservicenow.in",
             "type": "Blog",
             "url": "https://www.saaswithservicenow.in/feeds/posts/default?alt=rss",
-            "speedlifyUrl": "https://www.saaswithservicenow.in/",
+            "speedlifyUrl": "https://www.saaswithservicenow.in/?m=1",
             "authors": ["Gaurav Tripathi"]
         },
         {
