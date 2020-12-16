@@ -630,8 +630,14 @@ module.exports = {
             "url": "https://snscout.blogspot.com/feeds/posts/default?alt=rss",
             "speedlifyUrl":"https://snscout.blogspot.com/",
             "authors": ["Stephen Sturdevant"]
+        },
+        {
+            "title": "Meatsac",
+            "type": "Blog",
+            "url": "https://meatsac.github.io/feed.xml",
+            "speedlifyUrl":"https://meatsac.github.io/",
+            "authors": ["meatsac"]
         }
-
-        
+       
     ]
 }
