@@ -623,6 +623,15 @@ module.exports = {
             "type": "YouTube",
             "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAiJSYm6VQvtbcI4BeMFehg",
             "authors": ["Pranav Bhagat"]
+        },
+        {
+            "title": "SN Scout",
+            "type": "Blog",
+            "url": "https://snscout.blogspot.com/feeds/posts/default?alt=rss",
+            "speedlifyUrl":"https://snscout.blogspot.com/",
+            "authors": ["Stephen Sturdevant"]
         }
+
+        
     ]
 }
