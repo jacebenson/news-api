@@ -258,8 +258,8 @@ module.exports = {
         {
             "title": "womennow.dev",
             "type": "Blog",
-            "url": "https://womennow.dev/feed.xml",
-            "speedlifyUrl": "https://womennow.dev/",
+            "url": "https://www.womennow.dev/?format=rss",
+            "speedlifyUrl": "https://www.womennow.dev/",
             "authors": ["Paige"]
         },
         {
