@@ -2,6 +2,13 @@ module.exports = {
     sources :
     [
         {
+            "title":"SN Noida Meetup",
+            "type":"Blog",
+            "url": "https://servicenownoidameetup.com/feed/",
+            "speedlifyUrl": "https://servicenownoidameetup.com/",
+            "authors": ["Aashish Atrey", "Prabhat Kumar", "Akash Rajpoot"]
+        },
+        {
             "title": "anerrantprogrammer.com",
             "type": "Blog",
             "url": "https://anerrantprogrammer.com/?feed=rss2",
