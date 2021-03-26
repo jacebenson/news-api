@@ -656,6 +656,12 @@ module.exports = {
             "type": "Blog",
             "url": "https://servicenowninjas.blog/feed/",
             "authors": ["Milap Shah", "Akash Rajput"]
+        },
+        {
+            "title": "ServiceNowNinjas",
+            "type": "YouTube",
+            "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUcSZ_vOznewziw4Rhyl6jw",
+            "authors": ["Milap Shah", "Akash Rajput"]
         }
     ]
 }
