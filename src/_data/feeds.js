@@ -644,7 +644,11 @@ module.exports = {
             "url": "https://meatsac.github.io/feed.xml",
             "speedlifyUrl":"https://meatsac.github.io/",
             "authors": ["meatsac"]
+        },{
+            "title": "ServiceNow Secrets",
+            "type": "YouTube",
+            "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKSwDDnv3OpL09Urk2cMmYA",
+            "authors": ["Eddie Goldbeck"]
         }
-       
     ]
 }

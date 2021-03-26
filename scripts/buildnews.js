@@ -1,13 +1,11 @@
 let dataFeeds = require('../src/_data/feeds.js')
 let feeds = dataFeeds.sources;
 module.exports = {
-    build: function (callback) {
+    build: function (file, callback) {
         let Parser = require('rss-parser');
         let parser = new Parser();
         const fs = require('fs');
-        let feedPath = "./feeds.json"
-
-        
+        let feedPath = file;
         
         var outputObj = {
             feeds: [],

@@ -1,9 +1,9 @@
 module.exports = {
-    build: function (callback) {
+    build: function (file, callback) {
         var http = require("https");
         var fs = require("fs");
         var outputArr = [];
-        let feedPath = "./feeds.json"
+        let feedPath = file;
         // get count to start...
         var getNowVideos = function (start, callback) {
             if (!start) {

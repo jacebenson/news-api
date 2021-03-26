@@ -1,6 +1,6 @@
 var fs = require('fs');
 
-let feedPath = "./rawfeeds.json"
+let feedPath = "./src/_data/rawfeeds.json"
 
 fs.writeFile(feedPath, '[]', { flag: 'w' }, function (err) {
     if (err) throw err;
@@ -11,13 +11,13 @@ var communityBlogs = require('./buildsnblogs2');
 var communityArticles = require('./buildsnarticles');
 var communityVideos = require('./buildsnvideos');
 
-rssFeeds.build(function () {
+rssFeeds.build(feedPath, function () {
     console.log('rss feeds built');
-    communityArticles.build(function(){
+    communityArticles.build(feedPath, function(){
         console.log('community articles built');
-        communityBlogs.build(function () {
+        communityBlogs.build(feedPath, function () {
             console.log('community blogs built');
-            communityVideos.build(function () {
+            communityVideos.build(feedPath, function () {
                 console.log('community videos built');
             });
         });
