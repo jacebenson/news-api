@@ -1,5 +1,13 @@
 [
  {
+  "date": "2021-03-26T16:00:00.001Z",
+  "site": "sncdevelopment.com",
+  "category": "Blog",
+  "title": "The Right Methodology, Tools, And Services For Ensuring ServiceNow Success",
+  "link": "https://sncdevelopment.com/2021/03/26/the-right-methodology-tools-and-services-for-ensuring-servicenow-success/",
+  "author": "James Naphen"
+ },
+ {
   "date": "2021-03-26T15:08:00.001Z",
   "site": "www.cloudminus89.com",
   "category": "Blog",
@@ -16,6 +24,14 @@
   "link": "https://community.servicenow.com/community?id=community_blog&sys_id=e6b010c7db876010ddb1d9d968961959"
  },
  {
+  "date": "2021-03-26T10:39:51.001Z",
+  "site": "ServiceNowNinjas",
+  "category": "Blog",
+  "title": "Next-Gen PDF Generation – Part 1",
+  "link": "https://servicenowninjas.blog/ninjatechs/nexgen_pdf_generation/?utm_source=rss&utm_medium=rss&utm_campaign=nexgen_pdf_generation",
+  "author": "Milap Shah,Akash Rajput"
+ },
+ {
   "date": "2021-03-26T08:39:00.001Z",
   "site": "www.cloudminus89.com",
   "category": "Blog",
@@ -30,14 +46,6 @@
   "title": "CSMTableMapUtil example: How does the 'Create Known Error article' UI action on Problem work?",
   "link": "http://www.cloudminus89.com/2021/03/csmtablemaputil-example-how-does-create.html",
   "author": "Ruen Smith"
- },
- {
-  "date": "2021-03-26T01:42:45.001Z",
-  "site": "ServiceNow Community",
-  "category": "YouTube",
-  "title": "Business Critical Application Services using CMDB Query Builder",
-  "link": "https://www.youtube.com/watch?v=-WRLC3u5Eow",
-  "author": ""
  },
  {
   "date": "2021-03-25T21:45:24.001Z",
@@ -797,6 +805,14 @@
   "category": "YouTube",
   "title": "​​Prever Incidentes com AIOps​ - Health Log Analytics​",
   "link": "https://www.youtube.com/watch?v=zCFePMAHFYM",
+  "author": ""
+ },
+ {
+  "date": "2021-03-19T01:30:28.001Z",
+  "site": "ServiceNow Community",
+  "category": "YouTube",
+  "title": "Operações Modernas​",
+  "link": "https://www.youtube.com/watch?v=ZCN3J7DM0XM",
   "author": ""
  },
  {
@@ -2120,6 +2136,30 @@
   "author": "Ashley"
  },
  {
+  "date": "2021-03-09T00:47:40.001Z",
+  "site": "ServiceNowNinjas",
+  "category": "Blog",
+  "title": "Part 31: Understand Data Broker Transforms",
+  "link": "https://servicenowninjas.blog/uib_advance/part-31-understand-data-broker-transforms/?utm_source=rss&utm_medium=rss&utm_campaign=part-31-understand-data-broker-transforms",
+  "author": "Milap Shah,Akash Rajput"
+ },
+ {
+  "date": "2021-03-08T22:37:45.001Z",
+  "site": "ServiceNowNinjas",
+  "category": "Blog",
+  "title": "Part 30: Add Pagination to EVAM Data Set",
+  "link": "https://servicenowninjas.blog/uib_advance/part-30-add-pagination-to-evam-data-set/?utm_source=rss&utm_medium=rss&utm_campaign=part-30-add-pagination-to-evam-data-set",
+  "author": "Milap Shah,Akash Rajput"
+ },
+ {
+  "date": "2021-03-08T21:35:17.001Z",
+  "site": "ServiceNowNinjas",
+  "category": "Blog",
+  "title": "Part 29: Add Navigation to your EVAM component Items",
+  "link": "https://servicenowninjas.blog/uib_advance/part-29-add-navigation-to-your-evam-component-items/?utm_source=rss&utm_medium=rss&utm_campaign=part-29-add-navigation-to-your-evam-component-items",
+  "author": "Milap Shah,Akash Rajput"
+ },
+ {
   "date": "2021-03-08T21:30:09.001Z",
   "site": "SAASWITHSERVICENOW",
   "category": "YouTube",
@@ -2134,6 +2174,14 @@
   "title": "#4 What is Flow Action in ServiceNow | Actions in Flow Designer | ServiceNow Flow Designer Training",
   "link": "https://www.youtube.com/watch?v=LrLwhtgBKZA",
   "author": "Gaurav Tripathi"
+ },
+ {
+  "date": "2021-03-08T19:53:52.001Z",
+  "site": "ServiceNowNinjas",
+  "category": "Blog",
+  "title": "Part 28: Understand EVAM template",
+  "link": "https://servicenowninjas.blog/uib_advance/part-28-understand-evam-template/?utm_source=rss&utm_medium=rss&utm_campaign=part-28-understand-evam-template",
+  "author": "Milap Shah,Akash Rajput"
  },
  {
   "date": "2021-03-08T18:28:42.000Z",
@@ -2262,6 +2310,30 @@
   "title": "Top 5 Features in the Quebec Release",
   "link": "https://serviceportal.io/top-five-features-in-quebec/",
   "author": "Nathan Firth"
+ },
+ {
+  "date": "2021-03-08T01:35:06.001Z",
+  "site": "ServiceNowNinjas",
+  "category": "Blog",
+  "title": "Part 27: Create EVAM Component in UIB",
+  "link": "https://servicenowninjas.blog/uib_advance/part-27-create-evam-component-in-uib/?utm_source=rss&utm_medium=rss&utm_campaign=part-27-create-evam-component-in-uib",
+  "author": "Milap Shah,Akash Rajput"
+ },
+ {
+  "date": "2021-03-08T00:07:25.001Z",
+  "site": "ServiceNowNinjas",
+  "category": "Blog",
+  "title": "Part 26. EVAM Component template",
+  "link": "https://servicenowninjas.blog/uib_advance/evam-component-template/?utm_source=rss&utm_medium=rss&utm_campaign=evam-component-template",
+  "author": "Milap Shah,Akash Rajput"
+ },
+ {
+  "date": "2021-03-07T23:48:49.001Z",
+  "site": "ServiceNowNinjas",
+  "category": "Blog",
+  "title": "Part 25: Create catalog homepage using EVAM component",
+  "link": "https://servicenowninjas.blog/uib_advance/part-25-create-catalog-homepage-using-evam-component/?utm_source=rss&utm_medium=rss&utm_campaign=part-25-create-catalog-homepage-using-evam-component",
+  "author": "Milap Shah,Akash Rajput"
  },
  {
   "date": "2021-03-07T21:20:00.000Z",
@@ -2510,6 +2582,22 @@
   "title": "Decoding Chrome Extensions for ServiceNow",
   "author": "Vishal Ingle",
   "link": "https://community.servicenow.com/community?id=community_article&sys_id=68f7cc08db7a6450d5c4d9d968961961"
+ },
+ {
+  "date": "2021-03-04T17:58:29.001Z",
+  "site": "ServiceNowNinjas",
+  "category": "Blog",
+  "title": "Part 24: Refresh comments data broker",
+  "link": "https://servicenowninjas.blog/uib_basic/refresh-comments-data-broker/?utm_source=rss&utm_medium=rss&utm_campaign=refresh-comments-data-broker",
+  "author": "Milap Shah,Akash Rajput"
+ },
+ {
+  "date": "2021-03-04T17:56:46.001Z",
+  "site": "ServiceNowNinjas",
+  "category": "Blog",
+  "title": "Part 23: Add data broker to save comments",
+  "link": "https://servicenowninjas.blog/uib_basic/add-data-broker-to-save-comments/?utm_source=rss&utm_medium=rss&utm_campaign=add-data-broker-to-save-comments",
+  "author": "Milap Shah,Akash Rajput"
  },
  {
   "date": "2021-03-04T17:29:46.000Z",
@@ -29872,6 +29960,14 @@
   "author": "Jace Benson"
  },
  {
+  "date": "2018-04-06T11:48:07.001Z",
+  "site": "www.snc-blog.com",
+  "category": "Blog",
+  "title": "Migrating knowledge articles from one ServiceNow instance to another",
+  "link": "https://www.snc-blog.com/2018/04/06/migrating-knowledge-articles-from-one-servicenow-instance-to-another/",
+  "author": ""
+ },
+ {
   "date": "2018-04-05T01:25:56.001Z",
   "site": "jace.pro",
   "category": "Blog",
@@ -30008,6 +30104,14 @@
   "author": ""
  },
  {
+  "date": "2018-03-13T10:03:46.001Z",
+  "site": "www.snc-blog.com",
+  "category": "Blog",
+  "title": "TOTP (Time based One Time Password)",
+  "link": "https://www.snc-blog.com/2018/03/13/totp-time-based-one-time-password/",
+  "author": ""
+ },
+ {
   "date": "2018-02-28T16:50:26.001Z",
   "site": "ServicePortal.io",
   "category": "YouTube",
@@ -30069,6 +30173,14 @@
   "category": "YouTube",
   "title": "Order Guide Service Portal Widget in Kingston release of ServiceNow.",
   "link": "https://www.youtube.com/watch?v=9WOp1TELXxs",
+  "author": ""
+ },
+ {
+  "date": "2018-01-18T08:59:54.001Z",
+  "site": "www.snc-blog.com",
+  "category": "Blog",
+  "title": "The getRefRecord dilemma",
+  "link": "https://www.snc-blog.com/2018/01/18/the-getrefrecord-dilemma/",
   "author": ""
  },
  {
@@ -30184,6 +30296,14 @@
   "author": "Jace Benson"
  },
  {
+  "date": "2017-12-07T09:58:49.001Z",
+  "site": "www.snc-blog.com",
+  "category": "Blog",
+  "title": "Current in Advanced Reference Qualifiers",
+  "link": "https://www.snc-blog.com/2017/12/07/current-in-advanced-reference-qualifiers/",
+  "author": ""
+ },
+ {
   "date": "2017-12-06T21:54:59.001Z",
   "site": "ServiceNow TechBytes Podcast",
   "category": "Podcast",
@@ -30232,6 +30352,14 @@
   "link": "https://community.servicenow.com/community?id=community_video&sys_id=3f474535db989fc09c9ffb651f9619cf"
  },
  {
+  "date": "2017-11-16T07:44:26.001Z",
+  "site": "www.snc-blog.com",
+  "category": "Blog",
+  "title": "Capture the template being used in record chosen from the template bar",
+  "link": "https://www.snc-blog.com/2017/11/16/capture-the-template-being-used-in-record-chosen-from-the-template-bar/",
+  "author": ""
+ },
+ {
   "date": "2017-11-11T01:25:56.001Z",
   "site": "jace.pro",
   "category": "Blog",
@@ -30270,6 +30398,14 @@
   "title": "Discovery Credential Affinity issue",
   "link": "https://jace.pro/post/2017-11-01-discovery-affinity-issue/",
   "author": "Jace Benson"
+ },
+ {
+  "date": "2017-10-30T12:45:20.001Z",
+  "site": "www.snc-blog.com",
+  "category": "Blog",
+  "title": "Knock, knock who is there?",
+  "link": "https://www.snc-blog.com/2017/10/30/knock-knock-who-is-there/",
+  "author": ""
  },
  {
   "date": "2017-10-29T01:25:56.001Z",
@@ -30318,6 +30454,14 @@
   "title": "Things to do with your PDI",
   "link": "https://jace.pro/post/2017-10-24-pdi/",
   "author": "Jace Benson"
+ },
+ {
+  "date": "2017-10-19T13:22:56.001Z",
+  "site": "www.snc-blog.com",
+  "category": "Blog",
+  "title": "How to ‘Show XML’ – the not so annoying way",
+  "link": "https://www.snc-blog.com/2017/10/19/how-to-show-xml-the-not-so-annoying-way/",
+  "author": ""
  },
  {
   "date": "2017-10-18T01:25:56.001Z",
@@ -30680,12 +30824,36 @@
   "author": "Steve Miller"
  },
  {
+  "date": "2017-06-22T09:25:14.001Z",
+  "site": "www.snc-blog.com",
+  "category": "Blog",
+  "title": "Organizing (a lot of) code with a controller pattern",
+  "link": "https://www.snc-blog.com/2017/06/22/organizing-a-lot-of-code-with-a-controller-pattern/",
+  "author": ""
+ },
+ {
   "date": "2017-06-21T14:08:20.000Z",
   "site": "ServiceNow Videos",
   "category": "Video",
   "title": "Customer Service Management Enhancements Coming in Jakarta Knowledge 17 Keynote",
   "author": "Lisa Latour",
   "link": "https://community.servicenow.com/community?id=community_video&sys_id=c647c135db989fc09c9ffb651f96190e"
+ },
+ {
+  "date": "2017-06-13T12:46:17.001Z",
+  "site": "www.snc-blog.com",
+  "category": "Blog",
+  "title": "LDAPS via MID Server",
+  "link": "https://www.snc-blog.com/2017/06/13/ldaps-via-mid-server/",
+  "author": ""
+ },
+ {
+  "date": "2017-06-08T08:18:17.001Z",
+  "site": "www.snc-blog.com",
+  "category": "Blog",
+  "title": "Creating a pop-up using a GlideDialogWindow",
+  "link": "https://www.snc-blog.com/2017/06/08/creating-a-pop-up-using-a-glidedialogwindow/",
+  "author": ""
  },
  {
   "date": "2017-06-01T02:51:00.001Z",
@@ -31342,14 +31510,6 @@
   "title": "4 Reasons You’re Not Ready For Service Portal",
   "link": "https://codecreative.io/blog/4-reasons-youre-not-ready-for-service-portal/",
   "author": "Travis Toulson"
- },
- {
-  "date": "2016-05-24T02:03:53.001Z",
-  "site": "sncdevelopment.com",
-  "category": "Blog",
-  "title": "PLANNING A SERVICENOW CONTENT MANAGEMENT (CMS)",
-  "link": "https://sncdevelopment.com/2016/05/23/planning-building-and-testing-your-new-servicenow-cms-part-1/",
-  "author": "James Naphen"
  },
  {
   "date": "2016-05-18T00:30:27.000Z",
