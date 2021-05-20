@@ -1,6 +1,19 @@
 module.exports = {
     sources :
     [
+	{
+		"title": "Trying to make ServiceNow behave",
+		"type": "Blog",
+		"url": "https://www.power-soft.ro/wp/feed/",
+		"authors": ["Szentpáli János"],
+		"speedlifyUrl": "https://www.power-soft.ro/wp/"
+	},
+        {
+            "title": "Einar and Partners",
+            "type": "YouTube",
+            "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGga04whLYNJ6_6pKHXGSRw",
+            "authors": ["Einar"]
+        },
         {
             "title":"SN Noida Meetup",
             "type":"Blog",
@@ -655,6 +668,12 @@ module.exports = {
             "title": "ServiceNowNinjas",
             "type": "Blog",
             "url": "https://servicenowninjas.blog/feed/",
+            "authors": ["Milap Shah", "Akash Rajput"]
+        },
+        {
+            "title": "ServiceNowNinjas",
+            "type": "YouTube",
+            "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUcSZ_vOznewziw4Rhyl6jw",
             "authors": ["Milap Shah", "Akash Rajput"]
         }
     ]
