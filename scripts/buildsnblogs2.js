@@ -1,11 +1,11 @@
 module.exports = {
-    build: function (callbackFinal) {
+    build: function (file, callbackFinal) {
 
         console.log('starting buildsnblogs2');
         var http = require("https");
         var fs = require("fs");
         var outputArr = [];
-        let feedPath = "./feeds.json"
+        let feedPath  = file;
         // get count to start...
         var getNowArticles = function (start, callback) {
             if (!start) {
