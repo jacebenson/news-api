@@ -2,25 +2,24 @@ module.exports = {
     sources :
     [
 {
-"title": "Snowballs",
-"type": "Blog",
-"url": "https://www.snowballs.rocks/blog-feed.xml",
-"authors": ["Jeff Pierce"]
-},
-
-	{
-		"title": "Laten We Praten",
-		"type": "Podcast",
-		"url": "https://feeds.buzzsprout.com/1729384.rss",
-		"authors": ["Dhruv Gupta","Ashutosh Munot"]
-},
-       {
+"title": "",
+"type": "Podcast",
+"authors": ["Ashutosh Munot", "Dhruv Gupta"],
+"url": "       {
                 "title": "Trying to make ServiceNow behave",
                 "type": "Blog",
                 "url": "https://www.power-soft.ro/wp/feed/",
                 "authors": ["Szentpáli János"],
                 "speedlifyUrl": "https://www.power-soft.ro/wp/"
-        },        {
+        },
+	{
+		"title": "Trying to make ServiceNow behave",
+		"type": "Blog",
+		"url": "https://www.power-soft.ro/wp/feed/",
+		"authors": ["Szentpáli János"],
+		"speedlifyUrl": "https://www.power-soft.ro/wp/"
+	},
+        {
             "title": "Einar and Partners",
             "type": "YouTube",
             "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGga04whLYNJ6_6pKHXGSRw",
